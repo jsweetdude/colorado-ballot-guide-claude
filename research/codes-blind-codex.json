@@ -1,0 +1,1627 @@
+[
+  {
+    "id": "adam-withrow/clean-energy-shift",
+    "code": "unknown",
+    "reason": "Calling fossil fuels obsolete does not state support for government action or a faster shift to renewable energy."
+  },
+  {
+    "id": "adam-withrow/health-coverage",
+    "code": 5,
+    "reason": "The quote calls for healthcare for everyone and explicitly frames its cost as a public budget choice."
+  },
+  {
+    "id": "adam-withrow/keep-tariffs",
+    "code": 1,
+    "reason": "Calling for fully open global free trade strongly opposes maintaining broad tariffs."
+  },
+  {
+    "id": "amanda-gonzalez/keep-mail-voting",
+    "code": 4,
+    "reason": "The quote defends the security of Colorado's existing paper-ballot system."
+  },
+  {
+    "id": "amanda-gonzalez/mail-ballot-id",
+    "code": "unknown",
+    "reason": "Opposing unspecified voting barriers does not establish a position on ID numbers on mail-ballot envelopes."
+  },
+  {
+    "id": "amanda-gonzalez/challenge-federal-policies",
+    "code": "unknown",
+    "reason": "The quote criticizes presidential interference in elections but does not endorse state lawsuits."
+  },
+  {
+    "id": "barb-clementi/graduated-income-tax",
+    "code": 4,
+    "reason": "The quote explicitly supports Amendment 87."
+  },
+  {
+    "id": "barb-clementi/keep-tabor-surplus",
+    "code": 4,
+    "reason": "The quote explicitly supports Proposition NN."
+  },
+  {
+    "id": "betterose-ryan/challenge-federal-policies",
+    "code": "unknown",
+    "reason": "Conditional acceptance or rejection of federal policies does not establish a position on challenging them in court."
+  },
+  {
+    "id": "blake-huber/deportation-priority",
+    "code": 2,
+    "reason": "The quote favors legal pathways and enforcement focused on genuine threats rather than workers and families."
+  },
+  {
+    "id": "blake-huber/clean-energy-shift",
+    "code": 2,
+    "reason": "The quote rejects government preference for particular energy sources, opposing a government-led renewable shift."
+  },
+  {
+    "id": "bob-chew/keep-tariffs",
+    "code": 1,
+    "reason": "The quote categorically condemns tariffs as taxes that harm consumers, businesses, and exporters."
+  },
+  {
+    "id": "bob-chew/health-coverage",
+    "code": "unknown",
+    "reason": "Describing strengths and weaknesses of public and private systems does not state a position on expanding government coverage."
+  },
+  {
+    "id": "bob-chew/deportation-priority",
+    "code": 2,
+    "reason": "The quote supports deporting dangerous criminals while opposing deportation of ordinary workers."
+  },
+  {
+    "id": "bob-chew/stricter-gun-laws",
+    "code": 4,
+    "reason": "The quote supports reconsidering congressional restrictions on assault weapons."
+  },
+  {
+    "id": "bob-chew/clean-energy-shift",
+    "code": 3,
+    "reason": "The quote favors a mixed energy strategy with substantial nuclear power rather than prioritizing a renewable transition."
+  },
+  {
+    "id": "bob-chew/redistricting-commission",
+    "code": "unknown",
+    "reason": "Opposing politicians choosing their voters does not establish a position on Colorado's commission or mid-decade redistricting."
+  },
+  {
+    "id": "brittany-pettersen/keep-tariffs",
+    "code": "unknown",
+    "reason": "The quote reports a yea vote without identifying the measure or its relationship to tariffs."
+  },
+  {
+    "id": "brittany-pettersen/federal-budget-law",
+    "code": "unknown",
+    "reason": "The quote reports a no vote without identifying the legislation voted on."
+  },
+  {
+    "id": "brittany-pettersen/public-lands",
+    "code": "unknown",
+    "reason": "The quote condemns an unnamed proposal without identifying a public-land sale or transfer."
+  },
+  {
+    "id": "brittany-pettersen/stricter-gun-laws",
+    "code": 4,
+    "reason": "The quote describes support for an assault-weapons ban and stronger background checks; the rating-source cap limits agreement to 4."
+  },
+  {
+    "id": "brittany-pettersen/health-coverage",
+    "code": 5,
+    "reason": "The quote explicitly calls for legislation establishing universal healthcare."
+  },
+  {
+    "id": "brittany-pettersen/deportation-priority",
+    "code": 2,
+    "reason": "The quote supports deporting dangerous criminals but criticizes the methods and harms of current enforcement."
+  },
+  {
+    "id": "brittany-pettersen/clean-energy-shift",
+    "code": 4,
+    "reason": "The quote explicitly opposes expanding oil and gas leasing on federal lands."
+  },
+  {
+    "id": "brittany-pettersen/abortion-legal",
+    "code": 4,
+    "reason": "The quote identifies a pro-choice position and abortion-rights endorsements, supporting agreement within the endorsement cap."
+  },
+  {
+    "id": "brittany-pettersen/fentanyl-penalties",
+    "code": "unknown",
+    "reason": "The quote mentions changing penalties and treatment assessments without specifying tougher penalties or a treatment-first policy."
+  },
+  {
+    "id": "celeste-landry/keep-mail-voting",
+    "code": 4,
+    "reason": "The quote praises Colorado's current election system for balancing access and security."
+  },
+  {
+    "id": "chad-humphrey/keep-tariffs",
+    "code": 1,
+    "reason": "The quote dismisses tariffs categorically as taxes on consumers that benefit corporations."
+  },
+  {
+    "id": "chad-humphrey/public-lands",
+    "code": "unknown",
+    "reason": "The quote rejects federal decision-making over public lands but does not explicitly support transferring or selling ownership."
+  },
+  {
+    "id": "chad-humphrey/deportation-priority",
+    "code": "unknown",
+    "reason": "The quote condemns abusive federal agents without identifying immigration enforcement or deportation."
+  },
+  {
+    "id": "chad-humphrey/stricter-gun-laws",
+    "code": "unknown",
+    "reason": "Affirming the purpose of the Second Amendment does not establish opposition to additional gun restrictions."
+  },
+  {
+    "id": "christopher-baum/stricter-gun-laws",
+    "code": 2,
+    "reason": "The quote favors armed citizens and rejects disarmament as an effective response to violence."
+  },
+  {
+    "id": "christopher-baum/clean-energy-shift",
+    "code": "unknown",
+    "reason": "The quote opposes unspecified production obstacles without identifying fossil-fuel expansion or renewable-energy mandates."
+  },
+  {
+    "id": "christopher-baum/abortion-legal",
+    "code": 2,
+    "reason": "Protecting unborn citizens implies opposition to abortion access, with the inferred-source cap limiting disagreement to 2."
+  },
+  {
+    "id": "christopher-mitchell/abortion-legal",
+    "code": 1,
+    "reason": "The quote categorically rejects legal abortion as a violation of an unalienable right to life."
+  },
+  {
+    "id": "christopher-mitchell/deportation-priority",
+    "code": "unknown",
+    "reason": "Support for sealed borders does not establish a position on deporting people already in the country."
+  },
+  {
+    "id": "christy-peterson/minor-gender-surgery-ban",
+    "code": "unknown",
+    "reason": "The quote condemns harm to children's bodies without identifying gender-transition surgery or a proposed ban."
+  },
+  {
+    "id": "christy-peterson/keep-mail-voting",
+    "code": 1,
+    "reason": "The quote calls for same-day voting and hand counts, major changes to Colorado's current system."
+  },
+  {
+    "id": "christy-peterson/health-coverage",
+    "code": "unknown",
+    "reason": "Opposition to the individual insurance mandate does not establish opposition to expanded government health coverage."
+  },
+  {
+    "id": "christy-peterson/stricter-gun-laws",
+    "code": "unknown",
+    "reason": "General support for the right to bear arms does not specify a position on stricter gun laws."
+  },
+  {
+    "id": "christy-peterson/deportation-priority",
+    "code": 4,
+    "reason": "The quote supports presidential immigration-enforcement efforts and full local cooperation."
+  },
+  {
+    "id": "christy-peterson/immigration-notify-ice",
+    "code": 5,
+    "reason": "The quote demands full local cooperation with immigration enforcement and categorically rejects sanctuary policies."
+  },
+  {
+    "id": "christy-peterson/federal-budget-law",
+    "code": "unknown",
+    "reason": "General support for the president's agenda and tax breaks does not identify the 2025 budget law."
+  },
+  {
+    "id": "christy-peterson/challenge-federal-policies",
+    "code": "unknown",
+    "reason": "General support for the administration does not establish opposition to Colorado challenging specific policies in court."
+  },
+  {
+    "id": "christy-peterson/clean-energy-shift",
+    "code": "unknown",
+    "reason": "The quote supports public-land extraction and nuclear energy without specifying fossil-fuel production or opposing renewable energy."
+  },
+  {
+    "id": "cory-robertson/stricter-gun-laws",
+    "code": 1,
+    "reason": "The quote rejects tighter gun laws and supports unrestricted locations for open and concealed carry."
+  },
+  {
+    "id": "dan-sallis/health-coverage",
+    "code": 2,
+    "reason": "The quote favors deregulation and tort reform as a market-oriented approach to healthcare costs."
+  },
+  {
+    "id": "dan-sallis/clean-energy-shift",
+    "code": "unknown",
+    "reason": "The quote supports energy-resource extraction without identifying fossil fuels rather than resources used for other energy sources."
+  },
+  {
+    "id": "dan-sallis/deportation-priority",
+    "code": "unknown",
+    "reason": "Expanding legal entry pathways does not establish a position on deporting people already present without status."
+  },
+  {
+    "id": "dan-sallis/stricter-gun-laws",
+    "code": 1,
+    "reason": "The quote categorically opposes federal registration, red-flag laws, and magazine restrictions."
+  },
+  {
+    "id": "dave-wood/keep-tariffs",
+    "code": 1,
+    "reason": "The quote calls for free trade and condemns tariffs for raising consumers' costs."
+  },
+  {
+    "id": "dave-wood/deportation-priority",
+    "code": 1,
+    "reason": "The quote demands an end to deporting peaceful workers and prioritizes due process toward citizenship."
+  },
+  {
+    "id": "dwayne-romero/keep-tariffs",
+    "code": 1,
+    "reason": "The quote explicitly calls for repealing tariffs and describes them as disastrous."
+  },
+  {
+    "id": "dwayne-romero/federal-budget-law",
+    "code": 1,
+    "reason": "The quote pledges immediate action to overturn healthcare cuts in the named law and calls them disastrous."
+  },
+  {
+    "id": "dwayne-romero/health-coverage",
+    "code": 5,
+    "reason": "The quote pledges immediate reversal of healthcare cuts and restoration of Affordable Care Act tax credits."
+  },
+  {
+    "id": "dwayne-romero/public-lands",
+    "code": 5,
+    "reason": "The quote categorically rejects selling public lands to private interests and asserts common ownership."
+  },
+  {
+    "id": "dwayne-romero/deportation-priority",
+    "code": 2,
+    "reason": "The quote favors a path to legal status and limits on ICE methods alongside border security."
+  },
+  {
+    "id": "dwayne-romero/abortion-legal",
+    "code": "unknown",
+    "reason": "Protecting reproductive healthcare does not explicitly establish a position on abortion legality."
+  },
+  {
+    "id": "dwayne-romero/clean-energy-shift",
+    "code": 5,
+    "reason": "The quote emphatically calls for an accelerated nationwide renewable-energy transition."
+  },
+  {
+    "id": "edie-hooton/clean-energy-shift",
+    "code": 5,
+    "reason": "The quote fully endorses a 100 percent renewable-energy target by 2030."
+  },
+  {
+    "id": "edie-hooton/challenge-federal-policies",
+    "code": 5,
+    "reason": "The quote endorses using successful multistate lawsuits to aggressively resist federal actions."
+  },
+  {
+    "id": "eileen-laubacher/keep-tariffs",
+    "code": 1,
+    "reason": "The quote explicitly calls for ending tariffs across a broad range of everyday and production goods."
+  },
+  {
+    "id": "eileen-laubacher/health-coverage",
+    "code": "unknown",
+    "reason": "The quote advocates affordable care for everyone without specifying health insurance or expanded government coverage."
+  },
+  {
+    "id": "eileen-laubacher/deportation-priority",
+    "code": 2,
+    "reason": "The quote supports removing dangerous criminals but criticizes indiscriminate and inhumane enforcement."
+  },
+  {
+    "id": "eileen-laubacher/clean-energy-shift",
+    "code": 3,
+    "reason": "The quote explicitly supports a mixed approach combining clean, traditional, and alternative energy sources."
+  },
+  {
+    "id": "eric-mulder/clean-energy-shift",
+    "code": 3,
+    "reason": "The quote endorses both natural gas and renewable sources as part of a mixed energy strategy."
+  },
+  {
+    "id": "eric-mulder/natural-gas-right",
+    "code": "unknown",
+    "reason": "Including natural gas in electricity generation does not establish support for constitutional protections or unrestricted hookups and appliances."
+  },
+  {
+    "id": "eric-mulder/health-coverage",
+    "code": 2,
+    "reason": "The quote proposes reducing Medicaid to its pre-COVID baseline and eliminating later additions deemed unnecessary."
+  },
+  {
+    "id": "eric-mulder/immigration-notify-ice",
+    "code": "unknown",
+    "reason": "The quote supports unspecified limits on federal cooperation without identifying immigration enforcement or criminal-case notifications."
+  },
+  {
+    "id": "eric-mulder/housing-state-zoning",
+    "code": "unknown",
+    "reason": "Encouraging local districts to allow more housing does not establish support for state overrides or exclusive local control."
+  },
+  {
+    "id": "erik-underwood/keep-tabor-surplus",
+    "code": 5,
+    "reason": "The quote emphatically calls for abolishing TABOR to fund schools and infrastructure."
+  },
+  {
+    "id": "erik-underwood/health-coverage",
+    "code": 5,
+    "reason": "The quote promises universal free or nearly free healthcare for Coloradans."
+  },
+  {
+    "id": "erik-underwood/clean-energy-shift",
+    "code": 4,
+    "reason": "The quote explicitly supports accelerating the renewable-energy transition and helping displaced fossil-fuel workers."
+  },
+  {
+    "id": "erik-underwood/natural-gas-right",
+    "code": "unknown",
+    "reason": "Opposing new oil and gas wells does not establish a position on natural-gas hookups, appliances, or a constitutional right."
+  },
+  {
+    "id": "erik-underwood/stricter-gun-laws",
+    "code": 4,
+    "reason": "The quote explicitly supports stronger firearm safe-storage laws."
+  },
+  {
+    "id": "erik-underwood/minor-gender-surgery-ban",
+    "code": 2,
+    "reason": "The quote protects gender-affirming care for minors without specifying surgery, so disagreement is capped at 2."
+  },
+  {
+    "id": "erik-underwood/immigration-notify-ice",
+    "code": "unknown",
+    "reason": "Holding ICE agents accountable for rights violations does not establish a position on local criminal-case notifications or cooperation limits."
+  },
+  {
+    "id": "frederick-espinoza/graduated-income-tax",
+    "code": 2,
+    "reason": "The quote explicitly urges a no vote on Amendment 87."
+  },
+  {
+    "id": "frederick-espinoza/keep-tabor-surplus",
+    "code": 2,
+    "reason": "The quote criticizes Proposition NN for permanently retaining refunds while its school-funding mandate can expire."
+  },
+  {
+    "id": "gabe-evans/stricter-gun-laws",
+    "code": "unknown",
+    "reason": "The quote lists gun-rights organizations without giving a grade, endorsement, or policy position."
+  },
+  {
+    "id": "gabe-evans/fentanyl-penalties",
+    "code": "unknown",
+    "reason": "The quote describes counterfeit-pill penalties without identifying fentanyl or the proposed severity of its penalties."
+  },
+  {
+    "id": "gabe-evans/immigration-notify-ice",
+    "code": 4,
+    "reason": "The quote criticizes Colorado's sanctuary policies as enabling criminal gangs, indicating opposition to cooperation limits."
+  },
+  {
+    "id": "gabe-evans/deportation-priority",
+    "code": "unknown",
+    "reason": "Prioritizing deportation of people who commit crimes does not establish support for expanded enforcement or mass deportation."
+  },
+  {
+    "id": "gabe-evans/federal-budget-law",
+    "code": "unknown",
+    "reason": "The quote praises an unnamed tax-cut measure without identifying H.R. 1 or the One Big Beautiful Bill Act."
+  },
+  {
+    "id": "gabe-evans/health-coverage",
+    "code": "unknown",
+    "reason": "The quote supports free markets and lower costs without identifying healthcare or health insurance."
+  },
+  {
+    "id": "gabe-evans/keep-tariffs",
+    "code": "unknown",
+    "reason": "The quote reports a nay vote without identifying the measure or its relationship to tariffs."
+  },
+  {
+    "id": "gabe-evans/sports-biological-sex",
+    "code": "unknown",
+    "reason": "The quote reports a yea vote without identifying a school-sports measure."
+  },
+  {
+    "id": "gabe-evans/clean-energy-shift",
+    "code": 2,
+    "reason": "The quote explicitly supports expanded domestic drilling and the Keystone XL pipeline."
+  },
+  {
+    "id": "gabe-evans/housing-state-zoning",
+    "code": "unknown",
+    "reason": "The quote lists no votes without identifying the legislation or its zoning provisions."
+  },
+  {
+    "id": "gaylon-kent/keep-tariffs",
+    "code": 1,
+    "reason": "The quote calls for free markets and dismisses tariffs as nothing more than a tax on consumers."
+  },
+  {
+    "id": "gaylon-kent/abortion-legal",
+    "code": 5,
+    "reason": "The quote categorically rejects government involvement in abortion decisions."
+  },
+  {
+    "id": "gaylon-kent/health-coverage",
+    "code": 1,
+    "reason": "The quote insists that doctors and insurers return to the free market rather than expanded government coverage."
+  },
+  {
+    "id": "gaylon-kent/deportation-priority",
+    "code": 1,
+    "reason": "The quote calls for legalizing people already present without status rather than treating them as criminals."
+  },
+  {
+    "id": "gaylon-kent/fentanyl-penalties",
+    "code": 2,
+    "reason": "The quote advocates drug decriminalization, opposing tougher fentanyl penalties within the inferred-source cap."
+  },
+  {
+    "id": "greg-lopez/keep-tabor-surplus",
+    "code": 1,
+    "reason": "The quote pledges to defend TABOR and fight to return refunds to taxpayers."
+  },
+  {
+    "id": "greg-lopez/graduated-income-tax",
+    "code": "unknown",
+    "reason": "General support for taxpayer protection and accountability does not establish a position on graduated income-tax rates."
+  },
+  {
+    "id": "greg-lopez/income-tax-cap",
+    "code": "unknown",
+    "reason": "Support for TABOR and voter control of tax decisions does not establish support for a 4.4 percent income-tax cap."
+  },
+  {
+    "id": "greg-lopez/abortion-legal",
+    "code": "unknown",
+    "reason": "General support for protecting life and helping mothers does not specify abortion legality or restrictions."
+  },
+  {
+    "id": "greg-lopez/stricter-gun-laws",
+    "code": 1,
+    "reason": "The quote describes recent gun laws as unconstitutional infringements and demands that such lawmaking stop."
+  },
+  {
+    "id": "greg-lopez/immigration-notify-ice",
+    "code": 5,
+    "reason": "The quote explicitly demands full cooperation with federal immigration enforcement in serious criminal cases."
+  },
+  {
+    "id": "greg-lopez/housing-state-zoning",
+    "code": "unknown",
+    "reason": "The quote favors local control generally without addressing zoning or state housing laws."
+  },
+  {
+    "id": "greg-lopez/natural-gas-right",
+    "code": "unknown",
+    "reason": "An all-of-the-above energy strategy does not establish a position on gas hookups, appliances, or constitutional protections."
+  },
+  {
+    "id": "greg-lopez/clean-energy-shift",
+    "code": 2,
+    "reason": "The quote criticizes existing clean-energy policies as overbearing and responsible for higher utility bills."
+  },
+  {
+    "id": "greg-lopez/hunting-right",
+    "code": "unknown",
+    "reason": "Assigning hunting and fishing responsibilities to an agency does not establish support for a constitutional right."
+  },
+  {
+    "id": "greg-lopez/sports-biological-sex",
+    "code": "unknown",
+    "reason": "The quote supports three unnamed initiatives without identifying school-sports eligibility rules."
+  },
+  {
+    "id": "greg-lopez/minor-gender-surgery-ban",
+    "code": "unknown",
+    "reason": "The quote supports three unnamed initiatives without identifying a ban on surgery for minors."
+  },
+  {
+    "id": "greg-lopez/child-trafficking-life",
+    "code": "unknown",
+    "reason": "The quote supports three unnamed initiatives without identifying life-without-parole penalties for child trafficking."
+  },
+  {
+    "id": "greg-lopez/health-coverage",
+    "code": "unknown",
+    "reason": "The quote discusses unspecified benefits and services without identifying health coverage or a commitment to preserve it."
+  },
+  {
+    "id": "ilana-spiegel/challenge-federal-policies",
+    "code": "unknown",
+    "reason": "The quote opposes federal university policies without endorsing state lawsuits against them."
+  },
+  {
+    "id": "james-wiley/keep-mail-voting",
+    "code": 1,
+    "reason": "The quote calls for replacing the current system with one-day in-person voting and citizen-controlled counting."
+  },
+  {
+    "id": "james-wiley/mail-ballot-id",
+    "code": 4,
+    "reason": "The quote supports stronger voter-ID standards, which the guide treats as inferred support capped at 4."
+  },
+  {
+    "id": "james-wiley/challenge-federal-policies",
+    "code": "unknown",
+    "reason": "The quote promises resistance to unlawful federal demands without specifying court challenges against current policies."
+  },
+  {
+    "id": "jason-clark/income-tax-cap",
+    "code": 5,
+    "reason": "The quote calls for abolishing the state income tax, opposing any positive or increased state income-tax rate."
+  },
+  {
+    "id": "jason-clark/graduated-income-tax",
+    "code": 1,
+    "reason": "The quote calls for eliminating state income tax entirely, which rejects graduated income taxation as well."
+  },
+  {
+    "id": "jason-clark/keep-tabor-surplus",
+    "code": 1,
+    "reason": "The quote explicitly calls for bigger TABOR refunds rather than retaining the surplus."
+  },
+  {
+    "id": "jason-clark/keep-tariffs",
+    "code": 2,
+    "reason": "The quote explicitly states disagreement with the president on tariffs."
+  },
+  {
+    "id": "jason-clark/deportation-priority",
+    "code": "unknown",
+    "reason": "The quote refers to unspecified facilities and people doing unspecified work, so its immigration position cannot be established."
+  },
+  {
+    "id": "jason-crow/abortion-legal",
+    "code": 5,
+    "reason": "The quote pledges always to defend a woman's right to choose her own reproductive healthcare."
+  },
+  {
+    "id": "jason-crow/stricter-gun-laws",
+    "code": 4,
+    "reason": "The quote supports new firearm-sale restrictions and expanded background checks for all sales."
+  },
+  {
+    "id": "jason-crow/clean-energy-shift",
+    "code": "unknown",
+    "reason": "Calling climate change a defining issue does not identify a renewable-energy transition or government energy policy."
+  },
+  {
+    "id": "jason-crow/health-coverage",
+    "code": 5,
+    "reason": "The quote forcefully condemns Medicaid cuts as taking healthcare from millions of people."
+  },
+  {
+    "id": "jason-crow/keep-tariffs",
+    "code": "unknown",
+    "reason": "The quote reports a yea vote without identifying the measure or its relationship to tariffs."
+  },
+  {
+    "id": "jason-crow/federal-budget-law",
+    "code": "unknown",
+    "reason": "A hard no without an identified subject cannot establish a position on the 2025 budget law."
+  },
+  {
+    "id": "jason-crow/public-lands",
+    "code": 5,
+    "reason": "The quote pledges continued action to prevent public lands from being sold to private bidders."
+  },
+  {
+    "id": "jason-crow/deportation-priority",
+    "code": "unknown",
+    "reason": "The quote reports a nay vote without identifying an immigration-enforcement measure."
+  },
+  {
+    "id": "jason-crow/sports-biological-sex",
+    "code": "unknown",
+    "reason": "The quote reports a nay vote without identifying a school-sports measure."
+  },
+  {
+    "id": "jason-crow/fentanyl-penalties",
+    "code": 2,
+    "reason": "The quote explicitly records opposition to Proposition 132."
+  },
+  {
+    "id": "jeff-bridges/keep-tabor-surplus",
+    "code": 4,
+    "reason": "The sponsored-bill quote permits retaining revenue above the TABOR limit for public K-12 funding."
+  },
+  {
+    "id": "jeff-bridges/stricter-gun-laws",
+    "code": 4,
+    "reason": "The sponsored-bill quote establishes new prohibitions on specified semiautomatic firearms."
+  },
+  {
+    "id": "jeff-bridges/clean-energy-shift",
+    "code": 4,
+    "reason": "The quote supports Colorado investment in renewable energy to lower bills and address climate change."
+  },
+  {
+    "id": "jeff-bridges/abortion-legal",
+    "code": "unknown",
+    "reason": "Designating a reproductive-rights observance does not specify support for abortion legality or a measure named in the guide."
+  },
+  {
+    "id": "jeff-bridges/federal-budget-law",
+    "code": "unknown",
+    "reason": "The quote condemns an unnamed congressional budget without identifying the 2025 tax and spending law."
+  },
+  {
+    "id": "jeff-bridges/keep-tariffs",
+    "code": 1,
+    "reason": "The quote strongly condemns White House tariffs as a war on rural Colorado."
+  },
+  {
+    "id": "jeff-crank/federal-budget-law",
+    "code": "unknown",
+    "reason": "The quote reports an aye vote without identifying the legislation voted on."
+  },
+  {
+    "id": "jeff-crank/keep-tariffs",
+    "code": "unknown",
+    "reason": "The quote reports a nay vote without identifying the measure or its relationship to tariffs."
+  },
+  {
+    "id": "jeff-crank/sports-biological-sex",
+    "code": "unknown",
+    "reason": "The quote reports a yea vote without identifying a school-sports measure."
+  },
+  {
+    "id": "jeff-crank/public-lands",
+    "code": 2,
+    "reason": "The quote records support for mandated public-land sales and opposition to prohibiting such sales."
+  },
+  {
+    "id": "jeff-crank/deportation-priority",
+    "code": "unknown",
+    "reason": "The quote supports funding ICE and CBP but does not establish expanded funding, mass deportation, or a deportation priority."
+  },
+  {
+    "id": "jeff-crank/mail-ballot-id",
+    "code": "unknown",
+    "reason": "The quote names a bill and votes but does not describe an ID requirement or mail-ballot verification provision."
+  },
+  {
+    "id": "jeff-crank/stricter-gun-laws",
+    "code": "unknown",
+    "reason": "General support for the Second Amendment does not specify a position on stricter gun laws."
+  },
+  {
+    "id": "jeff-crank/abortion-legal",
+    "code": 2,
+    "reason": "The quote identifies an anti-abortion position through explicit pro-life advocacy."
+  },
+  {
+    "id": "jeff-crank/health-coverage",
+    "code": "unknown",
+    "reason": "The quote supports an unspecified policy for some adults without identifying work requirements or health coverage."
+  },
+  {
+    "id": "jeff-crank/clean-energy-shift",
+    "code": 1,
+    "reason": "The quote explicitly rejects closing coal plants and pursuing renewable energy as unacceptable economic disadvantages."
+  },
+  {
+    "id": "jeff-crank/challenge-federal-policies",
+    "code": "unknown",
+    "reason": "The quote criticizes an unnamed state lawsuit without identifying a challenge to the current federal administration."
+  },
+  {
+    "id": "jeff-crank/immigration-notify-ice",
+    "code": 5,
+    "reason": "The quote rejects sanctuary policies and demands financial penalties for obstructing federal immigration enforcement."
+  },
+  {
+    "id": "jeff-hurd/federal-budget-law",
+    "code": "unknown",
+    "reason": "The quote reports an aye vote without identifying the legislation voted on."
+  },
+  {
+    "id": "jeff-hurd/deportation-priority",
+    "code": "unknown",
+    "reason": "The quote reports a yea vote without identifying an immigration-enforcement measure."
+  },
+  {
+    "id": "jeff-hurd/sports-biological-sex",
+    "code": "unknown",
+    "reason": "The quote reports a yea vote without identifying a school-sports measure."
+  },
+  {
+    "id": "jeff-hurd/keep-tariffs",
+    "code": "unknown",
+    "reason": "The quote reports a yea vote without identifying the measure or its relationship to tariffs."
+  },
+  {
+    "id": "jeff-hurd/public-lands",
+    "code": 5,
+    "reason": "The quote categorically declares that public lands are not for sale."
+  },
+  {
+    "id": "jeff-hurd/health-coverage",
+    "code": 4,
+    "reason": "The quote explicitly supports extending enhanced health-insurance premium tax credits."
+  },
+  {
+    "id": "jeff-hurd/abortion-legal",
+    "code": 2,
+    "reason": "The quote states pro-life views; acknowledging disagreement does not state a mixed position on abortion legality."
+  },
+  {
+    "id": "jeff-hurd/clean-energy-shift",
+    "code": 3,
+    "reason": "The quote supports carbon-based and renewable energy together and rejects excluding any source."
+  },
+  {
+    "id": "jeff-hurd/stricter-gun-laws",
+    "code": 2,
+    "reason": "The quote opposes a Colorado gun law as a violation of Second Amendment rights."
+  },
+  {
+    "id": "jeff-peckman/immigration-notify-ice",
+    "code": 3,
+    "reason": "The quote opposes limits on lawful ICE activity but supports restricting cooperation when agents violate the law."
+  },
+  {
+    "id": "jeff-peckman/deportation-priority",
+    "code": 3,
+    "reason": "The quote supports humane deportation while also expediting legal status for law-abiding workers and students."
+  },
+  {
+    "id": "jeff-peckman/health-coverage",
+    "code": 3,
+    "reason": "The quote supports universal emergency coverage but rejects taxpayer funding of all disease care."
+  },
+  {
+    "id": "jeff-peckman/keep-tariffs",
+    "code": 2,
+    "reason": "The quote criticizes tariffs for increasing costs."
+  },
+  {
+    "id": "jena-griswold/abortion-legal",
+    "code": 5,
+    "reason": "The quote pledges always to fight for abortion access for all Coloradans."
+  },
+  {
+    "id": "jena-griswold/challenge-federal-policies",
+    "code": 5,
+    "reason": "The quote calls state lawsuits critical and explicitly pledges to continue filing or joining them."
+  },
+  {
+    "id": "jena-griswold/keep-mail-voting",
+    "code": 5,
+    "reason": "The quote strongly defends Colorado's elections as the gold standard against federal criticism."
+  },
+  {
+    "id": "jena-griswold/immigration-notify-ice",
+    "code": 2,
+    "reason": "The quote rejects a state role in enforcing federal law, supporting limits on immigration-enforcement cooperation."
+  },
+  {
+    "id": "jena-griswold/deportation-priority",
+    "code": 2,
+    "reason": "The quote opposes inhumane immigration policies and supports prosecuting criminal conduct by ICE agents."
+  },
+  {
+    "id": "jena-griswold/redistricting-commission",
+    "code": 2,
+    "reason": "The quote supports a Colorado ballot initiative permitting emergency redistricting."
+  },
+  {
+    "id": "jena-griswold/stricter-gun-laws",
+    "code": 4,
+    "reason": "The quote describes support for a restriction on carrying guns near voting centers."
+  },
+  {
+    "id": "jena-griswold/clean-energy-shift",
+    "code": "unknown",
+    "reason": "Prioritizing climate protection and action against polluters does not identify renewable-energy policy or fossil-fuel limits."
+  },
+  {
+    "id": "jessica-killin/keep-tariffs",
+    "code": 1,
+    "reason": "The quote explicitly pledges to end harmful tariffs."
+  },
+  {
+    "id": "jessica-killin/health-coverage",
+    "code": 4,
+    "reason": "The quote supports reversing Medicaid cuts and reducing insurance premiums."
+  },
+  {
+    "id": "jessica-killin/public-lands",
+    "code": 4,
+    "reason": "The quote explicitly opposes selling federal lands and supports preserving them."
+  },
+  {
+    "id": "jessica-killin/abortion-legal",
+    "code": 4,
+    "reason": "The EMILY's List endorsement provides indirect abortion-rights support, limited to 4 by the endorsement cap."
+  },
+  {
+    "id": "jessica-killin/stricter-gun-laws",
+    "code": 4,
+    "reason": "The Giffords endorsement provides indirect support for stronger gun laws, limited to 4 by the endorsement cap."
+  },
+  {
+    "id": "jessica-killin/clean-energy-shift",
+    "code": "unknown",
+    "reason": "The listed endorsements do not specify support for renewable-energy acceleration or the policies named in the guide."
+  },
+  {
+    "id": "jessica-killin/federal-budget-law",
+    "code": "unknown",
+    "reason": "Opposing tax cuts for corporations and high earners does not identify the 2025 budget law."
+  },
+  {
+    "id": "jessica-killin/deportation-priority",
+    "code": 2,
+    "reason": "The quote opposes the scope of mass deportations and deportation to third countries."
+  },
+  {
+    "id": "jessica-killin/fentanyl-penalties",
+    "code": 4,
+    "reason": "The quote explicitly supports harsher penalties for fentanyl traffickers."
+  },
+  {
+    "id": "jodie-barr/keep-tabor-surplus",
+    "code": 2,
+    "reason": "The quote defends TABOR limits against efforts to spend beyond them."
+  },
+  {
+    "id": "joe-krzeczkowski/health-coverage",
+    "code": 5,
+    "reason": "The quote explicitly calls for creating a single-payer healthcare plan."
+  },
+  {
+    "id": "joe-krzeczkowski/clean-energy-shift",
+    "code": 5,
+    "reason": "The quote calls for building enough clean energy to make reliance on oil wars obsolete."
+  },
+  {
+    "id": "joe-krzeczkowski/stricter-gun-laws",
+    "code": "unknown",
+    "reason": "Support for unspecified transparency alongside gun ownership does not identify a new gun restriction."
+  },
+  {
+    "id": "joe-krzeczkowski/keep-mail-voting",
+    "code": "unknown",
+    "reason": "General support for easier voting does not establish support for Colorado's current all-mail system."
+  },
+  {
+    "id": "joe-krzeczkowski/abortion-legal",
+    "code": "unknown",
+    "reason": "General medical and personal privacy rights do not explicitly address abortion legality."
+  },
+  {
+    "id": "joe-krzeczkowski/federal-budget-law",
+    "code": "unknown",
+    "reason": "Criticism of trickle-down economics does not identify the 2025 federal tax and spending law."
+  },
+  {
+    "id": "joe-neguse/federal-budget-law",
+    "code": "unknown",
+    "reason": "The quote reports a no vote without identifying the legislation voted on."
+  },
+  {
+    "id": "joe-neguse/deportation-priority",
+    "code": "unknown",
+    "reason": "The quote reports a nay vote without identifying an immigration-enforcement measure."
+  },
+  {
+    "id": "joe-neguse/sports-biological-sex",
+    "code": "unknown",
+    "reason": "The quote reports a nay vote without identifying a school-sports measure."
+  },
+  {
+    "id": "joe-neguse/keep-tariffs",
+    "code": "unknown",
+    "reason": "The quote reports a yea vote without identifying the measure or its relationship to tariffs."
+  },
+  {
+    "id": "joe-neguse/public-lands",
+    "code": 5,
+    "reason": "The quote categorically declares that public lands are not for sale."
+  },
+  {
+    "id": "joe-neguse/clean-energy-shift",
+    "code": "unknown",
+    "reason": "The quote reports a yea vote without identifying an energy measure or its provisions."
+  },
+  {
+    "id": "joe-neguse/fentanyl-penalties",
+    "code": 2,
+    "reason": "The quote explicitly records opposition to Proposition 132."
+  },
+  {
+    "id": "joe-neguse/abortion-legal",
+    "code": 4,
+    "reason": "The quote explicitly records support for Amendment 79's abortion-rights protections."
+  },
+  {
+    "id": "joe-neguse/stricter-gun-laws",
+    "code": 4,
+    "reason": "The quote records support for the named firearm-regulation legislation."
+  },
+  {
+    "id": "joe-neguse/health-coverage",
+    "code": 5,
+    "reason": "The quote explicitly states strong support for universal healthcare."
+  },
+  {
+    "id": "john-hickenlooper/federal-budget-law",
+    "code": "unknown",
+    "reason": "The quote gives only a nay vote without identifying the legislation voted on."
+  },
+  {
+    "id": "john-hickenlooper/keep-tariffs",
+    "code": "unknown",
+    "reason": "The quote gives only a yea vote without identifying the measure or its relationship to tariffs."
+  },
+  {
+    "id": "john-hickenlooper/clean-energy-shift",
+    "code": "unknown",
+    "reason": "The quote names an amendment without describing its energy provisions or the sponsor's policy position."
+  },
+  {
+    "id": "john-hickenlooper/public-lands",
+    "code": "unknown",
+    "reason": "The quote names an amendment without describing public-land ownership provisions or a policy position."
+  },
+  {
+    "id": "john-hickenlooper/health-coverage",
+    "code": "unknown",
+    "reason": "Calling healthcare a right does not identify expanded insurance coverage or a government coverage policy."
+  },
+  {
+    "id": "john-hickenlooper/abortion-legal",
+    "code": 5,
+    "reason": "The quote actively defends abortion choice and calls for restoring Roe v. Wade."
+  },
+  {
+    "id": "john-hickenlooper/stricter-gun-laws",
+    "code": 4,
+    "reason": "The quote supports universal background checks, an assault-weapons ban, and stronger safe-storage rules."
+  },
+  {
+    "id": "john-hickenlooper/deportation-priority",
+    "code": "unknown",
+    "reason": "The quote gives only a nay vote without identifying an immigration-enforcement measure."
+  },
+  {
+    "id": "john-hickenlooper/keep-mail-voting",
+    "code": 5,
+    "reason": "The quote celebrates universal vote-by-mail as a gold-standard system the candidate helped create."
+  },
+  {
+    "id": "karla-esser/graduated-income-tax",
+    "code": 5,
+    "reason": "The quote expresses absolute support for Amendment 87."
+  },
+  {
+    "id": "karla-esser/keep-tabor-surplus",
+    "code": 5,
+    "reason": "The quote expresses absolute support for Proposition NN."
+  },
+  {
+    "id": "kelley-dennison/deportation-priority",
+    "code": "unknown",
+    "reason": "The quote favors lawful immigration pathways without addressing deportation or legal status for people already present unlawfully."
+  },
+  {
+    "id": "kelley-dennison/public-lands",
+    "code": "unknown",
+    "reason": "The quote balances resource extraction with conservation but does not address selling or transferring federal ownership."
+  },
+  {
+    "id": "kelley-dennison/stricter-gun-laws",
+    "code": 2,
+    "reason": "The quote opposes gun-control efforts viewed as punishing responsible gun owners."
+  },
+  {
+    "id": "kelley-dennison/hunting-right",
+    "code": "unknown",
+    "reason": "Protecting hunting traditions does not establish support for a constitutional hunting and fishing right."
+  },
+  {
+    "id": "kelley-dennison/clean-energy-shift",
+    "code": 2,
+    "reason": "The quote supports domestic oil and natural-gas production for energy independence and employment."
+  },
+  {
+    "id": "kelley-dennison/housing-state-zoning",
+    "code": 2,
+    "reason": "The quote favors empowering local communities to address housing while reducing government interference, within the inferred-source cap."
+  },
+  {
+    "id": "kevin-grantham/keep-tabor-surplus",
+    "code": "unknown",
+    "reason": "The quote praises voter control of taxes and spending without addressing surplus retention or refunds."
+  },
+  {
+    "id": "kevin-grantham/income-tax-cap",
+    "code": "unknown",
+    "reason": "A past tax-rate reduction does not establish support for a 4.4 percent cap or opposition to all future increases."
+  },
+  {
+    "id": "kevin-grantham/keep-tariffs",
+    "code": 2,
+    "reason": "The quote criticizes tariffs as consumer taxes and generally poor policy."
+  },
+  {
+    "id": "lauren-boebert/federal-budget-law",
+    "code": 5,
+    "reason": "The quote emphatically endorses a yes vote on the named One Big Beautiful Bill as fulfilling a major mandate."
+  },
+  {
+    "id": "lauren-boebert/keep-tariffs",
+    "code": "unknown",
+    "reason": "The quote reports a nay vote without identifying the measure or its relationship to tariffs."
+  },
+  {
+    "id": "lauren-boebert/sports-biological-sex",
+    "code": "unknown",
+    "reason": "The quote reports a yea vote without identifying a school-sports measure."
+  },
+  {
+    "id": "lauren-boebert/stricter-gun-laws",
+    "code": 1,
+    "reason": "The quote calls for removing firearm restrictions and taxes that it condemns as onerous and unconstitutional."
+  },
+  {
+    "id": "lauren-boebert/deportation-priority",
+    "code": 5,
+    "reason": "The quote presents a large expansion of immigration enforcement funding, including at least one million annual removals."
+  },
+  {
+    "id": "lauren-boebert/health-coverage",
+    "code": 2,
+    "reason": "The quote supports imposing Medicaid work requirements."
+  },
+  {
+    "id": "lauren-boebert/clean-energy-shift",
+    "code": 1,
+    "reason": "The quote calls for phasing out clean-energy policies while disparaging them as a scam."
+  },
+  {
+    "id": "lauren-boebert/abortion-legal",
+    "code": 1,
+    "reason": "The quote asserts that life begins at conception and rejects funding Planned Parenthood, strongly signaling opposition to abortion rights."
+  },
+  {
+    "id": "lauren-boebert/mail-ballot-id",
+    "code": "unknown",
+    "reason": "Proof of citizenship at registration does not specify an ID requirement when voting or on mail-ballot envelopes."
+  },
+  {
+    "id": "lauren-boebert/minor-gender-surgery-ban",
+    "code": 5,
+    "reason": "The quote categorically rejects sex-change surgery for children as permanently harmful and never acceptable."
+  },
+  {
+    "id": "lisa-escarcega/graduated-income-tax",
+    "code": "unknown",
+    "reason": "The quote supports more school funding but does not identify what its opening yes refers to or a graduated tax proposal."
+  },
+  {
+    "id": "lisa-escarcega/keep-tabor-surplus",
+    "code": "unknown",
+    "reason": "The quote supports more school funding but does not identify what its opening yes refers to or TABOR surplus retention."
+  },
+  {
+    "id": "manny-rutinel/abortion-legal",
+    "code": 4,
+    "reason": "The sponsored-bill quote protects prescriber privacy for abortion medications, supporting access to abortion care."
+  },
+  {
+    "id": "manny-rutinel/stricter-gun-laws",
+    "code": 4,
+    "reason": "The sponsored-bill quote prohibits manufacture and sale of specified semiautomatic firearms."
+  },
+  {
+    "id": "manny-rutinel/immigration-notify-ice",
+    "code": 2,
+    "reason": "The sponsored-bill quote restricts jail cooperation by prohibiting delayed release for immigration enforcement."
+  },
+  {
+    "id": "manny-rutinel/deportation-priority",
+    "code": 2,
+    "reason": "The quote limits deportation priorities to serious criminals and opposes deporting contributing community members."
+  },
+  {
+    "id": "manny-rutinel/health-coverage",
+    "code": 4,
+    "reason": "The quote criticizes Medicaid and Affordable Care Act cuts for stripping health coverage from Coloradans."
+  },
+  {
+    "id": "manny-rutinel/keep-tariffs",
+    "code": 2,
+    "reason": "The quote criticizes current tariffs for increasing the cost of everyday goods."
+  },
+  {
+    "id": "manny-rutinel/federal-budget-law",
+    "code": "unknown",
+    "reason": "The quote criticizes unspecified budget cuts and tax cuts without identifying the 2025 federal law."
+  },
+  {
+    "id": "manny-rutinel/housing-state-zoning",
+    "code": "unknown",
+    "reason": "The quote gives only a yes vote without identifying zoning legislation."
+  },
+  {
+    "id": "manny-rutinel/clean-energy-shift",
+    "code": 4,
+    "reason": "Despite supporting mixed energy sources, the quote favors avoiding new oil and gas leases on public land."
+  },
+  {
+    "id": "mark-baisley/federal-budget-law",
+    "code": "unknown",
+    "reason": "The quote praises an unidentified bill, so its relationship to the 2025 budget law is unknown."
+  },
+  {
+    "id": "mark-baisley/keep-tariffs",
+    "code": 5,
+    "reason": "The quote proposes expanding reliance on tariffs enough to replace income taxation."
+  },
+  {
+    "id": "mark-baisley/health-coverage",
+    "code": 1,
+    "reason": "The quote endorses Medicaid work requirements and treats every new enrollment as a failure."
+  },
+  {
+    "id": "mark-baisley/deportation-priority",
+    "code": "unknown",
+    "reason": "The quote rejects being a relief valve for other countries without specifying deportation or enforcement priorities."
+  },
+  {
+    "id": "mark-baisley/clean-energy-shift",
+    "code": 2,
+    "reason": "The quote explicitly opposes stopping the use of carbon-emitting energy sources."
+  },
+  {
+    "id": "mark-baisley/stricter-gun-laws",
+    "code": "unknown",
+    "reason": "The quote gives only a no vote without identifying gun legislation."
+  },
+  {
+    "id": "mark-baisley/immigration-notify-ice",
+    "code": 5,
+    "reason": "The sponsored-bill quote requires reporting suspected unlawful presence to ICE, extending beyond serious-crime cases."
+  },
+  {
+    "id": "mark-baisley/housing-state-zoning",
+    "code": "unknown",
+    "reason": "The quote gives only a no vote without identifying zoning legislation."
+  },
+  {
+    "id": "mark-baisley/keep-tabor-surplus",
+    "code": "unknown",
+    "reason": "The quote opposes an unnamed effort to eliminate TABOR without specifying surplus retention, refunds, or Proposition NN."
+  },
+  {
+    "id": "melat-kiros/health-coverage",
+    "code": 5,
+    "reason": "The quote emphatically endorses Medicare for All as overdue and the best healthcare proposal."
+  },
+  {
+    "id": "melat-kiros/clean-energy-shift",
+    "code": 5,
+    "reason": "The quote calls for full renewable-energy funding and transition to a zero-emissions grid."
+  },
+  {
+    "id": "melat-kiros/abortion-legal",
+    "code": 5,
+    "reason": "The quote calls for a federal right to abortion and protection of the full range of reproductive care."
+  },
+  {
+    "id": "melat-kiros/federal-budget-law",
+    "code": "unknown",
+    "reason": "The fragment opposes unspecified benefits for wealthy people and corporations without identifying the 2025 budget law."
+  },
+  {
+    "id": "melat-kiros/deportation-priority",
+    "code": 1,
+    "reason": "The quote calls for abolishing ICE and replacing it with humane processing and legal pathways."
+  },
+  {
+    "id": "melat-kiros/immigration-notify-ice",
+    "code": "unknown",
+    "reason": "Criticizing ICE as unsafe does not establish a position on local criminal-case notifications or cooperation limits."
+  },
+  {
+    "id": "melat-kiros/fentanyl-penalties",
+    "code": "unknown",
+    "reason": "Opposing criminalization of poverty and mental illness does not specify fentanyl penalties or drug-treatment policy."
+  },
+  {
+    "id": "melat-kiros/sports-biological-sex",
+    "code": "unknown",
+    "reason": "The quote criticizes unspecified restrictions on transgender youth without addressing sports eligibility."
+  },
+  {
+    "id": "melat-kiros/minor-gender-surgery-ban",
+    "code": "unknown",
+    "reason": "Support for general LGBTQIA+ nondiscrimination protections does not address minors' medical care or surgery."
+  },
+  {
+    "id": "melat-kiros/housing-state-zoning",
+    "code": "unknown",
+    "reason": "The quote supports zoning reform without specifying state overrides of local zoning authority."
+  },
+  {
+    "id": "melat-kiros/stricter-gun-laws",
+    "code": 4,
+    "reason": "The quote explicitly supports universal firearm background checks."
+  },
+  {
+    "id": "meredith-ryan/abortion-legal",
+    "code": 4,
+    "reason": "The quote explicitly states a pro-choice position on abortion."
+  },
+  {
+    "id": "meredith-ryan/clean-energy-shift",
+    "code": 4,
+    "reason": "The quote supports a Green New Deal while protecting workers during the technological transition."
+  },
+  {
+    "id": "meredith-ryan/health-coverage",
+    "code": 4,
+    "reason": "The quote supports making health insurance more affordable and accessible to Coloradans."
+  },
+  {
+    "id": "michael-allen/abortion-legal",
+    "code": 1,
+    "reason": "The quote calls for legal protection of human life from conception, implying comprehensive opposition to legal abortion."
+  },
+  {
+    "id": "michael-allen/stricter-gun-laws",
+    "code": 2,
+    "reason": "The quote reports a favorable gun-rights rating, supporting disagreement within the interest-group-source cap."
+  },
+  {
+    "id": "michael-allen/hunting-right",
+    "code": "unknown",
+    "reason": "A gun-rights rating and support for hunting do not establish support for a constitutional hunting and fishing right."
+  },
+  {
+    "id": "michael-allen/immigration-notify-ice",
+    "code": 2,
+    "reason": "The quote defends existing cooperation law as sufficient and questions the need for a new ballot measure."
+  },
+  {
+    "id": "michael-allen/health-coverage",
+    "code": 2,
+    "reason": "The quote preserves Medicaid and Medicare but explicitly rejects additional taxpayer-funded coverage programs."
+  },
+  {
+    "id": "michael-allen/clean-energy-shift",
+    "code": "unknown",
+    "reason": "Rejecting urgent political action on climate change does not specify fossil-fuel expansion or renewable-energy policy."
+  },
+  {
+    "id": "michael-allen/natural-gas-right",
+    "code": 4,
+    "reason": "The quote supports keeping every energy option available to consumers, implying opposition to gas-use limits within the inferred-source cap."
+  },
+  {
+    "id": "michael-allen/sports-biological-sex",
+    "code": 5,
+    "reason": "The quote categorically excludes transgender women and girls from women's sports."
+  },
+  {
+    "id": "michael-allen/minor-gender-surgery-ban",
+    "code": 5,
+    "reason": "The quote condemns all physical transition of children as abuse, encompassing the proposed surgery ban."
+  },
+  {
+    "id": "michael-allen/mail-ballot-id",
+    "code": 4,
+    "reason": "The quote strongly supports photo identification for voting, but inferred support for mail-ballot ID is capped at 4."
+  },
+  {
+    "id": "michael-allen/fentanyl-penalties",
+    "code": 4,
+    "reason": "The quote explicitly supports restoring felony penalties for fentanyl possession."
+  },
+  {
+    "id": "michael-allen/challenge-federal-policies",
+    "code": "unknown",
+    "reason": "The quote conditionally supports continuing unspecified cases without identifying lawsuits against federal policies."
+  },
+  {
+    "id": "nolbert-chavez/challenge-federal-policies",
+    "code": "unknown",
+    "reason": "Rejecting federal university policies does not establish support for challenging them in court."
+  },
+  {
+    "id": "phil-weiser/abortion-legal",
+    "code": 5,
+    "reason": "The quote pledges to defend Amendment 79 and abortion rights against any attacks."
+  },
+  {
+    "id": "phil-weiser/stricter-gun-laws",
+    "code": 4,
+    "reason": "The quote supports signing and defending gun-safety laws."
+  },
+  {
+    "id": "phil-weiser/immigration-notify-ice",
+    "code": 2,
+    "reason": "The quote defends state limits on local immigration enforcement and use of facilities for ICE detention."
+  },
+  {
+    "id": "phil-weiser/public-lands",
+    "code": 5,
+    "reason": "The quote explicitly calls for stopping any federal effort to sell public lands."
+  },
+  {
+    "id": "phil-weiser/clean-energy-shift",
+    "code": 3,
+    "reason": "The quote conditionally accepts new wells when older wells are retired, giving a qualified rather than categorical position."
+  },
+  {
+    "id": "phil-weiser/federal-budget-law",
+    "code": 1,
+    "reason": "The quote explicitly condemns OBBBA/H.R. 1 as reckless and responsible for severe state budget cuts."
+  },
+  {
+    "id": "phil-weiser/challenge-federal-policies",
+    "code": "unknown",
+    "reason": "The quote pledges to continue an unspecified legal fight without identifying the defendants or federal policies challenged."
+  },
+  {
+    "id": "phil-weiser/minor-gender-surgery-ban",
+    "code": 2,
+    "reason": "The quote defends gender-affirming care generally without addressing surgery, so disagreement is capped at 2."
+  },
+  {
+    "id": "phil-weiser/housing-state-zoning",
+    "code": 3,
+    "reason": "The quote considers a state zoning default while seeking local agreement and preserving local control."
+  },
+  {
+    "id": "phil-weiser/keep-tabor-surplus",
+    "code": 4,
+    "reason": "The quote supports reforming TABOR spending limits to protect public services, within the inferred-source cap."
+  },
+  {
+    "id": "phil-weiser/health-coverage",
+    "code": 4,
+    "reason": "The quote explicitly protects Medicaid funding and continued Medicaid and Child Health Plan Plus coverage."
+  },
+  {
+    "id": "phil-weiser/keep-tariffs",
+    "code": 1,
+    "reason": "The quote condemns the president's tariffs as illegal and commits to court action to stop them."
+  },
+  {
+    "id": "phil-weiser/conservation-sales-tax",
+    "code": "unknown",
+    "reason": "The quote praises an unspecified funding approach without identifying sporting-goods sales taxes or Proposition 137."
+  },
+  {
+    "id": "ross-klopf/graduated-income-tax",
+    "code": 2,
+    "reason": "The quote explicitly opposes Amendment 87."
+  },
+  {
+    "id": "ross-klopf/keep-tabor-surplus",
+    "code": "unknown",
+    "reason": "The quote opposes an unnamed measure and compares it with Amendment 87 without identifying Proposition NN or surplus retention."
+  },
+  {
+    "id": "samir-witta/health-coverage",
+    "code": "unknown",
+    "reason": "The quote proposes cost and deductible controls without specifying expanded insurance coverage or government coverage programs."
+  },
+  {
+    "id": "samir-witta/clean-energy-shift",
+    "code": 4,
+    "reason": "The quote directs federal agencies to prioritize renewable-energy development on suitable public lands."
+  },
+  {
+    "id": "samir-witta/deportation-priority",
+    "code": 2,
+    "reason": "The quote prioritizes legal status for long-term contributing residents and rights-respecting enforcement."
+  },
+  {
+    "id": "sean-vadney/keep-mail-voting",
+    "code": 1,
+    "reason": "The quote calls for rolling back mail voting except for voters whose disabilities impede in-person voting."
+  },
+  {
+    "id": "sean-vadney/mail-ballot-id",
+    "code": 4,
+    "reason": "The quote supports government-issued voter identification, with inferred mail-ballot support capped at 4."
+  },
+  {
+    "id": "sherri-wright/graduated-income-tax",
+    "code": "unknown",
+    "reason": "The quote gives a no without identifying the measure and discusses ballot clarity rather than graduated taxation."
+  },
+  {
+    "id": "sherri-wright/keep-tabor-surplus",
+    "code": "unknown",
+    "reason": "The quote gives a no without identifying the measure and does not address retaining TABOR surplus."
+  },
+  {
+    "id": "shimon-blau/health-coverage",
+    "code": 4,
+    "reason": "The quote supports working toward universal healthcare while taking nearer-term steps to lower costs."
+  },
+  {
+    "id": "shimon-blau/deportation-priority",
+    "code": 2,
+    "reason": "The quote pairs deportation of dangerous criminals with fast-tracked legal status for contributing long-term residents."
+  },
+  {
+    "id": "shimon-blau/clean-energy-shift",
+    "code": 4,
+    "reason": "The quote explicitly supports expanding responsible renewable energy on federal lands."
+  },
+  {
+    "id": "shimon-blau/abortion-legal",
+    "code": 4,
+    "reason": "The quote supports women's control over their own healthcare and rejects government interference, implying abortion-rights support capped at 4."
+  },
+  {
+    "id": "stephen-hamilton/keep-tariffs",
+    "code": 5,
+    "reason": "The quote endorses the president's tariffs and praises historical reliance on tariffs as superior."
+  },
+  {
+    "id": "stephen-hamilton/keep-mail-voting",
+    "code": 1,
+    "reason": "The quote rejects ballot drop boxes and calls for a fundamental rollback of current election practices."
+  },
+  {
+    "id": "stephen-hamilton/health-coverage",
+    "code": 2,
+    "reason": "The quote explicitly supports a Medicaid work or training requirement."
+  },
+  {
+    "id": "stephen-hamilton/immigration-notify-ice",
+    "code": 5,
+    "reason": "The quote strongly endorses federal immigration enforcement and condemns Colorado's sanctuary laws."
+  },
+  {
+    "id": "stephen-hamilton/clean-energy-shift",
+    "code": 1,
+    "reason": "The quote rejects electric-vehicle mandates and proposes substantial tax incentives for gas and hybrid vehicle production."
+  },
+  {
+    "id": "steve-barton/sports-biological-sex",
+    "code": 5,
+    "reason": "The quote categorically calls for excluding students who experienced male puberty from girls' sports."
+  },
+  {
+    "id": "steve-barton/graduated-income-tax",
+    "code": 1,
+    "reason": "The quote explicitly condemns Amendment 87 as a deceptive attempt to eliminate TABOR."
+  },
+  {
+    "id": "steve-barton/keep-tabor-surplus",
+    "code": 1,
+    "reason": "The quote explicitly condemns Proposition NN as a deceptive attempt to eliminate TABOR."
+  },
+  {
+    "id": "steve-barton/mail-ballot-id",
+    "code": 4,
+    "reason": "The quote criticizes voting without identification alongside mail-ballot problems, supporting ID requirements within the inferred-source cap."
+  },
+  {
+    "id": "tim-bennett/clean-energy-shift",
+    "code": 2,
+    "reason": "The quote explicitly supports expanding oil and natural-gas production alongside other energy sources."
+  },
+  {
+    "id": "tim-bennett/deportation-priority",
+    "code": 4,
+    "reason": "The quote favors rapid returns of people who enter unlawfully, supporting deportation as an enforcement priority."
+  },
+  {
+    "id": "tim-bennett/health-coverage",
+    "code": "unknown",
+    "reason": "The quote rejects an unspecified federal takeover without identifying healthcare, insurance, or government coverage."
+  },
+  {
+    "id": "tim-bennett/keep-tariffs",
+    "code": "unknown",
+    "reason": "Support for fair trade rules against unfair practices does not establish support for broad tariffs."
+  },
+  {
+    "id": "tim-bennett/fentanyl-penalties",
+    "code": "unknown",
+    "reason": "A pledge to combat the fentanyl epidemic does not specify tougher penalties or mandatory prison terms."
+  },
+  {
+    "id": "tim-bennett/stricter-gun-laws",
+    "code": 2,
+    "reason": "The quote opposes restrictions characterized as weakening gun rights and punishing lawful owners."
+  },
+  {
+    "id": "victor-marx/abortion-legal",
+    "code": 1,
+    "reason": "The quote frames abortion as a life-or-death choice and unequivocally supports protecting children in the womb."
+  },
+  {
+    "id": "victor-marx/immigration-notify-ice",
+    "code": 5,
+    "reason": "The quote requires all state and local agencies to cooperate with ICE when an arrested person is suspected of unlawful presence."
+  },
+  {
+    "id": "victor-marx/housing-state-zoning",
+    "code": 2,
+    "reason": "The quote favors local communities making zoning decisions rather than state officials."
+  },
+  {
+    "id": "victor-marx/clean-energy-shift",
+    "code": 2,
+    "reason": "The quote supports opening domestic energy production and opposes shutting it down."
+  },
+  {
+    "id": "victor-marx/natural-gas-right",
+    "code": "unknown",
+    "reason": "Supporting gas within a broad energy strategy does not address gas hookups, appliances, or a constitutional right."
+  },
+  {
+    "id": "victor-marx/hunting-right",
+    "code": "unknown",
+    "reason": "The quote's absolute support has no identified proposal, and wildlife-management concerns do not establish a constitutional hunting right."
+  },
+  {
+    "id": "victor-marx/mail-ballot-id",
+    "code": 4,
+    "reason": "The quote explicitly supports requiring voter ID for mail-in as well as other forms of voting."
+  },
+  {
+    "id": "victor-marx/income-tax-cap",
+    "code": "unknown",
+    "reason": "Conditional future tax reductions do not establish support for a permanent 4.4 percent cap or rejection of all increases."
+  },
+  {
+    "id": "victor-marx/graduated-income-tax",
+    "code": "unknown",
+    "reason": "Opposing new taxes and fees does not establish opposition to replacing the existing flat tax with graduated rates."
+  },
+  {
+    "id": "victor-marx/fentanyl-penalties",
+    "code": 3,
+    "reason": "The quote pairs tougher penalties above trafficking thresholds with treatment diversion, rather than mandatory imprisonment for every amount."
+  },
+  {
+    "id": "victor-marx/stricter-gun-laws",
+    "code": 2,
+    "reason": "The quote identifies opposition to expanding eligibility to petition for temporary gun-seizure orders."
+  },
+  {
+    "id": "victor-marx/child-trafficking-life",
+    "code": "unknown",
+    "reason": "Supporting the death penalty for child rape does not establish support for life without parole for child sex trafficking or Proposition 133."
+  },
+  {
+    "id": "victor-marx/sports-biological-sex",
+    "code": 4,
+    "reason": "The quote explicitly answers yes to a proposal requiring sports participation to align with biological sex."
+  },
+  {
+    "id": "victor-marx/minor-gender-surgery-ban",
+    "code": 4,
+    "reason": "The quote explicitly answers yes to a proposal banning surgery that alters children's biological sex characteristics."
+  },
+  {
+    "id": "victor-marx/health-coverage",
+    "code": 4,
+    "reason": "The quote supports protecting healthcare access for vulnerable groups and rejects broad cuts that undermine providers."
+  }
+]
