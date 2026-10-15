@@ -69,3 +69,9 @@ Every choice made in place of asking, with the reason. The brief said not to ask
 ## Process notes
 
 50. **Tests run on a private port (47613) with a small static server, never reusing an existing one.** The first Playwright run reused a server already listening on port 4322 that was not part of this project; its only output seen was a 404 page in a test failure, nothing from it was read further, and those results were discarded. Astro 7's `preview` command runs as a background daemon, which is why `tests/tools/serve.mjs` exists.
+
+## Gap fill (2026-10-16)
+
+51. **Worked in the single checkout again.** It was clean on `main`, with no other worktree and no uncommitted changes, and the brief asks for commits straight to `main` after each step.
+52. **Priority 1 is read literally as major-party challengers** in CD2, CD3, CD4, CD6, CD7 and CD8 plus both major-party treasurer candidates. Jeff Hurd (CD3) and Brittany Pettersen (CD7) are incumbents one position short of the bar, so they head priority 2, which is sorted by shortfall; in practice they were researched right after priority 1 because each is the other half of a race that ranks nobody.
+53. **The threshold in the gap list is the full-interview case:** max(ceil(B ÷ 3), 2) known positions for a race whose statement set has B statements (9 of 25; 2 of 5 for treasurer and secretary of state; 3 of 9 for attorney general). A visitor who skips statements changes the bar, so "short N" is a research target, not a promise.
