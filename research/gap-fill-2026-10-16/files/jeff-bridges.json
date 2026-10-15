@@ -1,0 +1,188 @@
+{
+  "id": "jeff-bridges",
+  "name": "Jeff Bridges",
+  "race": "treasurer",
+  "party": "Democratic Party",
+  "incumbent": false,
+  "profile": "full",
+  "website": "https://bridgesforcolorado.com",
+  "summary": [
+    {
+      "text": "Jeff Bridges is a Colorado state senator representing District 26 (Greenwood Village/Arapahoe County), serving since 2019 after two years in the state House; he is vice-chair of the legislature's Joint Budget Committee and chaired it in 2024 and 2025.",
+      "source_url": "https://coloradosun.com/2026/10/05/jeff-bridges-kevin-grantham-colorado-treasurer-issue-guide/"
+    },
+    {
+      "text": "He is the Democratic nominee for Colorado state treasurer in 2026, having run unopposed in the primary.",
+      "source_url": "https://ballotpedia.org/Jeff_Bridges_(Colorado)"
+    }
+  ],
+  "experience": [
+    {
+      "text": "Master's of Divinity from Harvard University; previously worked for U.S. Senator Ken Salazar and served on the board of Colorado Conservation Voters.",
+      "source_url": "https://ballotpedia.org/Jeff_Bridges_(Colorado)"
+    },
+    {
+      "text": "Colorado House of Representatives, District 3, 2017–2019; Colorado State Senate, District 26, 2019–present.",
+      "source_url": "https://ballotpedia.org/Jeff_Bridges_(Colorado)"
+    }
+  ],
+  "record": [
+    {
+      "kind": "sponsored_bill",
+      "title": "SB26-135, State Public K-12 Education Funding (referred Proposition NN to the ballot)",
+      "date": "2026-03-05",
+      "detail": "Prime sponsor. Refers a ballot question letting the state retain and spend TABOR surplus revenue equal to K-12 education funding; passed the Senate 23-12 and the House 42-21.",
+      "source_url": "https://leg.colorado.gov/bills/sb26-135"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "SB25-003, Semiautomatic Firearms & Rapid-Fire Devices",
+      "date": "2025-01-08",
+      "detail": "Listed sponsor. Prohibits manufacture, distribution, transfer, sale and purchase of specified semiautomatic firearms; Bridges voted Yes on final Senate passage, 19-15, on 2025-02-18.",
+      "source_url": "https://leg.colorado.gov/bills/sb25-003"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "SJR25-004, designating 'Reproductive Rights and Justice Day'",
+      "date": "2025-01-17",
+      "detail": "Co-sponsor of this Senate/House resolution, adopted and signed January 28, 2025.",
+      "source_url": "https://leg.colorado.gov/bills/sjr25-004"
+    },
+    {
+      "kind": "decision",
+      "title": "Voted no on SB18-200 (PERA benefit/contribution overhaul)",
+      "date": "2018-01-01",
+      "detail": "Bridges says in a 2026 interview that he voted no on Senate Bill 200, which cut PERA pension benefits and raised contributions, because he wanted the state to take a larger role in repaying money it had previously taken from PERA during a budget crisis (self-described; exact vote date not given in the source).",
+      "source_url": "https://coloradosun.com/2026/10/05/jeff-bridges-kevin-grantham-colorado-treasurer-issue-guide/"
+    }
+  ],
+  "positions": [
+    {
+      "statement": "keep-tabor-surplus",
+      "value": 5,
+      "source_type": "sponsored_bill",
+      "source_url": "https://leg.colorado.gov/bills/sb26-135",
+      "source_title": "SB26-135, State Public K-12 Education Funding",
+      "date": "2026-03-05",
+      "quote": "allowing the state to retain an amount of state revenue in excess of the limitation on state fiscal year spending equal to state public K-12 education funding",
+      "note": "Bridges is prime sponsor of this bill, which placed Proposition NN on the November 2026 ballot. In an Oct. 5, 2026 Colorado Sun interview he said: 'If that measure does not pass, that is a fight that I will continue through the Office of the Treasury using the bully pulpit.'"
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 5,
+      "source_type": "sponsored_bill",
+      "source_url": "https://leg.colorado.gov/bills/sb25-003",
+      "source_title": "SB25-003, Semiautomatic Firearms & Rapid-Fire Devices",
+      "date": "2025-01-08",
+      "quote": "Concerning prohibited activity involving semiautomatic firearms, and, in connection therewith, prohibiting the manufacture, distribution, transfer, sale, and purchase of specified semiautomatic firearms",
+      "note": "Listed sponsor; also voted Yes on final Senate passage (19-15) on 2025-02-18 per the official Senate roll call."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 4,
+      "source_type": "questionnaire",
+      "source_url": "https://www.coloradopolitics.com/2026/10/02/state-treasurer-grantham-bridges-barr-seek-top-financial-position-3/",
+      "source_title": "State Treasurer | Grantham, Bridges, Barr seek top financial position",
+      "date": "2026-10-02",
+      "quote": "In housing that's affordable, infrastructure that drives our economy, and renewable energy that lowers utility bills and fights global warming to align our Colorado investments with our Colorado values.",
+      "note": "Describes directing state treasury investments toward renewable energy, not a regulatory or mandate position."
+    },
+    {
+      "statement": "abortion-legal",
+      "value": 4,
+      "source_type": "sponsored_bill",
+      "source_url": "https://leg.colorado.gov/bills/sjr25-004",
+      "source_title": "SJR25-004, designating 'Reproductive Rights and Justice Day'",
+      "date": "2025-01-17",
+      "quote": "Concerning the designation of January 22 as \"Reproductive Rights and Justice Day\".",
+      "note": "Co-sponsor (not prime sponsor) of this symbolic resolution."
+    },
+    {
+      "statement": "federal-budget-law",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://www.cohousedems.com/news/joint-release%3A-gop-budget-is-devastating-for-coloradans",
+      "source_title": "Joint release: GOP Budget Is Devastating for Coloradans (Colorado House Democrats)",
+      "date": "2025-05-22",
+      "quote": "While we budget with a scalpel, Congressional Republicans are using a chainsaw. This budget is irresponsible and reckless, and it will hurt Coloradans.",
+      "note": "Statement issued as chair of the Joint Budget Committee after the U.S. House passed the bill in May 2025; it became law in July 2025."
+    }
+  ],
+  "endorsements": [],
+  "finance": null,
+  "sources": [
+    {
+      "title": "Jeff Bridges, Kevin Grantham: Colorado treasurer issue guide",
+      "url": "https://coloradosun.com/2026/10/05/jeff-bridges-kevin-grantham-colorado-treasurer-issue-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "State Treasurer | Grantham, Bridges, Barr seek top financial position",
+      "url": "https://www.coloradopolitics.com/2026/10/02/state-treasurer-grantham-bridges-barr-seek-top-financial-position-3/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Jeff Bridges (Ballotpedia)",
+      "url": "https://ballotpedia.org/Jeff_Bridges_(Colorado)",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "If voters let the Colorado legislature tap into TABOR surplus, tax credits may become much more complicated",
+      "url": "https://www.kunc.org/politics/2026-02-03/if-voters-let-the-colorado-legislature-tap-into-tabor-surplus-tax-credits-may-become-much-more-complicated",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "SB26-135, State Public K-12 Education Funding",
+      "url": "https://leg.colorado.gov/bills/sb26-135",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "SB25-003, Semiautomatic Firearms & Rapid-Fire Devices",
+      "url": "https://leg.colorado.gov/bills/sb25-003",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "SB25-003 Senate Third Reading floor vote, 2025-02-18",
+      "url": "https://leg.colorado.gov/bill_votes/22250",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "SJR25-004, designating 'Reproductive Rights and Justice Day'",
+      "url": "https://leg.colorado.gov/bills/sjr25-004",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Jeff Bridges, Colorado General Assembly legislator page",
+      "url": "https://leg.colorado.gov/legislators/jeff-bridges",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado State Treasurer candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-state-treasurer-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "bridgesforcolorado.com",
+      "url": "https://bridgesforcolorado.com",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Joint release: GOP Budget Is Devastating for Coloradans (Colorado House Democrats)",
+      "url": "https://www.cohousedems.com/news/joint-release%3A-gop-budget-is-devastating-for-coloradans",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "last_checked": "2026-10-15",
+  "research_notes": "Could not find a Bridges statement specifically naming Amendment 87 (graduated income tax) or Proposition 136 (income-tax cap) despite searching news coverage and his campaign/legislative pages, even though the assignment flagged these as expected topics for treasurer candidates — his TABOR-related comments all referenced Proposition NN specifically, not the two income-tax measures. Left as unknown rather than inferred. No positions found on hunting rights, immigration, sports/gender measures, or federal tariffs — plausibly outside the scope of a treasurer campaign, but flagged as unconfirmed gaps. No campaign finance total found in a fetched source, so finance is left null per protocol. Second pass 2026-10-14: checked the Denver Post's Oct. 3, 2026 treasurer candidate Q&A (covers only unclaimed property and PERA, not tax policy) and the Colorado Sun's Amendment 87 and Proposition 136 explainers, neither of which quotes Bridges on state income tax rates; both measures are citizen/advocacy-group initiatives with no legislative referral vote to check. graduated-income-tax and income-tax-cap remain unsourced; no new positions were added. Gap fill 2026-10-15: Added his May 2025 statement on the federal budget bill from the House Democrats' joint release. Still nothing found from him on Amendment 87, Proposition 136 or Proposition 137 (searched the Colorado Sun treasurer guide, the Denver Post treasurer Q&A, the CPR News interview and the Colorado Politics profile).",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 4,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-tabor-surplus": "found",
+      "stricter-gun-laws": "found",
+      "clean-energy-shift": "found",
+      "abortion-legal": "found"
+    }
+  }
+}

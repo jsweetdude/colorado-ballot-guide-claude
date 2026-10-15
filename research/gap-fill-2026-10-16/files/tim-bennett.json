@@ -1,0 +1,162 @@
+{
+  "id": "tim-bennett",
+  "name": "Tim Bennett",
+  "race": "us-house-7",
+  "party": "Republican Party",
+  "incumbent": false,
+  "profile": "full",
+  "website": "https://timbennettforcongress.com",
+  "summary": [
+    {
+      "text": "Tim Bennett, 62, is a retired U.S. Army Lieutenant Colonel and Army Ranger with roughly 30 years of military service, running for U.S. House in Colorado's 7th District as the Republican nominee.",
+      "source_url": "https://www.denverpost.com/2026/10/12/colorado-7th-congressional-district-brittany-pettersen/"
+    },
+    {
+      "text": "He lives in Palmer Lake and is a longtime Colorado resident who has lived in the state since 1973; he is a single father of two.",
+      "source_url": "https://timbennettforcongress.com/meet-tim"
+    },
+    {
+      "text": "He is in his first year on the Lewis-Palmer School District 38 Board of Education, a seat he won in 2025.",
+      "source_url": "https://www.denverpost.com/2026/10/12/colorado-7th-congressional-district-brittany-pettersen/"
+    }
+  ],
+  "experience": [
+    {
+      "text": "Retired Lieutenant Colonel, U.S. Army; Army Ranger; roughly 30 years of military service.",
+      "source_url": "https://timbennettforcongress.com/meet-tim"
+    },
+    {
+      "text": "Member, Lewis-Palmer School District 38 Board of Education, since 2025.",
+      "source_url": "https://www.denverpost.com/2026/10/12/colorado-7th-congressional-district-brittany-pettersen/"
+    },
+    {
+      "text": "Colorado resident since 1973.",
+      "source_url": "https://timbennettforcongress.com/meet-tim"
+    }
+  ],
+  "record": [],
+  "positions": [
+    {
+      "statement": "clean-energy-shift",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://timbennettforcongress.com/platform",
+      "source_title": "Platform - Tim Bennett for Congress",
+      "date": "2026-10-01",
+      "quote": "expanding our nation's energy production, from reliable oil and natural gas to safe nuclear, hydro, geothermal, and practical renewables, feels like common-sense stewardship for the generations ahead",
+      "note": "He frames this as an all-of-the-above approach and separately says he favors 'abundance rather than rigid mandates that drive up costs,' which the statement's coding guide treats as disagreement with clean-energy mandates."
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://timbennettforcongress.com/platform",
+      "source_title": "Platform - Tim Bennett for Congress",
+      "date": "2026-10-01",
+      "quote": "Rapid but humane returns for those who enter unlawfully help restore trust in the process.",
+      "note": "Supports enforcement/removals but qualifies it as 'humane' and pairs it with 'orderly, legal pathways,' hence Agree rather than Strongly agree."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://timbennettforcongress.com/platform",
+      "source_title": "Platform - Tim Bennett for Congress",
+      "date": "2026-10-01",
+      "quote": "By resisting a full federal takeover, we keep decisions closer to the people who know their needs best.",
+      "note": "In the context of a Medicare/Medicaid section favoring price transparency and competition over expanded federal coverage."
+    },
+    {
+      "statement": "keep-tariffs",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://timbennettforcongress.com/platform",
+      "source_title": "Platform - Tim Bennett for Congress",
+      "date": "2026-10-01",
+      "quote": "When we use sensible trade policy to thoughtfully to counter unfair market practices that hurt our nation's workers, we are not turning away from the world; we are simply insisting on fair rules so that honest competition can thrive.",
+      "note": "Inferred: he does not name the 2025-2026 tariffs specifically, but describes using trade policy/tariff-like tools to counter unfair practices, which leans toward supporting the broad-tariffs approach rather than opposing it."
+    },
+    {
+      "statement": "fentanyl-penalties",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://timbennettforcongress.com/platform",
+      "source_title": "Platform - Tim Bennett for Congress",
+      "date": "2026-10-01",
+      "quote": "I'll support law enforcement, first responders, and efforts to combat violent crime and the fentanyl epidemic while ensuring local communities have the flexibility to meet their own needs.",
+      "note": "Inferred: he supports tougher enforcement generally against the 'fentanyl epidemic' but does not specifically address mandatory prison time or felony charges for any amount, as Proposition 132 and the statement contemplate."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://www.ballotready.org/people/tim-bennett-74594ea7-9007-4dfb-bc07-4025fa4d3f2b",
+      "source_title": "Tim Bennett: issue stances (BallotReady)",
+      "date": "2026-10-15",
+      "date_basis": "accessed",
+      "quote": "Tim is a firm defender of the right to keep and bear arms. He believes law-abiding citizens should never be punished for the actions of criminals, and that weakening the Second Amendment only leaves families defenseless, not safer.",
+      "note": "Campaign-written stance text published on BallotReady, which links to his campaign site; the text is not on the site's platform page itself. Coded disagree rather than strongly disagree because no specific law is named."
+    }
+  ],
+  "endorsements": [],
+  "finance": {
+    "raised": 63306,
+    "spent": 61981,
+    "cash_on_hand": 1325,
+    "as_of": "2026-06-30",
+    "source_url": "https://www.fec.gov/data/candidate/H6CO07122/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-06-30)."
+  },
+  "sources": [
+    {
+      "title": "Timothy Bennett - Ballotpedia",
+      "url": "https://ballotpedia.org/Timothy_Bennett",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Tim Bennett for Congress (home)",
+      "url": "https://timbennettforcongress.com",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Meet Tim - Tim Bennett for Congress",
+      "url": "https://timbennettforcongress.com/meet-tim",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Platform - Tim Bennett for Congress",
+      "url": "https://timbennettforcongress.com/platform",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Rep. Brittany Pettersen keeps focus on Trump in reelection bid as GOP challenger derides both parties - The Denver Post",
+      "url": "https://www.denverpost.com/2026/10/12/colorado-7th-congressional-district-brittany-pettersen/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "fec.gov",
+      "url": "https://www.fec.gov/data/candidate/H6CO07122/?cycle=2026&election_full=true",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Tim Bennett: issue stances (BallotReady)",
+      "url": "https://www.ballotready.org/people/tim-bennett-74594ea7-9007-4dfb-bc07-4025fa4d3f2b",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "last_checked": "2026-10-15",
+  "research_notes": "Bennett did not return the Denver Post's 2026 CD-7 candidate questionnaire, but a separate Denver Post profile of the race (10/12/2026) quotes him directly and supplied the school-board district, his age, and residence that his own campaign site omits. In that profile he says he 'takes stances that go against those of many Republicans in Congress, from disavowing the war with Iran to supporting the ability for Medicare to negotiate prescription drug prices' -- neither of which maps cleanly to one of the 25 statements, so neither was coded as a position, but a reviewer may want to note the nuance against the health-coverage coding below (which is based on his platform page's Medicare/Medicaid section favoring market-based approaches over 'a full federal takeover'). Ballotpedia carries only a stub page for him (no completed Candidate Connection survey, no listed endorsements). His campaign site (GoDaddy Website Builder, a single-page app) does not render per-page content under curl for most paths, but /meet-tim and /platform happened to return full pre-rendered text; other paths may contain content not captured here. Neither his site nor the Denver Post coverage addresses abortion, guns, elections/ballot measures, tariffs by name, redistricting, or federal public lands sale/transfer, so no position could be sourced on those for him. The keep-tariffs and fentanyl-penalties codings are inferred (capped at 4) from adjacent but not exact-match language on his platform page; a reviewer should double-check both against any later debate or interview statements. The WebSearch tool hit its session budget cap partway through this race's research; Google News RSS (news.google.com/rss/search) and the Denver Post's own site search recovered the 10/12/2026 profile afterward. Second pass 2026-10-14: re-fetched and re-read /platform in full; confirmed the Denver Post's Oct. 3, 2026 CD-7 Q&A lists him among candidates who did not return the questionnaire. No new statement could be sourced (his housing, water, public-safety, immigration and energy sections do not name abortion, guns, state zoning override, federal land sale/transfer, or any 2026 ballot measure), so no positions were added. Gap fill 2026-10-15: Added a gun position from the campaign's BallotReady stance text. His platform page (read in a browser as well as by script), the Denver Post CD7 profile and search found nothing on abortion, public-land ownership, the federal budget law or the state ballot measures; he did not return the Denver Post questionnaire.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 5,
+    "positions_unverifiable": 0,
+    "detail": {
+      "clean-energy-shift": "found",
+      "deportation-priority": "found",
+      "health-coverage": "found",
+      "keep-tariffs": "found",
+      "fentanyl-penalties": "found"
+    }
+  }
+}

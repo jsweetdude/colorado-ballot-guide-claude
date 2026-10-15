@@ -181,6 +181,16 @@
       "date": "2022-06-01",
       "quote": "Brittany is pro-choice, supported by Planned Parenthood and NARAL, and has been recognized as a champion for reproductive health care nationally.",
       "note": "Page is undated; same campaign issues page as the clean-energy citation, still live on her current site."
+    },
+    {
+      "statement": "fentanyl-penalties",
+      "value": 3,
+      "source_type": "sponsored_bill",
+      "source_url": "https://leg.colorado.gov/bills/hb22-1326",
+      "source_title": "HB22-1326, Fentanyl Accountability And Prevention (Colorado General Assembly)",
+      "date": "2022-05-25",
+      "quote": "changing the criminal penalties associated with synthetic opiates; using a substance abuse assessment to direct appropriate treatment at sentencing",
+      "note": "Pettersen was a Senate prime sponsor. The law changed fentanyl penalties (possession of more than 1 gram of a fentanyl compound became a felony) and paired them with treatment and harm-reduction funding; it kept a 1-gram threshold rather than making any amount a felony, which is what Proposition 132 would do. Coded as mixed. No statement by her on Proposition 132 was found."
     }
   ],
   "endorsements": [
@@ -291,13 +301,18 @@
       "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H8CO07045/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "HB22-1326, Fentanyl Accountability And Prevention (Colorado General Assembly)",
+      "url": "https://leg.colorado.gov/bills/hb22-1326",
+      "accessed": "2026-10-15"
     }
   ],
-  "last_checked": "2026-10-14",
-  "research_notes": "S.5 (Laken Riley Act, 1/22/2025) and H.R. 28 (Protection of Women and Girls in Sports Act, 1/14/2025) both show Pettersen as Not Voting on clerk.house.gov; Wikipedia's 'proxy voting' section explains she had just given birth to her second son and the House had not given her a proxy-voting accommodation, so no position could be sourced from either vote despite both being named in the assignment. No House floor vote occurred on the 2025 BLM land-sale amendment; it was stripped by the Rules Committee before reaching the floor, so public-lands is sourced from news coverage of a joint Democratic statement rather than a vote (clean-energy-shift, a related but distinct statement about oil/gas leasing and drilling, is instead sourced from her answer in the Denver Post's 2026 candidate Q&A, which also covers deportation-priority). No sourced position found for: graduated-income-tax, income-tax-cap, keep-tabor-surplus, conservation-sales-tax, natural-gas-right, housing-state-zoning, sports-biological-sex, minor-gender-surgery-ban, immigration-notify-ice, fentanyl-penalties, child-trafficking-life, hunting-right, mail-ballot-id, plain-language-ballots, redistricting-commission, keep-mail-voting, challenge-federal-policies (reviewer should double check these, especially redistricting-commission given a 2026 Colorado Sun story on a Democratic-aligned mid-decade redistricting push affecting her own district, where no individual Pettersen quote could be found). The abortion-legal quote from brittanypettersen.com/issues comes from an undated page whose content reads as 2022-cycle; reviewer should check whether a more current statement exists. The Denver Post/Daily Camera 2026 candidate Q&A (same article, two URLs) is the single best source for this race: it directly quotes Pettersen and Sallis (the only two who returned the questionnaire) and confirms Tim Bennett, Susan Hall, Lawrence Kyle Clark, and Joe Krzeczkowski did not. The WebSearch tool hit its session budget partway through research; the coordinator's tip to use Google News RSS (news.google.com/rss/search) and outlet site-search pages (coloradosun.com/?s=, denverpost.com/?s=) recovered good sources afterward, including this Q&A. Second pass 2026-10-14: re-read the Denver Post Q&A in full and checked the Colorado Sun's election-guide hub (coloradosun.com/2026/09/29/colorado-election-guide-2026/) and its linked ballot-measure explainers for any CD-7 candidate quotes; none mention Pettersen or Sallis by name, and no Colorado Sun CD-7 candidate guide exists (confirmed via coloradosun.com/?s= site search), so no new positions were added.",
+  "last_checked": "2026-10-15",
+  "research_notes": "S.5 (Laken Riley Act, 1/22/2025) and H.R. 28 (Protection of Women and Girls in Sports Act, 1/14/2025) both show Pettersen as Not Voting on clerk.house.gov; Wikipedia's 'proxy voting' section explains she had just given birth to her second son and the House had not given her a proxy-voting accommodation, so no position could be sourced from either vote despite both being named in the assignment. No House floor vote occurred on the 2025 BLM land-sale amendment; it was stripped by the Rules Committee before reaching the floor, so public-lands is sourced from news coverage of a joint Democratic statement rather than a vote (clean-energy-shift, a related but distinct statement about oil/gas leasing and drilling, is instead sourced from her answer in the Denver Post's 2026 candidate Q&A, which also covers deportation-priority). No sourced position found for: graduated-income-tax, income-tax-cap, keep-tabor-surplus, conservation-sales-tax, natural-gas-right, housing-state-zoning, sports-biological-sex, minor-gender-surgery-ban, immigration-notify-ice, fentanyl-penalties, child-trafficking-life, hunting-right, mail-ballot-id, plain-language-ballots, redistricting-commission, keep-mail-voting, challenge-federal-policies (reviewer should double check these, especially redistricting-commission given a 2026 Colorado Sun story on a Democratic-aligned mid-decade redistricting push affecting her own district, where no individual Pettersen quote could be found). The abortion-legal quote from brittanypettersen.com/issues comes from an undated page whose content reads as 2022-cycle; reviewer should check whether a more current statement exists. The Denver Post/Daily Camera 2026 candidate Q&A (same article, two URLs) is the single best source for this race: it directly quotes Pettersen and Sallis (the only two who returned the questionnaire) and confirms Tim Bennett, Susan Hall, Lawrence Kyle Clark, and Joe Krzeczkowski did not. The WebSearch tool hit its session budget partway through research; the coordinator's tip to use Google News RSS (news.google.com/rss/search) and outlet site-search pages (coloradosun.com/?s=, denverpost.com/?s=) recovered good sources afterward, including this Q&A. Second pass 2026-10-14: re-read the Denver Post Q&A in full and checked the Colorado Sun's election-guide hub (coloradosun.com/2026/09/29/colorado-election-guide-2026/) and its linked ballot-measure explainers for any CD-7 candidate quotes; none mention Pettersen or Sallis by name, and no Colorado Sun CD-7 candidate guide exists (confirmed via coloradosun.com/?s= site search), so no new positions were added. Gap fill 2026-10-15: Added a mixed position on fentanyl penalties from the 2022 law she sponsored in the state Senate. The Denver Post CD7 Q&A was read again; it covers tariffs, public lands and immigration, all already coded.",
   "verification": {
-    "checked": "2026-10-14",
-    "positions_verified": 8,
+    "checked": "2026-10-15",
+    "positions_verified": 9,
     "positions_unverifiable": 0,
     "detail": {
       "keep-tariffs": "found",
@@ -307,7 +322,8 @@
       "health-coverage": "found",
       "deportation-priority": "found",
       "clean-energy-shift": "found",
-      "abortion-legal": "found"
+      "abortion-legal": "found",
+      "fentanyl-penalties": "found"
     }
   }
 }

@@ -1,0 +1,116 @@
+{
+  "id": "kevin-grantham",
+  "name": "Kevin Grantham",
+  "race": "treasurer",
+  "party": "Republican Party",
+  "incumbent": false,
+  "profile": "full",
+  "website": "https://www.kevingrantham.com",
+  "summary": [
+    {
+      "text": "Kevin Grantham is a Fremont County commissioner, in his second term after taking office in 2021, and a former Colorado state senator (2011-2019) who served as Senate President in 2017 and 2018.",
+      "source_url": "https://coloradosun.com/2026/10/05/jeff-bridges-kevin-grantham-colorado-treasurer-issue-guide/"
+    },
+    {
+      "text": "He is the Republican nominee for Colorado state treasurer in 2026, having run unopposed in the primary; he works as a real estate appraiser.",
+      "source_url": "https://ballotpedia.org/Kevin_Grantham"
+    }
+  ],
+  "experience": [
+    {
+      "text": "Cañon City Council, 2007; Colorado State Senate, District 2, 2011–2019 (Senate President 2017–2018; also served on the Joint Budget Committee and chaired Appropriations); Fremont County Commissioner since 2021, reelected 2024.",
+      "source_url": "https://ballotpedia.org/Kevin_Grantham"
+    },
+    {
+      "text": "B.A. in Religion from Liberty University (1992); works as a certified general appraiser specializing in commercial real estate.",
+      "source_url": "https://ballotpedia.org/Kevin_Grantham"
+    }
+  ],
+  "record": [
+    {
+      "kind": "decision",
+      "title": "Cut property taxes as Fremont County Commissioner",
+      "date": "2021-01-01",
+      "detail": "His campaign site says he 'cut property taxes in Fremont County to help residents afford the rising cost of living' (exact date not given on the page; bounded to the start of his county commission tenure).",
+      "source_url": "https://www.kevingrantham.com/about"
+    },
+    {
+      "kind": "decision",
+      "title": "Opposed state tax-increase proposals as State Senator (self-described)",
+      "date": "2011-01-01",
+      "detail": "His campaign site says that 'as State Senator, [he] stopped multiple attempts at billion-dollar tax hikes' and that as Senate President he 'passed balanced budgets without increasing taxes' (self-reported by his own campaign; no specific bill cited).",
+      "source_url": "https://www.kevingrantham.com/about"
+    }
+  ],
+  "positions": [
+    {
+      "statement": "keep-tabor-surplus",
+      "value": 1,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/05/jeff-bridges-kevin-grantham-colorado-treasurer-issue-guide/",
+      "source_title": "Jeff Bridges, Kevin Grantham: Colorado treasurer issue guide",
+      "date": "2026-10-05",
+      "quote": "The taxpayers since 1992 have viewed it as a means to protect themselves against the overreaching government when it comes to taxation, when it comes to spending. And I think they have guarded their right to vote on those matters very jealously.",
+      "note": "Said in response to a question on whether he views TABOR primarily as a positive or negative; he said 'I view it entirely positively.' In an Oct. 2, 2026 Colorado Politics questionnaire he separately said opponent Jeff Bridges 'is also leading the charge to increase taxes again on Coloradans,' referring to Bridges' sponsorship of the Proposition NN ballot measure."
+    },
+    {
+      "statement": "income-tax-cap",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://leg.colorado.gov/bills/sb18-061",
+      "source_title": "SB18-061, Reduce The State Income Tax Rate (Colorado General Assembly)",
+      "date": "2018-01-11",
+      "quote": "the bill reduces both the individual and the corporate state income tax rate from 4.63% to 4.43%",
+      "note": "Grantham was a prime sponsor of this 2018 bill, which did not pass. Sponsoring a cut to the flat rate is read as support for holding the rate at or below today's level; he has not been found commenting on Proposition 136 itself."
+    }
+  ],
+  "endorsements": [],
+  "finance": null,
+  "sources": [
+    {
+      "title": "Jeff Bridges, Kevin Grantham: Colorado treasurer issue guide",
+      "url": "https://coloradosun.com/2026/10/05/jeff-bridges-kevin-grantham-colorado-treasurer-issue-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "State Treasurer | Grantham, Bridges, Barr seek top financial position",
+      "url": "https://www.coloradopolitics.com/2026/10/02/state-treasurer-grantham-bridges-barr-seek-top-financial-position-3/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Kevin Grantham (Ballotpedia)",
+      "url": "https://ballotpedia.org/Kevin_Grantham",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "About - Kevin Grantham for Treasurer",
+      "url": "https://www.kevingrantham.com/about",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Kevin Grantham for Treasurer (campaign site)",
+      "url": "https://www.kevingrantham.com",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado State Treasurer candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-state-treasurer-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "SB18-061, Reduce The State Income Tax Rate (Colorado General Assembly)",
+      "url": "https://leg.colorado.gov/bills/sb18-061",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "last_checked": "2026-10-15",
+  "research_notes": "Thin on sourced positions relative to the full-profile target: despite searching, could not find a Grantham statement specifically on Amendment 87 (graduated income tax) or Proposition 136 (income-tax cap), even though the assignment flagged these as expected topics — his on-record tax comments addressed TABOR/Proposition NN generally, not the income-tax measures by name. Also found nothing on guns, abortion, immigration, hunting rights, or other social-axis statements; as a two-term county commissioner and former state senator who left the legislature in 2019 (before most of the 2025-2026 bills tied to these statements), there may genuinely be little recent record to find, but this is a gap worth a second pass. His Colorado General Assembly legislator page (https://leg.colorado.gov/legislators/kevin-grantham) lists 584 sponsored bills/memorials/resolutions across many pages, mostly ceremonial; not fully reviewed due to volume and low apparent yield on page 1. No campaign finance total found in a fetched source, so finance is left null. Second pass 2026-10-14: checked the Denver Post's Oct. 3, 2026 treasurer candidate Q&A (covers only unclaimed property and PERA, not tax policy) and the Colorado Sun's Amendment 87 and Proposition 136 explainers, neither of which quotes Grantham on state income tax rates; both measures are citizen/advocacy-group initiatives with no legislative referral vote to check. graduated-income-tax and income-tax-cap remain unsourced; no new positions were added. Gap fill 2026-10-15: Added an inferred position on the income-tax cap from the 2018 rate-cut bill he sponsored. The CPR News interview (Sept. 25, 2026), the Colorado Sun treasurer guide, the Denver Post Q&A and his campaign site were read; none mention Amendment 87, Proposition 136, Proposition 137 or the 2025 federal budget law.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 1,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-tabor-surplus": "found"
+    }
+  }
+}

@@ -47,6 +47,50 @@
       "date": "2026-10-03",
       "quote": "its no harm no foul. On principal, I want to develop a more robust interaction between the federal government and it’s land, and our resource sector. Colorado deserves to be a rich state, we need minerals now more than we ever have. However, it is imperative we preserve the beauty of our state, all the wealth in the world isn’t worth living on a pile of ashes.",
       "note": "Answering a question about opening federal land to oil and gas leasing, she says she has no objection to land swaps between private holders and the federal government and wants more mineral development, while also stressing preservation of the state's natural beauty; coded as an explicit middle position rather than a clear agree or disagree on land staying in federal hands."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://kelleyforco.com/issues/second-amendment",
+      "source_title": "Second Amendment Rights (Kelley Dennison for Congress)",
+      "date": "2026-10-15",
+      "quote": "Protect the Second Amendment rights of law-abiding Americans and oppose efforts that unfairly punish responsible gun owners for the actions of criminals.",
+      "note": "The same page says policies should respect constitutional protections instead of imposing sweeping federal restrictions. The site renders with JavaScript; the quote was confirmed in a browser.",
+      "date_basis": "accessed"
+    },
+    {
+      "statement": "hunting-right",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://kelleyforco.com/issues/second-amendment",
+      "source_title": "Second Amendment Rights (Kelley Dennison for Congress)",
+      "date": "2026-10-15",
+      "quote": "Protect hunting, sport shooting, and outdoor traditions that are deeply connected to Colorado's culture, conservation efforts, and rural communities.",
+      "note": "Pledges to protect hunting but does not mention Amendment 83 or a constitutional right, so this is inferred. The site renders with JavaScript; the quote was confirmed in a browser.",
+      "date_basis": "accessed"
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://kelleyforco.com/issues/environmental-stewardship",
+      "source_title": "Environmental Stewardship (Kelley Dennison for Congress)",
+      "date": "2026-10-15",
+      "quote": "Colorado possesses valuable oil, natural gas, and mineral resources that help strengthen American energy independence and create high-paying jobs. Support responsible domestic energy production with strong environmental accountability",
+      "note": "Supports expanding domestic oil and gas production. In the Denver Post Q&A she also favored a more robust interaction between the federal government, its land and the resource sector. The site renders with JavaScript; the quote was confirmed in a browser.",
+      "date_basis": "accessed"
+    },
+    {
+      "statement": "housing-state-zoning",
+      "value": 2,
+      "source_type": "inferred",
+      "source_url": "https://kelleyforco.com/issues/economic-affordability",
+      "source_title": "Economic Affordability (Kelley Dennison for Congress)",
+      "date": "2026-10-15",
+      "quote": "Promote policies that increase housing availability, reduce unnecessary federal regulations, and empower local communities to responsibly address housing needs without excessive government interference.",
+      "note": "Favors local control of housing decisions; she does not address Colorado's state zoning laws directly, so this is inferred. The site renders with JavaScript; the quote was confirmed in a browser.",
+      "date_basis": "accessed"
     }
   ],
   "endorsements": [
@@ -89,17 +133,36 @@
       "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H6CO02206/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Second Amendment Rights (Kelley Dennison for Congress)",
+      "url": "https://kelleyforco.com/issues/second-amendment",
+      "accessed": "2026-10-15"
+    },
+    {
+      "title": "Environmental Stewardship (Kelley Dennison for Congress)",
+      "url": "https://kelleyforco.com/issues/environmental-stewardship",
+      "accessed": "2026-10-15"
+    },
+    {
+      "title": "Economic Affordability (Kelley Dennison for Congress)",
+      "url": "https://kelleyforco.com/issues/economic-affordability",
+      "accessed": "2026-10-15"
     }
   ],
-  "last_checked": "2026-10-14",
-  "research_notes": "First-time candidate with a thin public record. Her Ballotpedia Candidate Connection survey (bio and three campaign themes: economic affordability, environmental stewardship, pro-family policies) contains only general statements that don't map to specific statements without stretching (e.g., 'defending our beautiful mountains, rivers and forests' does not specifically address federal land sales or any ballot measure). Her campaign website (kelleyforco.com) is a JavaScript-rendered single-page app (confirmed on second pass to be built on base44.com, not WordPress, so no wp-json endpoint exists either) that returns no readable text content to curl or WebFetch; the issue pages exist but could not be read. She was also reported to have given interviews to Colorado Public Radio and Colorado Newsline, both of which are blocked to automated fetching per protocol. No prior public office, so 'record' is empty. Second pass 2026-10-14: added public-lands from the Denver Post's Oct. 3, 2026 CD2 candidate Q&A.",
+  "last_checked": "2026-10-15",
+  "research_notes": "First-time candidate with a thin public record. Her Ballotpedia Candidate Connection survey (bio and three campaign themes: economic affordability, environmental stewardship, pro-family policies) contains only general statements that don't map to specific statements without stretching (e.g., 'defending our beautiful mountains, rivers and forests' does not specifically address federal land sales or any ballot measure). Her campaign website (kelleyforco.com) is a JavaScript-rendered single-page app (confirmed on second pass to be built on base44.com, not WordPress, so no wp-json endpoint exists either) that returns no readable text content to curl or WebFetch; the issue pages exist but could not be read. She was also reported to have given interviews to Colorado Public Radio and Colorado Newsline, both of which are blocked to automated fetching per protocol. No prior public office, so 'record' is empty. Second pass 2026-10-14: added public-lands from the Denver Post's Oct. 3, 2026 CD2 candidate Q&A. Gap fill 2026-10-15: Her campaign site's issue pages were read in a browser (they render with JavaScript, which is why the first pass could not read them). Added positions on guns, energy, hunting and local control of housing. The Denver Post CD2 Q&A and KUNC's guide were also read; nothing on abortion, health coverage, tariffs, the federal budget law or the state ballot measures.",
   "verification": {
-    "checked": "2026-10-14",
+    "checked": "2026-10-15",
     "positions_verified": 2,
-    "positions_unverifiable": 0,
+    "positions_unverifiable": 4,
     "detail": {
       "deportation-priority": "found",
-      "public-lands": "found"
+      "public-lands": "found",
+      "stricter-gun-laws": "not-found",
+      "hunting-right": "not-found",
+      "clean-energy-shift": "not-found",
+      "housing-state-zoning": "not-found"
     }
   }
 }

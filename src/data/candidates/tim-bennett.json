@@ -85,6 +85,17 @@
       "date": "2026-10-01",
       "quote": "I'll support law enforcement, first responders, and efforts to combat violent crime and the fentanyl epidemic while ensuring local communities have the flexibility to meet their own needs.",
       "note": "Inferred: he supports tougher enforcement generally against the 'fentanyl epidemic' but does not specifically address mandatory prison time or felony charges for any amount, as Proposition 132 and the statement contemplate."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://www.ballotready.org/people/tim-bennett-74594ea7-9007-4dfb-bc07-4025fa4d3f2b",
+      "source_title": "Tim Bennett: issue stances (BallotReady)",
+      "date": "2026-10-15",
+      "quote": "Tim is a firm defender of the right to keep and bear arms. He believes law-abiding citizens should never be punished for the actions of criminals, and that weakening the Second Amendment only leaves families defenseless, not safer.",
+      "note": "Campaign-written stance text published on BallotReady, which links to his campaign site; the text is not on the site's platform page itself. Coded disagree rather than strongly disagree because no specific law is named.",
+      "date_basis": "accessed"
     }
   ],
   "endorsements": [],
@@ -127,20 +138,26 @@
       "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H6CO07122/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Tim Bennett: issue stances (BallotReady)",
+      "url": "https://www.ballotready.org/people/tim-bennett-74594ea7-9007-4dfb-bc07-4025fa4d3f2b",
+      "accessed": "2026-10-15"
     }
   ],
-  "last_checked": "2026-10-14",
-  "research_notes": "Bennett did not return the Denver Post's 2026 CD-7 candidate questionnaire, but a separate Denver Post profile of the race (10/12/2026) quotes him directly and supplied the school-board district, his age, and residence that his own campaign site omits. In that profile he says he 'takes stances that go against those of many Republicans in Congress, from disavowing the war with Iran to supporting the ability for Medicare to negotiate prescription drug prices' -- neither of which maps cleanly to one of the 25 statements, so neither was coded as a position, but a reviewer may want to note the nuance against the health-coverage coding below (which is based on his platform page's Medicare/Medicaid section favoring market-based approaches over 'a full federal takeover'). Ballotpedia carries only a stub page for him (no completed Candidate Connection survey, no listed endorsements). His campaign site (GoDaddy Website Builder, a single-page app) does not render per-page content under curl for most paths, but /meet-tim and /platform happened to return full pre-rendered text; other paths may contain content not captured here. Neither his site nor the Denver Post coverage addresses abortion, guns, elections/ballot measures, tariffs by name, redistricting, or federal public lands sale/transfer, so no position could be sourced on those for him. The keep-tariffs and fentanyl-penalties codings are inferred (capped at 4) from adjacent but not exact-match language on his platform page; a reviewer should double-check both against any later debate or interview statements. The WebSearch tool hit its session budget cap partway through this race's research; Google News RSS (news.google.com/rss/search) and the Denver Post's own site search recovered the 10/12/2026 profile afterward. Second pass 2026-10-14: re-fetched and re-read /platform in full; confirmed the Denver Post's Oct. 3, 2026 CD-7 Q&A lists him among candidates who did not return the questionnaire. No new statement could be sourced (his housing, water, public-safety, immigration and energy sections do not name abortion, guns, state zoning override, federal land sale/transfer, or any 2026 ballot measure), so no positions were added.",
+  "last_checked": "2026-10-15",
+  "research_notes": "Bennett did not return the Denver Post's 2026 CD-7 candidate questionnaire, but a separate Denver Post profile of the race (10/12/2026) quotes him directly and supplied the school-board district, his age, and residence that his own campaign site omits. In that profile he says he 'takes stances that go against those of many Republicans in Congress, from disavowing the war with Iran to supporting the ability for Medicare to negotiate prescription drug prices' -- neither of which maps cleanly to one of the 25 statements, so neither was coded as a position, but a reviewer may want to note the nuance against the health-coverage coding below (which is based on his platform page's Medicare/Medicaid section favoring market-based approaches over 'a full federal takeover'). Ballotpedia carries only a stub page for him (no completed Candidate Connection survey, no listed endorsements). His campaign site (GoDaddy Website Builder, a single-page app) does not render per-page content under curl for most paths, but /meet-tim and /platform happened to return full pre-rendered text; other paths may contain content not captured here. Neither his site nor the Denver Post coverage addresses abortion, guns, elections/ballot measures, tariffs by name, redistricting, or federal public lands sale/transfer, so no position could be sourced on those for him. The keep-tariffs and fentanyl-penalties codings are inferred (capped at 4) from adjacent but not exact-match language on his platform page; a reviewer should double-check both against any later debate or interview statements. The WebSearch tool hit its session budget cap partway through this race's research; Google News RSS (news.google.com/rss/search) and the Denver Post's own site search recovered the 10/12/2026 profile afterward. Second pass 2026-10-14: re-fetched and re-read /platform in full; confirmed the Denver Post's Oct. 3, 2026 CD-7 Q&A lists him among candidates who did not return the questionnaire. No new statement could be sourced (his housing, water, public-safety, immigration and energy sections do not name abortion, guns, state zoning override, federal land sale/transfer, or any 2026 ballot measure), so no positions were added. Gap fill 2026-10-15: Added a gun position from the campaign's BallotReady stance text. His platform page (read in a browser as well as by script), the Denver Post CD7 profile and search found nothing on abortion, public-land ownership, the federal budget law or the state ballot measures; he did not return the Denver Post questionnaire.",
   "verification": {
-    "checked": "2026-10-14",
-    "positions_verified": 5,
+    "checked": "2026-10-15",
+    "positions_verified": 6,
     "positions_unverifiable": 0,
     "detail": {
       "clean-energy-shift": "found",
       "deportation-priority": "found",
       "health-coverage": "found",
       "keep-tariffs": "found",
-      "fentanyl-penalties": "found"
+      "fentanyl-penalties": "found",
+      "stricter-gun-laws": "found"
     }
   }
 }

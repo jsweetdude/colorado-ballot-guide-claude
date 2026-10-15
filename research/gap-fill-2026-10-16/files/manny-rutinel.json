@@ -1,0 +1,283 @@
+{
+  "id": "manny-rutinel",
+  "name": "Manny Rutinel",
+  "race": "us-house-8",
+  "party": "Democratic Party",
+  "incumbent": false,
+  "profile": "full",
+  "website": "https://www.mannyforcolorado.com/",
+  "summary": [
+    {
+      "text": "Manny Rutinel is a Colorado state representative for House District 32, an attorney, and a former economist for the U.S. Army Corps of Engineers.",
+      "source_url": "https://ballotpedia.org/Manny_Rutinel"
+    },
+    {
+      "text": "An Adams County Democratic vacancy committee appointed him to the Colorado House of Representatives on October 9, 2023, to replace Dafna Michaelson Jenet.",
+      "source_url": "https://ballotpedia.org/Manny_Rutinel"
+    },
+    {
+      "text": "He earned a bachelor's degree from the University of Florida (2016), a master's degree in economics from Johns Hopkins University (2018), and a J.D. from Yale Law School (2022); he has also worked as chief executive officer of Climate Refarm.",
+      "source_url": "https://ballotpedia.org/Manny_Rutinel"
+    }
+  ],
+  "experience": [
+    {
+      "text": "Colorado House of Representatives, District 32, since October 9, 2023; serves on the Energy and Environment Committee (2025-2026).",
+      "source_url": "https://ballotpedia.org/Manny_Rutinel"
+    },
+    {
+      "text": "Economist, U.S. Army Corps of Engineers; served as a first responder in Puerto Rico after Hurricane Maria.",
+      "source_url": "https://ballotpedia.org/Manny_Rutinel"
+    },
+    {
+      "text": "Attorney; chief executive officer of Climate Refarm.",
+      "source_url": "https://ballotpedia.org/Manny_Rutinel"
+    }
+  ],
+  "record": [
+    {
+      "kind": "sponsored_bill",
+      "title": "SB25-003, Semiautomatic Firearms & Rapid-Fire Devices",
+      "date": "2025-04-02",
+      "detail": "Cosponsor. Prohibits manufacturing, distributing, transferring, selling, or purchasing specified semiautomatic firearms with detachable magazines absent a permit/training exception; became law.",
+      "source_url": "https://leg.colorado.gov/bills/sb25-003"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "SB25-129, Legally Protected Health-Care Activity Protections",
+      "date": "2025-04-16",
+      "detail": "Cosponsor. Allows prescription labels for mifepristone and misoprostol to list only the prescribing practice rather than the practitioner's name, among other protections; became law.",
+      "source_url": "https://leg.colorado.gov/bills/sb25-129"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "SB25-276, Protect Civil Rights Immigration Status",
+      "date": "2025-05-07",
+      "detail": "Cosponsor. Prohibits a jail custodian from delaying a defendant's release for the purpose of an immigration enforcement operation, among other provisions; became law.",
+      "source_url": "https://leg.colorado.gov/bills/sb25-276"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "HB24-1134, Adjustments to Tax Expenditures to Reduce Burden",
+      "date": "2024-01-01",
+      "detail": "Prime sponsor. Expanded the state Earned Income Tax Credit for low-income families.",
+      "source_url": "https://leg.colorado.gov/bills/hb24-1134"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "SB25-006, Investment Authority of State Treasurer for Affordable Housing",
+      "date": "2025-01-01",
+      "detail": "Prime sponsor. Created a fund to help finance affordable housing.",
+      "source_url": "https://leg.colorado.gov/bills/sb25-006"
+    }
+  ],
+  "positions": [
+    {
+      "statement": "abortion-legal",
+      "value": 5,
+      "source_type": "sponsored_bill",
+      "source_url": "https://leg.colorado.gov/bills/sb25-129",
+      "source_title": "SB25-129 Legally Protected Hlth-Care Activity Protections | Colorado General Assembly",
+      "date": "2025-04-16",
+      "quote": "the act authorizes a prescription label for mifepristone, misoprostol, and the generic alternatives to those prescriptions to include only the name of the prescribing health-care practice",
+      "note": "Cosponsored this law protecting abortion-medication prescribers; reinforced by his campaign site: \"When it comes to abortion, the government needs to respect Americans’ freedom to make our own decisions about our own families without interference from politicians.\""
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 5,
+      "source_type": "sponsored_bill",
+      "source_url": "https://leg.colorado.gov/bills/sb25-003",
+      "source_title": "SB25-003 Semiautomatic Firearms & Rapid-Fire Devices | Colorado General Assembly",
+      "date": "2025-04-02",
+      "quote": "The act prohibits knowingly manufacturing, distributing, transferring, selling, or purchasing a specified semiautomatic firearm on or after August 1, 2026",
+      "note": "Cosponsor of this 2025 law restricting certain semiautomatic firearms, cited directly in the statement's coding guide."
+    },
+    {
+      "statement": "immigration-notify-ice",
+      "value": 1,
+      "source_type": "sponsored_bill",
+      "source_url": "https://leg.colorado.gov/bills/sb25-276",
+      "source_title": "SB25-276 Protect Civil Rights Immigration Status | Colorado General Assembly",
+      "date": "2025-05-07",
+      "quote": "The act prohibits the jail custodian from delaying a defendant's release for the purpose of an immigration enforcement operation.",
+      "note": "Cosponsored this law limiting jail cooperation with federal immigration enforcement; his campaign site calls it a bill that \"keeps Colorado law enforcement focused on keeping us safe rather than supporting ICE’s cruelty.\""
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://www.mannyforcolorado.com/issues",
+      "source_title": "Issues - Manny for Colorado",
+      "date": "2026-10-14",
+      "quote": "We need an immigration enforcement system that improves public safety and national security by focusing on the deportation of violent criminals, gang members, and human traffickers – not our neighbors who contribute to our communities",
+      "note": "Supports deporting people convicted of serious crimes while opposing broader deportation; coded disagree, the same as other candidates who take this position."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://www.mannyforcolorado.com/issues",
+      "source_title": "Issues - Manny for Colorado",
+      "date": "2026-10-14",
+      "quote": "Trump and Gabe Evans’ cuts to Medicaid and the Affordable Care Act will kick hundreds of thousands of Coloradans off their health care.",
+      "note": "Opposes Medicaid/ACA cuts and campaigns on expanding affordability of coverage."
+    },
+    {
+      "statement": "keep-tariffs",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://www.mannyforcolorado.com/issues",
+      "source_title": "Issues - Manny for Colorado",
+      "date": "2026-10-14",
+      "quote": "Trump’s tariffs drive up the cost of everyday goods like groceries and housing.",
+      "note": "Campaign site states he will \"stop his tariffs,\" making opposition to broad tariffs a signature message."
+    },
+    {
+      "statement": "federal-budget-law",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://www.mannyforcolorado.com/issues",
+      "source_title": "Issues - Manny for Colorado",
+      "date": "2026-10-14",
+      "quote": "their budget cuts take away earned benefits like Social Security, Medicaid, and Medicare - benefits Trump calls “entitlements” - to pay for massive tax cuts for the wealthy and big corporations",
+      "note": "Direct criticism of the One Big Beautiful Bill Act's tax and spending provisions, a central campaign theme."
+    },
+    {
+      "statement": "housing-state-zoning",
+      "value": 4,
+      "source_type": "recorded_vote",
+      "source_url": "https://leg.colorado.gov/bill_votes/12372",
+      "source_title": "Colorado General Assembly, HB24-1313 House third-reading floor vote",
+      "date": "2024-04-14",
+      "quote": "Rutinel Yes",
+      "note": "Final House passage vote on HB24-1313, Housing in Transit-Oriented Communities, which requires larger transit-served communities to allow denser housing near transit, overriding local zoning."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 3,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-8-candidate-qa/",
+      "source_title": "Colorado U.S. House District 8 candidate Q&A (The Denver Post)",
+      "date": "2026-10-03",
+      "quote": "I support an all of the above energy solution to protect Colorado jobs and power Colorado’s future. And I think we can have an all of the above energy system that does not require new oil and gas leases on public land in this district",
+      "note": "Coded as mixed: an all-of-the-above energy stance alongside opposition to new oil and gas leases on public land in the district."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "Congressional Hispanic Caucus BOLD PAC",
+      "source_url": "https://ballotpedia.org/Manny_Rutinel"
+    },
+    {
+      "name": "Latino Victory",
+      "source_url": "https://ballotpedia.org/Manny_Rutinel"
+    },
+    {
+      "name": "314 Action",
+      "source_url": "https://ballotpedia.org/Manny_Rutinel"
+    },
+    {
+      "name": "Former U.S. Senator and Interior Secretary Ken Salazar",
+      "source_url": "https://ballotpedia.org/Manny_Rutinel"
+    },
+    {
+      "name": "Former U.S. Senator Gary Hart",
+      "source_url": "https://ballotpedia.org/Manny_Rutinel"
+    },
+    {
+      "name": "Former Social Security Commissioner Martin O'Malley",
+      "source_url": "https://ballotpedia.org/Manny_Rutinel"
+    },
+    {
+      "name": "Former Energy Secretary and Denver Mayor Federico Peña",
+      "source_url": "https://ballotpedia.org/Manny_Rutinel"
+    }
+  ],
+  "finance": {
+    "raised": 4336988,
+    "spent": 3735756,
+    "cash_on_hand": 601232,
+    "as_of": "2026-06-30",
+    "source_url": "https://www.fec.gov/data/candidate/H6CO08013/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-06-30)."
+  },
+  "sources": [
+    {
+      "title": "Manny Rutinel - Ballotpedia",
+      "url": "https://ballotpedia.org/Manny_Rutinel",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Issues - Manny for Colorado",
+      "url": "https://www.mannyforcolorado.com/issues",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "SB25-003 Semiautomatic Firearms & Rapid-Fire Devices | Colorado General Assembly",
+      "url": "https://leg.colorado.gov/bills/sb25-003",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "SB25-129 Legally Protected Hlth-Care Activity Protections | Colorado General Assembly",
+      "url": "https://leg.colorado.gov/bills/sb25-129",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "SB25-276 Protect Civil Rights Immigration Status | Colorado General Assembly",
+      "url": "https://leg.colorado.gov/bills/sb25-276",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "HB24-1134 Adjustments to Tax Expenditures to Reduce Burden | Colorado General Assembly",
+      "url": "https://leg.colorado.gov/bills/hb24-1134",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "SB25-006 Inv Auth of State Treasurer for Affordable Hous | Colorado General Assembly",
+      "url": "https://leg.colorado.gov/bills/sb25-006",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado U.S. House District 8 candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-8-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Congressional District 8: Evans and Rutinel compete in close race",
+      "url": "https://www.coloradopolitics.com/2026/10/02/gabe-evans-manny-rutinel-congressional-district-8/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "mannyforcolorado.com",
+      "url": "https://www.mannyforcolorado.com/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "fec.gov",
+      "url": "https://www.fec.gov/data/candidate/H6CO08013/?cycle=2026&election_full=true",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado General Assembly, HB24-1313 House third-reading floor vote",
+      "url": "https://leg.colorado.gov/bill_votes/12372",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "last_checked": "2026-10-15",
+  "research_notes": "Finance is federal and left null per protocol, though Ballotpedia notes he had raised $4.34 million as of June 30, 2026, for reference. On his Ballotpedia page, opponent Gabe Evans' Candidate Connection survey states Rutinel 'voted no on mandating minimum prison sentences for people who traffic and buy child sex slaves' in the state legislature, which would bear on the fentanyl-penalties and child-trafficking-life statements; this claim comes from Evans' campaign, not from Rutinel's own words or a verified vote record, so it was not used to code a position for Rutinel, and a reviewer may want to verify the underlying Colorado bill and vote. No direct statement found on energy/climate policy, or Colorado ballot measures on hunting rights, mail ballot ID, redistricting, or plain-language ballots. WebSearch budget was exhausted mid-research; relied on Ballotpedia, his campaign site, and leg.colorado.gov bill pages via direct fetch. Second pass 2026-10-14: added public-lands from https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-8-candidate-qa/. The companion Colorado Politics profile has him criticizing Evans for 'getting rid of our tax credits' on energy, which is suggestive of support for clean-energy tax credits but too thin and opponent-focused to code against clean-energy-shift, so that statement is left unsourced. Gap fill 2026-10-15: Added his 2024 House vote for HB24-1313 and his Denver Post answer on energy.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 7,
+    "positions_unverifiable": 0,
+    "detail": {
+      "abortion-legal": "found",
+      "stricter-gun-laws": "found",
+      "immigration-notify-ice": "found",
+      "deportation-priority": "found",
+      "health-coverage": "found",
+      "keep-tariffs": "found",
+      "federal-budget-law": "found"
+    }
+  }
+}

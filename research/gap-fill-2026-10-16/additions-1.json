@@ -1,0 +1,175 @@
+[
+  {
+    "id": "jeff-bridges",
+    "positions": [
+      {
+        "statement": "federal-budget-law",
+        "value": 1,
+        "source_type": "direct_statement",
+        "source_url": "https://www.cohousedems.com/news/joint-release%3A-gop-budget-is-devastating-for-coloradans",
+        "source_title": "Joint release: GOP Budget Is Devastating for Coloradans (Colorado House Democrats)",
+        "date": "2025-05-22",
+        "quote": "While we budget with a scalpel, Congressional Republicans are using a chainsaw. This budget is irresponsible and reckless, and it will hurt Coloradans.",
+        "note": "Statement issued as chair of the Joint Budget Committee after the U.S. House passed the bill in May 2025; it became law in July 2025."
+      }
+    ],
+    "note": "Added his May 2025 statement on the federal budget bill from the House Democrats' joint release. Still nothing found from him on Amendment 87, Proposition 136 or Proposition 137 (searched the Colorado Sun treasurer guide, the Denver Post treasurer Q&A, the CPR News interview and the Colorado Politics profile)."
+  },
+  {
+    "id": "kevin-grantham",
+    "positions": [
+      {
+        "statement": "income-tax-cap",
+        "value": 4,
+        "source_type": "inferred",
+        "source_url": "https://leg.colorado.gov/bills/sb18-061",
+        "source_title": "SB18-061, Reduce The State Income Tax Rate (Colorado General Assembly)",
+        "date": "2018-01-11",
+        "quote": "the bill reduces both the individual and the corporate state income tax rate from 4.63% to 4.43%",
+        "note": "Grantham was a prime sponsor of this 2018 bill, which did not pass. Sponsoring a cut to the flat rate is read as support for holding the rate at or below today's level; he has not been found commenting on Proposition 136 itself."
+      }
+    ],
+    "note": "Added an inferred position on the income-tax cap from the 2018 rate-cut bill he sponsored. The CPR News interview (Sept. 25, 2026), the Colorado Sun treasurer guide, the Denver Post Q&A and his campaign site were read; none mention Amendment 87, Proposition 136, Proposition 137 or the 2025 federal budget law."
+  },
+  {
+    "id": "jeff-hurd",
+    "positions": [
+      {
+        "statement": "stricter-gun-laws",
+        "value": 2,
+        "source_type": "direct_statement",
+        "source_url": "https://www.yahoo.com/news/reaction-grand-valley-elected-officials-214755385.html",
+        "source_title": "Reaction from Grand Valley elected officials on gun rights bill (WesternSlopeNow, via Yahoo News)",
+        "date": "2025-04-04",
+        "quote": "the bill that was passed out of the Colorado State Legislature violates the Second Amendment rights of Colorado citizens. It's something that is very troubling to me.",
+        "note": "Said of SB25-003, the 2025 law requiring a permit for certain semiautomatic firearms. Coded disagree rather than strongly disagree because he addressed one law, not new restrictions in general. The story is a WesternSlopeNow (KREX) report read on Yahoo News, which syndicates it; the original page blocks automated reading."
+      }
+    ],
+    "note": "Added his April 2025 statement opposing SB25-003. The Denver Post Q&A, the Colorado Sun CD3 guide, the Colorado Newsline CD3 page and his campaign issues page were read again; none address the state ballot measures that remain unknown."
+  },
+  {
+    "id": "brittany-pettersen",
+    "positions": [
+      {
+        "statement": "fentanyl-penalties",
+        "value": 3,
+        "source_type": "sponsored_bill",
+        "source_url": "https://leg.colorado.gov/bills/hb22-1326",
+        "source_title": "HB22-1326, Fentanyl Accountability And Prevention (Colorado General Assembly)",
+        "date": "2022-05-25",
+        "quote": "changing the criminal penalties associated with synthetic opiates; using a substance abuse assessment to direct appropriate treatment at sentencing",
+        "note": "Pettersen was a Senate prime sponsor. The law changed fentanyl penalties (possession of more than 1 gram of a fentanyl compound became a felony) and paired them with treatment and harm-reduction funding; it kept a 1-gram threshold rather than making any amount a felony, which is what Proposition 132 would do. Coded as mixed. No statement by her on Proposition 132 was found."
+      }
+    ],
+    "note": "Added a mixed position on fentanyl penalties from the 2022 law she sponsored in the state Senate. The Denver Post CD7 Q&A was read again; it covers tariffs, public lands and immigration, all already coded."
+  },
+  {
+    "id": "manny-rutinel",
+    "positions": [
+      {
+        "statement": "housing-state-zoning",
+        "value": 4,
+        "source_type": "recorded_vote",
+        "source_url": "https://leg.colorado.gov/bill_votes/12372",
+        "source_title": "Colorado General Assembly, HB24-1313 House third-reading floor vote",
+        "date": "2024-04-14",
+        "quote": "Rutinel Yes",
+        "note": "Final House passage vote on HB24-1313, Housing in Transit-Oriented Communities, which requires larger transit-served communities to allow denser housing near transit, overriding local zoning."
+      },
+      {
+        "statement": "clean-energy-shift",
+        "value": 3,
+        "source_type": "questionnaire",
+        "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-8-candidate-qa/",
+        "source_title": "Colorado U.S. House District 8 candidate Q&A (The Denver Post)",
+        "date": "2026-10-03",
+        "quote": "I support an all of the above energy solution to protect Colorado jobs and power Colorado’s future. And I think we can have an all of the above energy system that does not require new oil and gas leases on public land in this district",
+        "note": "Coded as mixed: an all-of-the-above energy stance alongside opposition to new oil and gas leases on public land in the district."
+      }
+    ],
+    "note": "Added his 2024 House vote for HB24-1313 and his Denver Post answer on energy."
+  },
+  {
+    "id": "gabe-evans",
+    "positions": [
+      {
+        "statement": "housing-state-zoning",
+        "value": 2,
+        "source_type": "recorded_vote",
+        "source_url": "https://leg.colorado.gov/bill_votes/12372",
+        "source_title": "Colorado General Assembly, HB24-1313 House third-reading floor vote",
+        "date": "2024-04-14",
+        "quote": "Evans No Frizell No",
+        "note": "Final House passage vote on HB24-1313, Housing in Transit-Oriented Communities, which requires larger transit-served communities to allow denser housing near transit, overriding local zoning. The roll call lists members alphabetically; the quote carries the next member's line so it is long enough to check."
+      }
+    ],
+    "note": "Added his 2024 state House vote against HB24-1313."
+  },
+  {
+    "id": "kelley-dennison",
+    "positions": [
+      {
+        "statement": "stricter-gun-laws",
+        "value": 2,
+        "source_type": "direct_statement",
+        "source_url": "https://kelleyforco.com/issues/second-amendment",
+        "source_title": "Second Amendment Rights (Kelley Dennison for Congress)",
+        "date": "2026-10-15",
+        "date_basis": "accessed",
+        "quote": "Protect the Second Amendment rights of law-abiding Americans and oppose efforts that unfairly punish responsible gun owners for the actions of criminals.",
+        "note": "The same page says policies should respect constitutional protections instead of imposing sweeping federal restrictions. The site renders with JavaScript; the quote was confirmed in a browser."
+      },
+      {
+        "statement": "hunting-right",
+        "value": 4,
+        "source_type": "inferred",
+        "source_url": "https://kelleyforco.com/issues/second-amendment",
+        "source_title": "Second Amendment Rights (Kelley Dennison for Congress)",
+        "date": "2026-10-15",
+        "date_basis": "accessed",
+        "quote": "Protect hunting, sport shooting, and outdoor traditions that are deeply connected to Colorado's culture, conservation efforts, and rural communities.",
+        "note": "Pledges to protect hunting but does not mention Amendment 83 or a constitutional right, so this is inferred. The site renders with JavaScript; the quote was confirmed in a browser."
+      },
+      {
+        "statement": "clean-energy-shift",
+        "value": 2,
+        "source_type": "direct_statement",
+        "source_url": "https://kelleyforco.com/issues/environmental-stewardship",
+        "source_title": "Environmental Stewardship (Kelley Dennison for Congress)",
+        "date": "2026-10-15",
+        "date_basis": "accessed",
+        "quote": "Colorado possesses valuable oil, natural gas, and mineral resources that help strengthen American energy independence and create high-paying jobs. Support responsible domestic energy production with strong environmental accountability",
+        "note": "Supports expanding domestic oil and gas production. In the Denver Post Q&A she also favored a more robust interaction between the federal government, its land and the resource sector. The site renders with JavaScript; the quote was confirmed in a browser."
+      },
+      {
+        "statement": "housing-state-zoning",
+        "value": 2,
+        "source_type": "inferred",
+        "source_url": "https://kelleyforco.com/issues/economic-affordability",
+        "source_title": "Economic Affordability (Kelley Dennison for Congress)",
+        "date": "2026-10-15",
+        "date_basis": "accessed",
+        "quote": "Promote policies that increase housing availability, reduce unnecessary federal regulations, and empower local communities to responsibly address housing needs without excessive government interference.",
+        "note": "Favors local control of housing decisions; she does not address Colorado's state zoning laws directly, so this is inferred. The site renders with JavaScript; the quote was confirmed in a browser."
+      }
+    ],
+    "note": "Her campaign site's issue pages were read in a browser (they render with JavaScript, which is why the first pass could not read them). Added positions on guns, energy, hunting and local control of housing. The Denver Post CD2 Q&A and KUNC's guide were also read; nothing on abortion, health coverage, tariffs, the federal budget law or the state ballot measures."
+  },
+  {
+    "id": "tim-bennett",
+    "positions": [
+      {
+        "statement": "stricter-gun-laws",
+        "value": 2,
+        "source_type": "direct_statement",
+        "source_url": "https://www.ballotready.org/people/tim-bennett-74594ea7-9007-4dfb-bc07-4025fa4d3f2b",
+        "source_title": "Tim Bennett: issue stances (BallotReady)",
+        "date": "2026-10-15",
+        "date_basis": "accessed",
+        "quote": "Tim is a firm defender of the right to keep and bear arms. He believes law-abiding citizens should never be punished for the actions of criminals, and that weakening the Second Amendment only leaves families defenseless, not safer.",
+        "note": "Campaign-written stance text published on BallotReady, which links to his campaign site; the text is not on the site's platform page itself. Coded disagree rather than strongly disagree because no specific law is named."
+      }
+    ],
+    "note": "Added a gun position from the campaign's BallotReady stance text. His platform page (read in a browser as well as by script), the Denver Post CD7 profile and search found nothing on abortion, public-land ownership, the federal budget law or the state ballot measures; he did not return the Denver Post questionnaire."
+  }
+]

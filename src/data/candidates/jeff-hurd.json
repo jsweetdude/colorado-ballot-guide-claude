@@ -166,6 +166,16 @@
       "date": "2026-10-08",
       "quote": "He is a proponent of multiple energy sources such as carbon-based, renewable, geothermal, and nuclear energy. He said he would not like to see any energy sources taken off the table.",
       "note": "Answering a Colorado Sun question on whether the U.S. should stop using carbon-emitting energy sources; he favors an all-of-the-above mix rather than speeding a shift off fossil fuels, and separately supports 'responsible' oil and gas development on federal lands in the same article."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://www.yahoo.com/news/reaction-grand-valley-elected-officials-214755385.html",
+      "source_title": "Reaction from Grand Valley elected officials on gun rights bill (WesternSlopeNow, via Yahoo News)",
+      "date": "2025-04-04",
+      "quote": "the bill that was passed out of the Colorado State Legislature violates the Second Amendment rights of Colorado citizens. It's something that is very troubling to me.",
+      "note": "Said of SB25-003, the 2025 law requiring a permit for certain semiautomatic firearms. Coded disagree rather than strongly disagree because he addressed one law, not new restrictions in general. The story is a WesternSlopeNow (KREX) report read on Yahoo News, which syndicates it; the original page blocks automated reading."
     }
   ],
   "endorsements": [
@@ -248,13 +258,18 @@
       "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H4CO03357/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Reaction from Grand Valley elected officials on gun rights bill (WesternSlopeNow, via Yahoo News)",
+      "url": "https://www.yahoo.com/news/reaction-grand-valley-elected-officials-214755385.html",
+      "accessed": "2026-10-15"
     }
   ],
-  "last_checked": "2026-10-14",
-  "research_notes": "No sourceable statement found for Hurd on stricter gun laws, state-level Colorado ballot measures (income tax, TABOR, natural gas right, zoning, mail-ballot ID, plain-language ballots, redistricting commission, mail voting, minor gender-surgery ban, fentanyl/child-trafficking penalties, hunting right, immigration-notify-ICE) or clean-energy-shift; left uncoded rather than inferred from party or committee role. Gigafact's politiquote page (an aggregator) was fetched to double-check an older abortion quote attributed to a Sept. 30, 2024 debate video but was not independently verified against primary video; it is cited only as supporting context in a note, not as the basis for a scored position. congress.gov and govtrack.us (cited heavily in Ballotpedia's footnotes) are blocked to automated fetching per protocol. Second pass 2026-10-14: added clean-energy-shift from the Colorado Sun's Oct. 8, 2026 CD3 issue guide. The Denver Post's Oct. 3, 2026 CD3 candidate Q&A separately quotes Hurd saying he \"worked across the aisle and voted to extend enhanced premium tax credits,\" which a reviewer may want to weigh against the existing health-coverage position (coded 2, from an Oct. 7, 2026 Aspen Times Medicaid-work-requirements answer); left the existing position unchanged per protocol. Build review 2026-10-14: health-coverage recoded to 3 (mixed) from the Denver Post quote, with the Aspen Times work-requirements answer noted.",
+  "last_checked": "2026-10-15",
+  "research_notes": "No sourceable statement found for Hurd on stricter gun laws, state-level Colorado ballot measures (income tax, TABOR, natural gas right, zoning, mail-ballot ID, plain-language ballots, redistricting commission, mail voting, minor gender-surgery ban, fentanyl/child-trafficking penalties, hunting right, immigration-notify-ICE) or clean-energy-shift; left uncoded rather than inferred from party or committee role. Gigafact's politiquote page (an aggregator) was fetched to double-check an older abortion quote attributed to a Sept. 30, 2024 debate video but was not independently verified against primary video; it is cited only as supporting context in a note, not as the basis for a scored position. congress.gov and govtrack.us (cited heavily in Ballotpedia's footnotes) are blocked to automated fetching per protocol. Second pass 2026-10-14: added clean-energy-shift from the Colorado Sun's Oct. 8, 2026 CD3 issue guide. The Denver Post's Oct. 3, 2026 CD3 candidate Q&A separately quotes Hurd saying he \"worked across the aisle and voted to extend enhanced premium tax credits,\" which a reviewer may want to weigh against the existing health-coverage position (coded 2, from an Oct. 7, 2026 Aspen Times Medicaid-work-requirements answer); left the existing position unchanged per protocol. Build review 2026-10-14: health-coverage recoded to 3 (mixed) from the Denver Post quote, with the Aspen Times work-requirements answer noted. Gap fill 2026-10-15: Added his April 2025 statement opposing SB25-003. The Denver Post Q&A, the Colorado Sun CD3 guide, the Colorado Newsline CD3 page and his campaign issues page were read again; none address the state ballot measures that remain unknown.",
   "verification": {
-    "checked": "2026-10-14",
-    "positions_verified": 8,
+    "checked": "2026-10-15",
+    "positions_verified": 9,
     "positions_unverifiable": 0,
     "detail": {
       "federal-budget-law": "found",
@@ -264,7 +279,8 @@
       "public-lands": "found",
       "health-coverage": "found",
       "abortion-legal": "found",
-      "clean-energy-shift": "found"
+      "clean-energy-shift": "found",
+      "stricter-gun-laws": "found"
     }
   }
 }
