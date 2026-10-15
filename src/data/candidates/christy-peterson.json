@@ -92,16 +92,6 @@
       "quote": "Our local jurisdictions should be fully cooperative with immigration enforcement. All peacefully and respectfully. In fact any jurisdiction with \"sanctuary\" policy is the problem."
     },
     {
-      "statement": "public-lands",
-      "value": 1,
-      "source_type": "questionnaire",
-      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-1-candidate-qa/",
-      "source_title": "Colorado U.S. House District 1 candidate Q&A",
-      "date": "2026-10-03",
-      "quote": "Yes I am for allowing more public lands for extraction. These are resources we want plus work opportunities.",
-      "note": "Answering whether more federal land in Colorado should be opened to oil and gas extraction."
-    },
-    {
       "statement": "federal-budget-law",
       "value": 4,
       "source_type": "inferred",
@@ -173,7 +163,7 @@
   "research_notes": "Peterson's campaign did not respond to the Colorado Politics 2026 CD1 voter guide questionnaire, but did respond to the Denver Post's separate 2026 candidate Q&A, which supplied most of her positions here (her unedited first-person answers are stylistically consistent with her Ballotpedia survey). Her listed campaign website (christyforamerica.us) currently resolves to an unrelated parked/gambling-spam page, not her campaign; the Colorado Politics profile piece independently confirms a similarly styled site existed as of July 2026, so the URL is kept with this caveat for a reviewer. Colorado Public Radio (cpr.org) has a 1st Congressional District voter-guide entry on her per Google News, but cpr.org is on the blocked-fetch list and I could not locate a working web.archive.org mirror of it in this session. No FEC or TRACER finance figures were pulled (federal candidate; finance left null per instructions). No endorsements found on a fetched page beyond a single informal 'Sway voting group' recommendation, which was not notable enough to include. Second pass 2026-10-14: added clean-energy-shift from https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-1-candidate-qa/.",
   "verification": {
     "checked": "2026-10-14",
-    "positions_verified": 10,
+    "positions_verified": 9,
     "positions_unverifiable": 0,
     "detail": {
       "minor-gender-surgery-ban": "found",
@@ -182,7 +172,6 @@
       "stricter-gun-laws": "found",
       "deportation-priority": "found",
       "immigration-notify-ice": "found",
-      "public-lands": "found",
       "federal-budget-law": "found",
       "challenge-federal-policies": "found",
       "clean-energy-shift": "found"

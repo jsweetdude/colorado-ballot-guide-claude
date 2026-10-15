@@ -32,7 +32,18 @@
     }
   ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "immigration-notify-ice",
+      "value": 3,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/",
+      "source_title": "Colorado Governor candidate Q&A - The Denver Post",
+      "date": "2026-10-03",
+      "quote": "I don't agree with state laws that restrict legal and humane agent activities, but I agree that if profit-motivated ICE agents disregard laws, the state should restrict cooperation.",
+      "note": "Explicit middle/mixed position: supports cooperation with lawful ICE activity but supports restricting cooperation when ICE agents act unlawfully, rather than a clear agree or disagree with Amendment 81."
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
@@ -50,8 +61,21 @@
       "title": "T.J. Cole - Ballotpedia",
       "url": "https://ballotpedia.org/T.J._Cole",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Governor candidate Q&A - The Denver Post",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/",
+      "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Peckman's Ballotpedia 2026 Candidate Connection survey and his campaign site are built around a personal framework of 'coherence principles,' novel energy and emissions technology, and UFO/UAP disclosure rather than conventional policy positions; his platform discusses reducing emissions and government spending in ways that do not map cleanly onto the 25 statements' agree/disagree framing without stretching the text (e.g., he criticizes EV subsidies and 'milking' climate change for votes while also pitching his own emissions-reduction technology, which cuts in different directions on clean-energy-shift). No endorsements beyond a single crowd-sourced 'Sway' voting-group listing were found. Given the ambiguity, no positions are coded rather than force-fitting a value; a reviewer with more time may find clearer material in his full 'Solutions Blueprint' document linked from his site."
+  "research_notes": "Peckman's Ballotpedia 2026 Candidate Connection survey and his campaign site are built around a personal framework of 'coherence principles,' novel energy and emissions technology, and UFO/UAP disclosure rather than conventional policy positions; his platform discusses reducing emissions and government spending in ways that do not map cleanly onto the 25 statements' agree/disagree framing without stretching the text (e.g., he criticizes EV subsidies and 'milking' climate change for votes while also pitching his own emissions-reduction technology, which cuts in different directions on clean-energy-shift). No endorsements beyond a single crowd-sourced 'Sway' voting-group listing were found. Given the ambiguity, most positions are left uncoded rather than force-fitting a value; a reviewer with more time may find clearer material in his full 'Solutions Blueprint' document linked from his site. Second pass 2026-10-14: added immigration-notify-ice from https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/, which he did answer.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 1,
+    "positions_unverifiable": 0,
+    "detail": {
+      "immigration-notify-ice": "found"
+    }
+  }
 }

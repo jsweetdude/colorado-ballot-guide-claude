@@ -50,13 +50,18 @@
       "accessed": "2026-10-14"
     },
     {
+      "title": "Colorado U.S. House District 8 candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-8-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
       "title": "davewood4colorado.com",
       "url": "https://davewood4colorado.com",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Ballotpedia's page for this candidate is titled 'David Wood'; the assignment's name 'Dave Wood' is used in the output to match the ballot-order id. No campaign finance data available from the FEC as of the page's last update. Did not independently fetch davewood4colorado.com beyond confirming the URL on Ballotpedia, given the short-profile effort budget and that the Candidate Connection survey already covered his key messages (foreign policy/troop withdrawal, immigration, tariffs, debt) in his own words. No statements found on abortion, guns, health care, or Colorado ballot measures.",
+  "research_notes": "Ballotpedia's page for this candidate is titled 'David Wood'; the assignment's name 'Dave Wood' is used in the output to match the ballot-order id. No campaign finance data available from the FEC as of the page's last update. Did not independently fetch davewood4colorado.com beyond confirming the URL on Ballotpedia, given the short-profile effort budget and that the Candidate Connection survey already covered his key messages (foreign policy/troop withdrawal, immigration, tariffs, debt) in his own words. No statements found on abortion, guns, health care, or Colorado ballot measures. Second pass 2026-10-14: added public-lands from the Denver Post's CD8 candidate Q&A, which prints detailed first-person answers under 'David Wood' matching his Ballotpedia survey almost word for word on tariffs and immigration (confirming they are genuinely his) -- despite the same page's trailing note stating 'Dave Wood did not return the questionnaire,' which appears to be a stale editorial artifact rather than accurate; a reviewer should double-check this discrepancy with the Denver Post if possible.",
   "verification": {
     "checked": "2026-10-14",
     "positions_verified": 2,

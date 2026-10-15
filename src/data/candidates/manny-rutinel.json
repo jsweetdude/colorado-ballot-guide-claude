@@ -219,6 +219,16 @@
       "accessed": "2026-10-14"
     },
     {
+      "title": "Colorado U.S. House District 8 candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-8-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Congressional District 8: Evans and Rutinel compete in close race",
+      "url": "https://www.coloradopolitics.com/2026/10/02/gabe-evans-manny-rutinel-congressional-district-8/",
+      "accessed": "2026-10-14"
+    },
+    {
       "title": "mannyforcolorado.com",
       "url": "https://www.mannyforcolorado.com/",
       "accessed": "2026-10-14"
@@ -230,7 +240,7 @@
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Finance is federal and left null per protocol, though Ballotpedia notes he had raised $4.34 million as of June 30, 2026, for reference. On his Ballotpedia page, opponent Gabe Evans' Candidate Connection survey states Rutinel 'voted no on mandating minimum prison sentences for people who traffic and buy child sex slaves' in the state legislature, which would bear on the fentanyl-penalties and child-trafficking-life statements; this claim comes from Evans' campaign, not from Rutinel's own words or a verified vote record, so it was not used to code a position for Rutinel, and a reviewer may want to verify the underlying Colorado bill and vote. No direct statement found on energy/climate policy, public lands, or Colorado ballot measures on hunting rights, mail ballot ID, redistricting, or plain-language ballots. WebSearch budget was exhausted mid-research; relied on Ballotpedia, his campaign site, and leg.colorado.gov bill pages via direct fetch.",
+  "research_notes": "Finance is federal and left null per protocol, though Ballotpedia notes he had raised $4.34 million as of June 30, 2026, for reference. On his Ballotpedia page, opponent Gabe Evans' Candidate Connection survey states Rutinel 'voted no on mandating minimum prison sentences for people who traffic and buy child sex slaves' in the state legislature, which would bear on the fentanyl-penalties and child-trafficking-life statements; this claim comes from Evans' campaign, not from Rutinel's own words or a verified vote record, so it was not used to code a position for Rutinel, and a reviewer may want to verify the underlying Colorado bill and vote. No direct statement found on energy/climate policy, or Colorado ballot measures on hunting rights, mail ballot ID, redistricting, or plain-language ballots. WebSearch budget was exhausted mid-research; relied on Ballotpedia, his campaign site, and leg.colorado.gov bill pages via direct fetch. Second pass 2026-10-14: added public-lands from https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-8-candidate-qa/. The companion Colorado Politics profile has him criticizing Evans for 'getting rid of our tax credits' on energy, which is suggestive of support for clean-energy tax credits but too thin and opponent-focused to code against clean-energy-shift, so that statement is left unsourced.",
   "verification": {
     "checked": "2026-10-14",
     "positions_verified": 7,

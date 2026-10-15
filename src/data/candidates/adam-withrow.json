@@ -74,13 +74,18 @@
       "accessed": "2026-10-14"
     },
     {
+      "title": "Colorado U.S. Senate candidate Q&A - The Denver Post",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-u-s-senate-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
       "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/S6CO00564/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Withrow completed Ballotpedia's 2026 Candidate Connection survey, but it focused on general philosophy (cost of living, AI personhood, foreign policy) rather than the 25 coded statements, so it is not quoted directly. His campaign homepage addresses energy and health care but not most other topics on the list. His menu page lists further platform sections (Gun Rights, Housing, Immigration, Drugs and Crime, Voting Rights, etc.) but these render only via client-side JavaScript and were not retrievable as static text via curl; a Coloradoan Oct. 1, 2026 candidate Q&A exists for him but repeatedly failed to load fully through the available read-proxy (unlike the Huber and Baum Q&As, which worked), so it could not be used. He told Ballotpedia he declined to name endorsers when asked ('I'm not one to name names'), so no endorsements are listed despite his implication that some exist.",
+  "research_notes": "Withrow completed Ballotpedia's 2026 Candidate Connection survey, but it focused on general philosophy (cost of living, AI personhood, foreign policy) rather than the 25 coded statements, so it is not quoted directly. His campaign homepage addresses energy and health care but not most other topics on the list. His menu page lists further platform sections (Gun Rights, Housing, Immigration, Drugs and Crime, Voting Rights, etc.) but these render only via client-side JavaScript and were not retrievable as static text via curl; a Coloradoan Oct. 1, 2026 candidate Q&A exists for him but repeatedly failed to load fully through the available read-proxy (unlike the Huber and Baum Q&As, which worked), so it could not be used. He told Ballotpedia he declined to name endorsers when asked ('I'm not one to name names'), so no endorsements are listed despite his implication that some exist. Second pass 2026-10-14: the Denver Post's Oct. 3, 2026 Senate candidate Q&A confirms 'Christopher Baum and Adam Withrow did not return the questionnaire,' so no additional source was available there; no positions added.",
   "verification": {
     "checked": "2026-10-14",
     "positions_verified": 2,

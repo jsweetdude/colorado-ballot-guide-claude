@@ -48,8 +48,13 @@
       "title": "Colorado election: Q&A with U.S. Senate candidate Christopher Baum - The Coloradoan",
       "url": "https://www.coloradoan.com/story/news/politics/elections/2026/10/01/christopher-baum-running-for-election-to-u-s-senate-colorado-midterm/91799841007/",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado U.S. Senate candidate Q&A - The Denver Post",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-u-s-senate-candidate-qa/",
+      "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "No campaign website; Baum told the Coloradoan he has none. He had not completed a 2026 Ballotpedia Candidate Connection survey; his most recent completed survey (2022) was for a different office (Colorado House District 34) and addressed governing philosophy rather than specific policy, so it is not used here. In the Coloradoan's Oct. 1, 2026 candidate Q&A (fetched via a read-proxy after coloradoan.com returned 'Access Restricted' to direct automated fetches, including WebFetch), Baum said his top priorities are adopting approval voting and 'reduce government, eliminate debt,' and discussed foreign-policy/occupation views; none of this maps cleanly enough to any of the 25 coded statements to code without over-stretching a short, general answer, so positions are left empty rather than inferred. No sourced position was found on abortion, guns, immigration, tariffs, energy, health care, or any 2026 Colorado ballot measure despite searching; a reviewer may want to try reaching his campaign directly given how little public material exists."
+  "research_notes": "No campaign website; Baum told the Coloradoan he has none. He had not completed a 2026 Ballotpedia Candidate Connection survey; his most recent completed survey (2022) was for a different office (Colorado House District 34) and addressed governing philosophy rather than specific policy, so it is not used here. In the Coloradoan's Oct. 1, 2026 candidate Q&A (fetched via a read-proxy after coloradoan.com returned 'Access Restricted' to direct automated fetches, including WebFetch), Baum said his top priorities are adopting approval voting and 'reduce government, eliminate debt,' and discussed foreign-policy/occupation views; none of this maps cleanly enough to any of the 25 coded statements to code without over-stretching a short, general answer, so positions are left empty rather than inferred. No sourced position was found on abortion, guns, immigration, tariffs, energy, health care, or any 2026 Colorado ballot measure despite searching; a reviewer may want to try reaching his campaign directly given how little public material exists. Second pass 2026-10-14: the Denver Post's Oct. 3, 2026 Senate candidate Q&A confirms 'Christopher Baum and Adam Withrow did not return the questionnaire,' so no additional source was available there; no positions added."
 }

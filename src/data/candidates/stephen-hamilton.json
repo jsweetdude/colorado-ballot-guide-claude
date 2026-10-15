@@ -44,6 +44,36 @@
       "date": "2024-01-01",
       "quote": "no more unsecure ballot box drop offs , and when it comes to our elections we need to go back to the founding father's policies",
       "note": "Calls for ending ballot drop boxes as part of a broader call to change the state's election process."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 2,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/",
+      "source_title": "Colorado Governor candidate Q&A - The Denver Post",
+      "date": "2026-10-03",
+      "quote": "Work & Audit: 20-hour work/training requirement for able-bodied adults on Medicaid.",
+      "note": "Answering a question about the state's Medicaid funding crisis; he also proposes co-pays for non-emergency ER visits, exempting children, pregnant women and true emergencies, hence a qualified rather than unqualified disagreement."
+    },
+    {
+      "statement": "immigration-notify-ice",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/",
+      "source_title": "Colorado Governor candidate Q&A - The Denver Post",
+      "date": "2026-10-03",
+      "quote": "I will ENCOURAGE federal enforcement, not block it. Colorado's sanctuary laws put criminals before citizens.",
+      "note": "He also says he will order State Patrol and the Department of Corrections to fully cooperate with ICE detainers and will push to repeal Colorado's current limits on local-federal immigration cooperation."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 2,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/",
+      "source_title": "Colorado Governor candidate Q&A - The Denver Post",
+      "date": "2026-10-03",
+      "quote": "I’ll cut car prices: 75% tax break for automakers who flood dealers with affordable gas/hybrid inventory. No CA EV mandate – grid can’t handle it.",
+      "note": "Answering a question about transportation policy; opposes an EV mandate, coded as a qualified disagreement since this is specifically about EV mandates rather than energy policy generally."
     }
   ],
   "endorsements": [],
@@ -68,17 +98,25 @@
       "title": "James Treibert - Ballotpedia",
       "url": "https://ballotpedia.org/James_Treibert",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Governor candidate Q&A - The Denver Post",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/",
+      "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "No campaign website, prior offices, or 2026-specific news coverage could be found for Hamilton; he did not answer any question on his iVoterGuide questionnaire. The only substantive material located is a rambling 2024 Ballotpedia Candidate Connection survey response (note: Ballotpedia lists it as his 2024 submission, though he is the certified 2026 governor candidate); most of its content does not state a clear, codeable position on any of the 25 statements, so this profile is thin by necessity rather than by shortcut. A reviewer should double-check whether a more recent statement from him exists before publication.",
+  "research_notes": "No campaign website, prior offices, or 2026-specific news coverage could be found for Hamilton; he did not answer any question on his iVoterGuide questionnaire. The only substantive material located is a rambling 2024 Ballotpedia Candidate Connection survey response (note: Ballotpedia lists it as his 2024 submission, though he is the certified 2026 governor candidate); most of its content does not state a clear, codeable position on any of the 25 statements, so this profile is thin by necessity rather than by shortcut. A reviewer should double-check whether a more recent statement from him exists before publication. Second pass 2026-10-14: added health-coverage, immigration-notify-ice, clean-energy-shift from https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/, the Denver Post's 2026 governor candidate Q&A, which he did answer.",
   "verification": {
     "checked": "2026-10-14",
-    "positions_verified": 2,
+    "positions_verified": 5,
     "positions_unverifiable": 0,
     "detail": {
       "keep-tariffs": "found",
-      "keep-mail-voting": "found"
+      "keep-mail-voting": "found",
+      "health-coverage": "found",
+      "immigration-notify-ice": "found",
+      "clean-energy-shift": "found"
     }
   }
 }

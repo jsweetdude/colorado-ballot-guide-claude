@@ -200,6 +200,16 @@
       "date": "2026-03-05",
       "quote": "These tariffs are illegal and inappropriate and will harm Coloradans unless stopped by the courts. That is why we are once again taking action to stop the president from imposing illegal tariff taxes on Coloradans.",
       "note": "Statement as attorney general announcing a lawsuit to block the tariffs."
+    },
+    {
+      "statement": "conservation-sales-tax",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/09/30/proposition-137-colorado-conservation-wildfire-funding/",
+      "source_title": "What would Colorado Proposition 137 do? - The Colorado Sun",
+      "date": "2026-09-30",
+      "quote": "That's a responsible way to ensure these important priorities are supported while not reducing critical funds for K-12 schools and healthcare",
+      "note": "In late September 2026 Weiser announced his support for Proposition 137; this quote is from his statement explaining why."
     }
   ],
   "endorsements": [
@@ -283,16 +293,21 @@
       "accessed": "2026-10-14"
     },
     {
+      "title": "What would Colorado Proposition 137 do? - The Colorado Sun",
+      "url": "https://coloradosun.com/2026/09/30/proposition-137-colorado-conservation-wildfire-funding/",
+      "accessed": "2026-10-14"
+    },
+    {
       "title": "philforcolorado.com",
       "url": "https://philforcolorado.com",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Weiser explicitly declined to take a position on the graduated state income tax ballot measure (then 'Proposed Initiative 195,' now Amendment 87) in the Aug. 27, 2026 debate with Lopez, saying 'I don't take positions until something is actually certified' (montrosepress.com/coloradopolitics.com coverage of that debate) -- so graduated-income-tax and income-tax-cap are left uncoded rather than stretched from that non-answer. No fetched source was found with his position on natural-gas-right (Amendment 82), conservation-sales-tax (Prop 137), mail-ballot-id, plain-language-ballots, redistricting-commission, keep-mail-voting, fentanyl-penalties, child-trafficking-life, sports-biological-sex, or deportation-priority; these are left out of positions rather than guessed. The clean-energy-shift coding reflects a genuine tension between his campaign platform's emission-reduction and solar/wind language and his more open-ended answer on continued oil and gas drilling in an Oct. 10, 2026 Colorado Sun interview; a reviewer may want to weigh those differently. Campaign finance totals for the 2026 governor's race were mentioned in web search summaries but no specific TRACER or news figure with a full citation was located in a fetched page, so finance is null. Build review 2026-10-14: removed the hunting-right position. In the June 24, 2026 Colorado Sun guide Weiser said he would listen to backers and opponents before deciding, which is not yet a position.",
+  "research_notes": "Weiser explicitly declined to take a position on the graduated state income tax ballot measure (then 'Proposed Initiative 195,' now Amendment 87) in the Aug. 27, 2026 debate with Lopez, saying 'I don't take positions until something is actually certified' (montrosepress.com/coloradopolitics.com coverage of that debate) -- so graduated-income-tax and income-tax-cap are left uncoded rather than stretched from that non-answer. No fetched source was found with his position on natural-gas-right (Amendment 82), conservation-sales-tax (Prop 137), mail-ballot-id, plain-language-ballots, redistricting-commission, keep-mail-voting, fentanyl-penalties, child-trafficking-life, sports-biological-sex, or deportation-priority; these are left out of positions rather than guessed. The clean-energy-shift coding reflects a genuine tension between his campaign platform's emission-reduction and solar/wind language and his more open-ended answer on continued oil and gas drilling in an Oct. 10, 2026 Colorado Sun interview; a reviewer may want to weigh those differently. Campaign finance totals for the 2026 governor's race were mentioned in web search summaries but no specific TRACER or news figure with a full citation was located in a fetched page, so finance is null. Build review 2026-10-14: removed the hunting-right position. In the June 24, 2026 Colorado Sun guide Weiser said he would listen to backers and opponents before deciding, which is not yet a position. Second pass 2026-10-14: added conservation-sales-tax from https://coloradosun.com/2026/09/30/proposition-137-colorado-conservation-wildfire-funding/.",
   "verification": {
     "checked": "2026-10-14",
-    "positions_verified": 12,
+    "positions_verified": 13,
     "positions_unverifiable": 0,
     "detail": {
       "abortion-legal": "found",
@@ -306,7 +321,8 @@
       "housing-state-zoning": "found",
       "keep-tabor-surplus": "found",
       "health-coverage": "found",
-      "keep-tariffs": "found"
+      "keep-tariffs": "found",
+      "conservation-sales-tax": "found"
     }
   }
 }

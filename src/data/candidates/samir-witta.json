@@ -36,23 +36,13 @@
       "date_basis": "accessed"
     },
     {
-      "statement": "public-lands",
-      "value": 4,
-      "source_type": "questionnaire",
-      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-6-candidate-qa/",
-      "source_title": "Colorado U.S. House District 6 candidate Q&A",
-      "date": "2026-10-03",
-      "quote": "I oppose blanket expansion of oil and gas leasing without rigorous environmental review and full community input.",
-      "note": "Answering whether more federal land in Colorado should be opened to oil and gas extraction; coded as agree-with-qualifications since he does not rule out all extraction, only expansion without review."
-    },
-    {
       "statement": "clean-energy-shift",
       "value": 4,
       "source_type": "questionnaire",
       "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-6-candidate-qa/",
       "source_title": "Colorado U.S. House District 6 candidate Q&A",
       "date": "2026-10-03",
-      "quote": "I would direct federal land agencies to prioritize responsible renewable energy development on appropriate federal lands, protect Colorado's watersheds from contamination, and require that any extraction activity meets the highest environmental standards",
+      "quote": "I would direct federal land agencies to prioritize responsible renewable energy development on appropriate federal lands, protect Colorado’s watersheds from contamination, and require that any extraction activity meets the highest environmental standards",
       "note": "Qualified support ('responsible' renewable energy, 'appropriate' lands) rather than an unqualified call to accelerate the shift."
     },
     {
@@ -102,11 +92,10 @@
   "research_notes": "His campaign website (wittaforcongress.com) is a JavaScript-rendered site that did not return readable issue text via a plain fetch; relied on his Ballotpedia Candidate Connection survey instead, which focuses heavily on health care costs, housing affordability (rent/HOA caps), and reducing the influence of donor money, none of which besides health-coverage maps cleanly to the 25 statements. No statements found on abortion, guns, or the Colorado ballot measures. No endorsements listed on Ballotpedia. Campaign finance is available from Ballotpedia/FEC data ($103,438 raised, $150,687 spent for the 2026 cycle) but left null per the federal-candidate finance rule. Second pass 2026-10-14: added public-lands, clean-energy-shift and deportation-priority from https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-6-candidate-qa/.",
   "verification": {
     "checked": "2026-10-14",
-    "positions_verified": 4,
+    "positions_verified": 3,
     "positions_unverifiable": 0,
     "detail": {
       "health-coverage": "found",
-      "public-lands": "found",
       "clean-energy-shift": "found",
       "deportation-priority": "found"
     }

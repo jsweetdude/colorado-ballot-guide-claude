@@ -41,6 +41,16 @@
       "date": "2026-10-01",
       "quote": "rational immigration reform that secures our borders while providing realistic legal pathways for people who want to work and contribute. Enforcement should focus on genuine threats, not workers and families trying to build better lives.",
       "note": "Explicitly supports border enforcement against 'genuine threats' while opposing enforcement against working immigrants and families; coded as an explicit middle/mixed position."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 2,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-senate-candidate-qa/",
+      "source_title": "Colorado U.S. Senate candidate Q&A - The Denver Post",
+      "date": "2026-10-03",
+      "quote": "expanding domestic energy production without government favoring particular energy sources",
+      "note": "Answering a question about the cost of living, Huber said he supports removing regulations and expanding domestic energy production 'without government favoring particular energy sources,' which opposes clean-energy mandates that favor renewables; coded as a qualified rather than unqualified disagreement since he also supports a general all-of-the-above approach rather than expanding fossil fuels specifically."
     }
   ],
   "endorsements": [],
@@ -57,19 +67,25 @@
       "accessed": "2026-10-14"
     },
     {
+      "title": "Colorado U.S. Senate candidate Q&A - The Denver Post",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-u-s-senate-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
       "title": "lpcocolorado.my.canva.site",
       "url": "https://lpcocolorado.my.canva.site/blake-huber-us-senate-website",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Ballotpedia has no biography section for Huber and lists no 2026 campaign content beyond the race listing. The Coloradoan's Oct. 1, 2026 candidate Q&A (fetched via a read-proxy after coloradoan.com itself returned 'Access Restricted' to direct automated fetches, including WebFetch) was the main usable source; his only completed Ballotpedia survey (2018, for Colorado Secretary of State) addressed voting-method reform (approval/ranked-choice voting), which is not one of the 25 coded statements. His top stated priority is housing supply/affordability generally and election-method reform (approval voting); neither maps cleanly to a coded statement, so only one position (deportation-priority) could be sourced. No sourced position found on abortion, guns, taxes, tariffs, energy, or most ballot measures.",
+  "research_notes": "Ballotpedia has no biography section for Huber and lists no 2026 campaign content beyond the race listing. The Coloradoan's Oct. 1, 2026 candidate Q&A (fetched via a read-proxy after coloradoan.com itself returned 'Access Restricted' to direct automated fetches, including WebFetch) was the main usable source; his only completed Ballotpedia survey (2018, for Colorado Secretary of State) addressed voting-method reform (approval/ranked-choice voting), which is not one of the 25 coded statements. His top stated priority is housing supply/affordability generally and election-method reform (approval voting); neither maps cleanly to a coded statement, so only one position (deportation-priority) could be sourced. No sourced position found on abortion, guns, taxes, tariffs, energy, or most ballot measures. Second pass 2026-10-14: added clean-energy-shift from https://www.denverpost.com/2026/10/03/colorado-u-s-senate-candidate-qa/.",
   "verification": {
     "checked": "2026-10-14",
-    "positions_verified": 0,
+    "positions_verified": 1,
     "positions_unverifiable": 1,
     "detail": {
-      "deportation-priority": "unreachable"
+      "deportation-priority": "unreachable",
+      "clean-energy-shift": "found"
     }
   }
 }

@@ -33,6 +33,10 @@ const edits = [
   { id: 'chad-humphrey', why: 'Marijuana liberty statement does not address fentanyl sentencing', drop: ['fentanyl-penalties'] },
   { id: 'dan-sallis', why: 'General principles do not name these policy areas', drop: ['fentanyl-penalties', 'abortion-legal'] },
   { id: 'stephen-hamilton', why: 'Neutral wording', set: { 'keep-tariffs': { note: 'His survey response covers many topics; most of it does not map onto the 25 statements, so only a few positions are coded.' } } },
+  // The Denver Post asked whether more federal land should be opened to oil and gas drilling. That is about drilling
+  // (see clean-energy-shift), not about keeping land in federal ownership, which is what public-lands asks.
+  ...['christy-peterson', 'dave-wood', 'gabe-evans', 'manny-rutinel', 'melat-kiros', 'samir-witta', 'shimon-blau'].map((id) => ({ id, why: 'Drilling answer is not an ownership position', drop: ['public-lands'] })),
+  { id: 'jason-clark', why: 'Record points both ways', set: { 'deportation-priority': { value: 3, note: 'In the same interview he said immigration enforcement "has been reckless" and that he supports the agents and the detention facility; coded as mixed.' } } },
   // Record items: votes, bills and official decisions only, in neutral words
   { id: 'gabe-evans', why: 'A roundtable is an event, not a decision', dropRecord: /^Hosted CMS/ },
   { id: 'jena-griswold', why: 'Neutral wording', renameRecord: [/^Championed election-security legislation as Secretary of State$/, 'Election-security legislation backed as Secretary of State'] },

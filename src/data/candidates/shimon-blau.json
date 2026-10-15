@@ -48,15 +48,6 @@
       "note": "Explicitly mixed: supports deporting those who threaten public safety while opposing broader enforcement he calls indiscriminate."
     },
     {
-      "statement": "public-lands",
-      "value": 5,
-      "source_type": "questionnaire",
-      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-1-candidate-qa/",
-      "source_title": "Colorado U.S. House District 1 candidate Q&A",
-      "date": "2026-10-03",
-      "quote": "I do not believe more federal land in Colorado should be opened to oil and gas extraction."
-    },
-    {
       "statement": "clean-energy-shift",
       "value": 4,
       "source_type": "questionnaire",
@@ -121,12 +112,11 @@
   "research_notes": "Finance left null per instructions even though his Ballotpedia page reports FEC-sourced 2026 totals ($184,750 raised / $119,805 spent), since he is a federal candidate and the build team pulls FEC numbers centrally.",
   "verification": {
     "checked": "2026-10-14",
-    "positions_verified": 4,
+    "positions_verified": 3,
     "positions_unverifiable": 0,
     "detail": {
       "health-coverage": "found",
       "deportation-priority": "found",
-      "public-lands": "found",
       "clean-energy-shift": "found"
     }
   }

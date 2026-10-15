@@ -181,6 +181,16 @@
       "date": "2026-06-06",
       "quote": "How do you plan to vote on Initiatives 108, 109 and 110, which would, respectively, make child sex trafficking punishable by life in prison without the possibility of parole; prohibit transgender kids and college students from participating in gendered sports that do not align with their biological sex; and prohibit surgery on a child for the purpose of altering their biological sex characteristics. [Victor Marx:] Yes.",
       "note": "The Colorado Sun asked one question about Initiatives 108, 109 and 110, which became Propositions 133, 134 and 135; Marx answered yes to all three."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 2,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/",
+      "source_title": "Colorado Governor candidate Q&A - The Denver Post",
+      "date": "2026-10-03",
+      "quote": "Savings should protect access for children, pregnant women, seniors and people with disabilities, while maintaining adequate rates for essential providers. We cannot solve this with one-time money or across-the-board cuts that drive providers out.",
+      "note": "Answering a question about the state's Medicaid funding crisis, Marx said he would require an audit and pursue fraud/waste savings rather than new funding, but explicitly ruled out across-the-board cuts; coded as a qualified rather than unqualified disagreement."
     }
   ],
   "endorsements": [
@@ -250,16 +260,21 @@
       "accessed": "2026-10-14"
     },
     {
+      "title": "Colorado Governor candidate Q&A - The Denver Post",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
       "title": "victor2026.com",
       "url": "https://www.victor2026.com",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Marx has never held elected office, so record is empty. No fetched source was found addressing keep-tabor-surplus (Proposition NN) by name, conservation-sales-tax (Proposition 137), public-lands (federal land sales), health-coverage, keep-tariffs, federal-budget-law (OBBBA), deportation-priority as distinct from state/ICE cooperation, challenge-federal-policies, plain-language-ballots, or redistricting-commission; these are left out of positions. The TRACER donor-filing irregularities reported by Colorado Times Recorder (flagged in the finance note) are worth double-checking against the Secretary of State's corrected filing before using the fundraising figure prominently.",
+  "research_notes": "Marx has never held elected office, so record is empty. No fetched source was found addressing keep-tabor-surplus (Proposition NN) by name, conservation-sales-tax (Proposition 137), public-lands (federal land sales), keep-tariffs, federal-budget-law (OBBBA), deportation-priority as distinct from state/ICE cooperation, challenge-federal-policies, plain-language-ballots, or redistricting-commission; these are left out of positions. The TRACER donor-filing irregularities reported by Colorado Times Recorder (flagged in the finance note) are worth double-checking against the Secretary of State's corrected filing before using the fundraising figure prominently. Second pass 2026-10-14: added health-coverage from https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/.",
   "verification": {
     "checked": "2026-10-14",
-    "positions_verified": 14,
+    "positions_verified": 15,
     "positions_unverifiable": 0,
     "detail": {
       "abortion-legal": "found",
@@ -275,7 +290,8 @@
       "stricter-gun-laws": "found",
       "child-trafficking-life": "found",
       "sports-biological-sex": "found",
-      "minor-gender-surgery-ban": "found"
+      "minor-gender-surgery-ban": "found",
+      "health-coverage": "found"
     }
   }
 }
