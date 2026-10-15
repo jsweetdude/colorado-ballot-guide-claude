@@ -47,5 +47,13 @@
     }
   ],
   "last_checked": "2026-10-15",
-  "research_notes": "No biography, occupation, or issue positions could be found for Robertson. He has not completed Ballotpedia's Candidate Connection survey. His campaign website (a Canva site) returns only a \"CO-03 District\" heading with no further text to fetch. BallotReady and iVoterGuide listings were checked and likewise contain no biographical or policy content. All fields beyond id/name/race/party/profile/website are empty for lack of any sourceable material, per protocol (unknown is acceptable; nothing was invented). Gap fill 2026-10-15: Added his Vote411 answer on guns. His other Vote411 answers (AI, deregulation, Social Security, religious funding) do not map to the statements; the energy answer favors deregulation and curbing oil-industry lobbying without taking a side on the pace of a shift, so it is not coded."
+  "research_notes": "No biography, occupation, or issue positions could be found for Robertson. He has not completed Ballotpedia's Candidate Connection survey. His campaign website (a Canva site) returns only a \"CO-03 District\" heading with no further text to fetch. BallotReady and iVoterGuide listings were checked and likewise contain no biographical or policy content. All fields beyond id/name/race/party/profile/website are empty for lack of any sourceable material, per protocol (unknown is acceptable; nothing was invented). Gap fill 2026-10-15: Added his Vote411 answer on guns. His other Vote411 answers (AI, deregulation, Social Security, religious funding) do not map to the statements; the energy answer favors deregulation and curbing oil-industry lobbying without taking a side on the pace of a shift, so it is not coded.",
+  "verification": {
+    "checked": "2026-10-15",
+    "positions_verified": 0,
+    "positions_unverifiable": 1,
+    "detail": {
+      "stricter-gun-laws": "not-found"
+    }
+  }
 }

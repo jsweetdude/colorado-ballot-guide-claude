@@ -2,7 +2,7 @@
 
 **Production URL: https://colorado-ballot-guide-claude.vercel.app**
 
-Built and shipped in one session on October 14, 2026 (Mountain time), from the brief in `brief/BUILD-BRIEF.md` (the `brief/` folder is kept out of the repository; see DECISIONS.md item 2). Repository: `jsweetdude/colorado-ballot-guide-claude`, branch `main`. Every judgment call is in `DECISIONS.md`.
+Built and shipped in one session on October 14, 2026 (Mountain time), and extended in a gap-fill session on October 15 and 16 (see "Gap fill" below), from the brief in `brief/BUILD-BRIEF.md` (the `brief/` folder is kept out of the repository; see DECISIONS.md item 2). Repository: `jsweetdude/colorado-ballot-guide-claude`, branch `main`. Every judgment call is in `DECISIONS.md`.
 
 ## What was built
 
@@ -24,17 +24,19 @@ Built and shipped in one session on October 14, 2026 (Mountain time), from the b
 
 ## Candidates and coverage
 
+As of October 16, 2026, after the gap fill (the October 14 numbers are in the gap-fill section below).
+
 | Group | Candidates | Full | Partial | Unknown |
 |---|---|---|---|---|
-| Tier A, major party | 26 | 16 | 10 | 0 |
+| Tier A, major party | 26 | 21 | 5 | 0 |
 | Tier A, unaffiliated with full profile (Lopez) | 1 | 1 | 0 | 0 |
-| Tier A, minor party and other unaffiliated | 30 | 0 | 19 | 11 |
-| Tier B (regents, State Board) | 17 | 0 | 8 | 9 |
-| All | 74 | 17 | 37 | 20 |
+| Tier A, minor party and other unaffiliated | 30 | 1 | 20 | 9 |
+| Tier B (regents, State Board) | 17 | 0 | 11 | 6 |
+| All | 74 | 23 | 36 | 15 |
 
-"Full" means known on at least a third of the statements used for the candidate's race, so they rank for a visitor who answers everything. "Partial" means at least one known position but fewer. Attorney general, secretary of state and treasurer are measured against their office's statement set (9, 5 and 5 statements); everyone else against all 25.
+"Full" means known on at least a third of the statements used for the candidate's race, so they rank for a visitor who answers everything. "Partial" means at least one known position but fewer. Attorney general, secretary of state and treasurer are measured against their office's statement set (9, 5 and 5 statements); everyone else against all 25. A race is ranked only when at least two candidates are "full" (the fairness rule, below).
 
-**295 sourced positions** in all: 73 questionnaire answers, 31 recorded votes, 11 sponsored bills, 139 direct statements, 35 inferred (labeled as such), 6 interest-group ratings or endorsements. 36 positions come from undated pages or pages giving only a year and are shown that way, never with an invented day.
+**325 sourced positions** in all: questionnaire answers: 83, recorded votes: 33, sponsored bills: 12, direct statements: 146, inferred (labeled as such): 45, interest-group ratings or endorsements: 6.
 
 <details>
 <summary>Every candidate</summary>
@@ -44,40 +46,40 @@ Built and shipped in one session on October 14, 2026 (Mountain time), from the b
 | us-senate | Mark Baisley | Republican | 9 / 25 | full |
 | us-senate | John Hickenlooper | Democratic | 9 / 25 | full |
 | us-senate | Bob Chew | Forward | 6 / 25 | partial |
-| us-senate | Christopher Baum | Approval Voting | 0 / 25 | unknown |
+| us-senate | Christopher Baum | Approval Voting | 3 / 25 | partial |
 | us-senate | Blake Huber | Libertarian | 2 / 25 | partial |
-| us-senate | Adam Withrow | Unity | 2 / 25 | partial |
+| us-senate | Adam Withrow | Unity | 3 / 25 | partial |
 | governor | Victor Marx | Republican | 15 / 25 | full |
 | governor | Phil Weiser | Democratic | 13 / 25 | full |
 | governor | Stephen T. Hamilton | American Constitution | 5 / 25 | partial |
-| governor | Eric Mulder | Libertarian | 4 / 25 | partial |
-| governor | Jeff Peckman | Unity | 1 / 25 | partial |
+| governor | Eric Mulder | Libertarian | 5 / 25 | partial |
+| governor | Jeff Peckman | Unity | 4 / 25 | partial |
 | governor | Erik Underwood | Approval Voting | 7 / 25 | partial |
 | governor | Greg Lopez | Unaffiliated | 14 / 25 | full |
 | attorney-general | Michael J. Allen | Republican | 7 / 9 (12 of 25 overall) | full |
 | attorney-general | Jena Griswold | Democratic | 5 / 9 (8 of 25 overall) | full |
 | secretary-of-state | Amanda Gonzalez | Democratic | 3 / 5 (3 of 25 overall) | full |
 | secretary-of-state | James Wiley | Republican | 3 / 5 (3 of 25 overall) | full |
-| secretary-of-state | Sean Vadney | Libertarian | 1 / 5 (1 of 25 overall) | partial |
+| secretary-of-state | Sean Vadney | Libertarian | 2 / 5 (2 of 25 overall) | full |
 | secretary-of-state | Amanda Campbell | American Constitution | 0 / 5 (0 of 25 overall) | unknown |
 | secretary-of-state | Celeste Landry | Forward | 1 / 5 (1 of 25 overall) | partial |
-| treasurer | Jeff Bridges | Democratic | 1 / 5 (4 of 25 overall) | partial |
-| treasurer | Kevin Grantham | Republican | 1 / 5 (1 of 25 overall) | partial |
+| treasurer | Jeff Bridges | Democratic | 2 / 5 (6 of 25 overall) | full |
+| treasurer | Kevin Grantham | Republican | 2 / 5 (3 of 25 overall) | full |
 | treasurer | Jodie Barr | Libertarian | 1 / 5 (1 of 25 overall) | partial |
 | treasurer | Marilee Langner Sturgis | Approval Voting | 0 / 5 (0 of 25 overall) | unknown |
-| us-house-1 | Melat Kiros | Democratic | 10 / 25 | full |
+| us-house-1 | Melat Kiros | Democratic | 11 / 25 | full |
 | us-house-1 | Christy Peterson | Republican | 9 / 25 | full |
 | us-house-1 | Critter Milton | Unity | 0 / 25 | unknown |
 | us-house-1 | Chad Humphrey | Libertarian | 4 / 25 | partial |
-| us-house-1 | Shimon Blau | Unaffiliated | 3 / 25 | partial |
+| us-house-1 | Shimon Blau | Unaffiliated | 4 / 25 | partial |
 | us-house-2 | Joe Neguse | Democratic | 10 / 25 | full |
-| us-house-2 | Kelley Anne Dennison | Republican | 2 / 25 | partial |
+| us-house-2 | Kelley Anne Dennison | Republican | 6 / 25 | partial |
 | us-house-2 | Gaylon Kent | Libertarian | 5 / 25 | partial |
 | us-house-3 | Dwayne L. Romero | Democratic | 7 / 25 | partial |
-| us-house-3 | Jeff Hurd | Republican | 8 / 25 | partial |
-| us-house-3 | Cory Robertson | Libertarian | 0 / 25 | unknown |
+| us-house-3 | Jeff Hurd | Republican | 9 / 25 | full |
+| us-house-3 | Cory Robertson | Libertarian | 1 / 25 | partial |
 | us-house-3 | Clifton Brown | Unaffiliated | 0 / 25 | unknown |
-| us-house-4 | Lauren Boebert | Republican | 9 / 25 | full |
+| us-house-4 | Lauren Boebert | Republican | 10 / 25 | full |
 | us-house-4 | Eileen Laubacher | Democratic | 4 / 25 | partial |
 | us-house-4 | Douglas Mangeris | Libertarian | 0 / 25 | unknown |
 | us-house-5 | Jeff Crank | Republican | 12 / 25 | full |
@@ -89,14 +91,14 @@ Built and shipped in one session on October 14, 2026 (Mountain time), from the b
 | us-house-6 | Patty McMahon | Libertarian | 0 / 25 | unknown |
 | us-house-6 | Meredith Ryan | Unity | 3 / 25 | partial |
 | us-house-6 | Samir Ezzeldin Witta | Unaffiliated | 3 / 25 | partial |
-| us-house-7 | Tim Bennett | Republican | 5 / 25 | partial |
-| us-house-7 | Brittany Pettersen | Democratic | 8 / 25 | partial |
+| us-house-7 | Tim Bennett | Republican | 6 / 25 | partial |
+| us-house-7 | Brittany Pettersen | Democratic | 9 / 25 | full |
 | us-house-7 | Susan Hall | Unity | 0 / 25 | unknown |
 | us-house-7 | Lawrence Kyle Clark | American Constitution | 0 / 25 | unknown |
 | us-house-7 | Dan "Kilo" Sallis | Libertarian | 4 / 25 | partial |
 | us-house-7 | Joe Krzeczkowski | Unaffiliated | 6 / 25 | partial |
-| us-house-8 | Gabe Evans | Republican | 9 / 25 | full |
-| us-house-8 | Manny Rutinel | Democratic | 7 / 25 | partial |
+| us-house-8 | Gabe Evans | Republican | 10 / 25 | full |
+| us-house-8 | Manny Rutinel | Democratic | 9 / 25 | full |
 | us-house-8 | Dave Wood | Libertarian | 2 / 25 | partial |
 | state-board-1 | Lisa Escárcega | Democratic | 2 / 25 | partial |
 | state-board-1 | Frederick Espinoza | Republican | 2 / 25 | partial |
@@ -110,11 +112,11 @@ Built and shipped in one session on October 14, 2026 (Mountain time), from the b
 | cu-regent-2 | Edie Hooton | Democratic | 2 / 25 | partial |
 | cu-regent-2 | Richard Friend | Libertarian | 0 / 25 | unknown |
 | cu-regent-6 | Veanessa Burbage | Republican | 0 / 25 | unknown |
-| cu-regent-6 | Ilana Spiegel | Democratic | 0 / 25 | unknown |
+| cu-regent-6 | Ilana Spiegel | Democratic | 1 / 25 | partial |
 | cu-regent-6 | Joe Johnson | Libertarian | 0 / 25 | unknown |
 | cu-regent-7 | Paul Mueller | Republican | 0 / 25 | unknown |
-| cu-regent-7 | Nolbert Chavez | Democratic | 0 / 25 | unknown |
-| cu-regent-7 | BetteRose Ryan | Libertarian | 0 / 25 | unknown |
+| cu-regent-7 | Nolbert Chavez | Democratic | 1 / 25 | partial |
+| cu-regent-7 | BetteRose Ryan | Libertarian | 1 / 25 | partial |
 
 </details>
 
@@ -146,6 +148,66 @@ Built and shipped in one session on October 14, 2026 (Mountain time), from the b
 24. **Governance, Elections:** Colorado's all-mail ballot election system should stay largely as it is.
 25. **Governance, State and federal:** Colorado's state government should challenge the current federal administration's policies in court.
 
+## Gap fill, October 15 and 16, 2026
+
+A second session worked the coverage gap: incumbents had voting records, challengers did not, so in CD2, CD4, CD6 and CD8 only the incumbent ranked and treasurer, CD3 and CD7 ranked nobody. The brief for that session is summarized in `research/gap-list-2026-10-16.md`; its decisions are DECISIONS.md items 51 to 65.
+
+### Before and after
+
+| | Before (Oct. 14) | After (Oct. 16) |
+|---|---|---|
+| Candidates rankable for a full interview | 17 | 23 |
+| Candidates with some positions, below the bar | 37 | 36 |
+| Candidates with no sourced position | 20 | 15 |
+| Sourced positions | 295 | 325 |
+| Major-party candidates over the bar | 16 of 26 | 21 of 26 |
+
+Thirty positions were added: 12 in the first batch (priority-1 challengers, the two treasurer candidates, Hurd and Pettersen), 5 confirmed from the sibling build's sources, 3 from Chalkbeat's regent guide, and 10 from Vote411 answers by statewide minor-party candidates and one CD3 candidate. Every one carries a fetched source, a verbatim quote, a source type and a date; `scripts/verify-sources.mjs` found the quote on its source page for 308 of the 325 positions. The 17 it could not confirm are the 10 Vote411 answers and 4 quotes from Kelley Dennison's site, which only render in a browser, and 3 CPR News interviews, which block scripts; all 17 were read in Chrome.
+
+### Per-race ranking status
+
+The fairness rule (DECISIONS.md item 61) now ranks a race only when at least two candidates clear the one-third bar. Otherwise every candidate is shown as "not enough known to compare," with known positions and the visitor's own answers side by side, and no one is called a top match.
+
+| Race | Before | After |
+|---|---|---|
+| us-senate | ranked | ranked |
+| governor | ranked | ranked |
+| attorney-general | ranked | ranked |
+| secretary-of-state | ranked (Gonzalez, Wiley) | ranked (Gonzalez, Wiley, Vadney) |
+| treasurer | nobody ranked | ranked (Bridges 2/5, Grantham 2/5) |
+| us-house-1 | ranked | ranked |
+| us-house-2 | Neguse only | not ranked under the fairness rule (Neguse 10/25; Dennison 6/25) |
+| us-house-3 | nobody ranked | not ranked under the fairness rule (Hurd 9/25; Romero 7/25) |
+| us-house-4 | Boebert only | not ranked under the fairness rule (Boebert 10/25; Laubacher 4/25) |
+| us-house-5 | ranked | ranked |
+| us-house-6 | Crow only | not ranked under the fairness rule (Crow 10/25; Clark 5/25) |
+| us-house-7 | nobody ranked | not ranked under the fairness rule (Pettersen 9/25; Bennett 6/25) |
+| us-house-8 | Evans only | ranked (Evans 10/25, Rutinel 9/25) |
+| State Board (3 races) and CU regents (3 races) | nobody ranked | nobody ranked |
+
+### What remains unknown, and why
+
+- **Romero (CD3, 7 of 25), Laubacher (CD4, 4), Clark (CD6, 5), Bennett (CD7, 6) and Dennison (CD2, 6)** stay below the bar. Each was checked against the Denver Post Q&A, the Colorado Sun's guide where one exists, CPR News, Colorado Newsline, Vote411, KUNC, Ballotpedia, their own sites and local coverage. What those sources cover (tariffs, health care, immigration, energy, public lands) was already coded; the statements still unknown are mostly the 14 state ballot measures, guns and abortion, which no outlet asked congressional candidates about and which their campaigns have not addressed. None of the five answered Vote411.
+- **Treasurer:** Bridges and Grantham each reached 2 of 5 and the race now ranks, but neither has been found on Amendment 87 or Proposition 137, and Grantham's income-tax-cap position is an inference from a 2018 bill he sponsored.
+- **The 15 candidates with nothing** are minor-party, unaffiliated, regent and State Board candidates whose public material does not touch the 25 statements. The State Board and regent candidates were coded from Chalkbeat's school-funding and federal-oversight questions; its other questions are about education policy, which the statements do not cover.
+- **Vote411** reaches House candidates only on guns and energy, and its address lookup rejected the place-name addresses it suggested for other districts, so only CD3 and the statewide races were read there.
+
+### Other changes in this session
+
+- **Amendment 87 and the October 26 date** were checked against the Blue Book and the Secretary of State's 2026 election calendar. Both were already right in the data and on the landing page (DECISIONS.md items 12 and 14); the landing page card now also says registration continues in person through Election Day.
+- **Campaign finance** was refreshed from the FEC API on October 15. The API had processed third-quarter reports for only five candidates (period ending September 30); 16 federal candidates still show totals through June 30, and 6 have no report on file. The "as of" date on each profile says which.
+- **A blind recode file**, `research/codes-for-blind-review.json`, lists all 325 positions with the coding guide, quote and source but without the 1 to 5 code, for an independent second coding.
+- **A campaign email**, `research/campaign-email.md`, carries the 25 statements and the scale for John to send, with the contact addresses found for the priority-1 campaigns.
+- **The theme is pinned to light**, and scrollable tables are keyboard-focusable regions.
+- Tests: 31 unit tests (3 new, for the fairness rule) and 37 Playwright tests pass; the link check found 359 of 365 URLs loading, with the same 3 script-blocked and 3 unreachable pages as before plus the Vote411 and campaign-site pages described above.
+
+### Not done
+
+- No Vote411 answers for House districts other than CD3.
+- No second coder has run the blind file yet.
+- No campaign has been emailed; John sends the message himself.
+- State candidates' finance totals are still not pulled from TRACER.
+
 ## Phases and time
 
 Times are Mountain Daylight Time on October 14, 2026, from the session's own log and the commit history. Research ran in parallel with the build, so phases overlap.
@@ -165,7 +227,7 @@ Times are Mountain Daylight Time on October 14, 2026, from the session's own log
 
 What was checked by machine, in this session:
 
-- **Quotes:** `scripts/verify-sources.mjs` re-fetched every position's source and found the quote on the page for **294 of 295 positions**. House roll calls were checked against the House Clerk's official XML, Senate roll calls against senate.gov, and embedded newsroom graphics were followed. One was not confirmed automatically (below).
+- **Quotes:** on October 14, `scripts/verify-sources.mjs` re-fetched every position's source and found the quote on the page for **294 of 295 positions**; on October 16, after the gap fill, **308 of 325** (the rest are listed in the gap-fill section). House roll calls were checked against the House Clerk's official XML, Senate roll calls against senate.gov, and embedded newsroom graphics were followed. One was not confirmed automatically (below).
 - **Measures:** `scripts/verify-measures.mjs` found 196 of 201 Blue Book passages in the measure files word for word in the Blue Book itself. The other 5 are Ballot Issue 7A's fiscal table, flattened into "label: value" lines; every number matches the printed table.
 - **Links:** `scripts/check-links.mjs` fetched all 350 cited URLs: 346 loaded. Two Coloradoan articles answer scripts with a paywall response, one site blocks scripts, and one campaign site (Chad Humphrey's) fails with Node's fetch but loads with curl.
 - **Data:** the Zod schema and cross-file checks run before every build.
@@ -178,13 +240,13 @@ What is **not** verified:
 - **Quotes not confirmed automatically:** Blake Huber's immigration answer (from a Coloradoan Q&A that blocks scripts; the research agent read it through a third-party reader and says so in the file). Every other quote was found on its source page.
 - **Self-described records.** A few record items come from campaigns' own sites (for example Amanda Gonzalez's and Michael Allen's accomplishments, Kevin Grantham's tax record) and are labeled as the campaign's claims.
 - **Backgrounds and endorsements** come from Ballotpedia, campaign sites and news coverage and were not cross-checked against a second source. Endorsement lists are not exhaustive.
-- **Campaign finance** for most federal candidates runs through June 30, 2026, the latest report the FEC had processed; third-quarter reports are due October 15. State candidates' totals are not included; profiles link to TRACER.
+- **Campaign finance** was refreshed from the FEC on October 15; the API had processed third-quarter reports for five candidates, and most federal candidates still show totals through June 30, 2026. Each profile's "as of" date says which. State candidates' totals are not included; profiles link to TRACER.
 - **Address lookup** was tested with one address; rural route addresses, new construction and P.O. boxes were not tested. The manual district picker is the fallback.
 - **No manual screen-reader test** was done; accessibility testing is automated plus a scripted keyboard pass.
 
 ## Known weaknesses
 
-- **Coverage is thin for challengers and down-ballot offices.** 16 of 26 major-party candidates are known on at least a third of their race's statements. The treasurer race (Bridges 1 of 5, Grantham 1 of 5) will rarely rank anyone, and the secretary of state race ranks only on 3 of 5. 20 of 74 candidates have no sourced position on their race's statements, mostly minor-party and State Board or regent candidates whose public statements do not touch the 25 statements.
+- **Coverage is still thinner for challengers and down-ballot offices,** though less so after the October 16 gap fill: 21 of 26 major-party candidates now clear the bar (16 before), the treasurer race ranks, and 15 of 74 candidates (20 before) have no sourced position, mostly minor-party and State Board or regent candidates whose public statements do not touch the 25 statements. Five House races (CD2, CD3, CD4, CD6, CD7) are not ranked at all under the fairness rule because only the incumbent clears the bar; those show known positions side by side instead.
 - **Federal votes stand in for broad statements.** The Laken Riley Act vote is used for the deportation statement and the Canada tariff resolution for the tariff statement. That is defensible, but a vote is a narrower thing than the statement.
 - **Two statements rarely separate candidates** (Proposition 133 on child sex trafficking and Amendment 85 on plain-language ballots). They are there so those measures get a lean.
 - **The office-specific statement sets** for attorney general, secretary of state and treasurer are my judgment (`DECISIONS.md` item 44). A visitor could reasonably weigh, say, an attorney general candidate's abortion stance more or less than this does.

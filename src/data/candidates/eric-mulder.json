@@ -123,5 +123,17 @@
     }
   ],
   "last_checked": "2026-10-15",
-  "research_notes": "Mulder's 2026 campaign site is mostly a placeholder/signup page with no issues content reachable by automated fetch; his Libertarian Party press release (lpcolorado.org) was blocked by a bot-detection challenge page. His Ballotpedia 2026 Candidate Connection survey gave three key messages (keeping state sales tax revenue local during emergencies, limiting government surveillance/privacy, and energy diversity) but only the energy answer maps clearly to one of the 25 statements. A separate 2024 Ballotpedia survey response exists from a different race (an Aurora-area state legislative campaign, not governor) and was not used here to avoid conflating offices. No endorsements beyond crowd-sourced 'Sway' voting-group listings were found. Second pass 2026-10-14: added health-coverage, immigration-notify-ice from https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/, which he did answer. Gap fill 2026-10-15: Added an inferred housing position from his Vote411 answer."
+  "research_notes": "Mulder's 2026 campaign site is mostly a placeholder/signup page with no issues content reachable by automated fetch; his Libertarian Party press release (lpcolorado.org) was blocked by a bot-detection challenge page. His Ballotpedia 2026 Candidate Connection survey gave three key messages (keeping state sales tax revenue local during emergencies, limiting government surveillance/privacy, and energy diversity) but only the energy answer maps clearly to one of the 25 statements. A separate 2024 Ballotpedia survey response exists from a different race (an Aurora-area state legislative campaign, not governor) and was not used here to avoid conflating offices. No endorsements beyond crowd-sourced 'Sway' voting-group listings were found. Second pass 2026-10-14: added health-coverage, immigration-notify-ice from https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/, which he did answer. Gap fill 2026-10-15: Added an inferred housing position from his Vote411 answer.",
+  "verification": {
+    "checked": "2026-10-15",
+    "positions_verified": 4,
+    "positions_unverifiable": 1,
+    "detail": {
+      "clean-energy-shift": "found",
+      "natural-gas-right": "found",
+      "health-coverage": "found",
+      "immigration-notify-ice": "found",
+      "housing-state-zoning": "not-found"
+    }
+  }
 }

@@ -205,7 +205,7 @@
   "last_checked": "2026-10-14",
   "research_notes": "Killin's campaign website issues/priorities pages are a JavaScript-rendered app and could not be read with curl; all issue positions therefore come from her Ballotpedia Candidate Connection survey and campaign-website text as reproduced on Ballotpedia. The Ballotpedia survey's exact completion date within 2026 was not given, so dates were set to 2026-01-01 (year only known) per protocol's convention for a month/day-unknown date, noted in each record. Second pass 2026-10-14: added federal-budget-law and deportation-priority from the Colorado Sun's Oct. 7, 2026 CD5 issue guide, and fentanyl-penalties from the Denver Post's Oct. 3, 2026 CD5 candidate Q&A.",
   "verification": {
-    "checked": "2026-10-14",
+    "checked": "2026-10-15",
     "positions_verified": 9,
     "positions_unverifiable": 0,
     "detail": {

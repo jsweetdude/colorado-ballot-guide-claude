@@ -162,7 +162,7 @@
   "last_checked": "2026-10-14",
   "research_notes": "Peterson's campaign did not respond to the Colorado Politics 2026 CD1 voter guide questionnaire, but did respond to the Denver Post's separate 2026 candidate Q&A, which supplied most of her positions here (her unedited first-person answers are stylistically consistent with her Ballotpedia survey). Her listed campaign website (christyforamerica.us) currently resolves to an unrelated parked/gambling-spam page, not her campaign; the Colorado Politics profile piece independently confirms a similarly styled site existed as of July 2026, so the URL is kept with this caveat for a reviewer. Colorado Public Radio (cpr.org) has a 1st Congressional District voter-guide entry on her per Google News, but cpr.org is on the blocked-fetch list and I could not locate a working web.archive.org mirror of it in this session. No FEC or TRACER finance figures were pulled (federal candidate; finance left null per instructions). No endorsements found on a fetched page beyond a single informal 'Sway voting group' recommendation, which was not notable enough to include. Second pass 2026-10-14: added clean-energy-shift from https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-1-candidate-qa/.",
   "verification": {
-    "checked": "2026-10-14",
+    "checked": "2026-10-15",
     "positions_verified": 9,
     "positions_unverifiable": 0,
     "detail": {

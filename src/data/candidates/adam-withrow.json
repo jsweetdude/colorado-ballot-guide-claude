@@ -101,5 +101,15 @@
     }
   ],
   "last_checked": "2026-10-15",
-  "research_notes": "Withrow completed Ballotpedia's 2026 Candidate Connection survey, but it focused on general philosophy (cost of living, AI personhood, foreign policy) rather than the 25 coded statements, so it is not quoted directly. His campaign homepage addresses energy and health care but not most other topics on the list. His menu page lists further platform sections (Gun Rights, Housing, Immigration, Drugs and Crime, Voting Rights, etc.) but these render only via client-side JavaScript and were not retrievable as static text via curl; a Coloradoan Oct. 1, 2026 candidate Q&A exists for him but repeatedly failed to load fully through the available read-proxy (unlike the Huber and Baum Q&As, which worked), so it could not be used. He told Ballotpedia he declined to name endorsers when asked ('I'm not one to name names'), so no endorsements are listed despite his implication that some exist. Second pass 2026-10-14: the Denver Post's Oct. 3, 2026 Senate candidate Q&A confirms 'Christopher Baum and Adam Withrow did not return the questionnaire,' so no additional source was available there; no positions added. Gap fill 2026-10-15: Added his Vote411 answer on trade. His energy answer repeats the renewable-energy position already coded from his site."
+  "research_notes": "Withrow completed Ballotpedia's 2026 Candidate Connection survey, but it focused on general philosophy (cost of living, AI personhood, foreign policy) rather than the 25 coded statements, so it is not quoted directly. His campaign homepage addresses energy and health care but not most other topics on the list. His menu page lists further platform sections (Gun Rights, Housing, Immigration, Drugs and Crime, Voting Rights, etc.) but these render only via client-side JavaScript and were not retrievable as static text via curl; a Coloradoan Oct. 1, 2026 candidate Q&A exists for him but repeatedly failed to load fully through the available read-proxy (unlike the Huber and Baum Q&As, which worked), so it could not be used. He told Ballotpedia he declined to name endorsers when asked ('I'm not one to name names'), so no endorsements are listed despite his implication that some exist. Second pass 2026-10-14: the Denver Post's Oct. 3, 2026 Senate candidate Q&A confirms 'Christopher Baum and Adam Withrow did not return the questionnaire,' so no additional source was available there; no positions added. Gap fill 2026-10-15: Added his Vote411 answer on trade. His energy answer repeats the renewable-energy position already coded from his site.",
+  "verification": {
+    "checked": "2026-10-15",
+    "positions_verified": 2,
+    "positions_unverifiable": 1,
+    "detail": {
+      "clean-energy-shift": "found",
+      "health-coverage": "found",
+      "keep-tariffs": "not-found"
+    }
+  }
 }

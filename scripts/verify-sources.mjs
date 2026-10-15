@@ -47,7 +47,8 @@ async function pageText(url) {
   let text = null;
   try {
     const r = await fetch(url, { headers: { 'User-Agent': UA, Accept: 'text/html,application/xhtml+xml,application/pdf;q=0.9,*/*;q=0.8', 'Accept-Language': 'en-US,en;q=0.9' }, redirect: 'follow', signal: AbortSignal.timeout(30000) });
-    if (r.ok) {
+    // Some sites answer scripts with an empty 202 or a bot-check page; that is unreachable, not a missing quote.
+    if (r.ok && r.status !== 202) {
       const type = r.headers.get('content-type') ?? '';
       if (type.includes('pdf') || /\.pdf($|\?)/i.test(url)) {
         const f = join(tmp, `${cache.size}.pdf`);
@@ -72,6 +73,7 @@ async function pageText(url) {
         }
       }
       text = normalize(text);
+      if (text.trim().length < 200) text = null;
     }
   } catch {
     text = null;
@@ -126,20 +128,32 @@ function voteInQuote(quote) {
 }
 
 const files = readdirSync(dir).filter((f) => f.endsWith('.json') && (!only.length || only.includes(f.replace(/\.json$/, ''))));
-let found = 0, notFound = 0, unreachable = 0;
+let found = 0, notFound = 0, unreachable = 0, kept = 0;
 const misses = [];
 for (const f of files) {
   const path = join(dir, f);
   const c = JSON.parse(readFileSync(path, 'utf8'));
   if (!c.positions.length) continue;
   const detail = {};
+  // A quote confirmed on an earlier run stays confirmed when its page cannot be re-read today.
+  const earlier = c.verification?.detail ?? {};
+  const keepEarlier = (statement) => {
+    if (earlier[statement] === 'found') {
+      detail[statement] = 'found';
+      kept++;
+      return true;
+    }
+    return false;
+  };
   for (const p of c.positions) {
     if (/clerk\.house\.gov\/Votes\//i.test(p.source_url)) {
       const actual = await houseVote(p.source_url, c.name);
       const claimed = voteInQuote(p.quote);
       if (actual == null) {
-        detail[p.statement] = 'unreachable';
-        unreachable++;
+        if (!keepEarlier(p.statement)) {
+          detail[p.statement] = 'unreachable';
+          unreachable++;
+        }
       } else if (claimed && actual === claimed) {
         detail[p.statement] = 'found';
         found++;
@@ -152,8 +166,10 @@ for (const f of files) {
     }
     const page = await pageText(p.source_url);
     if (page == null) {
-      detail[p.statement] = 'unreachable';
-      unreachable++;
+      if (!keepEarlier(p.statement)) {
+        detail[p.statement] = 'unreachable';
+        unreachable++;
+      }
     } else if (quoteFound(p.quote, page)) {
       detail[p.statement] = 'found';
       found++;
@@ -172,5 +188,5 @@ for (const f of files) {
   };
   writeFileSync(path, `${JSON.stringify(c, null, 2)}\n`);
 }
-console.log(`Quotes found on source page: ${found}; not found: ${notFound}; source unreachable: ${unreachable}.`);
+console.log(`Quotes found on source page: ${found}; not found: ${notFound}; source unreachable: ${unreachable}; confirmed on an earlier run and kept because the page could not be re-read today: ${kept}.`);
 if (misses.length) console.log(`\nNot found:\n${misses.join('\n')}`);

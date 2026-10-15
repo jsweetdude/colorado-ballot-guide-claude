@@ -187,7 +187,7 @@ const payload = JSON.stringify({ ...data, senateUp: geo.state_senate_on_ballot_2
             : 'No candidate in this race has sourced positions on at least a third of the questions you answered, so this race is not ranked.'}</p>
           <ul>${ranked.map((c) => `<li><span>${who(c.id)}</span><span class="small muted">known on ${c.overlap} of ${c.answered} of your questions</span></li>`).join('')}</ul>`;
         if (rows.length) {
-          html += `<div class="pc-table-wrap"><table class="pc-table compare-table">
+          html += `<div class="pc-table-wrap" tabindex="0" role="region" aria-label="Known positions, side by side"><table class="pc-table compare-table">
             <caption>What is known, side by side. Your own answer is first.</caption>
             <thead><tr><th scope="col">Statement</th><th scope="col">You</th>${r.candidates.map((c) => `<th scope="col">${esc(c.name)}</th>`).join('')}</tr></thead><tbody>`;
           for (const id of rows) html += `<tr><th scope="row">${esc(data.statements.find((s) => s.id === id)!.text)}</th><td>${LIKERT_LABEL[answers[id]!.value!]}</td>${r.candidates.map((c) => cell(c, id)).join('')}</tr>`;
@@ -195,7 +195,7 @@ const payload = JSON.stringify({ ...data, senateUp: geo.state_senate_on_ballot_2
         }
         html += `</div>`;
       } else {
-        html += `<div class="pc-table-wrap"><table class="pc-table results-table">
+        html += `<div class="pc-table-wrap" tabindex="0" role="region" aria-label="Match results"><table class="pc-table results-table">
           <caption>Ranked by match with your answers. Not a recommendation.</caption>
           <thead><tr><th scope="col">Candidate</th><th scope="col">Match</th><th scope="col">Confidence</th></tr></thead><tbody>`;
         for (const c of rankedRows) {
