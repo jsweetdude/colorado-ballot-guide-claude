@@ -31,6 +31,8 @@ weight = {IMPORTANCE_WEIGHT.low} for low, {IMPORTANCE_WEIGHT.normal} for normal,
     <pre><code>match = sum of points ÷ sum of weights, on the statements you share</code></pre>
     <p>“Based on N of M questions” means the candidate has a known position on N of the M statements you answered. Statements where the candidate's position is unknown do not count for or against them.</p>
     <p>A candidate is ranked only if they have a known position on at least a third of the statements you answered (and at least {CONFIDENCE_RULES.rankableMinimum}). Others are listed under “not enough known to rank.” A high match with a candidate who has said little is not a strong signal, so the guide does not pretend it is.</p>
+    <h3 id="fairness">When a race is not ranked at all</h3>
+    <p>A race is ranked only when at least {CONFIDENCE_RULES.minimumRanked} candidates clear that bar. Incumbents have voting records and challengers often do not, so in some races only one candidate is known well enough to rank. A match percentage for that one candidate would compare them with nobody, and the best-documented candidate would be called the top match in every such race. Instead the guide shows every candidate in the race as “not enough known to compare,” with their known positions and your own answers side by side, and names no top match.</p>
 
     <h2 id="offices">Offices matched on fewer statements</h2>
     <p>The attorney general, secretary of state and treasurer do narrower jobs than a governor or a member of Congress, and candidates for them rarely speak to every statement. Their matches use only the statements that bear on each office's work; everything above applies within that set, including the one-third rule.</p>

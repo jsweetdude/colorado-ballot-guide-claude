@@ -49,6 +49,8 @@ export const CONFIDENCE_RULES = {
   /** A candidate is ranked only if known on at least this share of the visitor's answers. */
   rankableShare: 1 / 3,
   rankableMinimum: 2,
+  /** A race is ranked only when at least this many candidates clear the bar; otherwise nobody is called a top match. */
+  minimumRanked: 2,
 };
 
 export interface StatementResult {
@@ -80,6 +82,8 @@ export interface CandidateMatch {
 export type Confidence = 'High' | 'Medium' | 'Low';
 
 export interface RankedCandidate extends CandidateMatch {
+  /** False when fewer than `minimumRanked` candidates clear the bar: then no one in the race is ranked or called a top match. */
+  compared: boolean;
   rank: number | null;
   top: boolean;
   tie: boolean;
@@ -149,6 +153,12 @@ export function confidenceFor(m: CandidateMatch, margin: number | null): Confide
  * ballot order with rank and confidence null. When `relevant` is given, only
  * those statements count (used for attorney general, secretary of state and
  * treasurer, whose duties touch a subset of the interview).
+ *
+ * Fairness rule: a race is ranked only when at least two candidates clear the
+ * bar. With one, a percentage would compare that candidate with nobody, and
+ * the better-documented candidate (usually the incumbent) would always be
+ * the "top match". In that case every candidate is returned unranked, with
+ * `compared` false, so the page can show what is known side by side instead.
  */
 export function rankRace(answers: Answers, candidates: MatchCandidate[], relevant?: string[]): RankedCandidate[] {
   // For offices whose work touches only some statements, match on those alone.
@@ -158,6 +168,8 @@ export function rankRace(answers: Answers, candidates: MatchCandidate[], relevan
     .filter((x) => x.m.rankable)
     .sort((a, b) => (b.m.percent ?? 0) - (a.m.percent ?? 0) || a.order - b.order);
   const unranked = matches.filter((x) => !x.m.rankable);
+  const compared = ranked.length >= CONFIDENCE_RULES.minimumRanked;
+  if (!compared) return matches.map((x) => ({ ...x.m, compared, rank: null, top: false, tie: false, margin: null, confidence: null }));
   const exact = ranked.map((x) => (x.m.maxScore ? (x.m.score / x.m.maxScore) * 100 : 0));
   const topPct = ranked.length ? ranked[0].m.percent : null;
   const out: RankedCandidate[] = ranked.map((x, i) => {
@@ -167,9 +179,9 @@ export function rankRace(answers: Answers, candidates: MatchCandidate[], relevan
     const margin = neighbors.length ? Math.min(...neighbors) : null;
     const top = x.m.percent === topPct;
     const tie = top && ranked.filter((y) => y.m.percent === topPct).length > 1;
-    return { ...x.m, rank: i + 1, top, tie, margin, confidence: confidenceFor(x.m, margin) };
+    return { ...x.m, compared, rank: i + 1, top, tie, margin, confidence: confidenceFor(x.m, margin) };
   });
-  for (const x of unranked) out.push({ ...x.m, rank: null, top: false, tie: false, margin: null, confidence: null });
+  for (const x of unranked) out.push({ ...x.m, compared, rank: null, top: false, tie: false, margin: null, confidence: null });
   return out;
 }
 

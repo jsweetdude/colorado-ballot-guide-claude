@@ -172,13 +172,34 @@ const payload = JSON.stringify({ ...data, senateUp: geo.state_senate_on_ballot_2
     if (answered === 0) {
       html += `<ul class="stack-sm">${r.candidates.map((c) => `<li>${who(c.id)}</li>`).join('')}</ul>`;
     } else {
-      if (rankedRows.length) {
+      if (!ranked[0]?.compared) {
+        // Fairness rule: fewer than two candidates clear the bar, so nobody is ranked or called a top match.
+        const clearing = ranked.filter((c) => c.rankable);
+        const base = r.statements ?? data.statements.map((s) => s.id);
+        const rows = base.filter((id) => answers[id]?.value != null && r.candidates.some((c) => c.positions.some((p) => p.statement === id)));
+        const cell = (c: ClientRace['candidates'][number], id: string) => {
+          const p = c.positions.find((x) => x.statement === id);
+          return p ? `<td>${LIKERT_LABEL[p.value]}</td>` : `<td class="unknown-cell"><span class="small muted">No known position</span></td>`;
+        };
+        html += `<div class="unranked"><h4>Not enough known to compare</h4>
+          <p class="small muted">${clearing.length === 1
+            ? `Only ${esc(byId.get(clearing[0].id)!.name)} has sourced positions on at least a third of the questions you answered. A match percentage for one candidate would compare them with nobody, so this race is not ranked and no one is called a top match. <a href="/about/#fairness">Why</a>.`
+            : 'No candidate in this race has sourced positions on at least a third of the questions you answered, so this race is not ranked.'}</p>
+          <ul>${ranked.map((c) => `<li><span>${who(c.id)}</span><span class="small muted">known on ${c.overlap} of ${c.answered} of your questions</span></li>`).join('')}</ul>`;
+        if (rows.length) {
+          html += `<div class="pc-table-wrap"><table class="pc-table compare-table">
+            <caption>What is known, side by side. Your own answer is first.</caption>
+            <thead><tr><th scope="col">Statement</th><th scope="col">You</th>${r.candidates.map((c) => `<th scope="col">${esc(c.name)}</th>`).join('')}</tr></thead><tbody>`;
+          for (const id of rows) html += `<tr><th scope="row">${esc(data.statements.find((s) => s.id === id)!.text)}</th><td>${LIKERT_LABEL[answers[id]!.value!]}</td>${r.candidates.map((c) => cell(c, id)).join('')}</tr>`;
+          html += `</tbody></table></div>`;
+        }
+        html += `</div>`;
+      } else {
         html += `<div class="pc-table-wrap"><table class="pc-table results-table">
           <caption>Ranked by match with your answers. Not a recommendation.</caption>
           <thead><tr><th scope="col">Candidate</th><th scope="col">Match</th><th scope="col">Confidence</th></tr></thead><tbody>`;
         for (const c of rankedRows) {
-          // With a single ranked candidate there is nothing to compare, so do not call it a top match.
-          const label = rankedRows.length === 1 ? 'Only ranked candidate' : c.tie ? 'Tied top match' : 'Top match';
+          const label = c.tie ? 'Tied top match' : 'Top match';
           const top = c.top ? ` <span class="pc-badge badge-top">${label}</span>` : '';
           html += `<tr>
             <th scope="row">${who(c.id)}${top}</th>
@@ -187,14 +208,11 @@ const payload = JSON.stringify({ ...data, senateUp: geo.state_senate_on_ballot_2
           </tr>`;
         }
         html += `</tbody></table></div>`;
-        if (rankedRows.length === 1 && unranked.length) html += `<p class="small muted">Only one candidate has enough known positions to rank, so this percentage does not compare them with the others. Open each profile to see what is known.</p>`;
-      } else {
-        html += `<p class="muted">No candidate in this race has sourced positions on enough of the questions you answered to rank.</p>`;
-      }
-      if (unranked.length) {
-        html += `<div class="unranked"><h4>Not enough known to rank</h4>
-          <p class="small muted">These candidates have a sourced position on fewer than a third of the questions you answered.</p>
-          <ul>${unranked.map((c) => `<li><span>${who(c.id)}</span><span class="small muted">known on ${c.overlap} of ${c.answered} of your questions</span></li>`).join('')}</ul></div>`;
+        if (unranked.length) {
+          html += `<div class="unranked"><h4>Not enough known to rank</h4>
+            <p class="small muted">These candidates have a sourced position on fewer than a third of the questions you answered.</p>
+            <ul>${unranked.map((c) => `<li><span>${who(c.id)}</span><span class="small muted">known on ${c.overlap} of ${c.answered} of your questions</span></li>`).join('')}</ul></div>`;
+        }
       }
     }
     html += `</div></section>`;

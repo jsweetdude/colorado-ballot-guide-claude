@@ -159,6 +159,35 @@ describe('rankRace', () => {
   });
 });
 
+describe('fairness rule: a race is ranked only when at least two candidates clear the bar', () => {
+  const answers = allAnswered(5);
+  const known = (id: string, n: number): MatchCandidate => ({ id, positions: ids.slice(0, n).map((s) => pos(s, 5)) });
+
+  it('ranks nobody and names no top match when only one candidate is rankable', () => {
+    const out = rankRace(answers, [known('incumbent', 6), known('challenger', 1), known('third', 0)]);
+    expect(out.every((c) => c.rank == null && !c.top && c.confidence == null)).toBe(true);
+    expect(out.every((c) => !c.compared)).toBe(true);
+    // The match data is still there for a side-by-side view.
+    expect(out.find((c) => c.id === 'incumbent')!.rankable).toBe(true);
+    expect(out.find((c) => c.id === 'incumbent')!.percent).toBe(100);
+    expect(out.find((c) => c.id === 'challenger')!.rankable).toBe(false);
+    expect(out.map((c) => c.id)).toEqual(['incumbent', 'challenger', 'third']);
+  });
+
+  it('ranks nobody when no candidate is rankable', () => {
+    const out = rankRace(answers, [known('a', 1), known('b', 0)]);
+    expect(out.every((c) => c.rank == null && !c.compared)).toBe(true);
+  });
+
+  it('ranks the race as soon as two candidates clear the bar', () => {
+    const out = rankRace(answers, [known('a', 6), known('b', 2), known('c', 1)]);
+    expect(out.filter((c) => c.rank != null).map((c) => c.id)).toEqual(['a', 'b']);
+    expect(out.find((c) => c.id === 'a')!.top).toBe(true);
+    expect(out.every((c) => c.compared)).toBe(true);
+    expect(out.find((c) => c.id === 'c')!.rank).toBeNull();
+  });
+});
+
 describe('measureLean', () => {
   const statements = [
     { id: 'tax', measures: [{ id: 'm1', agree_means: 'yes' as const }, { id: 'm2', agree_means: 'no' as const }] },
