@@ -40,7 +40,8 @@
       "source_title": "Jason Ray Clark (Colorado) - Ballotpedia (Candidate Connection survey)",
       "date": "2025-01-01",
       "quote": "Nix Colorado’s 5% state income tax.",
-      "note": "From his 2025 Candidate Connection survey response for Governor of Colorado; exact date not given, month/year estimated. Eliminating the income tax goes further than capping it at 4.4%, but is in the same direction, so coded as strongly agreeing with a rate cap."
+      "note": "From his 2025 Candidate Connection survey response for Governor of Colorado; exact date not given, month/year estimated. Eliminating the income tax goes further than capping it at 4.4%, but is in the same direction, so coded as strongly agreeing with a rate cap.",
+      "date_basis": "year"
     },
     {
       "statement": "graduated-income-tax",
@@ -50,7 +51,8 @@
       "source_title": "Jason Ray Clark (Colorado) - Ballotpedia (Candidate Connection survey)",
       "date": "2025-01-01",
       "quote": "Nix Colorado’s 5% state income tax.",
-      "note": "Calling for eliminating the state income tax outright is incompatible with taxing higher incomes at higher rates; coded as strongly disagreeing with a graduated income tax. Exact date not given, month/year estimated."
+      "note": "Calling for eliminating the state income tax outright is incompatible with taxing higher incomes at higher rates; coded as strongly disagreeing with a graduated income tax. Exact date not given, month/year estimated.",
+      "date_basis": "year"
     },
     {
       "statement": "keep-tabor-surplus",
@@ -60,7 +62,8 @@
       "source_title": "Jason Ray Clark (Colorado) - Ballotpedia (Candidate Connection survey)",
       "date": "2025-01-01",
       "quote": "Use TABOR to give Coloradans bigger tax refunds.",
-      "note": "From his 2025 Candidate Connection survey response for Governor of Colorado; exact date not given, month/year estimated."
+      "note": "From his 2025 Candidate Connection survey response for Governor of Colorado; exact date not given, month/year estimated.",
+      "date_basis": "year"
     }
   ],
   "endorsements": [],

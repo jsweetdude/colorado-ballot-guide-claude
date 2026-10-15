@@ -5,25 +5,125 @@
   "party": "Republican Party",
   "incumbent": false,
   "profile": "full",
-  "website": null,
+  "website": "https://wileyforcolorado.com/",
   "summary": [
     {
-      "text": "James Wiley is on the ballot for Secretary of State as the Republican Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "James Wiley is a political consultant and election-integrity advocate who is the Republican nominee for Colorado Secretary of State.",
+      "source_url": "https://ballotpedia.org/James_Wiley"
+    },
+    {
+      "text": "He was born in Colorado Springs, spent part of his childhood in Kazakhstan, and holds a management and marketing degree and an MBA from Colorado State University Pueblo.",
+      "source_url": "https://wileyforcolorado.com/"
+    },
+    {
+      "text": "He ran for Colorado's 3rd Congressional District in 2024 as the Libertarian nominee, finishing third, before switching to the Republican Party to run for Secretary of State in 2026.",
+      "source_url": "https://ballotpedia.org/James_Wiley"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Political consultant; director of Project Thaler; director of Save Our Suffrage; former executive director of the Libertarian Party of Colorado.",
+      "source_url": "https://ballotpedia.org/James_Wiley"
+    },
+    {
+      "text": "Graduate degree from Colorado State University Pueblo, 2017.",
+      "source_url": "https://ballotpedia.org/James_Wiley"
+    },
+    {
+      "text": "Libertarian nominee for U.S. House, Colorado District 3, in 2024; received 2.7% of the vote in the general election, won by Jeff Hurd.",
+      "source_url": "https://ballotpedia.org/James_Wiley"
+    },
+    {
+      "text": "Has never held elected office.",
+      "source_url": "https://ballotpedia.org/James_Wiley"
+    }
+  ],
   "record": [],
-  "positions": [],
-  "endorsements": [],
+  "positions": [
+    {
+      "statement": "keep-mail-voting",
+      "value": 1,
+      "source_type": "questionnaire",
+      "source_url": "https://www.coloradopolitics.com/2026/10/02/gonzales-wiley-vadney-landry-secretary-of-state/",
+      "source_title": "Secretary of State | Gonzalez, Wiley are top contenders for open seat",
+      "date": "2026-10-02",
+      "quote": "Colorado should move toward one-day, in-person voting with government-issued voter ID, paper ballots, and citizen-controlled counting where clerks choose.",
+      "note": "Answering a Colorado Politics questionnaire on what he would change about mail ballots."
+    },
+    {
+      "statement": "mail-ballot-id",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://www.coloradopolitics.com/2026/10/02/gonzales-wiley-vadney-landry-secretary-of-state/",
+      "source_title": "Secretary of State | Gonzalez, Wiley are top contenders for open seat",
+      "date": "2026-10-02",
+      "quote": "I would tighten verification and chain of custody: citizenship checks at registration, stronger ID and signature standards, documented custody from print through count, and tools for clerks and observers to audit results.",
+      "note": "Supports stronger ID standards specifically for mail ballots while they remain in use. The Colorado Sun's Oct. 7, 2026 candidate guide separately confirms he explicitly answered 'Yes' when asked about Amendment 84 and called it 'a net benefit,' but that exact quote is too short (under 40 characters) to use as the primary quote here."
+    },
+    {
+      "statement": "challenge-federal-policies",
+      "value": 3,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/10/07/james-wiley-amanda-gonzalez-secretary-of-state-voter-guide/",
+      "source_title": "Where James Wiley and Amanda Gonzalez stand on the top issues in the Colorado secretary of state's race",
+      "date": "2026-10-07",
+      "quote": "If federal agencies in their demands exceed what I determine as their lawful right, then I will stand on restricting their action.",
+      "note": "Explicitly mixed: answering how Colorado should respond to possible Trump administration limits on mail voting, he said he would 'gladly cooperate with federal agencies' within the bounds of law, but would resist demands he judges unlawful."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "Ken DeGraaf, Colorado House District 22",
+      "source_url": "https://wileyforcolorado.com/endorsements"
+    },
+    {
+      "name": "Pikes Peak Firearms Coalition PAC",
+      "source_url": "https://wileyforcolorado.com/endorsements"
+    }
+  ],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "James Wiley - Ballotpedia",
+      "url": "https://ballotpedia.org/James_Wiley",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Secretary of State | Gonzalez, Wiley are top contenders for open seat",
+      "url": "https://www.coloradopolitics.com/2026/10/02/gonzales-wiley-vadney-landry-secretary-of-state/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Candidates for top election post split on mail voting, election trust",
+      "url": "https://www.coloradopolitics.com/2026/10/10/candidates-for-top-election-post-split-on-mail-voting-election-trust/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "James Wiley for Colorado (campaign site)",
+      "url": "https://wileyforcolorado.com/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Endorsements - James Wiley for Colorado",
+      "url": "https://wileyforcolorado.com/endorsements",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Where James Wiley and Amanda Gonzalez stand on the top issues in the Colorado secretary of state's race",
+      "url": "https://coloradosun.com/2026/10/07/james-wiley-amanda-gonzalez-secretary-of-state-voter-guide/",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "No statement found naming Amendment 85 or 86 specifically, so plain-language-ballots and redistricting-commission are left unsourced. Record is empty because he has never held elected office; his election-integrity lawsuits and advocacy (Tina Peters support, Dominion litigation, Union of Ballot Counters) are activist work, not official decisions, and are summarized in experience/summary instead.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 3,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-mail-voting": "found",
+      "mail-ballot-id": "found",
+      "challenge-federal-policies": "found"
+    }
+  }
 }

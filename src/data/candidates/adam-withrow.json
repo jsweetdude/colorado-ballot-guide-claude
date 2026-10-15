@@ -5,16 +5,54 @@
   "party": "Unity Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://www.senatorwithrow.com/",
   "summary": [
     {
-      "text": "Adam Withrow is on the ballot for U.S. Senate as the Unity Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Adam Withrow is the Unity Party candidate for U.S. Senate, an educator from southern Colorado who was born in Algona, Iowa.",
+      "source_url": "https://ballotpedia.org/Adam_Withrow"
+    },
+    {
+      "text": "He previously ran for the U.S. House in Colorado's 3rd Congressional District in 2024 as the Unity Party of Colorado nominee.",
+      "source_url": "https://ballotpedia.org/Adam_Withrow"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Educator (listed profession).",
+      "source_url": "https://ballotpedia.org/Adam_Withrow"
+    },
+    {
+      "text": "Ran for U.S. House, Colorado's 3rd Congressional District, as the Unity Party of Colorado nominee in 2024; lost to Jeff Hurd (R).",
+      "source_url": "https://ballotpedia.org/Adam_Withrow"
+    },
+    {
+      "text": "Has not held elected office.",
+      "source_url": "https://ballotpedia.org/Adam_Withrow"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "clean-energy-shift",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://www.senatorwithrow.com/",
+      "source_title": "Home | Adam Withrow for Senate",
+      "date": "2026-10-14",
+      "quote": "Fossil fuels are obsolete. Yes, we have them. Yes, we will continue to use them, but they are finite resources, and the rate we use them up keeps increasing.",
+      "note": "Page is undated; date reflects the day it was accessed for this research. He calls for 'a smooth transition starting today' to future energy sources."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://www.senatorwithrow.com/",
+      "source_title": "Home | Adam Withrow for Senate",
+      "date": "2026-10-14",
+      "quote": "It's time to re imagine our healthcare system and create one that works for everyone. Healthcare for all would cost less than half of our defense budget.",
+      "note": "Page is undated; date reflects the day it was accessed for this research."
+    }
+  ],
   "endorsements": [],
   "finance": {
     "raised": 0,
@@ -27,16 +65,30 @@
   },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Adam Withrow - Ballotpedia",
+      "url": "https://ballotpedia.org/Adam_Withrow",
       "accessed": "2026-10-14"
     },
     {
-      "title": "FEC candidate financial summary",
+      "title": "Home | Adam Withrow for Senate",
+      "url": "https://www.senatorwithrow.com/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/S6CO00564/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Withrow completed Ballotpedia's 2026 Candidate Connection survey, but it focused on general philosophy (cost of living, AI personhood, foreign policy) rather than the 25 coded statements, so it is not quoted directly. His campaign homepage addresses energy and health care but not most other topics on the list. His menu page lists further platform sections (Gun Rights, Housing, Immigration, Drugs and Crime, Voting Rights, etc.) but these render only via client-side JavaScript and were not retrievable as static text via curl; a Coloradoan Oct. 1, 2026 candidate Q&A exists for him but repeatedly failed to load fully through the available read-proxy (unlike the Huber and Baum Q&As, which worked), so it could not be used. He told Ballotpedia he declined to name endorsers when asked ('I'm not one to name names'), so no endorsements are listed despite his implication that some exist.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 2,
+    "positions_unverifiable": 0,
+    "detail": {
+      "clean-energy-shift": "found",
+      "health-coverage": "found"
+    }
+  }
 }

@@ -5,25 +5,147 @@
   "party": "Libertarian Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://dankilo.com",
   "summary": [
     {
-      "text": "Dan \"Kilo\" Sallis is on the ballot for U.S. House, District 7 as the Libertarian Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Dan \"Kilo\" Sallis is a Libertarian Party candidate for U.S. House in Colorado's 7th District, running as a small business owner (CEO of Cynch) who has never held public office.",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-7-candidate-qa/"
+    },
+    {
+      "text": "He lives in the Ken Caryl area of Jefferson County and has called the 7th District home since 1967, when his family moved to Littleton.",
+      "source_url": "https://dankilo.com/about"
+    },
+    {
+      "text": "He holds a degree from the University of Colorado Denver and says his campaign accepts no political contributions of any kind.",
+      "source_url": "https://dankilo.com/about"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Small business owner; CEO of Cynch.",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-7-candidate-qa/"
+    },
+    {
+      "text": "Has never held public office.",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-7-candidate-qa/"
+    },
+    {
+      "text": "B.A./degree from the University of Colorado Denver.",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-7-candidate-qa/"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "health-coverage",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-7-candidate-qa/",
+      "source_title": "Colorado U.S. House District 7 candidate Q&A - The Denver Post",
+      "date": "2026-10-03",
+      "quote": "Healthcare Freedom with reduced costs through deregulation & tort reform",
+      "note": "Listed as one of his top three priorities; his campaign site elaborates that he supports repealing ACA mandates and relying on free-market competition instead of expanded government coverage."
+    },
+    {
+      "statement": "fentanyl-penalties",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-7-candidate-qa/",
+      "source_title": "Colorado U.S. House District 7 candidate Q&A - The Denver Post",
+      "date": "2026-10-03",
+      "quote": "Criminal Justice Reform through decriminalizing victimless crimes & reducing the prison population to about 25% of where it is today.",
+      "note": "His campaign site's Drug Policy section further states the War on Drugs 'has been a catastrophic failure' and calls for treating addiction as a health issue, not a criminal one."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-7-candidate-qa/",
+      "source_title": "Colorado U.S. House District 7 candidate Q&A - The Denver Post",
+      "date": "2026-10-03",
+      "quote": "Yes, more public land should be made available for extraction. Energy independence is a top national security priority.",
+      "note": "His campaign site similarly opposes 'top-down federal energy mandates' and 'federal fracking bans,' while saying oil, gas, and renewables should all compete."
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-7-candidate-qa/",
+      "source_title": "Colorado U.S. House District 7 candidate Q&A - The Denver Post",
+      "date": "2026-10-03",
+      "quote": "I support securing the border while dramatically expanding legal pathways so people can come here to work, not sneak in.",
+      "note": "Puts expanding legal immigration pathways first rather than treating deportation of unauthorized immigrants as the top priority."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://dankilo.com/issues",
+      "source_title": "Platform & Issues - Dan Kilo for Congress",
+      "date": "2026-10-14",
+      "quote": "Dan will oppose any federal gun registration, red flag laws, or magazine capacity restrictions.",
+      "note": "Campaign site page is undated; date given is the access date.",
+      "date_basis": "accessed"
+    },
+    {
+      "statement": "abortion-legal",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://dankilo.com",
+      "source_title": "Home - Dan Kilo for Congress",
+      "date": "2026-10-14",
+      "quote": "Individual Liberty: Your life, your choices. Government should stay out of your personal decisions.",
+      "note": "Inferred: this is a general statement of his 'individual liberty' principle, not a statement naming abortion specifically. Campaign site page is undated; date given is the access date.",
+      "date_basis": "accessed"
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Dan Sallis - Ballotpedia",
+      "url": "https://ballotpedia.org/Dan_Sallis",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado U.S. House District 7 candidate Q&A - The Denver Post",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-7-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Home - Dan Kilo for Congress",
+      "url": "https://dankilo.com",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "About Dan Kilo - Dan Kilo for Congress",
+      "url": "https://dankilo.com/about",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Platform & Issues - Dan Kilo for Congress",
+      "url": "https://dankilo.com/issues",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Secretary of State, 2026 General Election candidate list",
+      "url": "https://www.sos.state.co.us/pubs/elections/vote/generalCandidates.html",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Sallis's Ballotpedia page is a stub with no Candidate Connection survey. He is one of only two CD-7 candidates (with Pettersen) who answered the Denver Post's 2026 candidate questionnaire, which gave strong, dated material. His own campaign site (dankilo.com) elaborates on several of the same positions in more detail but carries no page dates, so those citations use the access date. No sourced position found on abortion beyond the inferred one above, nor on the Colorado ballot measures (Amendments 81-87, Propositions 132-137) despite checking his site's Issues page, which does not mention them by name.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 6,
+    "positions_unverifiable": 0,
+    "detail": {
+      "health-coverage": "found",
+      "fentanyl-penalties": "found",
+      "clean-energy-shift": "found",
+      "deportation-priority": "found",
+      "stricter-gun-laws": "found",
+      "abortion-legal": "found"
+    }
+  }
 }

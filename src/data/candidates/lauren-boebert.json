@@ -161,7 +161,8 @@
       "source_title": "Lauren Boebert (Ballotpedia, quoting her campaign website)",
       "date": "2020-01-01",
       "quote": "Life. I believe life begins at conception. Planned Parenthood can go fund themselves.",
-      "note": "Date is approximate (campaign website text dated to the 2020 election cycle on Ballotpedia); month/day unknown. A 2025 press release also states H.R. 1 ensures taxpayer dollars will not fund abortion providers."
+      "note": "Date is approximate (campaign website text dated to the 2020 election cycle on Ballotpedia); month/day unknown. A 2025 press release also states H.R. 1 ensures taxpayer dollars will not fund abortion providers.",
+      "date_basis": "year"
     },
     {
       "statement": "mail-ballot-id",
@@ -239,7 +240,7 @@
   "last_checked": "2026-10-14",
   "research_notes": "Boebert's campaign did not respond to the Colorado Politics 2026 voter guide questionnaire, so no current first-person answers from that outlet were available. Could not find a committee-level roll call confirming or denying how Boebert voted on the May 2025 House Natural Resources Committee markup amendment (Amodei/Maloy) to mandate sale of public lands in Nevada and Utah; opposing-campaign material (Jessica Killin's website, as quoted on Ballotpedia) claims she and Rep. Jeff Crank both voted for it, but this is an opponent's characterization in an unrelated race, not a verified roll call, so no public-lands position was coded for her. A reviewer may want to track down the Natural Resources Committee's official markup roll call record to confirm. The abortion quote is dated only to the 2020 campaign cycle on Ballotpedia; no more specific date was available.",
   "verification": {
-    "checked": "2026-10-15",
+    "checked": "2026-10-14",
     "positions_verified": 9,
     "positions_unverifiable": 0,
     "detail": {

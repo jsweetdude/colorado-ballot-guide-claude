@@ -48,7 +48,8 @@
       "source_title": "Jessica Killin (Ballotpedia Candidate Connection survey, 2026)",
       "date": "2026-01-01",
       "quote": "I will end the harmful tariffs that are driving up prices, which Jeff Crank has repeatedly voted to protect.",
-      "note": "Only year known; Ballotpedia dates the survey to 2026 without a specific day, so the first of the year is used per protocol."
+      "note": "Only year known; Ballotpedia dates the survey to 2026 without a specific day, so the first of the year is used per protocol.",
+      "date_basis": "year"
     },
     {
       "statement": "health-coverage",
@@ -58,7 +59,8 @@
       "source_title": "Jessica Killin (Ballotpedia Candidate Connection survey, 2026)",
       "date": "2026-01-01",
       "quote": "I will work to reverse Medicaid cuts that raise healthcare costs and take on drug and insurance companies to lower prescription prices and premiums.",
-      "note": "Only year known; Ballotpedia dates the survey to 2026 without a specific day, so the first of the year is used per protocol."
+      "note": "Only year known; Ballotpedia dates the survey to 2026 without a specific day, so the first of the year is used per protocol.",
+      "date_basis": "year"
     },
     {
       "statement": "public-lands",
@@ -68,7 +70,8 @@
       "source_title": "Jessica Killin (Ballotpedia, quoting her campaign website)",
       "date": "2026-01-01",
       "quote": "Preserve federal lands used by Coloradans and oppose efforts to sell them off",
-      "note": "Only year known; Ballotpedia dates this to 2026 without a specific day, so the first of the year is used per protocol."
+      "note": "Only year known; Ballotpedia dates this to 2026 without a specific day, so the first of the year is used per protocol.",
+      "date_basis": "year"
     },
     {
       "statement": "abortion-legal",
@@ -99,6 +102,36 @@
       "date": "2026-01-01",
       "quote": "She has also been endorsed by the following national organizations: Defend the Vote, EMILYs List, Elect Democratic Women, Human Rights Campaign, Giffords, League of Conservation Voters Action Fund",
       "note": "League of Conservation Voters Action Fund endorsement capped at 4 per protocol."
+    },
+    {
+      "statement": "federal-budget-law",
+      "value": 2,
+      "source_type": "inferred",
+      "source_url": "https://coloradosun.com/2026/10/07/jeff-crank-jessica-killin-issue-guide-colorado/",
+      "source_title": "Where Jeff Crank, Jessica Killin stand on the issues in Colorado's race to represent the 5th Congressional District",
+      "date": "2026-10-07",
+      "quote": "She said she would “pull back on or eliminate” tax cuts for large corporations and the wealthy — “those making over $1 million.”",
+      "note": "Answering which H.R. 1 tax cuts she would keep or change, she would preserve only targeted middle- and lower-income provisions and reverse the law's corporate and top-earner tax cuts; inferred opposition to the law as passed, capped at 2 since she was not asked squarely whether Congress was right to pass it."
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 2,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/07/jeff-crank-jessica-killin-issue-guide-colorado/",
+      "source_title": "Where Jeff Crank, Jessica Killin stand on the issues in Colorado's race to represent the 5th Congressional District",
+      "date": "2026-10-07",
+      "quote": "There are people who have been caught up in mass deportations who don’t deserve to be sent home, and they should never be deported to a third country, she said.",
+      "note": "Opposes the scale/methods of current mass-deportation enforcement while also saying she is glad the border is secure, elsewhere in the same answer; coded as a qualified disagree."
+    },
+    {
+      "statement": "fentanyl-penalties",
+      "value": 4,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-5-candidate-qa/",
+      "source_title": "Colorado U.S. House District 5 candidate Q&A",
+      "date": "2026-10-03",
+      "quote": "I will fight for harsher penalties on fentanyl traffickers and violent criminals while keeping assault weapons out of the hands of criminals.",
+      "note": "Supports tougher penalties for fentanyl traffickers but does not specifically address mandatory prison for any amount sold, so coded as a qualified agree rather than the strongest value."
     }
   ],
   "endorsements": [
@@ -152,21 +185,31 @@
       "accessed": "2026-10-14"
     },
     {
+      "title": "Where Jeff Crank, Jessica Killin stand on the issues in Colorado's race to represent the 5th Congressional District",
+      "url": "https://coloradosun.com/2026/10/07/jeff-crank-jessica-killin-issue-guide-colorado/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado U.S. House District 5 candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-5-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
       "title": "killinforcolorado.com",
       "url": "https://www.killinforcolorado.com",
       "accessed": "2026-10-14"
     },
     {
-      "title": "FEC candidate financial summary",
+      "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H6CO05324/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Killin's campaign website issues/priorities pages are a JavaScript-rendered app and could not be read with curl; all issue positions therefore come from her Ballotpedia Candidate Connection survey and campaign-website text as reproduced on Ballotpedia. The Ballotpedia survey's exact completion date within 2026 was not given, so dates were set to 2026-01-01 (year only known) per protocol's convention for a month/day-unknown date, noted in each record.",
+  "research_notes": "Killin's campaign website issues/priorities pages are a JavaScript-rendered app and could not be read with curl; all issue positions therefore come from her Ballotpedia Candidate Connection survey and campaign-website text as reproduced on Ballotpedia. The Ballotpedia survey's exact completion date within 2026 was not given, so dates were set to 2026-01-01 (year only known) per protocol's convention for a month/day-unknown date, noted in each record. Second pass 2026-10-14: added federal-budget-law and deportation-priority from the Colorado Sun's Oct. 7, 2026 CD5 issue guide, and fentanyl-penalties from the Denver Post's Oct. 3, 2026 CD5 candidate Q&A.",
   "verification": {
-    "checked": "2026-10-15",
-    "positions_verified": 6,
+    "checked": "2026-10-14",
+    "positions_verified": 9,
     "positions_unverifiable": 0,
     "detail": {
       "keep-tariffs": "found",
@@ -174,7 +217,10 @@
       "public-lands": "found",
       "abortion-legal": "found",
       "stricter-gun-laws": "found",
-      "clean-energy-shift": "found"
+      "clean-energy-shift": "found",
+      "federal-budget-law": "found",
+      "deportation-priority": "found",
+      "fentanyl-penalties": "found"
     }
   }
 }

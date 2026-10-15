@@ -8,22 +8,48 @@
   "website": null,
   "summary": [
     {
-      "text": "Christopher Baum is on the ballot for U.S. Senate as the Approval Voting Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Christopher Baum (listed as 'Chris Baum' on Ballotpedia) is the Approval Voting Party candidate for U.S. Senate, a retired former U.S. Navy supply officer, small business owner and computer network administrator living in Colorado.",
+      "source_url": "https://ballotpedia.org/Chris_Baum"
+    },
+    {
+      "text": "He says he is running 'to publicize approval voting' as an alternative to the current plurality voting system, and has no campaign website.",
+      "source_url": "https://www.coloradoan.com/story/news/politics/elections/2026/10/01/christopher-baum-running-for-election-to-u-s-senate-colorado-midterm/91799841007/"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "U.S. Navy, 1967-1987 (supply officer).",
+      "source_url": "https://ballotpedia.org/Chris_Baum"
+    },
+    {
+      "text": "Bachelor's degree, Brown University, 1967; graduate degree, University of Pennsylvania, 1979.",
+      "source_url": "https://ballotpedia.org/Chris_Baum"
+    },
+    {
+      "text": "Small business owner and computer network administrator; now retired.",
+      "source_url": "https://ballotpedia.org/Chris_Baum"
+    },
+    {
+      "text": "Has not won elected office; previously the Approval Voting Party nominee for Colorado House District 34 (2022) and for Colorado's 8th Congressional District in the U.S. House (2024, 1.7% of the vote).",
+      "source_url": "https://ballotpedia.org/Chris_Baum"
+    }
+  ],
   "record": [],
   "positions": [],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Chris Baum - Ballotpedia",
+      "url": "https://ballotpedia.org/Chris_Baum",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado election: Q&A with U.S. Senate candidate Christopher Baum - The Coloradoan",
+      "url": "https://www.coloradoan.com/story/news/politics/elections/2026/10/01/christopher-baum-running-for-election-to-u-s-senate-colorado-midterm/91799841007/",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "No campaign website; Baum told the Coloradoan he has none. He had not completed a 2026 Ballotpedia Candidate Connection survey; his most recent completed survey (2022) was for a different office (Colorado House District 34) and addressed governing philosophy rather than specific policy, so it is not used here. In the Coloradoan's Oct. 1, 2026 candidate Q&A (fetched via a read-proxy after coloradoan.com returned 'Access Restricted' to direct automated fetches, including WebFetch), Baum said his top priorities are adopting approval voting and 'reduce government, eliminate debt,' and discussed foreign-policy/occupation views; none of this maps cleanly enough to any of the 25 coded statements to code without over-stretching a short, general answer, so positions are left empty rather than inferred. No sourced position was found on abortion, guns, immigration, tariffs, energy, health care, or any 2026 Colorado ballot measure despite searching; a reviewer may want to try reaching his campaign directly given how little public material exists."
 }

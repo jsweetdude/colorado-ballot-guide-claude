@@ -20,6 +20,12 @@ const host = (u: string) => {
   }
 };
 const money = (n: number | null) => (n == null ? 'Not reported' : n.toLocaleString('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 }));
+const when = (p: { date: string; date_basis?: string }) => {
+  if (p.date_basis === 'year') return `${p.date.slice(0, 4)} (exact date not given)`;
+  if (p.date_basis === 'month') return `about ${new Date(`${p.date.slice(0, 7)}-15T12:00:00Z`).toLocaleDateString('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' })}`;
+  if (p.date_basis === 'accessed') return `undated page, read ${formatDate(p.date)}`;
+  return formatDate(p.date);
+};
 const recordKind = { recorded_vote: 'Vote', sponsored_bill: 'Bill', decision: 'Decision' } as const;
 const issueUrl = `${SITE.issues}/new?title=${encodeURIComponent(`Error on ${c.name}'s profile`)}`;
 const verified = c.verification?.detail ?? {};
@@ -36,7 +42,7 @@ const matchData = JSON.stringify({ id: c.id, positions: c.positions.map((p) => (
       {c.incumbent && <span class="pc-badge">Incumbent</span>}
       {c.running_mate && <span class="small">Running mate: {c.running_mate.name}</span>}
     </p>
-    {c.website && <p class="small"><a href={c.website}>Campaign website</a> ({host(c.website)})</p>}
+    {c.website && <p class="small"><a href={c.website}>Website</a> ({host(c.website)})</p>}
   </section>
 
   <section class="pc-card" id="you-match" hidden aria-labelledby="you-h">
@@ -45,7 +51,7 @@ const matchData = JSON.stringify({ id: c.id, positions: c.positions.map((p) => (
   </section>
 
   <section class="pc-card stack-sm" aria-labelledby="who-h">
-    <h2 id="who-h">Who {c.name.split(' ')[0]} is</h2>
+    <h2 id="who-h">Background</h2>
     <ul class="stack-sm">
       {c.summary.map((s) => <li>{s.text} <a class="small" href={s.source_url}>({host(s.source_url)})</a></li>)}
     </ul>
@@ -117,10 +123,10 @@ const matchData = JSON.stringify({ id: c.id, positions: c.positions.map((p) => (
                         {p.source_type === 'inferred' && <span class="pc-badge pc-badge--warning">Inferred</span>}</span>
                       <blockquote class="quote">“{p.quote}”</blockquote>
                       {p.note && <span class="small">{p.note}</span>}
-                      <span class="source-line">{SOURCE_LABEL[p.source_type]}, {formatDate(p.date)}: <a href={p.source_url}>{p.source_title}</a> ({host(p.source_url)}){p.via && `, read via ${p.via}`}{verified[s.id] === 'found' && '. Quote checked against the source page.'}</span>
+                      <span class="source-line">{SOURCE_LABEL[p.source_type]}, {when(p)}: <a href={p.source_url}>{p.source_title}</a> ({host(p.source_url)}){p.via && `, read via ${p.via}`}{verified[s.id] === 'found' && '. Quote checked against the source page.'}</span>
                     </td>
                   ) : (
-                    <td class="pos-unknown"><span>No known position</span></td>
+                    <td><span class="unknown-chip"><i aria-hidden="true"></i>No known position</span></td>
                   )}
                 </tr>
               );

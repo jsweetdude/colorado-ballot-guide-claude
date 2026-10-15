@@ -5,17 +5,207 @@
   "party": "Republican Party",
   "incumbent": false,
   "profile": "full",
-  "website": null,
+  "website": "https://baisleyforsenate.com/",
   "summary": [
     {
-      "text": "Mark Baisley is on the ballot for U.S. Senate as the Republican Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Mark Baisley is a Republican member of the Colorado State Senate representing District 4 (Woodland Park), serving since January 2023; he previously served in the Colorado House of Representatives, District 39 (2019-2023).",
+      "source_url": "https://ballotpedia.org/Mark_Baisley"
+    },
+    {
+      "text": "He was born in Hastings, Minnesota, and has a career background in aerospace and defense engineering, including work for Raytheon and Martin Marietta.",
+      "source_url": "https://ballotpedia.org/Mark_Baisley"
+    },
+    {
+      "text": "Baisley briefly ran for Colorado governor in the 2026 cycle before switching to the U.S. Senate race.",
+      "source_url": "https://ballotpedia.org/Mark_Baisley"
     }
   ],
-  "experience": [],
-  "record": [],
-  "positions": [],
-  "endorsements": [],
+  "experience": [
+    {
+      "text": "Colorado State Senate, District 4, January 2023-present.",
+      "source_url": "https://ballotpedia.org/Mark_Baisley"
+    },
+    {
+      "text": "Colorado House of Representatives, District 39, 2019-2023.",
+      "source_url": "https://ballotpedia.org/Mark_Baisley"
+    },
+    {
+      "text": "Bachelor's degree in computer information systems/business administration, Columbia College.",
+      "source_url": "https://ballotpedia.org/Mark_Baisley"
+    },
+    {
+      "text": "Career experience includes president of Slipglass, Inc. and Enspherics; senior engineer with Raytheon; and senior systems engineer with Martin Marietta.",
+      "source_url": "https://ballotpedia.org/Mark_Baisley"
+    },
+    {
+      "text": "Served on the Columbia College Board of Trustees and as vice chair and finance chairman of the Republican Party of Colorado.",
+      "source_url": "https://ballotpedia.org/Mark_Baisley"
+    }
+  ],
+  "record": [
+    {
+      "kind": "recorded_vote",
+      "title": "SB25-003, Semiautomatic Firearms & Rapid-Fire Devices, Senate third reading",
+      "date": "2025-02-18",
+      "detail": "Voted No on final Senate passage of the bill, which created a permit requirement for certain semiautomatic firearms and rapid-fire devices; passed 19-15.",
+      "source_url": "https://leg.colorado.gov/bill_votes/22250"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "SB25-047, Enforcement of Federal Immigration Law",
+      "date": "2025-01-08",
+      "detail": "Prime Senate sponsor of a bill requiring police with probable cause to report people believed to be in the country illegally to ICE and repealing state limits on local-federal immigration cooperation; postponed indefinitely in committee.",
+      "source_url": "https://leg.colorado.gov/bills/sb25-047"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "HB24-1152, Accessory Dwelling Units, Senate third reading",
+      "date": "2024-05-06",
+      "detail": "Voted No on final Senate passage of the bill requiring many Colorado cities to allow accessory dwelling units; the bill was signed into law.",
+      "source_url": "https://leg.colorado.gov/bill_votes/10905"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "SCR24B-002, Calculation of Property Tax for Special Districts",
+      "date": "2024-08-26",
+      "detail": "Prime sponsor of a resolution to change how property tax is calculated for special districts; postponed indefinitely in committee.",
+      "source_url": "https://leg.colorado.gov/bills/scr24b-002"
+    }
+  ],
+  "positions": [
+    {
+      "statement": "federal-budget-law",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/05/colorado-senate-race-candidate-guide/",
+      "source_title": "Where John Hickenlooper, Mark Baisley stand on the issues in Colorado's US Senate race - The Colorado Sun",
+      "date": "2026-10-05",
+      "quote": "I'm appreciative of everything that I've seen in that bill.",
+      "note": "Answering a question about H.R. 1 (the One Big Beautiful Bill Act), Baisley said he loves that the bill made permanent nearly all of the 2017 federal income tax cuts and did not name any provision he would change."
+    },
+    {
+      "statement": "keep-tariffs",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/05/colorado-senate-race-candidate-guide/",
+      "source_title": "Where John Hickenlooper, Mark Baisley stand on the issues in Colorado's US Senate race - The Colorado Sun",
+      "date": "2026-10-05",
+      "quote": "I would like to see tariffs replace income tax. In my observation, taxing income was one of the country's poorest historical decisions.",
+      "note": "Answering whether he supports the tariffs Trump has imposed, Baisley said he is generally in favor of tariffs."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 2,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/05/colorado-senate-race-candidate-guide/",
+      "source_title": "Where John Hickenlooper, Mark Baisley stand on the issues in Colorado's US Senate race - The Colorado Sun",
+      "date": "2026-10-05",
+      "quote": "Baisley said he supports the work requirements and that it should be considered a success whenever someone comes off Medicaid and a failure every time someone is enrolled in the health insurance program for low income and disabled people.",
+      "note": "Answering a question on Medicaid work requirements imposed by the One Big Beautiful Bill Act. He also said he is concerned the requirements may prevent people who need the program from accessing it ('but this is not a zero-sum game'), which is why this is coded as a qualified rather than unqualified disagreement."
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/05/colorado-senate-race-candidate-guide/",
+      "source_title": "Where John Hickenlooper, Mark Baisley stand on the issues in Colorado's US Senate race - The Colorado Sun",
+      "date": "2026-10-05",
+      "quote": "No. We should not be the relief valve for all the dysfunctional countries around the world.",
+      "note": "Answering whether anyone already living in the U.S. illegally should be permitted to stay."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 2,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/05/colorado-senate-race-candidate-guide/",
+      "source_title": "Where John Hickenlooper, Mark Baisley stand on the issues in Colorado's US Senate race - The Colorado Sun",
+      "date": "2026-10-05",
+      "quote": "No, I don't think we should stop using carbon-emitting",
+      "note": "Partial quote as printed (the outlet's paraphrase completes the sentence with 'sources'). He also said he supports government investment in clean-energy research, particularly hydrogen and nuclear power, and past work to allow uranium mining in western Colorado, which is why this is coded as a qualified rather than unqualified disagreement."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 2,
+      "source_type": "recorded_vote",
+      "source_url": "https://leg.colorado.gov/bill_votes/22250",
+      "source_title": "Colorado General Assembly, SB25-003 Senate third-reading floor vote",
+      "date": "2025-02-18",
+      "quote": "Baisley No",
+      "note": "Final Senate passage vote on SB25-003, which created a permit requirement for certain semiautomatic firearms; this directly matches the statement's own coding example."
+    },
+    {
+      "statement": "immigration-notify-ice",
+      "value": 5,
+      "source_type": "sponsored_bill",
+      "source_url": "https://leg.colorado.gov/bills/sb25-047",
+      "source_title": "SB25-047, Enforcement of Federal Immigration Law - Colorado General Assembly",
+      "date": "2025-01-08",
+      "quote": "Required a peace officer who has probable cause to believe that a person is not legally present in the United States to report the person to the federal immigration and customs enforcement office",
+      "note": "Baisley was prime Senate sponsor of this bill, which would recreate a 2006 law requiring police to report people believed to be in the country illegally to ICE and repeal Colorado's current limits on local-federal immigration cooperation."
+    },
+    {
+      "statement": "housing-state-zoning",
+      "value": 2,
+      "source_type": "recorded_vote",
+      "source_url": "https://leg.colorado.gov/bill_votes/10905",
+      "source_title": "Colorado General Assembly, HB24-1152 Senate third-reading floor vote",
+      "date": "2024-05-06",
+      "quote": "Baisley No",
+      "note": "Final Senate passage vote on HB24-1152, which requires many Colorado cities to allow accessory dwelling units on single-family lots, overriding local zoning restrictions."
+    },
+    {
+      "statement": "keep-tabor-surplus",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://www.coloradopolitics.com/2023/08/14/qa-with-sen-mark-baisley-senator-on-building-coalitions-while-voting-contrarian-97e4e302-3609-11ee-8fd8-bfc5f7a36722",
+      "source_title": "Q&A with Sen. Mark Baisley | Senator on building coalitions while voting contrarian - Colorado Politics",
+      "date": "2023-08-14",
+      "quote": "It is a sneaky, underhanded way to get rid of TABOR by dangling some dollars in front of people who have not earned those dollars.",
+      "note": "Criticizing a 2023 bill that tied a flat TABOR refund to a ballot measure that would have reduced future TABOR refunds; a 2023 statement, but it directly addresses the same underlying question (keeping vs. refunding revenue above the TABOR limit) as the 2026 statement."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "Hank Brown, former U.S. Senator",
+      "source_url": "https://baisleyforsenate.com/endorsements/"
+    },
+    {
+      "name": "Bill Owens, former Colorado Governor",
+      "source_url": "https://baisleyforsenate.com/endorsements/"
+    },
+    {
+      "name": "Lauren Boebert, U.S. Representative",
+      "source_url": "https://baisleyforsenate.com/endorsements/"
+    },
+    {
+      "name": "Jeff Crank, U.S. Representative",
+      "source_url": "https://baisleyforsenate.com/endorsements/"
+    },
+    {
+      "name": "Gabe Evans, U.S. Representative",
+      "source_url": "https://baisleyforsenate.com/endorsements/"
+    },
+    {
+      "name": "Jeff Hurd, U.S. Representative",
+      "source_url": "https://baisleyforsenate.com/endorsements/"
+    },
+    {
+      "name": "Scott Gessler, former Colorado Secretary of State",
+      "source_url": "https://baisleyforsenate.com/endorsements/"
+    },
+    {
+      "name": "Sheriff Darren Weekly, Douglas County",
+      "source_url": "https://baisleyforsenate.com/endorsements/"
+    },
+    {
+      "name": "Cleave Simpson, Colorado State Senator",
+      "source_url": "https://baisleyforsenate.com/endorsements/"
+    },
+    {
+      "name": "Byron Pelton, Colorado State Senator",
+      "source_url": "https://baisleyforsenate.com/endorsements/"
+    }
+  ],
   "finance": {
     "raised": 138210,
     "spent": 110837,
@@ -27,16 +217,82 @@
   },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Mark Baisley - Ballotpedia",
+      "url": "https://ballotpedia.org/Mark_Baisley",
       "accessed": "2026-10-14"
     },
     {
-      "title": "FEC candidate financial summary",
+      "title": "Colorado General Assembly, SB25-003 third-reading floor vote",
+      "url": "https://leg.colorado.gov/bill_votes/22250",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "SB25-047, Enforcement of Federal Immigration Law - Colorado General Assembly",
+      "url": "https://leg.colorado.gov/bills/sb25-047",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado General Assembly, HB24-1152 third-reading floor vote",
+      "url": "https://leg.colorado.gov/bill_votes/10905",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "SCR24B-002, Calculation of Property Tax for Special Districts - Colorado General Assembly",
+      "url": "https://leg.colorado.gov/bills/scr24b-002",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Where John Hickenlooper, Mark Baisley stand on the issues in Colorado's US Senate race - The Colorado Sun",
+      "url": "https://coloradosun.com/2026/10/05/colorado-senate-race-candidate-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Q&A with Sen. Mark Baisley | Senator on building coalitions while voting contrarian - Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2023/08/14/qa-with-sen-mark-baisley-senator-on-building-coalitions-while-voting-contrarian-97e4e302-3609-11ee-8fd8-bfc5f7a36722",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado U.S. Senate | Baisley looks to unseat Hickenlooper - Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2026/10/02/mark-baisley-john-hickenlooper-us-senate/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Republican candidate looks to unseat Colorado senator seeking reelection in the midterms - Denver7",
+      "url": "https://www.denver7.com/news/politics/republican-candidate-looks-to-unseat-colorado-senator-seeking-reelection-in-the-midterms",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "baisleyforsenate.com",
+      "url": "https://baisleyforsenate.com/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "baisleyforsenate.com",
+      "url": "https://baisleyforsenate.com/endorsements/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/S6CO00507/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Baisley had not completed Ballotpedia's 2026 Candidate Connection survey. A claim in the research assignment that he serves on the Colorado State Board of Education could not be verified and appears to be incorrect: Ballotpedia and the Colorado General Assembly both identify him only as a sitting Colorado State Senator (District 4) and former state representative; flagging for reviewer to double-check against the assignment's secondary source. No sourced statement was found addressing abortion, graduated-income-tax/income-tax-cap, or several other 2026 Colorado ballot measures despite searching; left unknown rather than inferred from his general small-government rhetoric. The keep-tabor-surplus quote is from 2023 and concerns a different TABOR-refund bill than 2026's Proposition NN, but addresses the same underlying question. Baisley's age is given as 71 and Hickenlooper's as 74 in the Colorado Politics questionnaire (Oct. 2, 2026), for reference.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 9,
+    "positions_unverifiable": 0,
+    "detail": {
+      "federal-budget-law": "found",
+      "keep-tariffs": "found",
+      "health-coverage": "found",
+      "deportation-priority": "found",
+      "clean-energy-shift": "found",
+      "stricter-gun-laws": "found",
+      "immigration-notify-ice": "found",
+      "housing-state-zoning": "found",
+      "keep-tabor-surplus": "found"
+    }
+  }
 }

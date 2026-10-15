@@ -161,7 +161,8 @@
       "source_title": "Jeff Crank (Ballotpedia, quoting his 2024 campaign website)",
       "date": "2024-01-01",
       "quote": "As a lifelong Second Amendment supporter and gun owner and a proud pro-life advocate, I know the importance of a strong conservative voice on these issues.",
-      "note": "Date is approximate (text dated to the 2024 campaign cycle on Ballotpedia); month/day unknown."
+      "note": "Date is approximate (text dated to the 2024 campaign cycle on Ballotpedia); month/day unknown.",
+      "date_basis": "year"
     },
     {
       "statement": "abortion-legal",
@@ -171,7 +172,8 @@
       "source_title": "Jeff Crank (Ballotpedia, quoting his 2024 campaign website)",
       "date": "2024-01-01",
       "quote": "As a lifelong Second Amendment supporter and gun owner and a proud pro-life advocate, I know the importance of a strong conservative voice on these issues.",
-      "note": "Date is approximate (text dated to the 2024 campaign cycle on Ballotpedia); month/day unknown."
+      "note": "Date is approximate (text dated to the 2024 campaign cycle on Ballotpedia); month/day unknown.",
+      "date_basis": "year"
     },
     {
       "statement": "fentanyl-penalties",
@@ -182,6 +184,46 @@
       "date": "2024-01-01",
       "quote": "With our communities ravaged by fentanyl, not securing our border, will only result in more deaths.",
       "note": "Statement is about border security and fentanyl flow, not sentencing law directly; inferred support for tougher fentanyl enforcement, capped at 4."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 2,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/07/jeff-crank-jessica-killin-issue-guide-colorado/",
+      "source_title": "Where Jeff Crank, Jessica Killin stand on the issues in Colorado's race to represent the 5th Congressional District",
+      "date": "2026-10-07",
+      "quote": "“I support them as they are for able-bodied adults, ages 18 to 64, who are not caregivers.”",
+      "note": "Answering a question on Medicaid work requirements imposed by the One Big Beautiful Bill Act."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 2,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/07/jeff-crank-jessica-killin-issue-guide-colorado/",
+      "source_title": "Where Jeff Crank, Jessica Killin stand on the issues in Colorado's race to represent the 5th Congressional District",
+      "date": "2026-10-07",
+      "quote": "Closing coal-fired plants and pursuing renewable energy is putting Colorado at an economic disadvantage that we shouldn’t allow, Crank said.",
+      "note": "He added he would be amenable to a slower shift if the whole world agreed to it, so coded as a qualified disagree rather than unconditional."
+    },
+    {
+      "statement": "challenge-federal-policies",
+      "value": 1,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/07/jeff-crank-jessica-killin-issue-guide-colorado/",
+      "source_title": "Where Jeff Crank, Jessica Killin stand on the issues in Colorado's race to represent the 5th Congressional District",
+      "date": "2026-10-07",
+      "quote": "Crank called the lawsuit “constitutionally laughable” and said the state should use its money for more productive endeavors such as working to entice aerospace companies to move to the state.",
+      "note": "About Colorado's lawsuit challenging the Trump administration's relocation of U.S. Space Command headquarters to Alabama; he disagreed with the relocation decision itself but dismissed the state's court challenge to it as wasteful."
+    },
+    {
+      "statement": "immigration-notify-ice",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-5-candidate-qa/",
+      "source_title": "Colorado U.S. House District 5 candidate Q&A",
+      "date": "2026-10-03",
+      "quote": "I oppose sanctuary city policies and believe that states or localities should have their federal funding withheld if they willfully obstruct federal immigration enforcement.",
+      "note": "Direct opposition to sanctuary-style limits on local cooperation with federal immigration enforcement, the subject of Amendment 81."
     }
   ],
   "endorsements": [
@@ -231,21 +273,31 @@
       "accessed": "2026-10-14"
     },
     {
+      "title": "Where Jeff Crank, Jessica Killin stand on the issues in Colorado's race to represent the 5th Congressional District",
+      "url": "https://coloradosun.com/2026/10/07/jeff-crank-jessica-killin-issue-guide-colorado/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado U.S. House District 5 candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-5-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
       "title": "crank.house.gov",
       "url": "https://crank.house.gov",
       "accessed": "2026-10-14"
     },
     {
-      "title": "FEC candidate financial summary",
+      "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H6CO05142/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Crank's public-lands record is contradictory: he voted for the May 2025 committee amendment to mandate public land sales and against the competing amendment to block sales, but separately told Colorado Public Radio in June 2025 that he opposed selling public lands. Per protocol, the recorded votes (strongest source type) were used for the coded position; a reviewer may want to note the contradiction in the published guide. Could not verify the Pikes Peak Bulletin's committee-vote claims against an official Natural Resources Committee roll call document (committee markup votes are not posted on clerk.house.gov); treated the outlet's direct reporting as reliable per protocol's allowance for local news coverage.",
+  "research_notes": "Crank's public-lands record is contradictory: he voted for the May 2025 committee amendment to mandate public land sales and against the competing amendment to block sales, but separately told Colorado Public Radio in June 2025 that he opposed selling public lands. Per protocol, the recorded votes (strongest source type) were used for the coded position; a reviewer may want to note the contradiction in the published guide. Could not verify the Pikes Peak Bulletin's committee-vote claims against an official Natural Resources Committee roll call document (committee markup votes are not posted on clerk.house.gov); treated the outlet's direct reporting as reliable per protocol's allowance for local news coverage. Second pass 2026-10-14: added health-coverage, clean-energy-shift and challenge-federal-policies from the Colorado Sun's Oct. 7, 2026 CD5 issue guide, and immigration-notify-ice from the Denver Post's Oct. 3, 2026 CD5 candidate Q&A.",
   "verification": {
-    "checked": "2026-10-15",
-    "positions_verified": 9,
+    "checked": "2026-10-14",
+    "positions_verified": 13,
     "positions_unverifiable": 0,
     "detail": {
       "federal-budget-law": "found",
@@ -256,7 +308,11 @@
       "mail-ballot-id": "found",
       "stricter-gun-laws": "found",
       "abortion-legal": "found",
-      "fentanyl-penalties": "found"
+      "fentanyl-penalties": "found",
+      "health-coverage": "found",
+      "clean-energy-shift": "found",
+      "challenge-federal-policies": "found",
+      "immigration-notify-ice": "found"
     }
   }
 }

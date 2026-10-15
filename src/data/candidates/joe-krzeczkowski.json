@@ -5,16 +5,108 @@
   "party": "Unaffiliated",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://joeforco.com",
   "summary": [
     {
-      "text": "Joe Krzeczkowski is on the ballot for U.S. House, District 7 as an unaffiliated candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Joe Krzeczkowski is an unaffiliated candidate for U.S. House in Colorado's 7th District, working as a technology executive and software professional.",
+      "source_url": "https://ballotpedia.org/Joe_Krzeczkowski"
+    },
+    {
+      "text": "He was raised on a family farm near Ann Arbor, Michigan, earned a bachelor's degree in engineering from the University of Michigan in 2011, and moved to Colorado in 2012.",
+      "source_url": "https://ballotpedia.org/Joe_Krzeczkowski"
+    },
+    {
+      "text": "He lives in Lakewood, where he has led a local Community Council and supported the 'Make Lakewood Livable' campaign.",
+      "source_url": "https://joeforco.com/about"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Technology executive and software professional leading global engineering teams.",
+      "source_url": "https://ballotpedia.org/Joe_Krzeczkowski"
+    },
+    {
+      "text": "B.A./engineering degree, University of Michigan, 2011.",
+      "source_url": "https://ballotpedia.org/Joe_Krzeczkowski"
+    },
+    {
+      "text": "Led a Community Council in Lakewood and supported the Make Lakewood Livable campaign; has not held elected office.",
+      "source_url": "https://joeforco.com/about"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "health-coverage",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://joeforco.com/values",
+      "source_title": "Values - Joe K for Colorado",
+      "date": "2026-06-05",
+      "quote": "it's time to listen to the people and create a single-payer healthcare plan",
+      "note": "Date is the page's last-modified date per the site's sitemap."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://joeforco.com/values",
+      "source_title": "Values - Joe K for Colorado",
+      "date": "2026-06-05",
+      "quote": "We should be building so much clean, domestic energy that prices are affordable, the environment is cleaner, and oil wars are a thing of the past.",
+      "note": "Date is the page's last-modified date per the site's sitemap."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 3,
+      "source_type": "direct_statement",
+      "source_url": "https://joeforco.com/values",
+      "source_title": "Values - Joe K for Colorado",
+      "date": "2026-06-05",
+      "quote": "In Colorado, we respect the right to own firearms for self-defense and sport, but we also expect the common-sense transparency required to keep our schools and streets safe.",
+      "note": "Explicit mixed position: affirms gun ownership rights while calling for added safety measures, rather than clearly agreeing or disagreeing with stricter laws generally."
+    },
+    {
+      "statement": "keep-mail-voting",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://joeforco.com/values",
+      "source_title": "Values - Joe K for Colorado",
+      "date": "2026-06-05",
+      "quote": "We should be encouraging and enabling every citizen to vote in our elections, not putting red tape in the way.",
+      "note": "Inferred: this is a general pro-access voting-rights statement (tied to the federal Freedom to Vote Act), not a statement about Colorado's all-mail ballot system specifically."
+    },
+    {
+      "statement": "abortion-legal",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://joeforco.com/values",
+      "source_title": "Values - Joe K for Colorado",
+      "date": "2026-06-05",
+      "quote": "Whether it's your home, your data, or what happens in your bedroom or doctor's office, your business is your own. You have the right to privacy.",
+      "note": "Inferred: a general medical-privacy statement; abortion is not named explicitly."
+    },
+    {
+      "statement": "fentanyl-penalties",
+      "value": 2,
+      "source_type": "inferred",
+      "source_url": "https://joeforco.com/values",
+      "source_title": "Values - Joe K for Colorado",
+      "date": "2026-06-05",
+      "quote": "our law enforcement officers shouldn't be forced to pull double or triple duty as therapists, addiction specialists, and mental health workers; they need the right tools and support to keep our streets safe",
+      "note": "Inferred: leans toward a treatment/support-oriented approach rather than mandatory minimum sentencing, but does not address fentanyl penalties by name."
+    },
+    {
+      "statement": "federal-budget-law",
+      "value": 2,
+      "source_type": "inferred",
+      "source_url": "https://joeforco.com/values",
+      "source_title": "Values - Joe K for Colorado",
+      "date": "2026-06-05",
+      "quote": "We gave trickle-down economics an honest run, and it's clear that it doesn't work.",
+      "note": "Inferred: he does not name the One Big Beautiful Bill Act, but this statement opposes the tax-cut approach it embodies and calls for 'the wealthy elites and corporations' to 'pay their fair share.'"
+    }
+  ],
   "endorsements": [],
   "finance": {
     "raised": 3531,
@@ -27,16 +119,50 @@
   },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Joe Krzeczkowski - Ballotpedia",
+      "url": "https://ballotpedia.org/Joe_Krzeczkowski",
       "accessed": "2026-10-14"
     },
     {
-      "title": "FEC candidate financial summary",
+      "title": "Joe K for Colorado (home)",
+      "url": "https://joeforco.com",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Meet Joe - Joe K for Colorado",
+      "url": "https://joeforco.com/about",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Values - Joe K for Colorado",
+      "url": "https://joeforco.com/values",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Secretary of State, 2026 General Election candidate list",
+      "url": "https://www.sos.state.co.us/pubs/elections/vote/generalCandidates.html",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H6CO07130/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Krzeczkowski completed Ballotpedia's 2026 Candidate Connection survey (most recent submission April 28, 2026), but his survey answers are mostly biographical and campaign-finance-reform messaging that does not map to any of the 25 statements, so they are reflected in summary/experience rather than positions. He did not return the Denver Post's 2026 candidate questionnaire. Several positions above are coded 'inferred' and capped at 4/2 because his campaign site addresses adjacent topics (privacy, voting access, policing workload, trickle-down economics) without naming the specific statement topic (abortion, Colorado's mail ballots, fentanyl penalties, the One Big Beautiful Bill Act). No sourced position found on any of the 2026 Colorado ballot measures (Amendments 81-87, Propositions 132-137), tariffs, public lands sale/transfer, or transgender-related statements.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 7,
+    "positions_unverifiable": 0,
+    "detail": {
+      "health-coverage": "found",
+      "clean-energy-shift": "found",
+      "stricter-gun-laws": "found",
+      "keep-mail-voting": "found",
+      "abortion-legal": "found",
+      "fentanyl-penalties": "found",
+      "federal-budget-law": "found"
+    }
+  }
 }

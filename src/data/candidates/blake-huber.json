@@ -5,25 +5,71 @@
   "party": "Libertarian Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://lpcocolorado.my.canva.site/blake-huber-us-senate-website",
   "summary": [
     {
-      "text": "Blake Huber is on the ballot for U.S. Senate as the Libertarian Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Blake Huber is the Libertarian Party candidate for U.S. Senate from Colorado, a retired former manager who describes himself as a moderate Libertarian and has been involved in politics for nearly 50 years, including as Colorado Libertarian Party state chair and on the Libertarian National Committee.",
+      "source_url": "https://www.coloradoan.com/story/news/politics/elections/2026/10/01/blake-huber-running-for-election-to-u-s-senate-colorado-midterm/91799847007/"
+    },
+    {
+      "text": "He has previously run for U.S. President (2020, 2024) and Colorado Secretary of State (2018), and helped found the Approval Voting Party.",
+      "source_url": "https://ballotpedia.org/Blake_Huber"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Retired after more than 30 years in management.",
+      "source_url": "https://www.coloradoan.com/story/news/politics/elections/2026/10/01/blake-huber-running-for-election-to-u-s-senate-colorado-midterm/91799847007/"
+    },
+    {
+      "text": "Former Colorado Libertarian Party state chair and Libertarian National Committee member.",
+      "source_url": "https://www.coloradoan.com/story/news/politics/elections/2026/10/01/blake-huber-running-for-election-to-u-s-senate-colorado-midterm/91799847007/"
+    },
+    {
+      "text": "Has not held elected office; previously ran for Colorado Secretary of State (2018) and U.S. President (2020, 2024).",
+      "source_url": "https://ballotpedia.org/Blake_Huber"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "deportation-priority",
+      "value": 3,
+      "source_type": "questionnaire",
+      "source_url": "https://www.coloradoan.com/story/news/politics/elections/2026/10/01/blake-huber-running-for-election-to-u-s-senate-colorado-midterm/91799847007/",
+      "source_title": "Colorado election: Q&A with U.S. Senate candidate Blake Huber - The Coloradoan",
+      "date": "2026-10-01",
+      "quote": "rational immigration reform that secures our borders while providing realistic legal pathways for people who want to work and contribute. Enforcement should focus on genuine threats, not workers and families trying to build better lives.",
+      "note": "Explicitly supports border enforcement against 'genuine threats' while opposing enforcement against working immigrants and families; coded as an explicit middle/mixed position."
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Blake Huber - Ballotpedia",
+      "url": "https://ballotpedia.org/Blake_Huber",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado election: Q&A with U.S. Senate candidate Blake Huber - The Coloradoan",
+      "url": "https://www.coloradoan.com/story/news/politics/elections/2026/10/01/blake-huber-running-for-election-to-u-s-senate-colorado-midterm/91799847007/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "lpcocolorado.my.canva.site",
+      "url": "https://lpcocolorado.my.canva.site/blake-huber-us-senate-website",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Ballotpedia has no biography section for Huber and lists no 2026 campaign content beyond the race listing. The Coloradoan's Oct. 1, 2026 candidate Q&A (fetched via a read-proxy after coloradoan.com itself returned 'Access Restricted' to direct automated fetches, including WebFetch) was the main usable source; his only completed Ballotpedia survey (2018, for Colorado Secretary of State) addressed voting-method reform (approval/ranked-choice voting), which is not one of the 25 coded statements. His top stated priority is housing supply/affordability generally and election-method reform (approval voting); neither maps cleanly to a coded statement, so only one position (deportation-priority) could be sourced. No sourced position found on abortion, guns, taxes, tariffs, energy, or most ballot measures.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 0,
+    "positions_unverifiable": 1,
+    "detail": {
+      "deportation-priority": "unreachable"
+    }
+  }
 }

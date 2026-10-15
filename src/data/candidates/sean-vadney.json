@@ -5,25 +5,81 @@
   "party": "Libertarian Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://seanvadneyforsos.org",
   "summary": [
     {
-      "text": "Sean Vadney is on the ballot for Secretary of State as the Libertarian Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Sean Vadney is a small business owner and political volunteer who is the Libertarian nominee for Colorado Secretary of State.",
+      "source_url": "https://ballotpedia.org/Sean_Vadney"
+    },
+    {
+      "text": "He was selected to replace Alex Astley as the Libertarian Party's general-election candidate after finishing second to Astley, 61.9% to 38.1%, in the June 30, 2026 Libertarian primary.",
+      "source_url": "https://ballotpedia.org/James_Wiley"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Small business owner; has been involved in Colorado politics for about seven years as a volunteer.",
+      "source_url": "https://ballotpedia.org/Sean_Vadney"
+    },
+    {
+      "text": "Lives in Highlands Ranch; the Denver Post's candidate Q&A lists his profession as entertainment and hospitality and his education as Southern New Hampshire University.",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-secretary-of-state-candidate-qa/"
+    },
+    {
+      "text": "Has never held elected office.",
+      "source_url": "https://ballotpedia.org/Sean_Vadney"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "keep-mail-voting",
+      "value": 1,
+      "source_type": "questionnaire",
+      "source_url": "https://www.coloradopolitics.com/2026/10/02/gonzales-wiley-vadney-landry-secretary-of-state/",
+      "source_title": "Secretary of State | Gonzalez, Wiley are top contenders for open seat",
+      "date": "2026-10-02",
+      "quote": "I would roll back the mail-in voting system with exceptions for individuals who have disabilities that make in-person voting difficult.",
+      "note": "He carves out a disability exception, but frames rolling back universal mail voting as a central campaign position: \"There's no reason why in-person voting shouldn't be the primary method our state uses.\""
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Sean Vadney - Ballotpedia",
+      "url": "https://ballotpedia.org/Sean_Vadney",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "James Wiley - Ballotpedia",
+      "url": "https://ballotpedia.org/James_Wiley",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Secretary of State | Gonzalez, Wiley are top contenders for open seat",
+      "url": "https://www.coloradopolitics.com/2026/10/02/gonzales-wiley-vadney-landry-secretary-of-state/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Secretary of State candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-secretary-of-state-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "seanvadneyforsos.org",
+      "url": "https://seanvadneyforsos.org",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "No endorsements found on a fetched page. His Ballotpedia Candidate Connection survey (submitted May 1, 2026) and the Denver Post's Oct. 3, 2026 candidate Q&A (which corroborates his keep-mail-voting position) do not address mail-ballot ID, plain-language ballots or redistricting, so those statements are left unsourced rather than inferred.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 1,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-mail-voting": "found"
+    }
+  }
 }

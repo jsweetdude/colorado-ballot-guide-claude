@@ -5,17 +5,109 @@
   "party": "Forward Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://bobchew2026.com/",
   "summary": [
     {
-      "text": "Bob Chew is on the ballot for U.S. Senate as the Forward Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Bob Chew is the Forward Party candidate for U.S. Senate, an engineering consultant and former U.S. Navy officer who has lived in Colorado for almost a decade.",
+      "source_url": "https://ballotpedia.org/Bob_Chew"
+    },
+    {
+      "text": "He co-founded an engineering and technical-services company in 1996, sold it to its employees in 2008, and served as its CEO until 2022 and board chair until June 2026.",
+      "source_url": "https://ballotpedia.org/Bob_Chew"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "U.S. Navy officer (nuclear submarine), 1980-1986.",
+      "source_url": "https://ballotpedia.org/Bob_Chew"
+    },
+    {
+      "text": "Bachelor's degree, Case Western Reserve University, 1981.",
+      "source_url": "https://ballotpedia.org/Bob_Chew"
+    },
+    {
+      "text": "Engineering consultant; co-founded an engineering and technical-services firm in 1996, serving as CEO until 2022 and board chair until June 2026.",
+      "source_url": "https://ballotpedia.org/Bob_Chew"
+    },
+    {
+      "text": "Has not previously held elected office.",
+      "source_url": "https://ballotpedia.org/Bob_Chew"
+    }
+  ],
   "record": [],
-  "positions": [],
-  "endorsements": [],
+  "positions": [
+    {
+      "statement": "keep-tariffs",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://bobchew2026.com/issues/",
+      "source_title": "Issues - Bob Chew for CO",
+      "date": "2026-10-14",
+      "quote": "Tariffs are a tax, plain and simple. They raise prices for consumers, create uncertainty for small businesses, and punish our domestic exporters.",
+      "note": "Page is undated; date reflects the day it was accessed for this research. He also says he will 'work with any member of Congress to reduce tariffs.'"
+    },
+    {
+      "statement": "health-coverage",
+      "value": 3,
+      "source_type": "direct_statement",
+      "source_url": "https://bobchew2026.com/issues/",
+      "source_title": "Issues - Bob Chew for CO",
+      "date": "2026-10-14",
+      "quote": "Different countries and states use different combinations of public and private systems, each with strengths and weaknesses.",
+      "note": "He explicitly declines to back either expanding government coverage or a market-only approach, instead calling for study of multiple systems' tradeoffs; coded as an explicit middle/mixed position. Page is undated; date reflects access date.",
+      "date_basis": "accessed"
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 3,
+      "source_type": "direct_statement",
+      "source_url": "https://bobchew2026.com/issues/",
+      "source_title": "Issues - Bob Chew for CO",
+      "date": "2026-10-14",
+      "quote": "Deporting a drug kingpin makes us safer; deporting a local farm hand makes us poorer.",
+      "note": "He supports removing violent criminals and traffickers but opposes spending resources deporting peaceful, economically-contributing immigrants; coded as an explicit middle/mixed position. Page is undated; date reflects access date.",
+      "date_basis": "accessed"
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://bobchew2026.com/issues/",
+      "source_title": "Issues - Bob Chew for CO",
+      "date": "2026-10-14",
+      "quote": "For a decade during the 1990s and early 2000s, Congress restricted assault weapons, and I believe Congress should revisit that approach.",
+      "note": "He also says he is a gun owner who will defend Second Amendment rights broadly, so this is coded as a qualified rather than unqualified agreement. Page is undated; date reflects access date.",
+      "date_basis": "accessed"
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 3,
+      "source_type": "direct_statement",
+      "source_url": "https://bobchew2026.com/issues/",
+      "source_title": "Issues - Bob Chew for CO",
+      "date": "2026-10-14",
+      "quote": "I support an all-of-above energy strategy that includes a heavy reliance on nuclear power.",
+      "note": "He explicitly backs an 'all of the above' mix (including fossil fuels and nuclear) rather than specifically speeding a shift away from oil, gas and coal, and is skeptical wind/solar alone can meet demand; coded as an explicit middle/mixed position. Page is undated; date reflects access date.",
+      "date_basis": "accessed"
+    },
+    {
+      "statement": "redistricting-commission",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://bobchew2026.com/issues/",
+      "source_title": "Issues - Bob Chew for CO",
+      "date": "2026-10-14",
+      "quote": "The United States is one of the only modern democracies where politicians effectively choose their voters through redistricting. That must change.",
+      "note": "He does not address Colorado's Amendment 86 or mid-decade redistricting specifically; this is inferred from his stated opposition to politician-drawn maps and support for 'eliminating gerrymandering,' which is consistent with favoring independent, commission-drawn maps. Page is undated; date reflects access date.",
+      "date_basis": "accessed"
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "Forward Party",
+      "source_url": "https://ballotpedia.org/Bob_Chew"
+    }
+  ],
   "finance": {
     "raised": 1270007,
     "spent": 225649,
@@ -27,16 +119,39 @@
   },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Bob Chew - Ballotpedia",
+      "url": "https://ballotpedia.org/Bob_Chew",
       "accessed": "2026-10-14"
     },
     {
-      "title": "FEC candidate financial summary",
+      "title": "Issues - Bob Chew for CO",
+      "url": "https://bobchew2026.com/issues/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "bobchew2026.com",
+      "url": "https://bobchew2026.com/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/S6CO00549/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Chew completed Ballotpedia's 2026 Candidate Connection survey and his campaign website has an unusually detailed issues page for a minor-party candidate, which allowed sourcing more positions than typical for a 'short' profile. No sourced position was found on abortion, guns beyond the assault-weapons point noted, federal public lands, or most 2026 Colorado ballot measures; left unknown rather than inferred.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 6,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-tariffs": "found",
+      "health-coverage": "found",
+      "deportation-priority": "found",
+      "stricter-gun-laws": "found",
+      "clean-energy-shift": "found",
+      "redistricting-commission": "found"
+    }
+  }
 }

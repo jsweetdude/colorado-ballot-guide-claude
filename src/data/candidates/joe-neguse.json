@@ -155,7 +155,8 @@
       "source_title": "Joe Neguse (Ballotpedia), notable ballot measure endorsements",
       "date": "2026-10-14",
       "quote": "Colorado Proposition 132, Penalties for Fentanyl Sale and Possession Initiative (2026) source Oppose On the ballot",
-      "note": "Ballotpedia lists Neguse as opposing Proposition 132; exact date he took this position is not stated on the fetched page (date shown is the research access date). Confirmed separately on the Vote No on 132 coalition page (noon132.com/coalition), which lists 'Congressman Joe Neguse.'"
+      "note": "Ballotpedia lists Neguse as opposing Proposition 132; exact date he took this position is not stated on the fetched page (date shown is the research access date). Confirmed separately on the Vote No on 132 coalition page (noon132.com/coalition), which lists 'Congressman Joe Neguse.'",
+      "date_basis": "accessed"
     },
     {
       "statement": "abortion-legal",
@@ -165,7 +166,8 @@
       "source_title": "Joe Neguse (Ballotpedia), notable ballot measure endorsements",
       "date": "2026-10-14",
       "quote": "Colorado Amendment 79, Right to Abortion and Health Insurance Coverage Initiative (2024) source Support Approved",
-      "note": "Ballotpedia lists Neguse as supporting Amendment 79 (2024); exact date he took this position is not stated on the fetched page (date shown is the research access date). Confirmed separately on coloradansforreproductivefreedom.com/our-coalition/, which lists 'US Representative Joe Neguse CD2.'"
+      "note": "Ballotpedia lists Neguse as supporting Amendment 79 (2024); exact date he took this position is not stated on the fetched page (date shown is the research access date). Confirmed separately on coloradansforreproductivefreedom.com/our-coalition/, which lists 'US Representative Joe Neguse CD2.'",
+      "date_basis": "accessed"
     },
     {
       "statement": "stricter-gun-laws",
@@ -176,6 +178,16 @@
       "date": "2022-06-25",
       "quote": "Yea Bipartisan Safer Communities Act The Bipartisan Safer Communities Act (S. 2938) was a firearm regulation and mental health bill passed by the 117th Congress and signed into law by President Joe Biden (D) on June 25, 2022.",
       "note": "Date given is the bill's enactment date as stated on the fetched page; the exact House floor vote date is not separately given there. Bill expanded background checks and funded crisis-intervention programs."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-2-candidate-qa/",
+      "source_title": "Colorado U.S. House District 2 candidate Q&A",
+      "date": "2026-10-03",
+      "quote": "I strongly support universal healthcare and paid family leave, and have fought for real reforms to lower prescription drug prices.",
+      "note": "Answering a question on addressing the rising cost of living."
     }
   ],
   "endorsements": [
@@ -244,21 +256,26 @@
       "accessed": "2026-10-14"
     },
     {
+      "title": "Colorado U.S. House District 2 candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-2-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
       "title": "joeforcolorado.com",
       "url": "https://joeforcolorado.com",
       "accessed": "2026-10-14"
     },
     {
-      "title": "FEC candidate financial summary",
+      "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H8CO02160/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Most Colorado-specific ballot-measure statements (graduated income tax, TABOR surplus, conservation sales tax, natural gas right, zoning preemption, mail-ballot ID, plain-language ballots, redistricting commission, mail voting, minor gender-surgery ban, child-trafficking penalties, hunting right, immigration-notify-ICE) returned no sourceable statement from Neguse as a federal officeholder and are left uncoded rather than inferred from party or general ideology. Exact calendar dates for his positions on Proposition 132 and Amendment 79 are not stated on the fetched Ballotpedia page; flagged in each record's note. congress.gov and govtrack.us, which Ballotpedia cites for several roll-call numbers, are blocked to automated fetching per protocol, so roll-call numbers for additional historical votes (e.g., Assault Weapons Ban of 2022 exact date) could not be independently confirmed beyond what Ballotpedia's own page states; the gun-law record date is flagged as the bill's enactment date rather than a confirmed floor-vote date.",
+  "research_notes": "Most Colorado-specific ballot-measure statements (graduated income tax, TABOR surplus, conservation sales tax, natural gas right, zoning preemption, mail-ballot ID, plain-language ballots, redistricting commission, mail voting, minor gender-surgery ban, child-trafficking penalties, hunting right, immigration-notify-ICE) returned no sourceable statement from Neguse as a federal officeholder and are left uncoded rather than inferred from party or general ideology. Exact calendar dates for his positions on Proposition 132 and Amendment 79 are not stated on the fetched Ballotpedia page; flagged in each record's note. congress.gov and govtrack.us, which Ballotpedia cites for several roll-call numbers, are blocked to automated fetching per protocol, so roll-call numbers for additional historical votes (e.g., Assault Weapons Ban of 2022 exact date) could not be independently confirmed beyond what Ballotpedia's own page states; the gun-law record date is flagged as the bill's enactment date rather than a confirmed floor-vote date. Second pass 2026-10-14: added health-coverage from the Denver Post's Oct. 3, 2026 CD2 candidate Q&A.",
   "verification": {
-    "checked": "2026-10-15",
-    "positions_verified": 9,
+    "checked": "2026-10-14",
+    "positions_verified": 10,
     "positions_unverifiable": 0,
     "detail": {
       "federal-budget-law": "found",
@@ -269,7 +286,8 @@
       "clean-energy-shift": "found",
       "fentanyl-penalties": "found",
       "abortion-legal": "found",
-      "stricter-gun-laws": "found"
+      "stricter-gun-laws": "found",
+      "health-coverage": "found"
     }
   }
 }

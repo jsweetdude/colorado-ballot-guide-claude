@@ -12,6 +12,7 @@ export interface Position {
   source_url: string;
   source_title: string;
   date: string;
+  date_basis?: 'exact' | 'month' | 'year' | 'accessed';
   quote: string;
   note?: string;
   via?: string;

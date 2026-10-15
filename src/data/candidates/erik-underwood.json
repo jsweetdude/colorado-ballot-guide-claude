@@ -5,29 +5,177 @@
   "party": "Approval Voting Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://erikunderwood.com",
+  "running_mate": {
+    "name": "Frank Atwood",
+    "summary": [
+      {
+        "text": "Frank Atwood is chair of the Approval Voting Party and has run for a variety of federal and state offices on the party's line since at least 2014, according to Ballotpedia.",
+        "source_url": "https://ballotpedia.org/Frank_Atwood"
+      }
+    ]
+  },
   "summary": [
     {
-      "text": "Erik Underwood is on the ballot for Governor and Lieutenant Governor as the Approval Voting Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Erik Underwood is chairman of Illmatic Ventures and CEO of the technology companies My24HourNews.com and Vurbil; he has run for office multiple times under different party labels, including Republican (2016, U.S. Senate) and Democratic (2018, governor).",
+      "source_url": "https://erikunderwood.com/about-erik/"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Worked in the U.S. Senate in Washington, D.C., and as a student Junior Prosecutor in the Atlanta City Solicitor's Office.",
+      "source_url": "https://erikunderwood.com/about-erik/"
+    },
+    {
+      "text": "Chairman, Illmatic Ventures; CEO, My24HourNews.com and Vurbil.",
+      "source_url": "https://erikunderwood.com/about-erik/"
+    },
+    {
+      "text": "Spent roughly eight years litigating a case against Bank of America Corporation in federal court, by his own account.",
+      "source_url": "https://erikunderwood.com/about-erik/"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "keep-tabor-surplus",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://erikunderwood.com/services/end-tabor/",
+      "source_title": "End TABOR Once and For All - Erik Underwood for Colorado Governor",
+      "date": "2026-01-01",
+      "quote": "I originated the plan in 2018 to eliminate TABOR. It's crippling our state while our infrastructure crumbles. We need to fix our schools, roads, and bridges. No more TABOR workarounds – let's use common sense and get rid of this insanity.",
+      "note": "Page is undated beyond the site's 2026 copyright; placeholder date 2026-01-01 used. Calls for eliminating TABOR outright, which goes further than Proposition NN but is in the same direction (keeping revenue rather than refunding it).",
+      "date_basis": "year"
+    },
+    {
+      "statement": "health-coverage",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://erikunderwood.com/services/colorado-universal-healthcare/",
+      "source_title": "Healthcare & Human Services - Erik Underwood for Colorado Governor",
+      "date": "2026-01-01",
+      "quote": "I will provide all Coloradans with free healthcare, or at minimum $50 maximum per year per family member (with installment plans for lower-income families).",
+      "note": "Proposes a state universal-healthcare plan funded partly by new payroll and income taxes."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://erikunderwood.com/services/environmental-policy/",
+      "source_title": "Environmental Policy - Erik Underwood for Colorado Governor",
+      "date": "2026-01-01",
+      "quote": "Accelerate transition to renewables paired with union labor standards and a Just Transition fund for displaced fossil fuel workers in Weld, Garfield, Moffat, and Rio Blanco counties."
+    },
+    {
+      "statement": "natural-gas-right",
+      "value": 2,
+      "source_type": "inferred",
+      "source_url": "https://erikunderwood.com/services/environmental-policy/",
+      "source_title": "Environmental Policy - Erik Underwood for Colorado Governor",
+      "date": "2026-01-01",
+      "quote": "On April 22, 2026, the Colorado Energy and Carbon Management Commission (ECMC) approved 24 new oil and gas wells at the State Sunlight/Long pad... That decision is wrong, and I opposed it.",
+      "note": "Inferred disagreement with Amendment 82 from his opposition to new oil and gas development and push to accelerate the renewable transition; the amendment itself (about consumer gas hookups, not drilling) is not addressed directly."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://erikunderwood.com/services/youth-violence-policy/",
+      "source_title": "Youth Violence Policy - Erik Underwood for Colorado Governor",
+      "date": "2026-01-01",
+      "quote": "Strengthen safe-storage laws for firearms — most guns used in juvenile shootings in Colorado were stolen from a parent, relative, or unsecured vehicle.",
+      "note": "Also pledges to 'crack down on ghost guns' and hold straw-purchasers accountable."
+    },
+    {
+      "statement": "minor-gender-surgery-ban",
+      "value": 2,
+      "source_type": "inferred",
+      "source_url": "https://erikunderwood.com/services/lgbtq-policy/",
+      "source_title": "LGBTQ+ Policy - Erik Underwood for Colorado Governor",
+      "date": "2026-01-01",
+      "quote": "Protect gender-affirming care for adults and, in consultation with families and medical professionals, for minors — and prosecute any attempt to criminalize physicians, parents, or patients for receiving lawful medical care in Colorado.",
+      "note": "Opposes restricting gender-affirming care for minors in general terms without specifically addressing surgery, so per the coding guide this is capped at 2."
+    },
+    {
+      "statement": "immigration-notify-ice",
+      "value": 2,
+      "source_type": "inferred",
+      "source_url": "https://erikunderwood.com/services/justice-human-rights/",
+      "source_title": "Justice & Human Rights - Erik Underwood for Colorado Governor",
+      "date": "2026-01-01",
+      "quote": "I will sign a bill holding ICE agents accountable for any constitutional or human rights violations in Colorado.",
+      "note": "Inferred opposition to Amendment 81 from his adversarial stance toward ICE; the amendment's notification requirement is not addressed directly."
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Erik Underwood - Ballotpedia",
+      "url": "https://ballotpedia.org/Erik_Underwood",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "About Erik - Erik Underwood for Colorado Governor",
+      "url": "https://erikunderwood.com/about-erik/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "End TABOR Once and For All - Erik Underwood for Colorado Governor",
+      "url": "https://erikunderwood.com/services/end-tabor/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Healthcare & Human Services - Erik Underwood for Colorado Governor",
+      "url": "https://erikunderwood.com/services/colorado-universal-healthcare/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Environmental Policy - Erik Underwood for Colorado Governor",
+      "url": "https://erikunderwood.com/services/environmental-policy/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Youth Violence Policy - Erik Underwood for Colorado Governor",
+      "url": "https://erikunderwood.com/services/youth-violence-policy/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "LGBTQ+ Policy - Erik Underwood for Colorado Governor",
+      "url": "https://erikunderwood.com/services/lgbtq-policy/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Justice & Human Rights - Erik Underwood for Colorado Governor",
+      "url": "https://erikunderwood.com/services/justice-human-rights/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Frank Atwood - Ballotpedia",
+      "url": "https://ballotpedia.org/Frank_Atwood",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "erikunderwood.com",
+      "url": "https://erikunderwood.com",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged.",
-  "running_mate": {
-    "name": "Frank Atwood",
-    "summary": []
+  "research_notes": "Underwood has not completed Ballotpedia's 2026 Candidate Connection survey, but his own campaign site has an unusually detailed set of issue pages for a short-profile candidate, which is why more positions were coded here than the 20-40 minute guideline might otherwise produce; effort was capped once a reasonable set was found rather than mining every page on the site. His campaign's 'Endorsements' page is lorem-ipsum placeholder text with no real content, so endorsements is empty. He ran previously as a Republican (2016, U.S. Senate) and a Democrat (2018, governor); this history is neutral biographical fact from Ballotpedia, not characterization. His current 2026 campaign finance totals were not found; the only figure on Ballotpedia ($22,488 raised) is from a disqualified 2020 Senate primary and is not reported here as current.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 7,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-tabor-surplus": "found",
+      "health-coverage": "found",
+      "clean-energy-shift": "found",
+      "natural-gas-right": "found",
+      "stricter-gun-laws": "found",
+      "minor-gender-surgery-ban": "found",
+      "immigration-notify-ice": "found"
+    }
   }
 }

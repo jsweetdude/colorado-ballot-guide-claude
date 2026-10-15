@@ -8,22 +8,44 @@
   "website": null,
   "summary": [
     {
-      "text": "Lawrence Kyle Clark is on the ballot for U.S. House, District 7 as the American Constitution Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Lawrence Clark is an American Constitution Party candidate for U.S. House in Colorado's 7th District and works as an entrepreneur.",
+      "source_url": "https://ballotpedia.org/Lawrence_Clark_(Colorado)"
+    },
+    {
+      "text": "He was born in Morristown, New Jersey, graduated from Tom's River High School North, and has lived in Colorado since 2015.",
+      "source_url": "https://ballotpedia.org/Lawrence_Clark_(Colorado)"
+    },
+    {
+      "text": "He has previously run for Colorado Lieutenant Governor and for a Colorado House of Representatives seat, both as an American Constitution Party candidate.",
+      "source_url": "https://ballotpedia.org/Lawrence_Clark_(Colorado)"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Entrepreneur; has not held elected office.",
+      "source_url": "https://ballotpedia.org/Lawrence_Clark_(Colorado)"
+    },
+    {
+      "text": "2026 American Constitution Party candidate for Colorado Lieutenant Governor (did not appear on the general election ballot) and for the Colorado House of Representatives, District 7 (did not appear on the general election ballot).",
+      "source_url": "https://ballotpedia.org/Lawrence_Clark_(Colorado)"
+    }
+  ],
   "record": [],
   "positions": [],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Lawrence Clark (Colorado) - Ballotpedia",
+      "url": "https://ballotpedia.org/Lawrence_Clark_(Colorado)",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Secretary of State, 2026 General Election candidate list",
+      "url": "https://www.sos.state.co.us/pubs/elections/vote/generalCandidates.html",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Clark has not completed Ballotpedia's 2026 Candidate Connection survey for this U.S. House race. He did complete one in 2025, but it was submitted for his Lieutenant Governor run, not this race; its answers (ancestry/biography, personal philosophy quoting the Declaration of Independence, favorite fictional character, etc.) do not state a position on any of the 25 statements, so none could be sourced without guessing. A list of 'areas of public policy personally passionate about' in that survey names topics including Transgender Rights, Gun Rights, Immigration, and Clean Energy, but gives no indication of which direction he leans on any of them, so per the no-invented-positions rule none were coded. No campaign website could be found for him (Ballotpedia's infobox lists none), and he did not return the Denver Post's 2026 candidate questionnaire, which Pettersen and Sallis did answer. No Colorado Constitution Party or American Constitution Party of Colorado site could be reached to check for a platform or endorsement of him specifically. This profile is almost entirely biographical; a reviewer should flag that no issue positions could be sourced for him at all."
 }

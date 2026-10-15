@@ -69,6 +69,8 @@ export const positionSchema = z
     source_url: url,
     source_title: z.string().min(1),
     date: date,
+    /** exact (default), month or year when only that is known, accessed when the page is undated and the date is when it was read */
+    date_basis: z.enum(['exact', 'month', 'year', 'accessed']).optional(),
     quote: z.string().min(10),
     note: z.string().optional(),
     via: z.string().optional(),

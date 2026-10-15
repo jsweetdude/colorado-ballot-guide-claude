@@ -5,29 +5,285 @@
   "party": "Unaffiliated",
   "incumbent": false,
   "profile": "full",
-  "website": null,
+  "website": "https://www.greglopez.co",
+  "running_mate": {
+    "name": "Taralyn Romero",
+    "summary": [
+      {
+        "text": "Taralyn Romero, Lopez's running mate for lieutenant governor, has more than 25 years of experience in the medical industry, according to Lopez's campaign.",
+        "source_url": "https://www.greglopez.co/issues"
+      }
+    ]
+  },
   "summary": [
     {
-      "text": "Greg Lopez is on the ballot for Governor and Lieutenant Governor as an unaffiliated candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Greg Lopez is a former U.S. representative who served a special-election term for Colorado's 4th Congressional District from July 2024 to January 2025, and a former mayor of Parker; he is running as an unaffiliated candidate after two previous runs for governor as a Republican.",
+      "source_url": "https://ballotpedia.org/Greg_Lopez"
+    },
+    {
+      "text": "He is a U.S. Air Force veteran and former Colorado director of the U.S. Small Business Administration who lives in Elizabeth, Colorado.",
+      "source_url": "https://www.greglopez.co/meet-greg"
     }
   ],
-  "experience": [],
-  "record": [],
-  "positions": [],
+  "experience": [
+    {
+      "text": "U.S. Representative, Colorado's 4th Congressional District, July 8, 2024 - January 3, 2025 (special election to complete Ken Buck's term).",
+      "source_url": "https://ballotpedia.org/Greg_Lopez"
+    },
+    {
+      "text": "Mayor and town administrator of Parker, Colorado, elected at age 27, 1992-1996.",
+      "source_url": "https://www.greglopez.co/meet-greg"
+    },
+    {
+      "text": "Colorado director of the U.S. Small Business Administration for six years; says his office issued more than $600 million in loans to Colorado small businesses in 2013 alone.",
+      "source_url": "https://www.greglopez.co/meet-greg"
+    },
+    {
+      "text": "President/CEO of the Denver Hispanic Chamber of Commerce and of the Rocky Mountain Minority Supplier Development Council.",
+      "source_url": "https://www.greglopez.co/meet-greg"
+    },
+    {
+      "text": "U.S. Air Force veteran, 1983-1987.",
+      "source_url": "https://ballotpedia.org/Greg_Lopez"
+    }
+  ],
+  "record": [
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 82, Social Security Fairness Act of 2023, final passage",
+      "date": "2024-11-12",
+      "detail": "Voted Nay; the bill passed 327-75 and was signed into law.",
+      "source_url": "https://clerk.house.gov/evs/2024/roll456.xml"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 9495, Stop Terror-Financing and Tax Penalties on American Hostages Act, final passage",
+      "date": "2024-11-21",
+      "detail": "Voted Yea; the bill passed the House 219-184.",
+      "source_url": "https://clerk.house.gov/evs/2024/roll477.xml"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 9747, Continuing Appropriations and Extensions Act, 2025",
+      "date": "2024-09-26",
+      "detail": "Voted Nay on the government funding bill, which passed 341-82 and was signed into law.",
+      "source_url": "https://ballotpedia.org/Greg_Lopez"
+    }
+  ],
+  "positions": [
+    {
+      "statement": "keep-tabor-surplus",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://www.greglopez.co/issues",
+      "source_title": "Issues - Greg Lopez For Colorado",
+      "date": "2025-01-01",
+      "quote": "As Governor, I will defend TABOR protections, oppose efforts to weaken taxpayer safeguards, and fight to ensure refunds are returned fairly to the people.",
+      "note": "Campaign issues page carries only a 2025 copyright footer with no specific publish date; 2025-01-01 is a placeholder.",
+      "date_basis": "year"
+    },
+    {
+      "statement": "graduated-income-tax",
+      "value": 2,
+      "source_type": "inferred",
+      "source_url": "https://www.greglopez.co/issues",
+      "source_title": "Issues - Greg Lopez For Colorado",
+      "date": "2025-01-01",
+      "quote": "I firmly believe that Colorado taxpayers deserve transparency, accountability, and protection from unchecked government growth.",
+      "note": "Inferred opposition to Amendment 87 from his general TABOR-defense and anti-tax-growth stance; he does not name the measure directly."
+    },
+    {
+      "statement": "income-tax-cap",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://www.greglopez.co/issues",
+      "source_title": "Issues - Greg Lopez For Colorado",
+      "date": "2025-01-01",
+      "quote": "I strongly support the Taxpayer's Bill of Rights because it empowers citizens, limits excessive taxation, and ensures taxpayers have a direct voice in major fiscal decisions.",
+      "note": "Inferred support for Proposition 136's rate cap from his strong general TABOR support; the measure is not named directly."
+    },
+    {
+      "statement": "abortion-legal",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://www.greglopez.co/issues",
+      "source_title": "Issues - Greg Lopez For Colorado",
+      "date": "2025-01-01",
+      "quote": "I strongly believe every human life has value and deserves dignity, compassion, and respect. I will continue to support policies that protect life while also supporting mothers, families, adoption services, healthcare access, and community-based support systems that help women and children thrive.",
+      "note": "This is his most recent (2025/2026 campaign) statement and is a softer formulation than a 2022 interview in which, as a Republican candidate for governor, he said of signing a legislative abortion ban, 'Odds are I would sign it' (news.yahoo.com, 2022-05-04). A reviewer may want to double-check whether his current position has in fact moderated or whether this is just different phrasing."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://www.greglopez.co/issues",
+      "source_title": "Issues - Greg Lopez For Colorado",
+      "date": "2025-01-01",
+      "quote": "For the last eight years, Colorado Legislature has been passing gun laws that are infringing on the constitutional rights of citizens and that needs to stop."
+    },
+    {
+      "statement": "immigration-notify-ice",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://www.greglopez.co/issues",
+      "source_title": "Issues - Greg Lopez For Colorado",
+      "date": "2025-01-01",
+      "quote": "Colorado should fully cooperate with federal immigration enforcement efforts involving violent criminals, drug traffickers, gang members, and individuals who pose a threat to public safety."
+    },
+    {
+      "statement": "housing-state-zoning",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://www.greglopez.co/issues",
+      "source_title": "Issues - Greg Lopez For Colorado",
+      "date": "2025-01-01",
+      "quote": "As Governor, I will work to restore local control whenever possible by reducing unnecessary state mandates and empowering counties, municipalities, and school districts to make decisions that best serve their communities.",
+      "note": "Consistent with his statement in the Aug. 27, 2026 debate with Weiser that he 'would never take local control away from a jurisdiction' (montrosepress.com)."
+    },
+    {
+      "statement": "natural-gas-right",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://www.greglopez.co/issues",
+      "source_title": "Issues - Greg Lopez For Colorado",
+      "date": "2025-01-01",
+      "quote": "I will lead Colorado in pursuing an \"all-of-the-above\" energy strategy that supports innovation, affordability, reliability, and job creation.",
+      "note": "Inferred support for continued natural gas access from his all-of-the-above energy stance; Amendment 82 is not named."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://www.greglopez.co/issues",
+      "source_title": "Issues - Greg Lopez For Colorado",
+      "date": "2025-01-01",
+      "quote": "Due to the overbearing environmental and clean energy policies of the Polis administration over the last eight years Colorado families have seen a severe increase in their gas and electric bills across the state."
+    },
+    {
+      "statement": "hunting-right",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://www.greglopez.co/issues",
+      "source_title": "Issues - Greg Lopez For Colorado",
+      "date": "2025-01-01",
+      "quote": "The Game and Fish will focus on wildlife management, hunting, fishing, and habitat protection and State Parks will focus on managing state parks, trails and recreational facilities.",
+      "note": "Inferred support for Amendment 83 from his broader pro-hunting/fishing platform; the amendment is not named directly."
+    },
+    {
+      "statement": "sports-biological-sex",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://www.greglopez.co/issues",
+      "source_title": "Issues - Greg Lopez For Colorado",
+      "date": "2025-01-01",
+      "quote": "I encourage all voters to support the efforts of \"Protect Kids Colorado\" in passing the three legislative initiatives that will appear on the November general election ballot.",
+      "note": "Protect Kids Colorado is the campaign behind Propositions 133, 134 and 135 (dailycitizen.focusonthefamily.com, coloradopolitics.com); this record covers Proposition 134 (school sports)."
+    },
+    {
+      "statement": "minor-gender-surgery-ban",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://www.greglopez.co/issues",
+      "source_title": "Issues - Greg Lopez For Colorado",
+      "date": "2025-01-01",
+      "quote": "I encourage all voters to support the efforts of \"Protect Kids Colorado\" in passing the three legislative initiatives that will appear on the November general election ballot.",
+      "note": "Covers Proposition 135 (surgery ban for minors), one of the three Protect Kids Colorado measures."
+    },
+    {
+      "statement": "child-trafficking-life",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://www.greglopez.co/issues",
+      "source_title": "Issues - Greg Lopez For Colorado",
+      "date": "2025-01-01",
+      "quote": "I encourage all voters to support the efforts of \"Protect Kids Colorado\" in passing the three legislative initiatives that will appear on the November general election ballot.",
+      "note": "Covers Proposition 133 (life without parole for child sex trafficking), one of the three Protect Kids Colorado measures."
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Greg Lopez - Ballotpedia",
+      "url": "https://ballotpedia.org/Greg_Lopez",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Greg Lopez - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Greg_Lopez",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Issues - Greg Lopez For Colorado",
+      "url": "https://www.greglopez.co/issues",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Meet Greg - Greg Lopez For Colorado",
+      "url": "https://www.greglopez.co/meet-greg",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Republican Colorado gubernatorial candidate says he would likely sign abortion ban - Yahoo News",
+      "url": "https://news.yahoo.com/republican-colorado-gubernatorial-candidate-says-194602500.html",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Weiser debates independent Lopez in first Colorado governor debate, with Marx absent - Montrose Press (AP)",
+      "url": "https://www.montrosepress.com/news/weiser-debates-independent-lopez-in-first-colorado-governor-debate-with-marx-absent-democrat-favored-to/article_31220c30-d882-45c9-a952-3d4590bb57ec.html",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Protecting Children Is On the Ballot in Colorado - Daily Citizen (Focus on the Family)",
+      "url": "https://dailycitizen.focusonthefamily.com/?p=64004",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Trafficking of minors penalties: Colorado Proposition 133 - Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2026/10/02/trafficking-minors-penalties-colorado-proposition-133/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado governor | Weiser, Marx and Lopez vie for top state seat - Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2026/10/02/colorado-governor-weiser-marx-and-lopez-vie-for-top-state-seat-4/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "FINAL VOTE RESULTS FOR ROLL CALL 456 - Clerk of the U.S. House",
+      "url": "https://clerk.house.gov/evs/2024/roll456.xml",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "FINAL VOTE RESULTS FOR ROLL CALL 477 - Clerk of the U.S. House",
+      "url": "https://clerk.house.gov/evs/2024/roll477.xml",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "greglopez.co",
+      "url": "https://www.greglopez.co",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged.",
-  "running_mate": {
-    "name": "Taralyn Romero",
-    "summary": []
+  "research_notes": "Verified via Ballotpedia and Wikipedia that Lopez served a six-month special-election term in the U.S. House (Colorado's 4th District, July 2024-January 2025, completing Ken Buck's term) as the assignment asked; his only three recorded House votes do not map to any of the 25 statements, so they appear only in record, confirmed directly against clerk.house.gov roll-call XML. His greglopez.co/issues page is undated beyond a 2025 copyright footer, so every quote drawn from it uses 2025-01-01 as a placeholder date; a reviewer may want to check whether the page has been updated since he left the Republican Party in January 2026. No fetched source addressed public-lands, health-coverage, keep-tariffs, federal-budget-law, deportation-priority, mail-ballot-id, plain-language-ballots, redistricting-commission, keep-mail-voting, challenge-federal-policies, conservation-sales-tax, or fentanyl-penalties, so those are left out of positions. Could not confirm the specific endorsement referenced in a 'Colorado GOP secretary resigns after endorsing Greg Lopez for governor' headline (Denver Gazette) because the exact article URL could not be located without a working web search in the time available; flagging for a follow-up search.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 13,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-tabor-surplus": "found",
+      "graduated-income-tax": "found",
+      "income-tax-cap": "found",
+      "abortion-legal": "found",
+      "stricter-gun-laws": "found",
+      "immigration-notify-ice": "found",
+      "housing-state-zoning": "found",
+      "natural-gas-right": "found",
+      "clean-energy-shift": "found",
+      "hunting-right": "found",
+      "sports-biological-sex": "found",
+      "minor-gender-surgery-ban": "found",
+      "child-trafficking-life": "found"
+    }
   }
 }

@@ -5,29 +5,309 @@
   "party": "Democratic Party",
   "incumbent": false,
   "profile": "full",
-  "website": null,
+  "website": "https://philforcolorado.com",
+  "running_mate": {
+    "name": "Lesley Dahlkemper",
+    "summary": [
+      {
+        "text": "Lesley Dahlkemper is a member of the Jefferson County Board of County Commissioners and formerly served as the board's chair; she was elected to her second four-year term in November 2022.",
+        "source_url": "https://philforcolorado.com/meet-lesley/"
+      }
+    ]
+  },
   "summary": [
     {
-      "text": "Phil Weiser is on the ballot for Governor and Lieutenant Governor as the Democratic Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Phil Weiser is the Attorney General of Colorado, first elected in 2018 and now in his second term; he lives in Denver.",
+      "source_url": "https://ballotpedia.org/Phil_Weiser"
+    },
+    {
+      "text": "Before becoming attorney general, he was dean of the University of Colorado Law School and worked in the Clinton and Obama administrations, including as a deputy assistant U.S. attorney general.",
+      "source_url": "https://ballotpedia.org/Phil_Weiser"
     }
   ],
-  "experience": [],
-  "record": [],
-  "positions": [],
-  "endorsements": [],
+  "experience": [
+    {
+      "text": "Attorney General of Colorado, 2019-present.",
+      "source_url": "https://ballotpedia.org/Phil_Weiser"
+    },
+    {
+      "text": "Dean, University of Colorado Law School, 2011-2016.",
+      "source_url": "https://ballotpedia.org/Phil_Weiser"
+    },
+    {
+      "text": "Deputy assistant U.S. attorney general, Justice Department Antitrust Division, and senior advisor for technology and innovation at the White House National Economic Council, during the Obama administration.",
+      "source_url": "https://ballotpedia.org/Phil_Weiser"
+    },
+    {
+      "text": "Law clerk for U.S. Supreme Court Justices Byron White and Ruth Bader Ginsburg.",
+      "source_url": "https://ballotpedia.org/Phil_Weiser"
+    },
+    {
+      "text": "Bachelor's degree, Swarthmore College; law degree, New York University School of Law.",
+      "source_url": "https://ballotpedia.org/Phil_Weiser"
+    }
+  ],
+  "record": [
+    {
+      "kind": "decision",
+      "title": "Lawsuit against new federal tariffs",
+      "date": "2026-03-05",
+      "detail": "Joined a multistate coalition of attorneys general suing to block President Trump's tariff increases, calling them illegal.",
+      "source_url": "https://coag.gov/press-releases/weiser-sues-trump-administration-to-stop-latest-round-of-illegal-tariffs-and-price-increases/"
+    },
+    {
+      "kind": "decision",
+      "title": "Opposition to King Soopers/Albertsons-Kroger merger",
+      "date": "2026-10-02",
+      "detail": "As attorney general, helped stop the proposed King Soopers (Kroger)/Safeway (Albertsons) grocery merger.",
+      "source_url": "https://www.coloradopolitics.com/2026/10/02/colorado-governor-weiser-marx-and-lopez-vie-for-top-state-seat-4/"
+    },
+    {
+      "kind": "decision",
+      "title": "Opioid settlement funds",
+      "date": "2026-10-02",
+      "detail": "Says his office secured more than $900 million in opioid settlement funds from pharmaceutical companies for Colorado.",
+      "source_url": "https://www.coloradopolitics.com/2026/10/02/colorado-governor-weiser-marx-and-lopez-vie-for-top-state-seat-4/"
+    },
+    {
+      "kind": "decision",
+      "title": "Multistate lawsuit against Meta",
+      "date": "2026-01-01",
+      "detail": "Led or joined a 35-state lawsuit against Meta over the effect of social media design on young people; a settlement in that litigation was referenced in August 2026 coverage.",
+      "source_url": "https://ballotpedia.org/Phil_Weiser"
+    },
+    {
+      "kind": "decision",
+      "title": "Lawsuits against the second Trump administration",
+      "date": "2026-01-01",
+      "detail": "Says he has filed more than 60 lawsuits against the Trump administration as attorney general and would continue challenging federal actions he views as unlawful as governor.",
+      "source_url": "https://ballotpedia.org/Phil_Weiser"
+    }
+  ],
+  "positions": [
+    {
+      "statement": "abortion-legal",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Phil_Weiser",
+      "source_title": "Phil Weiser - Ballotpedia (2026 Candidate Connection survey)",
+      "date": "2026-01-01",
+      "quote": "Defend reproductive rights—including Amendment 79 and against any attacks on our laws protecting the right to choose.",
+      "note": "From his 2026 campaign platform listed on Ballotpedia; year only is known for the survey, so 2026-01-01 is used as a placeholder.",
+      "date_basis": "year"
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Phil_Weiser",
+      "source_title": "Phil Weiser - Ballotpedia (2026 Candidate Connection survey)",
+      "date": "2026-01-01",
+      "quote": "Sign, support, and defend responsible gun safety laws —that will save lives and protect children.",
+      "note": "Part of his public safety platform; also pledges to strengthen the state Office of Gun Violence Prevention."
+    },
+    {
+      "statement": "immigration-notify-ice",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Phil_Weiser",
+      "source_title": "Phil Weiser - Ballotpedia (2026 Candidate Connection survey)",
+      "date": "2026-01-01",
+      "quote": "Enforce state laws to prevent the federal government from coercing state and local law enforcement to conduct immigration enforcement activities and that bar sales of government facilities for ICE detention centers.",
+      "note": "He pledges to enforce Colorado's existing limits on cooperation with ICE, the opposite of what Amendment 81 would require."
+    },
+    {
+      "statement": "public-lands",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Phil_Weiser",
+      "source_title": "Phil Weiser - Ballotpedia (2026 Candidate Connection survey)",
+      "date": "2026-01-01",
+      "quote": "Guard our public lands —stop any federal effort to sell them off to the highest bidder."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 3,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/10/colorado-governor-phil-weiser-victor-marx-voter-guide/",
+      "source_title": "Where Phil Weiser and Victor Marx stand on the issues - The Colorado Sun",
+      "date": "2026-10-10",
+      "quote": "Maybe. \"When a new well is put into commission in Colorado, generally speaking, multiple old wells are being taken out of commission because the technology has changed... So I can't rule out new wells given that the reality is new wells can actually put the industry on better footing.\"",
+      "note": "Asked directly whether oil and gas drilling would still be happening in Colorado at the end of a second term, Weiser gave a qualified, open-ended answer rather than backing a faster phase-out; his campaign platform separately lists emission-reduction goals and support for solar and wind."
+    },
+    {
+      "statement": "federal-budget-law",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Phil_Weiser",
+      "source_title": "Phil Weiser - Ballotpedia (2026 Candidate Connection survey)",
+      "date": "2026-01-01",
+      "quote": "the reckless OBBBA/H.R. 1 enacted by Congress means that Colorado had to fill a billion dollar budget hole—and is slated for more drastic cuts in fiscal years to come"
+    },
+    {
+      "statement": "challenge-federal-policies",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Phil_Weiser",
+      "source_title": "Phil Weiser - Ballotpedia (2026 Candidate Connection survey)",
+      "date": "2026-01-01",
+      "quote": "I've led that fight as your attorney general by filing more than 60 lawsuits and winning, and I will continue it as your next governor."
+    },
+    {
+      "statement": "minor-gender-surgery-ban",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Phil_Weiser",
+      "source_title": "Phil Weiser - Ballotpedia (2026 Candidate Connection survey)",
+      "date": "2026-01-01",
+      "quote": "Protect LGBTQ+ Coloradans —defend access to gender-affirming care, enforce civil rights protections, and confront rising hate.",
+      "note": "He defends gender-affirming care generally but does not address surgery for minors specifically, so per the coding guide this is capped at 2 as inference from a related position."
+    },
+    {
+      "statement": "housing-state-zoning",
+      "value": 4,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/10/colorado-governor-phil-weiser-victor-marx-voter-guide/",
+      "source_title": "Where Phil Weiser and Victor Marx stand on the issues - The Colorado Sun",
+      "date": "2026-10-10",
+      "quote": "What if the state passed a default measure that would call for rationalizing of zoning. I want to try to work with local governments to come up with solutions that they don't see as antithetical to local control but that move the ball forward.",
+      "note": "Open to a state default zoning measure, while trying to work with rather than override local governments."
+    },
+    {
+      "statement": "keep-tabor-surplus",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://www.coloradopolitics.com/2026/10/02/colorado-governor-weiser-marx-and-lopez-vie-for-top-state-seat-4/",
+      "source_title": "Colorado governor | Weiser, Marx and Lopez vie for top state seat - Colorado Politics",
+      "date": "2026-10-02",
+      "quote": "I'm committed to reforming TABOR through a grassroots, bottom-up effort that will include reforming our state tax system and constitutional spending limits. As Governor, I'll prioritize changing TABOR so that we can protect the critical services and programs Coloradans rely on.",
+      "note": "Inferred: he does not name Proposition NN, but says he wants to reform TABOR's spending limits to protect funding for services, the same direction as letting the state keep above-cap revenue."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Phil_Weiser",
+      "source_title": "Phil Weiser - Ballotpedia (2026 Candidate Connection survey)",
+      "date": "2026-01-01",
+      "quote": "This includes protecting Medicaid funding, maintaining reimbursement rates, and ensuring that Medicaid and Child Health Plan Plus recipients continue to receive coverage for care."
+    },
+    {
+      "statement": "keep-tariffs",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://coag.gov/press-releases/weiser-sues-trump-administration-to-stop-latest-round-of-illegal-tariffs-and-price-increases/",
+      "source_title": "Attorney General Phil Weiser sues Trump administration to stop latest round of illegal tariffs and price increases",
+      "date": "2026-03-05",
+      "quote": "These tariffs are illegal and inappropriate and will harm Coloradans unless stopped by the courts. That is why we are once again taking action to stop the president from imposing illegal tariff taxes on Coloradans.",
+      "note": "Statement as attorney general announcing a lawsuit to block the tariffs."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "Ken Buck (former U.S. Representative, R)",
+      "source_url": "https://www.coloradopolitics.com/2026/10/14/republican-ken-buck-endorses-phil-weiser-in-colorado-governors-race-2/"
+    },
+    {
+      "name": "Roy Romer (former Colorado Governor, campaign chair)",
+      "source_url": "https://ballotpedia.org/Phil_Weiser"
+    },
+    {
+      "name": "Maura Healey (Governor of Massachusetts)",
+      "source_url": "https://ballotpedia.org/Phil_Weiser"
+    },
+    {
+      "name": "Bob Ferguson (Governor of Washington)",
+      "source_url": "https://ballotpedia.org/Phil_Weiser"
+    },
+    {
+      "name": "Josh Stein (Governor of North Carolina)",
+      "source_url": "https://ballotpedia.org/Phil_Weiser"
+    },
+    {
+      "name": "Josh Shapiro (Governor of Pennsylvania)",
+      "source_url": "https://ballotpedia.org/Phil_Weiser"
+    },
+    {
+      "name": "Indivisible Colorado",
+      "source_url": "https://ballotpedia.org/Phil_Weiser"
+    },
+    {
+      "name": "Rocky Mountain Equality Action Fund",
+      "source_url": "https://ballotpedia.org/Phil_Weiser"
+    },
+    {
+      "name": "Colorado Ceasefire PAC",
+      "source_url": "https://ballotpedia.org/Phil_Weiser"
+    }
+  ],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Phil Weiser - Ballotpedia",
+      "url": "https://ballotpedia.org/Phil_Weiser",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Where Phil Weiser and Victor Marx stand on the issues - The Colorado Sun",
+      "url": "https://coloradosun.com/2026/10/10/colorado-governor-phil-weiser-victor-marx-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "How Colorado's candidates for governor say they would address wolves, hunting, fishing and a rural divide - The Colorado Sun",
+      "url": "https://coloradosun.com/2026/06/24/colorado-governor-wolves-hunting-fishing-wildlife-issue-stances/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado governor | Weiser, Marx and Lopez vie for top state seat - Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2026/10/02/colorado-governor-weiser-marx-and-lopez-vie-for-top-state-seat-4/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Attorney General Phil Weiser sues Trump administration to stop latest round of illegal tariffs and price increases",
+      "url": "https://coag.gov/press-releases/weiser-sues-trump-administration-to-stop-latest-round-of-illegal-tariffs-and-price-increases/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Republican Ken Buck endorses Phil Weiser in Colorado governor's race - Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2026/10/14/republican-ken-buck-endorses-phil-weiser-in-colorado-governors-race-2/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Meet Lesley - Phil Weiser for Colorado",
+      "url": "https://philforcolorado.com/meet-lesley/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Issues - Phil Weiser for Colorado",
+      "url": "https://philforcolorado.com/issues/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "philforcolorado.com",
+      "url": "https://philforcolorado.com",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged.",
-  "running_mate": {
-    "name": "Lesley Dahlkemper",
-    "summary": []
+  "research_notes": "Weiser explicitly declined to take a position on the graduated state income tax ballot measure (then 'Proposed Initiative 195,' now Amendment 87) in the Aug. 27, 2026 debate with Lopez, saying 'I don't take positions until something is actually certified' (montrosepress.com/coloradopolitics.com coverage of that debate) -- so graduated-income-tax and income-tax-cap are left uncoded rather than stretched from that non-answer. No fetched source was found with his position on natural-gas-right (Amendment 82), conservation-sales-tax (Prop 137), mail-ballot-id, plain-language-ballots, redistricting-commission, keep-mail-voting, fentanyl-penalties, child-trafficking-life, sports-biological-sex, or deportation-priority; these are left out of positions rather than guessed. The clean-energy-shift coding reflects a genuine tension between his campaign platform's emission-reduction and solar/wind language and his more open-ended answer on continued oil and gas drilling in an Oct. 10, 2026 Colorado Sun interview; a reviewer may want to weigh those differently. Campaign finance totals for the 2026 governor's race were mentioned in web search summaries but no specific TRACER or news figure with a full citation was located in a fetched page, so finance is null. Build review 2026-10-14: removed the hunting-right position. In the June 24, 2026 Colorado Sun guide Weiser said he would listen to backers and opponents before deciding, which is not yet a position.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 12,
+    "positions_unverifiable": 0,
+    "detail": {
+      "abortion-legal": "found",
+      "stricter-gun-laws": "found",
+      "immigration-notify-ice": "found",
+      "public-lands": "found",
+      "clean-energy-shift": "found",
+      "federal-budget-law": "found",
+      "challenge-federal-policies": "found",
+      "minor-gender-surgery-ban": "found",
+      "housing-state-zoning": "found",
+      "keep-tabor-surplus": "found",
+      "health-coverage": "found",
+      "keep-tariffs": "found"
+    }
   }
 }

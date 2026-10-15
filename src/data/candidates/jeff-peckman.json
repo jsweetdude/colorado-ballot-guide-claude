@@ -5,29 +5,53 @@
   "party": "Unity Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://jeffpeckman.com",
+  "running_mate": {
+    "name": "T.J. Cole",
+    "summary": [
+      {
+        "text": "T.J. Cole, Peckman's running mate and chair of the Unity Party of Colorado, has worked as a lawyer, college professor, high school principal, district court magistrate and deputy state public defender.",
+        "source_url": "https://ballotpedia.org/T.J._Cole"
+      }
+    ]
+  },
   "summary": [
     {
-      "text": "Jeff Peckman is on the ballot for Governor and Lieutenant Governor as the Unity Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Jeff Peckman is an entrepreneur and longtime third-party and ballot-initiative campaigner who has run for office and backed citizen initiatives in Colorado for nearly three decades.",
+      "source_url": "https://ballotpedia.org/Jeff_Peckman"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "High school diploma, Abraham Lincoln High School; career experience as an entrepreneur.",
+      "source_url": "https://ballotpedia.org/Jeff_Peckman"
+    },
+    {
+      "text": "Has run three previous candidate campaigns and backed three ballot-initiative campaigns over the last 28 years, including a 2010 Denver initiative on extraterrestrial-affairs disclosure, by his own account.",
+      "source_url": "https://ballotpedia.org/Jeff_Peckman"
+    }
+  ],
   "record": [],
   "positions": [],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Jeff Peckman - Ballotpedia",
+      "url": "https://ballotpedia.org/Jeff_Peckman",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Jeff Peckman for Governor (campaign site)",
+      "url": "https://jeffpeckman.com",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "T.J. Cole - Ballotpedia",
+      "url": "https://ballotpedia.org/T.J._Cole",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged.",
-  "running_mate": {
-    "name": "T.J. Cole",
-    "summary": []
-  }
+  "research_notes": "Peckman's Ballotpedia 2026 Candidate Connection survey and his campaign site are built around a personal framework of 'coherence principles,' novel energy and emissions technology, and UFO/UAP disclosure rather than conventional policy positions; his platform discusses reducing emissions and government spending in ways that do not map cleanly onto the 25 statements' agree/disagree framing without stretching the text (e.g., he criticizes EV subsidies and 'milking' climate change for votes while also pitching his own emissions-reduction technology, which cuts in different directions on clean-energy-shift). No endorsements beyond a single crowd-sourced 'Sway' voting-group listing were found. Given the ambiguity, no positions are coded rather than force-fitting a value; a reviewer with more time may find clearer material in his full 'Solutions Blueprint' document linked from his site."
 }

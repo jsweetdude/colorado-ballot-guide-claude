@@ -34,6 +34,15 @@ const host = (u) => {
   }
 };
 
+// Research notes say when a date is approximate; record that so pages never show a placeholder as a real date.
+function dateBasis(note = '') {
+  const n = note.toLowerCase();
+  if (/access(ed)? date|date (shown|given) is the (page|research)|dated to (the )?(page )?access|research access|page access/.test(n)) return 'accessed';
+  if (/only (the )?year|year only|year is known|placeholder|month\/day unknown|month and day|month\/year estimated|year-only|cycle on ballotpedia/.test(n)) return 'year';
+  if (/approximate date|date is approximate|approximately dated|estimated|first of the month/.test(n)) return 'month';
+  return null;
+}
+
 const files = readdirSync(dir).filter((f) => f.endsWith('.json') && (!only.length || only.includes(f.replace(/\.json$/, ''))));
 const report = [];
 for (const f of files) {
@@ -107,6 +116,8 @@ for (const f of files) {
       ...(p.note ? { note: p.note } : {}),
       ...(p.via ? { via: p.via } : {}),
     };
+    const basis = p.date_basis ?? dateBasis(p.note);
+    if (basis && basis !== 'exact') pos.date_basis = basis;
     if (['inferred', 'interest_group_rating'].includes(pos.source_type) && (pos.value === 1 || pos.value === 5)) {
       pos.value = pos.value === 5 ? 4 : 2;
       pos.note = `${pos.note ? `${pos.note} ` : ''}(Coded no stronger than ${pos.value === 4 ? 'agree' : 'disagree'} because the source is ${pos.source_type === 'inferred' ? 'an inference' : 'an interest-group rating'}.)`;

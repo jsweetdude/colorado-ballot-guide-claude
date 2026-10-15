@@ -101,7 +101,8 @@
       "source_title": "Jason Crow for Congress - Values",
       "date": "2026-10-14",
       "quote": "I will always fight to protect a woman's right to choose. Women should have the right to make healthcare decisions that are right for them and their families.",
-      "note": "From the campaign site's issues page; no publish date given, dated to page access date."
+      "note": "From the campaign site's issues page; no publish date given, dated to page access date.",
+      "date_basis": "accessed"
     },
     {
       "statement": "stricter-gun-laws",
@@ -121,7 +122,8 @@
       "source_title": "Jason Crow for Congress - Values",
       "date": "2026-10-14",
       "quote": "We must fight climate change and protect the Colorado that we love. Climate change is the defining issue of our age.",
-      "note": "No publish date given on page; dated to access date."
+      "note": "No publish date given on page; dated to access date.",
+      "date_basis": "accessed"
     },
     {
       "statement": "health-coverage",
@@ -161,7 +163,8 @@
       "source_title": "Jason Crow for Congress - Values",
       "date": "2026-10-14",
       "quote": "I am also fighting to ensure that our public lands are not sold off to the highest bidder or destroyed by irresponsible drilling and mining, and I will continue to do so if reelected.",
-      "note": "No publish date given on page; dated to access date."
+      "note": "No publish date given on page; dated to access date.",
+      "date_basis": "accessed"
     },
     {
       "statement": "deportation-priority",
@@ -190,8 +193,9 @@
       "source_url": "https://ballotpedia.org/Jason_Crow",
       "source_title": "Jason Crow - Ballotpedia",
       "date": "2026-10-14",
-      "quote": "Colorado Proposition 132, Penalties for Fentanyl Sale and Possession Initiative (2026) Oppose On the ballot",
-      "note": "Ballotpedia's notable ballot measure endorsements table, sourced from noon132.com/coalition, which lists Crow as part of the coalition opposing Proposition 132. No specific date given; dated to page access date."
+      "quote": "Colorado Proposition 132, Penalties for Fentanyl Sale and Possession Initiative (2026) [source] Oppose",
+      "note": "Ballotpedia's notable ballot measure endorsements table, sourced from noon132.com/coalition, which lists Crow as part of the coalition opposing Proposition 132. No specific date given; dated to page access date.",
+      "date_basis": "accessed"
     }
   ],
   "endorsements": [
@@ -289,8 +293,8 @@
   "research_notes": "No direct statement found on Colorado ballot measures Amendment 81 (ICE notification), Amendment 83 (hunting rights), Proposition 133 (child trafficking), Amendment 84 (mail ballot ID), Amendment 86 (redistricting), or state tax/zoning measures (federal House candidate, so these are less likely to be addressed); left unknown rather than inferred. No House floor roll call found specifically on public-lands sale (the Senate reconciliation provision was stripped before passage), so public-lands is sourced from his campaign site instead of a vote. WebSearch budget was exhausted mid-research, limiting further lead-finding for this candidate and others researched afterward; relied on Ballotpedia, clerk.house.gov, and known campaign/office sites via direct fetch instead.",
   "verification": {
     "checked": "2026-10-14",
-    "positions_verified": 9,
-    "positions_unverifiable": 1,
+    "positions_verified": 10,
+    "positions_unverifiable": 0,
     "detail": {
       "abortion-legal": "found",
       "stricter-gun-laws": "found",
@@ -301,7 +305,7 @@
       "public-lands": "found",
       "deportation-priority": "found",
       "sports-biological-sex": "found",
-      "fentanyl-penalties": "not-found"
+      "fentanyl-penalties": "found"
     }
   }
 }

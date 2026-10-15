@@ -5,17 +5,214 @@
   "party": "Democratic Party",
   "incumbent": true,
   "profile": "full",
-  "website": null,
+  "website": "https://hickenlooper.com/",
   "summary": [
     {
-      "text": "John Hickenlooper is on the ballot for U.S. Senate as the Democratic Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "John Hickenlooper is the incumbent Democratic U.S. Senator from Colorado, in office since January 2021 and seeking a second term; he previously served as governor of Colorado (2011-2019) and mayor of Denver (2003-2011).",
+      "source_url": "https://ballotpedia.org/John_Hickenlooper"
+    },
+    {
+      "text": "Before entering politics he worked in petroleum geology and founded a brewpub.",
+      "source_url": "https://ballotpedia.org/John_Hickenlooper"
+    },
+    {
+      "text": "He was born in Narberth, Pennsylvania, in 1952 and holds a bachelor's and a master's degree in geology from Wesleyan University.",
+      "source_url": "https://ballotpedia.org/John_Hickenlooper"
     }
   ],
-  "experience": [],
-  "record": [],
-  "positions": [],
-  "endorsements": [],
+  "experience": [
+    {
+      "text": "U.S. Senator from Colorado, January 2021-present; sits on the Senate Commerce, Science, and Transportation; Energy and Natural Resources; Health, Education, Labor, and Pensions; and Small Business and Entrepreneurship committees.",
+      "source_url": "https://ballotpedia.org/John_Hickenlooper"
+    },
+    {
+      "text": "Governor of Colorado, 2011-2019.",
+      "source_url": "https://ballotpedia.org/John_Hickenlooper"
+    },
+    {
+      "text": "Mayor of Denver, 2003-2011.",
+      "source_url": "https://ballotpedia.org/John_Hickenlooper"
+    },
+    {
+      "text": "Bachelor's degree (1974) and master's degree (1980) in geology from Wesleyan University.",
+      "source_url": "https://ballotpedia.org/John_Hickenlooper"
+    },
+    {
+      "text": "Career experience includes working with Buckhorn Petroleum and founding a brewpub.",
+      "source_url": "https://ballotpedia.org/John_Hickenlooper"
+    }
+  ],
+  "record": [
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 1, One Big Beautiful Bill Act, final Senate passage",
+      "date": "2025-07-01",
+      "detail": "Voted Nay on final Senate passage; the bill passed 50-50 with the Vice President breaking the tie.",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "S. 5, Laken Riley Act, final Senate passage",
+      "date": "2025-01-20",
+      "detail": "Voted Nay on final Senate passage; the bill, which requires federal detention of certain unauthorized immigrants charged with theft and other offenses, passed 64-35.",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00007.htm"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "S.J.Res. 88, terminating the national emergency used to impose global tariffs",
+      "date": "2025-10-30",
+      "detail": "Voted Yea; the resolution passed 51-47.",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00600.htm"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "S.Amdt. 2719 to H.R. 1 (Hickenlooper Amendment)",
+      "date": "2025-07-01",
+      "detail": "Authored and voted Yea on his own amendment to modify the provision terminating the residential clean-energy tax credit; the amendment was rejected 48-52.",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00365.htm"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "S.Amdt. 2107 to H.Con.Res. 14 (Hickenlooper Amendment)",
+      "date": "2025-04-05",
+      "detail": "Authored and voted Yea on his own amendment to prevent using proceeds from federal public-land sales to reduce the deficit; the amendment was rejected 48-51.",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00181.htm"
+    }
+  ],
+  "positions": [
+    {
+      "statement": "federal-budget-law",
+      "value": 2,
+      "source_type": "recorded_vote",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm",
+      "source_title": "U.S. Senate Roll Call Votes, 119th Congress, 1st Session, Vote 372",
+      "date": "2025-07-01",
+      "quote": "Hickenlooper (D-CO), Nay",
+      "note": "Final Senate passage vote on H.R. 1, the One Big Beautiful Bill Act; a Nay vote opposes the law the statement asks about."
+    },
+    {
+      "statement": "keep-tariffs",
+      "value": 2,
+      "source_type": "recorded_vote",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00600.htm",
+      "source_title": "U.S. Senate Roll Call Votes, 119th Congress, 1st Session, Vote 600",
+      "date": "2025-10-30",
+      "quote": "Hickenlooper (D-CO), Yea",
+      "note": "Voted to terminate the national emergency used to impose broad global tariffs, i.e. against keeping those tariffs. In an Oct. 5, 2026 Colorado Sun questionnaire he said directly, 'No. I think the tariffs have been a significant drag on our economy and have been especially harmful to ranchers and farmers across the country,' but the recorded vote is used here per source-strength ranking."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 5,
+      "source_type": "sponsored_bill",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00365.htm",
+      "source_title": "U.S. Senate Roll Call Votes, 119th Congress, 1st Session, Vote 365",
+      "date": "2025-07-01",
+      "quote": "On the Amendment (Hickenlooper Amdt. No. 2719)",
+      "note": "He authored this amendment to preserve the residential clean-energy tax credit that H.R. 1 would terminate, and voted Yea on his own amendment."
+    },
+    {
+      "statement": "public-lands",
+      "value": 5,
+      "source_type": "sponsored_bill",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00181.htm",
+      "source_title": "U.S. Senate Roll Call Votes, 119th Congress, 1st Session, Vote 181",
+      "date": "2025-04-05",
+      "quote": "On the Amendment (Hickenlooper Amdt. No. 2107)",
+      "note": "He authored this budget-resolution amendment to block using proceeds from federal public-land sales to reduce the deficit, and voted Yea on his own amendment."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://www.denver7.com/news/politics/republican-candidate-looks-to-unseat-colorado-senator-seeking-reelection-in-the-midterms",
+      "source_title": "Republican candidate looks to unseat Colorado senator seeking reelection in the midterms",
+      "date": "2026-10-10",
+      "quote": "I've said for forever, since 1977, I'm on the record that health care should be a right and not a privilege",
+      "note": "Direct quote in a Denver7 interview; his campaign site similarly supports a public option and empowering Medicare to negotiate drug prices, and in an Oct. 5, 2026 Colorado Sun questionnaire he said he opposes the Medicaid work requirements in H.R. 1 because 'they're punitive.'"
+    },
+    {
+      "statement": "abortion-legal",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://hickenlooper.com/issues/",
+      "source_title": "Issues - John Hickenlooper for U.S. Senate",
+      "date": "2026-10-14",
+      "quote": "John is defending a woman's right to choose. He is fighting to restore Roe v Wade",
+      "note": "Page is undated; date reflects the day it was accessed for this research."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://hickenlooper.com/issues/",
+      "source_title": "Issues - John Hickenlooper for U.S. Senate",
+      "date": "2026-10-14",
+      "quote": "John supports legislation to expand background checks to all gun sales, ban assault weapons, and better regulate the safe home storage of firearms.",
+      "note": "Page is undated; date reflects the day it was accessed for this research."
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 2,
+      "source_type": "recorded_vote",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00007.htm",
+      "source_title": "U.S. Senate Roll Call Votes, 119th Congress, 1st Session, Vote 7",
+      "date": "2025-01-20",
+      "quote": "Hickenlooper (D-CO), Nay",
+      "note": "Final passage of the Laken Riley Act, which expands mandatory federal detention of unauthorized immigrants charged with certain crimes; a Nay vote opposes that expansion of enforcement. In an Oct. 5, 2026 Colorado Sun questionnaire he said people who have been working and paying taxes should get a guest-worker visa and that DACA recipients should have a path to citizenship."
+    },
+    {
+      "statement": "keep-mail-voting",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://hickenlooper.com/issues/",
+      "source_title": "Issues - John Hickenlooper for U.S. Senate",
+      "date": "2026-10-14",
+      "quote": "As governor, John helped create the gold-standard for universal vote-by-mail to expand voting access.",
+      "note": "Page is undated; date reflects the day it was accessed for this research."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "Brady PAC",
+      "source_url": "https://hickenlooper.com/endorsements/"
+    },
+    {
+      "name": "GIFFORDS",
+      "source_url": "https://hickenlooper.com/endorsements/"
+    },
+    {
+      "name": "League of Conservation Voters (LCV) Action Fund",
+      "source_url": "https://hickenlooper.com/endorsements/"
+    },
+    {
+      "name": "Planned Parenthood Action Fund",
+      "source_url": "https://hickenlooper.com/endorsements/"
+    },
+    {
+      "name": "Human Rights Campaign PAC",
+      "source_url": "https://hickenlooper.com/endorsements/"
+    },
+    {
+      "name": "National Education Association/Colorado Education Association",
+      "source_url": "https://hickenlooper.com/endorsements/"
+    },
+    {
+      "name": "American Federation of State, County and Municipal Employees (AFSCME)",
+      "source_url": "https://hickenlooper.com/endorsements/"
+    },
+    {
+      "name": "End Citizens United",
+      "source_url": "https://hickenlooper.com/endorsements/"
+    },
+    {
+      "name": "314 Action",
+      "source_url": "https://hickenlooper.com/endorsements/"
+    },
+    {
+      "name": "Natural Resources Defense Council (NRDC) Action Fund",
+      "source_url": "https://hickenlooper.com/endorsements/"
+    }
+  ],
   "finance": {
     "raised": 10285376,
     "spent": 9843589,
@@ -27,16 +224,87 @@
   },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "John Hickenlooper - Ballotpedia",
+      "url": "https://ballotpedia.org/John_Hickenlooper",
       "accessed": "2026-10-14"
     },
     {
-      "title": "FEC candidate financial summary",
+      "title": "U.S. Senate Roll Call Votes, 119th Congress, 1st Session, Vote 372 (H.R. 1 final passage)",
+      "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "U.S. Senate Roll Call Votes, 119th Congress, 1st Session, Vote 600 (S.J.Res. 88)",
+      "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00600.htm",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "U.S. Senate Roll Call Votes, 119th Congress, 1st Session, Vote 365 (Hickenlooper Amdt. 2719)",
+      "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00365.htm",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "U.S. Senate Roll Call Votes, 119th Congress, 1st Session, Vote 181 (Hickenlooper Amdt. 2107)",
+      "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00181.htm",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "U.S. Senate Roll Call Votes, 119th Congress, 1st Session, Vote 7 (S. 5 final passage)",
+      "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00007.htm",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Republican candidate looks to unseat Colorado senator seeking reelection in the midterms - Denver7",
+      "url": "https://www.denver7.com/news/politics/republican-candidate-looks-to-unseat-colorado-senator-seeking-reelection-in-the-midterms",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Issues - John Hickenlooper for U.S. Senate",
+      "url": "https://hickenlooper.com/issues/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Endorsements - John Hickenlooper for U.S. Senate",
+      "url": "https://hickenlooper.com/endorsements/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado U.S. Senate | Baisley looks to unseat Hickenlooper - Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2026/10/02/mark-baisley-john-hickenlooper-us-senate/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Where John Hickenlooper, Mark Baisley stand on the issues in Colorado's US Senate race - The Colorado Sun",
+      "url": "https://coloradosun.com/2026/10/05/colorado-senate-race-candidate-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "hickenlooper.com",
+      "url": "https://hickenlooper.com/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/S0CO00575/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Hickenlooper had not completed Ballotpedia's 2026 Candidate Connection survey as of this research. No sourced statement was found addressing most 2026 Colorado ballot measures (Amendments 81-87, Propositions NN and 132-137), housing-state-zoning, or immigration-notify-ice specifically, so those are left unknown rather than inferred from general rhetoric. Where both an official recorded vote/sponsored amendment and looser campaign-site language existed for the same statement (keep-tariffs, deportation-priority), the recorded vote was used per the protocol's source-strength ranking, which yields a value of 2 rather than the more extreme value his campaign rhetoric alone might suggest; a reviewer may want to weigh the stronger direct-statement language too. Campaign-site quotes (hickenlooper.com/issues/) are undated on the page itself; dated here as of the 2026-10-14 access date.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 9,
+    "positions_unverifiable": 0,
+    "detail": {
+      "federal-budget-law": "found",
+      "keep-tariffs": "found",
+      "clean-energy-shift": "found",
+      "public-lands": "found",
+      "health-coverage": "found",
+      "abortion-legal": "found",
+      "stricter-gun-laws": "found",
+      "deportation-priority": "found",
+      "keep-mail-voting": "found"
+    }
+  }
 }

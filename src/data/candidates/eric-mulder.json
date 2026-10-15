@@ -5,29 +5,92 @@
   "party": "Libertarian Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://mulderforgovernor.org",
+  "running_mate": {
+    "name": "Wayne Harlos",
+    "summary": [
+      {
+        "text": "Wayne Harlos, Mulder's running mate, also ran for Lieutenant Governor of Colorado on the Libertarian ticket in the 2020 election, according to Ballotpedia.",
+        "source_url": "https://ballotpedia.org/Wayne_Harlos"
+      }
+    ]
+  },
   "summary": [
     {
-      "text": "Eric Mulder is on the ballot for Governor and Lieutenant Governor as the Libertarian Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Eric Mulder is a U.S. Army veteran, security guard and small business owner from Aurora who previously served on Aurora's Veterans Affairs Commission and Civic Engagement Commission.",
+      "source_url": "https://ballotpedia.org/Eric_Mulder"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "U.S. Army, 2010-2016.",
+      "source_url": "https://ballotpedia.org/Eric_Mulder"
+    },
+    {
+      "text": "Member, Aurora Civic Engagement Commission; previously served on the Aurora Veterans Affairs Commission.",
+      "source_url": "https://ballotpedia.org/Eric_Mulder"
+    },
+    {
+      "text": "Bachelor's degree, Rocky Mountain College of Art + Design, 2020.",
+      "source_url": "https://ballotpedia.org/Eric_Mulder"
+    },
+    {
+      "text": "Small business owner and private security contractor.",
+      "source_url": "https://ballotpedia.org/Eric_Mulder"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "clean-energy-shift",
+      "value": 3,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Eric_Mulder",
+      "source_title": "Eric Mulder - Ballotpedia (2026 Candidate Connection survey)",
+      "date": "2026-01-01",
+      "quote": "From small modular reactors, to natural gas, wind, solar, and geothermal we must use every tool in our disposal to power our state and fortify our energy grid",
+      "note": "An 'all of the above' energy position; survey year only is known, so 2026-01-01 is a placeholder.",
+      "date_basis": "year"
+    },
+    {
+      "statement": "natural-gas-right",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://ballotpedia.org/Eric_Mulder",
+      "source_title": "Eric Mulder - Ballotpedia (2026 Candidate Connection survey)",
+      "date": "2026-01-01",
+      "quote": "From small modular reactors, to natural gas, wind, solar, and geothermal we must use every tool in our disposal to power our state and fortify our energy grid",
+      "note": "Inferred support for continued natural gas use from his energy-diversity platform; Amendment 82 is not named."
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Eric Mulder - Ballotpedia",
+      "url": "https://ballotpedia.org/Eric_Mulder",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Eric Mulder for Colorado Governor (campaign site)",
+      "url": "https://mulderforgovernor.org",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "ballotpedia.org",
+      "url": "https://ballotpedia.org/Wayne_Harlos",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged.",
-  "running_mate": {
-    "name": "Wayne Harlos",
-    "summary": []
+  "research_notes": "Mulder's 2026 campaign site is mostly a placeholder/signup page with no issues content reachable by automated fetch; his Libertarian Party press release (lpcolorado.org) was blocked by a bot-detection challenge page. His Ballotpedia 2026 Candidate Connection survey gave three key messages (keeping state sales tax revenue local during emergencies, limiting government surveillance/privacy, and energy diversity) but only the energy answer maps clearly to one of the 25 statements. A separate 2024 Ballotpedia survey response exists from a different race (an Aurora-area state legislative campaign, not governor) and was not used here to avoid conflating offices. No endorsements beyond crowd-sourced 'Sway' voting-group listings were found.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 2,
+    "positions_unverifiable": 0,
+    "detail": {
+      "clean-energy-shift": "found",
+      "natural-gas-right": "found"
+    }
   }
 }

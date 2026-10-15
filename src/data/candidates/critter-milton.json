@@ -5,25 +5,52 @@
   "party": "Unity Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://backcountryeagle.com/about/",
   "summary": [
     {
-      "text": "Critter Milton is on the ballot for U.S. House, District 1 as the Unity Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Critter Milton (Chris Milton) is a former financial advisor running as the Unity Party candidate for Colorado's 1st Congressional District.",
+      "source_url": "https://ballotpedia.org/Critter_Milton"
+    },
+    {
+      "text": "He is a repeat candidate who previously ran for U.S. Senate (withdrew from the 2020 primary), U.S. House Colorado District 3 (2020), and U.S. House Colorado District 1 (2024, as the Unity Party candidate, receiving 1.2% of the vote).",
+      "source_url": "https://ballotpedia.org/Critter_Milton"
+    },
+    {
+      "text": "He earned a degree from the University of Denver in 2006 and studied at the College for Financial Planning; he lives in Alma, Colorado.",
+      "source_url": "https://ballotpedia.org/Critter_Milton"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Worked as a financial advisor for over a decade; has volunteered with Multiple Summits for Multiple Sclerosis.",
+      "source_url": "https://ballotpedia.org/Critter_Milton"
+    },
+    {
+      "text": "Founded Backcountry Eagle Productions, an outdoors-focused media company, in 2017; has never held elected office.",
+      "source_url": "https://backcountryeagle.com/about/"
+    }
+  ],
   "record": [],
   "positions": [],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Critter Milton - Ballotpedia",
+      "url": "https://ballotpedia.org/Critter_Milton",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "About - Backcountry Eagle Productions",
+      "url": "https://backcountryeagle.com/about/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado U.S. House District 1 candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-1-candidate-qa/",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "He has not completed Ballotpedia's 2026 Candidate Connection survey, did not return the Denver Post's 2026 candidate Q&A ('Critter Milton did not return the questionnaire'), and his personal website (backcountryeagle.com) is for his outdoors-media company, not a campaign issues page -- no current 2026 policy statement could be found. His 2020 and 2022 Ballotpedia surveys (running for different seats) include some policy content (support for climate action, drug-policy liberalization, term limits), but given the multi-year gap and lack of any 2026 confirmation, I did not use that older material to code positions on the 25 statements; a reviewer could judge whether any of it is still fairly attributable to him today."
 }

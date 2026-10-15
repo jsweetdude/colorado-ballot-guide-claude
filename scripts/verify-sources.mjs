@@ -16,7 +16,12 @@ const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (
 const tmp = mkdtempSync(join(tmpdir(), 'cbg-verify-'));
 const cache = new Map();
 
-const ENTITIES = { amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ', rsquo: "'", lsquo: "'", rdquo: '"', ldquo: '"', mdash: '-', ndash: '-', hellip: '...' };
+const ENTITIES = {
+  amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ', rsquo: "'", lsquo: "'", rdquo: '"', ldquo: '"', sbquo: "'", bdquo: '"',
+  mdash: '-', ndash: '-', minus: '-', hellip: '...', sect: '§', para: '¶', copy: '©', reg: '®', trade: '™', deg: '°', middot: '·', bull: '•',
+  laquo: '«', raquo: '»', thinsp: ' ', ensp: ' ', emsp: ' ', zwj: '', zwnj: '', shy: '', eacute: 'é', egrave: 'è', aacute: 'á', iacute: 'í',
+  oacute: 'ó', uacute: 'ú', ntilde: 'ñ', uuml: 'ü', ouml: 'ö', auml: 'ä', ccedil: 'ç', frac12: '½', times: '×', dollar: '$', percnt: '%',
+};
 function decode(s) {
   return s
     .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
@@ -79,7 +84,11 @@ async function pageText(url) {
 export function quoteFound(quote, page) {
   const q = normalize(quote).replace(/^["']|["']$/g, '');
   if (page.includes(q)) return true;
-  const pieces = q.split(/\.\.\.|\[[^\]]*\]/).map((p) => p.trim().replace(/^["',.;: ]+|["',.;: ]+$/g, '')).filter((p) => p.length >= 12);
+  // Split on ellipses and [editorial inserts] before normalizing, which strips brackets.
+  const pieces = String(quote)
+    .split(/\.\.\.|\u2026|\[[^\]]*\]/)
+    .map((p) => normalize(p).replace(/^["',.;: ]+|["',.;: ]+$/g, ''))
+    .filter((p) => p.length >= 12);
   if (pieces.length && pieces.every((p) => page.includes(p))) return true;
   // Tolerate punctuation differences: compare letters and digits only.
   const strip = (s) => s.replace(/[^a-z0-9]+/g, '');

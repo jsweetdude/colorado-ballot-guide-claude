@@ -5,25 +5,99 @@
   "party": "Libertarian Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://liberty4the1st.com/",
   "summary": [
     {
-      "text": "Chad Humphrey is on the ballot for U.S. House, District 1 as the Libertarian Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Chad Humphrey is a retired U.S. Marine Corps officer and a Denver-based technology entrepreneur running as the Libertarian nominee for Colorado's 1st Congressional District.",
+      "source_url": "https://ballotpedia.org/Chad_Humphrey_(Colorado)"
+    },
+    {
+      "text": "He served in the Marine Corps Reserve from 1993 to 2013, including a combat tour in Operation Enduring Freedom, and holds a bachelor's degree from Occidental College and an MBA in finance/economics from Pepperdine University.",
+      "source_url": "https://ballotpedia.org/Chad_Humphrey_(Colorado)"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "U.S. Marine Corps Reserve, 1993-2013; technology professional and self-taught programmer.",
+      "source_url": "https://ballotpedia.org/Chad_Humphrey_(Colorado)"
+    },
+    {
+      "text": "Has never held elected office.",
+      "source_url": "https://ballotpedia.org/Chad_Humphrey_(Colorado)"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "fentanyl-penalties",
+      "value": 2,
+      "source_type": "inferred",
+      "source_url": "https://liberty4the1st.com/",
+      "source_title": "Chad Humphrey for Congress (campaign site)",
+      "date": "2026-10-14",
+      "quote": "From your marijuana to your phone to your bank account, the government needs to stay out of your business.",
+      "note": "Inferred, coded no stronger than 2, from his general personal-liberty opposition to government involvement in drug matters; he does not address fentanyl trafficking penalties or Proposition 132 specifically. Date reflects when this session fetched his campaign site; the page is undated."
+    },
+    {
+      "statement": "keep-tariffs",
+      "value": 1,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-1-candidate-qa/",
+      "source_title": "Colorado U.S. House District 1 candidate Q&A",
+      "date": "2026-10-03",
+      "quote": "Tariffs are just taxes you pay while corporations get refunds."
+    },
+    {
+      "statement": "public-lands",
+      "value": 1,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-1-candidate-qa/",
+      "source_title": "Colorado U.S. House District 1 candidate Q&A",
+      "date": "2026-10-03",
+      "quote": "Decisions about Colorado's public lands have no business being made in Washington, D.C. Period.",
+      "note": "Argues the state legislature, not Washington, should decide Colorado's land policy, which the coding guide treats as supporting transfer away from federal control."
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 3,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-1-candidate-qa/",
+      "source_title": "Colorado U.S. House District 1 candidate Q&A",
+      "date": "2026-10-03",
+      "quote": "We can't have uneducated, unqualified federal stormtroopers roaming our streets, pulling kids out of school, and shooting innocent Americans.",
+      "note": "Explicitly mixed: opposes current enforcement methods but also says of people who are undocumented, 'if you break our laws, there are no second chances.'"
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Chad Humphrey (Colorado) - Ballotpedia",
+      "url": "https://ballotpedia.org/Chad_Humphrey_(Colorado)",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Chad Humphrey for Congress (campaign site)",
+      "url": "https://liberty4the1st.com/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado U.S. House District 1 candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-1-candidate-qa/",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "His Ballotpedia survey and campaign site focus on abolishing the IRS and Federal Reserve and ending foreign wars, which do not map directly to any of the 25 statements. The Denver Post's Oct. 3, 2026 candidate Q&A supplied clearer, better-sourced positions on tariffs, public lands and immigration enforcement.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 4,
+    "positions_unverifiable": 0,
+    "detail": {
+      "fentanyl-penalties": "found",
+      "keep-tariffs": "found",
+      "public-lands": "found",
+      "deportation-priority": "found"
+    }
+  }
 }

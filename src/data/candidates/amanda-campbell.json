@@ -8,22 +8,50 @@
   "website": null,
   "summary": [
     {
-      "text": "Amanda Campbell is on the ballot for Secretary of State as the American Constitution Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Amanda Campbell is the American Constitution Party candidate for Colorado Secretary of State on the November 3, 2026 ballot.",
+      "source_url": "https://theballotbrief.com/candidate/amanda-campbell-co"
+    },
+    {
+      "text": "She works as a program secretary for Meals on Wheels of Mesa County in Grand Junction, according to The Ballot Brief, citing iVoterGuide.",
+      "source_url": "https://theballotbrief.com/candidate/amanda-campbell-co"
+    },
+    {
+      "text": "She has also been the American Constitution Party's Secretary of State nominee in 2014, 2018, 2020 and 2022.",
+      "source_url": "https://ballotpedia.org/Amanda_Campbell_(Colorado)"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Previous American Constitution Party nominee for Colorado Secretary of State in 2014, 2018, 2020 and 2022; has never held elected office.",
+      "source_url": "https://ballotpedia.org/Amanda_Campbell_(Colorado)"
+    }
+  ],
   "record": [],
   "positions": [],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Amanda Campbell (Colorado) - Ballotpedia",
+      "url": "https://ballotpedia.org/Amanda_Campbell_(Colorado)",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Amanda Campbell 2026: Secretary Of State - The Ballot Brief",
+      "url": "https://theballotbrief.com/candidate/amanda-campbell-co",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Secretary of State | Gonzalez, Wiley are top contenders for open seat",
+      "url": "https://www.coloradopolitics.com/2026/10/02/gonzales-wiley-vadney-landry-secretary-of-state/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Secretary of State candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-secretary-of-state-candidate-qa/",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Campbell did not respond to the Colorado Politics 2026 candidate questionnaire ('American Constitution Party candidate Amanda Campbell did not respond') or the Denver Post's separate 2026 candidate Q&A ('James Wiley and Amanda Campbell did not return the questionnaire'), and has not completed a Ballotpedia Candidate Connection survey in 2020, 2022 or 2026. No 2026 campaign website was found (The Ballot Brief notes none existed as of September 8, 2026). Her only own-words statement I could fetch is from her 2022 campaign website, a general statement about constitutional government that does not map clearly to any of the 25 statements, so no positions were coded for her -- all are correctly left unknown rather than inferred from party or old material. A reviewer should re-check for a current website or interview closer to the election."
 }

@@ -5,25 +5,76 @@
   "party": "Forward Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://www.celeste4sos.com/",
   "summary": [
     {
-      "text": "Celeste Landry is on the ballot for Secretary of State as the Forward Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Celeste Landry is a longtime volunteer lobbyist with the League of Women Voters and an advocate for alternative voting methods, running as the Forward Party nominee for Colorado Secretary of State.",
+      "source_url": "https://ballotpedia.org/Celeste_Landry"
+    },
+    {
+      "text": "She has lived in Colorado and voted in every election since 1994 and describes herself as a nationally recognized expert on better voting methods.",
+      "source_url": "https://ballotpedia.org/Celeste_Landry"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Volunteer lobbyist at the Colorado Capitol, the Title Board, and Secretary of State rulemaking hearings on election and voting-method issues.",
+      "source_url": "https://ballotpedia.org/Celeste_Landry"
+    },
+    {
+      "text": "Says she introduced U.S. Rep. Joe Neguse to the federal Fair Representation Act, which he has since co-sponsored each session.",
+      "source_url": "https://ballotpedia.org/Celeste_Landry"
+    },
+    {
+      "text": "Has never held elected office.",
+      "source_url": "https://ballotpedia.org/Celeste_Landry"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "keep-mail-voting",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-secretary-of-state-candidate-qa/",
+      "source_title": "Colorado Secretary of State candidate Q&A",
+      "date": "2026-10-03",
+      "quote": "In general, we can be proud of Colorado's system; it is excellent at balancing access to voting with election security.",
+      "note": "A separate questionnaire has her calling Colorado's system 'gold-standard' while also proposing to further limit electronic ballot return, a narrower issue distinct from mail ballots themselves."
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Celeste Landry - Ballotpedia",
+      "url": "https://ballotpedia.org/Celeste_Landry",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Secretary of State | Gonzalez, Wiley are top contenders for open seat",
+      "url": "https://www.coloradopolitics.com/2026/10/02/gonzales-wiley-vadney-landry-secretary-of-state/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Secretary of State candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-secretary-of-state-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "celeste4sos.com",
+      "url": "https://www.celeste4sos.com/",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "No endorsements found on a fetched page. Her questionnaire answer criticizing federal CISA changes under the Trump administration was close to challenge-federal-policies but was about election-security coordination specifically, not a general stance on suing the administration, so it was left unsourced rather than stretched. Mail-ballot-id, plain-language-ballots and redistricting-commission are unsourced; her Ballotpedia survey (submitted February 23, 2026) and campaign focus on proportional/ranked voting methods rather than these specific measures.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 1,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-mail-voting": "found"
+    }
+  }
 }

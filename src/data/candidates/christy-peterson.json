@@ -8,13 +8,120 @@
   "website": null,
   "summary": [
     {
-      "text": "Christy Peterson is on the ballot for U.S. House, District 1 as the Republican Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Christy Peterson is the Republican nominee for Colorado's 1st Congressional District; she lives in south Denver and works as an office manager and bookkeeper for a small contracting firm in the Denver Tech Center.",
+      "source_url": "https://www.coloradopolitics.com/2026/07/02/meet-the-colorado-republican-running-against-melat-kiros-for-cd1/"
+    },
+    {
+      "text": "She graduated from Chatfield Senior High School and earned a bachelor's degree from San Diego State University in 2006; her Ballotpedia survey says she is working toward a PhD in natural and functional medicine.",
+      "source_url": "https://ballotpedia.org/Christy_Peterson"
+    },
+    {
+      "text": "She ran unopposed for the Republican nomination and won the June 30, 2026 primary with 100% of the vote.",
+      "source_url": "https://ballotpedia.org/Christy_Peterson"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Office manager and accountant in the construction industry; has never held elected office.",
+      "source_url": "https://ballotpedia.org/Christy_Peterson"
+    },
+    {
+      "text": "Describes becoming active in the Republican Party and conservative politics around 2020 and 2025.",
+      "source_url": "https://ballotpedia.org/Christy_Peterson"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "minor-gender-surgery-ban",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://ballotpedia.org/Christy_Peterson",
+      "source_title": "Christy Peterson - Ballotpedia (2026 Candidate Connection survey)",
+      "date": "2026-04-13",
+      "quote": "no to mutilizing innocent childrens' body parts, no to adults who manipulate children to mutilize.",
+      "note": "Listed among her core 'no to' campaign positions; read as opposing gender-transition surgery for minors. Typos are in the original survey text."
+    },
+    {
+      "statement": "keep-mail-voting",
+      "value": 1,
+      "source_type": "questionnaire",
+      "source_url": "https://ballotpedia.org/Christy_Peterson",
+      "source_title": "Christy Peterson - Ballotpedia (2026 Candidate Connection survey)",
+      "date": "2026-04-13",
+      "quote": "Yes to election integrity, the Save America Act, paper ballots, same day voting & hand count.",
+      "note": "Stated as a general principle rather than specifically about Colorado, but she is running to represent a Colorado district; calls for same-day in-person voting and hand counts in place of the current mail-ballot system."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Christy_Peterson",
+      "source_title": "Christy Peterson - Ballotpedia (2026 Candidate Connection survey)",
+      "date": "2026-04-13",
+      "quote": "In 2013 when Obamacare was planning to fine citizens for not buying their health insurance, she knew it was unconstitutional.",
+      "note": "Opposition to the ACA's individual mandate, paired with her stated 'low taxes, limited government' philosophy, read as opposing expanded government health-insurance mandates."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Christy_Peterson",
+      "source_title": "Christy Peterson - Ballotpedia (2026 Candidate Connection survey)",
+      "date": "2026-04-13",
+      "quote": "Yes to protecting free speech, bear arms & America First!",
+      "note": "A short platform bullet rather than an elaborated statement, so coded as disagree-with-qualification rather than strongly disagree."
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-1-candidate-qa/",
+      "source_title": "Colorado U.S. House District 1 candidate Q&A",
+      "date": "2026-10-03",
+      "quote": "I support the President and his efforts. Our local jurisdictions should be fully cooperative with immigration enforcement.",
+      "note": "Answering what Congress should do as the Trump administration pursues an immigration crackdown."
+    },
+    {
+      "statement": "immigration-notify-ice",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-1-candidate-qa/",
+      "source_title": "Colorado U.S. House District 1 candidate Q&A",
+      "date": "2026-10-03",
+      "quote": "Our local jurisdictions should be fully cooperative with immigration enforcement. All peacefully and respectfully. In fact any jurisdiction with \"sanctuary\" policy is the problem."
+    },
+    {
+      "statement": "public-lands",
+      "value": 1,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-1-candidate-qa/",
+      "source_title": "Colorado U.S. House District 1 candidate Q&A",
+      "date": "2026-10-03",
+      "quote": "Yes I am for allowing more public lands for extraction. These are resources we want plus work opportunities.",
+      "note": "Answering whether more federal land in Colorado should be opened to oil and gas extraction."
+    },
+    {
+      "statement": "federal-budget-law",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-1-candidate-qa/",
+      "source_title": "Colorado U.S. House District 1 candidate Q&A",
+      "date": "2026-10-03",
+      "quote": "I support the President, his agendas and tax breaks. He is a strong man and we are lucky to have him!",
+      "note": "Inferred, coded no stronger than 4: general approval of 'his agendas and tax breaks' without naming the One Big Beautiful Bill Act specifically."
+    },
+    {
+      "statement": "challenge-federal-policies",
+      "value": 2,
+      "source_type": "inferred",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-1-candidate-qa/",
+      "source_title": "Colorado U.S. House District 1 candidate Q&A",
+      "date": "2026-10-03",
+      "quote": "I approve of the Presidents' work and support his administration.",
+      "note": "Inferred, coded no stronger than 2: answering a question about Congressional oversight of the Trump administration, she opposes more scrutiny of it, which suggests she would not want Colorado's government challenging it either, though she was not asked about state lawsuits directly."
+    }
+  ],
   "endorsements": [],
   "finance": {
     "raised": 2057,
@@ -27,16 +134,47 @@
   },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Christy Peterson - Ballotpedia",
+      "url": "https://ballotpedia.org/Christy_Peterson",
       "accessed": "2026-10-14"
     },
     {
-      "title": "FEC candidate financial summary",
+      "title": "Congressional District 1: Kiros faces Peterson, Blau",
+      "url": "https://www.coloradopolitics.com/2026/10/02/kiros-blau-peterson-congressional-district-1/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Meet the Colorado Republican running against Melat Kiros for CD1",
+      "url": "https://www.coloradopolitics.com/2026/07/02/meet-the-colorado-republican-running-against-melat-kiros-for-cd1/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado U.S. House District 1 candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-1-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H6CO01331/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Peterson's campaign did not respond to the Colorado Politics 2026 CD1 voter guide questionnaire, but did respond to the Denver Post's separate 2026 candidate Q&A, which supplied most of her positions here (her unedited first-person answers are stylistically consistent with her Ballotpedia survey). Her listed campaign website (christyforamerica.us) currently resolves to an unrelated parked/gambling-spam page, not her campaign; the Colorado Politics profile piece independently confirms a similarly styled site existed as of July 2026, so the URL is kept with this caveat for a reviewer. Colorado Public Radio (cpr.org) has a 1st Congressional District voter-guide entry on her per Google News, but cpr.org is on the blocked-fetch list and I could not locate a working web.archive.org mirror of it in this session. No FEC or TRACER finance figures were pulled (federal candidate; finance left null per instructions). No endorsements found on a fetched page beyond a single informal 'Sway voting group' recommendation, which was not notable enough to include. Build note 2026-10-14: website field cleared because christyforamerica.us does not resolve to a campaign site; not linked.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 9,
+    "positions_unverifiable": 0,
+    "detail": {
+      "minor-gender-surgery-ban": "found",
+      "keep-mail-voting": "found",
+      "health-coverage": "found",
+      "stricter-gun-laws": "found",
+      "deportation-priority": "found",
+      "immigration-notify-ice": "found",
+      "public-lands": "found",
+      "federal-budget-law": "found",
+      "challenge-federal-policies": "found"
+    }
+  }
 }

@@ -5,25 +5,197 @@
   "party": "Democratic Party",
   "incumbent": false,
   "profile": "full",
-  "website": null,
+  "website": "https://www.amandaforcolorado.com/",
   "summary": [
     {
-      "text": "Amanda Gonzalez is on the ballot for Secretary of State as the Democratic Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Amanda Gonzalez is the elected Jefferson County Clerk and Recorder, an attorney, and an adjunct law professor at the University of Denver.",
+      "source_url": "https://ballotpedia.org/Amanda_Gonzalez_(Colorado)"
+    },
+    {
+      "text": "She is a former executive director of Colorado Common Cause.",
+      "source_url": "https://ballotpedia.org/Amanda_Gonzalez_(Colorado)"
+    },
+    {
+      "text": "She earned a bachelor's degree from Occidental College in 2006 and a law degree from the University of Denver Sturm College of Law in 2011.",
+      "source_url": "https://ballotpedia.org/Amanda_Gonzalez_(Colorado)"
     }
   ],
-  "experience": [],
-  "record": [],
-  "positions": [],
-  "endorsements": [],
+  "experience": [
+    {
+      "text": "Jefferson County Clerk and Recorder, elected 2022.",
+      "source_url": "https://ballotpedia.org/Amanda_Gonzalez_(Colorado)"
+    },
+    {
+      "text": "Former Executive Director of Colorado Common Cause; taught election law at the University of Denver.",
+      "source_url": "https://ballotpedia.org/Amanda_Gonzalez_(Colorado)"
+    },
+    {
+      "text": "Won the June 30, 2026 Democratic primary for Secretary of State with 64.4% of the vote over Jessie Danielson.",
+      "source_url": "https://ballotpedia.org/Amanda_Gonzalez_(Colorado)"
+    }
+  ],
+  "record": [
+    {
+      "kind": "decision",
+      "title": "Response to federal voter-list demand",
+      "date": "2026-06-10",
+      "detail": "As Jefferson County Clerk, said Colorado had already refused to give the Trump administration its voter data in response to a U.S. Postal Service proposal conditioning mail-ballot delivery on states sharing voter lists.",
+      "source_url": "https://kvia.com/politics/cnn-us-politics/2026/06/10/postal-service-wont-deliver-mail-ballots-for-states-that-dont-hand-over-voter-lists-under-plan-for-trump-directive/"
+    },
+    {
+      "kind": "decision",
+      "title": "Opposed shortening Tina Peters' sentence",
+      "date": "2026-10-07",
+      "detail": "Said she disagreed with Gov. Jared Polis' decision to shorten former Mesa County Clerk Tina Peters' prison sentence, saying it 'sends the wrong message to voters and the wrong message to election workers.'",
+      "source_url": "https://coloradosun.com/2026/10/07/james-wiley-amanda-gonzalez-secretary-of-state-voter-guide/"
+    },
+    {
+      "kind": "decision",
+      "title": "Voter roll purge attempt",
+      "date": "2026-01-01",
+      "detail": "Campaign states she blocked an attempt to remove 23,000 voters from Jefferson County's rolls using legal loopholes; this record is self-reported by her campaign and not independently verified by a news outlet in this research session.",
+      "source_url": "https://www.amandaforcolorado.com/priorities"
+    },
+    {
+      "kind": "decision",
+      "title": "Election administration record in Jefferson County",
+      "date": "2026-01-01",
+      "detail": "Campaign states Jefferson County delivered the most ballots cast of any Colorado county in two election cycles under her tenure, came in under budget, and received EAC Clearinghouse election-innovation awards in 2023, 2024 and 2025; self-reported by her campaign.",
+      "source_url": "https://www.amandaforcolorado.com/priorities"
+    }
+  ],
+  "positions": [
+    {
+      "statement": "keep-mail-voting",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/07/james-wiley-amanda-gonzalez-secretary-of-state-voter-guide/",
+      "source_title": "Where James Wiley and Amanda Gonzalez stand on the top issues in the Colorado secretary of state's race",
+      "date": "2026-10-07",
+      "quote": "Every ballot that we count is a paper ballot and you can't hack paper.",
+      "note": "Answering 'Yes' to The Colorado Sun's question of whether she supports continuing Colorado's practice of automatically mailing ballots to registered voters and counting them with machines."
+    },
+    {
+      "statement": "mail-ballot-id",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/10/07/james-wiley-amanda-gonzalez-secretary-of-state-voter-guide/",
+      "source_title": "Where James Wiley and Amanda Gonzalez stand on the top issues in the Colorado secretary of state's race",
+      "date": "2026-10-07",
+      "quote": "I am interested in solving actual problems in our elections and finding ways to make it more accessible for voters, not creating new hoops for eligible voters to jump through.",
+      "note": "Directly asked whether she supports Amendment 84. She said she does not take official positions on ballot measures, but these are her own words answering that question, so this is coded as a qualified disagree rather than inferred."
+    },
+    {
+      "statement": "challenge-federal-policies",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/10/07/james-wiley-amanda-gonzalez-secretary-of-state-voter-guide/",
+      "source_title": "Where James Wiley and Amanda Gonzalez stand on the top issues in the Colorado secretary of state's race",
+      "date": "2026-10-07",
+      "quote": "It is clearly not the president's role to regulate how Colorado runs our elections. He should particularly not be doing that for partisan purposes.",
+      "note": "Answering how Colorado should respond to possible Trump administration attempts to limit mail voting."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "Planned Parenthood Action Fund",
+      "source_url": "https://www.amandaforcolorado.com/endorsements"
+    },
+    {
+      "name": "Emily's List",
+      "source_url": "https://www.amandaforcolorado.com/endorsements"
+    },
+    {
+      "name": "Colorado AFL-CIO",
+      "source_url": "https://www.amandaforcolorado.com/endorsements"
+    },
+    {
+      "name": "Colorado Education Association",
+      "source_url": "https://www.amandaforcolorado.com/endorsements"
+    },
+    {
+      "name": "Conservation Colorado / League of Conservation Voters",
+      "source_url": "https://www.amandaforcolorado.com/endorsements"
+    },
+    {
+      "name": "Everytown for Gun Safety Action Fund",
+      "source_url": "https://www.amandaforcolorado.com/endorsements"
+    },
+    {
+      "name": "LGBTQ+ Victory Fund",
+      "source_url": "https://www.amandaforcolorado.com/endorsements"
+    },
+    {
+      "name": "Democratic Association of Secretaries of State",
+      "source_url": "https://www.amandaforcolorado.com/endorsements"
+    },
+    {
+      "name": "John Hickenlooper, U.S. Senator for Colorado",
+      "source_url": "https://www.amandaforcolorado.com/endorsements"
+    },
+    {
+      "name": "Jason Crow, U.S. Representative, Colorado's 6th Congressional District",
+      "source_url": "https://www.amandaforcolorado.com/endorsements"
+    }
+  ],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Amanda Gonzalez (Colorado) - Ballotpedia",
+      "url": "https://ballotpedia.org/Amanda_Gonzalez_(Colorado)",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Secretary of State | Gonzalez, Wiley are top contenders for open seat",
+      "url": "https://www.coloradopolitics.com/2026/10/02/gonzales-wiley-vadney-landry-secretary-of-state/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Candidates for top election post split on mail voting, election trust",
+      "url": "https://www.coloradopolitics.com/2026/10/10/candidates-for-top-election-post-split-on-mail-voting-election-trust/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Postal Service won't deliver mail ballots for states that don't hand over voter lists, under plan for Trump directive",
+      "url": "https://kvia.com/politics/cnn-us-politics/2026/06/10/postal-service-wont-deliver-mail-ballots-for-states-that-dont-hand-over-voter-lists-under-plan-for-trump-directive/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Priorities - Amanda for Colorado",
+      "url": "https://www.amandaforcolorado.com/priorities",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Endorsements - Amanda for Colorado",
+      "url": "https://www.amandaforcolorado.com/endorsements",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "News - Amanda for Colorado",
+      "url": "https://www.amandaforcolorado.com/news",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Where James Wiley and Amanda Gonzalez stand on the top issues in the Colorado secretary of state's race",
+      "url": "https://coloradosun.com/2026/10/07/james-wiley-amanda-gonzalez-secretary-of-state-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "amandaforcolorado.com",
+      "url": "https://www.amandaforcolorado.com/",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "The Colorado Sun's Oct. 7, 2026 candidate guide directly asked Gonzalez about Amendment 84 and confirmed she declines to take official positions on ballot measures; mail-ballot-id is coded from her own words in that answer rather than from party or general inference. No statement found naming Amendment 85 or 86 specifically, so plain-language-ballots and redistricting-commission are left unsourced (unknown). Two 'decision' record items sourced to her own campaign site (voter-roll purge defense, Jeffco election-administration record) are self-reported and not independently verified against a news outlet in this session -- a reviewer should check these before publishing.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 3,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-mail-voting": "found",
+      "mail-ballot-id": "found",
+      "challenge-federal-policies": "found"
+    }
+  }
 }

@@ -156,6 +156,16 @@
       "date": "2025-06-22",
       "quote": "I have my pro-life views, but I understand others disagree and I think that exchange of ideas and sharing perspectives is something important in our society",
       "note": "Made at a Mesa County Right to Life rally. He has separately been reported (politiquote.gigafact.org, citing a Sept. 30, 2024 debate) as saying \"I'm pro life with exceptions\" and that he would not vote for a federal abortion ban, leaving the issue to states."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 2,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/08/jeff-hurd-dwayne-romero-colorado-third-district-issue-voter-guide/",
+      "source_title": "Where Jeff Hurd and Dwayne Romero stand on the top issues in Colorado's 3rd Congressional District race",
+      "date": "2026-10-08",
+      "quote": "He is a proponent of multiple energy sources such as carbon-based, renewable, geothermal, and nuclear energy. He said he would not like to see any energy sources taken off the table.",
+      "note": "Answering a Colorado Sun question on whether the U.S. should stop using carbon-emitting energy sources; he favors an all-of-the-above mix rather than speeding a shift off fossil fuels, and separately supports 'responsible' oil and gas development on federal lands in the same article."
     }
   ],
   "endorsements": [
@@ -220,21 +230,26 @@
       "accessed": "2026-10-14"
     },
     {
+      "title": "Where Jeff Hurd and Dwayne Romero stand on the top issues in Colorado's 3rd Congressional District race",
+      "url": "https://coloradosun.com/2026/10/08/jeff-hurd-dwayne-romero-colorado-third-district-issue-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
       "title": "jeffhurdforcolorado.com",
       "url": "https://jeffhurdforcolorado.com/",
       "accessed": "2026-10-14"
     },
     {
-      "title": "FEC candidate financial summary",
+      "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H4CO03357/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "No sourceable statement found for Hurd on stricter gun laws, state-level Colorado ballot measures (income tax, TABOR, natural gas right, zoning, mail-ballot ID, plain-language ballots, redistricting commission, mail voting, minor gender-surgery ban, fentanyl/child-trafficking penalties, hunting right, immigration-notify-ICE) or clean-energy-shift; left uncoded rather than inferred from party or committee role. Gigafact's politiquote page (an aggregator) was fetched to double-check an older abortion quote attributed to a Sept. 30, 2024 debate video but was not independently verified against primary video; it is cited only as supporting context in a note, not as the basis for a scored position. congress.gov and govtrack.us (cited heavily in Ballotpedia's footnotes) are blocked to automated fetching per protocol.",
+  "research_notes": "No sourceable statement found for Hurd on stricter gun laws, state-level Colorado ballot measures (income tax, TABOR, natural gas right, zoning, mail-ballot ID, plain-language ballots, redistricting commission, mail voting, minor gender-surgery ban, fentanyl/child-trafficking penalties, hunting right, immigration-notify-ICE) or clean-energy-shift; left uncoded rather than inferred from party or committee role. Gigafact's politiquote page (an aggregator) was fetched to double-check an older abortion quote attributed to a Sept. 30, 2024 debate video but was not independently verified against primary video; it is cited only as supporting context in a note, not as the basis for a scored position. congress.gov and govtrack.us (cited heavily in Ballotpedia's footnotes) are blocked to automated fetching per protocol. Second pass 2026-10-14: added clean-energy-shift from the Colorado Sun's Oct. 8, 2026 CD3 issue guide. The Denver Post's Oct. 3, 2026 CD3 candidate Q&A separately quotes Hurd saying he \"worked across the aisle and voted to extend enhanced premium tax credits,\" which a reviewer may want to weigh against the existing health-coverage position (coded 2, from an Oct. 7, 2026 Aspen Times Medicaid-work-requirements answer); left the existing position unchanged per protocol.",
   "verification": {
-    "checked": "2026-10-15",
-    "positions_verified": 7,
+    "checked": "2026-10-14",
+    "positions_verified": 8,
     "positions_unverifiable": 0,
     "detail": {
       "federal-budget-law": "found",
@@ -243,7 +258,8 @@
       "keep-tariffs": "found",
       "public-lands": "found",
       "health-coverage": "found",
-      "abortion-legal": "found"
+      "abortion-legal": "found",
+      "clean-energy-shift": "found"
     }
   }
 }

@@ -5,29 +5,277 @@
   "party": "Republican Party",
   "incumbent": false,
   "profile": "full",
-  "website": null,
+  "website": "https://www.victor2026.com",
+  "running_mate": {
+    "name": "George Washington Markert",
+    "summary": [
+      {
+        "text": "George Markert is a retired U.S. Marine Corps colonel who settled his family in Broomfield after three decades of service; he previously sought the Republican U.S. Senate nomination against incumbent John Hickenlooper but did not make that primary ballot.",
+        "source_url": "https://www.coloradopolitics.com/2026/07/31/republican-victor-marx-taps-george-markert-as-his-lieutenant-governor-pick-in-colorados-gubernatorial-race/"
+      }
+    ]
+  },
   "summary": [
     {
-      "text": "Victor Marx is on the ballot for Governor and Lieutenant Governor as the Republican Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Victor Marx is a Marine Corps veteran and founder and CEO of All Things Possible Ministries, a Colorado Springs-based Christian nonprofit; this is his first run for public office.",
+      "source_url": "https://coloradosun.com/2026/06/06/barbara-kirkmeyer-scott-bottoms-victor-marx-colorado-primary-election-gop-governor-issue-guide/"
+    },
+    {
+      "text": "He lives in Colorado Springs and has previously worked for Focus on the Family and as a martial arts trainer.",
+      "source_url": "https://coloradosun.com/2026/10/10/colorado-governor-phil-weiser-victor-marx-voter-guide/"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Served in the United States Marine Corps.",
+      "source_url": "https://coloradosun.com/2026/10/10/colorado-governor-phil-weiser-victor-marx-voter-guide/"
+    },
+    {
+      "text": "Founder and CEO of All Things Possible Ministries, which says it has conducted more than 150 missions providing trauma relief and aid in conflict regions.",
+      "source_url": "https://www.victor2026.com/meet-victor"
+    },
+    {
+      "text": "Has not previously held elected office.",
+      "source_url": "https://coloradosun.com/2026/06/06/barbara-kirkmeyer-scott-bottoms-victor-marx-colorado-primary-election-gop-governor-issue-guide/"
+    }
+  ],
   "record": [],
-  "positions": [],
-  "endorsements": [],
-  "finance": null,
+  "positions": [
+    {
+      "statement": "abortion-legal",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradotimesrecorder.com/2025/12/abortion-shaping-the-republican-gubernatorial-primary/74886/",
+      "source_title": "Abortion Shaping the Republican Gubernatorial Primary - Colorado Times Recorder",
+      "date": "2025-11-01",
+      "quote": "I’m a child advocate, always have been ... It’d be hypocritical for me not to protect children in the womb who are humans. So there’s only two choices — life or death — and I am for life.",
+      "note": "Exact date of the radio appearance (Dan Caplis Show) is unknown; article published 2025-12-02 describes it as happening 'last month.' In the same interview he also said of Colorado's constitutional abortion protections, 'The people voted...I can't go in and...do the magical trick,' suggesting he would not try to change current law even though he personally opposes abortion, hence a qualified rather than unqualified disagree."
+    },
+    {
+      "statement": "immigration-notify-ice",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://www.victor2026.com/my-policies",
+      "source_title": "My Policies - Victor Marx for Governor",
+      "date": "2026-07-01",
+      "quote": "I will require all state and local law enforcement agencies to cooperate with federal immigration authorities—including ICE and DHS—whenever an arrested individual is suspected of being unlawfully present and is charged with a crime.",
+      "note": "Campaign policy page is undated; using an approximate date after his June 30, 2026 primary win. He made a similar, less formal statement at a May 8, 2026 candidate forum: 'I don't know why people wouldn't want a safer state. It's just common sense.' (coloradotimesrecorder.com).",
+      "date_basis": "month"
+    },
+    {
+      "statement": "housing-state-zoning",
+      "value": 2,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/10/colorado-governor-phil-weiser-victor-marx-voter-guide/",
+      "source_title": "Where Phil Weiser and Victor Marx stand on the issues - The Colorado Sun",
+      "date": "2026-10-10",
+      "quote": "I'm pro working with local communities rather than pretending like Denver knows the right zoning decision for every town in Colorado.",
+      "note": "In the June 6, 2026 GOP primary guide (coloradosun.com) he also said he 'supports cutting out anti-housing zoning rules' while opposing a 'one-size-fits-all' approach, so his position mixes some support for zoning reform with opposition to state-imposed mandates; coded as a qualified disagreement with state override."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 1,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/10/colorado-governor-phil-weiser-victor-marx-voter-guide/",
+      "source_title": "Where Phil Weiser and Victor Marx stand on the issues - The Colorado Sun",
+      "date": "2026-10-10",
+      "quote": "Yes. \"If I'm governor, I'm opening up all forms of energy. We're going to make sure they meet appropriate health and environmental standards, but I just don't believe Colorado should shut down responsible domestic energy production and then import energy from somewhere else.\"",
+      "note": "Answering whether Colorado would still be drilling new oil and gas wells at the end of a second term, he said yes and described opening up all forms of energy production."
+    },
+    {
+      "statement": "natural-gas-right",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://www.victor2026.com/my-policies",
+      "source_title": "My Policies - Victor Marx for Governor",
+      "date": "2026-07-01",
+      "quote": "I will support an all-of-the-above energy strategy that expands renewable sources like wind, solar, and geothermal while maintaining the vital role of oil, gas, hydroelectric power, and emerging technologies such as modular nuclear and advanced storage systems.",
+      "note": "Inferred: his platform commits to maintaining the role of oil and gas broadly but does not address consumer natural-gas hookups or appliances specifically, so capped at 4. He separately told the Colorado Sun (Oct. 10, 2026) he is 'opening up all forms of energy' and opposes shutting down domestic gas production."
+    },
+    {
+      "statement": "hunting-right",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/06/24/colorado-governor-wolves-hunting-fishing-wildlife-issue-stances/",
+      "source_title": "How Colorado's candidates for governor say they would address wolves, hunting, fishing and a rural divide - The Colorado Sun",
+      "date": "2026-06-24",
+      "quote": "\"Absolutely,\" Marx said. \"If we do not act now, decisions about wildlife management will continue drifting away from science and into ideology.\"",
+      "note": "Answering whether he supports what was then proposed Initiative 302, the hunting/fishing constitutional right that became Amendment 83."
+    },
+    {
+      "statement": "mail-ballot-id",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://www.victor2026.com/my-policies",
+      "source_title": "My Policies - Victor Marx for Governor",
+      "date": "2026-07-01",
+      "quote": "As Governor, I will support legislation requiring Voter ID for all forms of voting, including in-person, absentee, and mail-in ballots.",
+      "note": "Supports ID for mail ballots generally; does not specifically describe Amendment 84's mechanism of writing an ID number on the return envelope, so not coded at the top value."
+    },
+    {
+      "statement": "income-tax-cap",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://www.victor2026.com/my-policies",
+      "source_title": "My Policies - Victor Marx for Governor",
+      "date": "2026-07-01",
+      "quote": "As Governor, I will support a responsible and phased reduction of the state income tax rate under C.R.S. § 39-22-104 when verified revenue surpluses exist and when reductions comply with voter-approval requirements under Colo. Const. art. X, § 20(3)(a).",
+      "note": "Inferred: commits to reducing, not raising, the state income tax rate, consistent with Proposition 136's cap, though the measure is not named directly."
+    },
+    {
+      "statement": "graduated-income-tax",
+      "value": 2,
+      "source_type": "inferred",
+      "source_url": "https://www.coloradopolitics.com/2026/10/02/colorado-governor-weiser-marx-and-lopez-vie-for-top-state-seat-4/",
+      "source_title": "Colorado governor | Weiser, Marx and Lopez vie for top state seat - Colorado Politics",
+      "date": "2026-10-02",
+      "quote": "I will not balance the budget through new taxes or backdoor fees. Colorado needs a sustainable budget that lives within recurring revenue, protects TABOR, and maintains an adequate reserve.",
+      "note": "Inferred opposition to a graduated income tax increase (Amendment 87) from his general no-new-taxes stance; asked directly about Amendment 87 in the June 6, 2026 primary guide he predicted it 'won't pass' but said new revenue 'shouldn't be an excuse to stop demanding accountability,' which does not state a clear yes/no on the measure itself."
+    },
+    {
+      "statement": "fentanyl-penalties",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://www.victor2026.com/my-policies",
+      "source_title": "My Policies - Victor Marx for Governor",
+      "date": "2026-07-01",
+      "quote": "I will pursue enhanced penalties for trafficking quantities exceeding statutory thresholds under C.R.S. § 18-18-405.5, while expanding treatment diversion for non-violent addiction cases.",
+      "note": "Supports tougher trafficking penalties above certain thresholds combined with treatment diversion for non-violent cases, short of Proposition 132's mandatory prison for any amount sold."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 2,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/06/06/barbara-kirkmeyer-scott-bottoms-victor-marx-colorado-primary-election-gop-governor-issue-guide/",
+      "source_title": "Kirkmeyer vs. Marx vs. Bottoms: Where GOP candidates stand on issues - The Colorado Sun",
+      "date": "2026-06-06",
+      "quote": "Marx named four bills [he would veto]: the budget; a bill expanding who can petition a judge to issue a temporary gun-seizure order...",
+      "note": "Named a bill expanding who can petition for a red-flag gun-seizure order as one of three bills he would veto."
+    },
+    {
+      "statement": "child-trafficking-life",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/06/06/barbara-kirkmeyer-scott-bottoms-victor-marx-colorado-primary-election-gop-governor-issue-guide/",
+      "source_title": "Kirkmeyer vs. Marx vs. Bottoms: Where GOP candidates stand on issues - The Colorado Sun",
+      "date": "2026-06-06",
+      "quote": "Yes. \"If an adult rapes a child, I'm absolutely for the death penalty. I've seen it again and again, it's horrific.\"",
+      "note": "Answered 'yes' to a single question covering Initiatives 108, 109 and 110, which became Propositions 133 (child sex trafficking - life without parole), 134 (sports) and 135 (minors' surgery ban); this record covers Initiative 108/Proposition 133."
+    },
+    {
+      "statement": "sports-biological-sex",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/06/06/barbara-kirkmeyer-scott-bottoms-victor-marx-colorado-primary-election-gop-governor-issue-guide/",
+      "source_title": "Kirkmeyer vs. Marx vs. Bottoms: Where GOP candidates stand on issues - The Colorado Sun",
+      "date": "2026-06-06",
+      "quote": "How do you plan to vote on Initiatives 108, 109 and 110, which would, respectively, make child sex trafficking punishable by life in prison without the possibility of parole; prohibit transgender kids and college students from participating in gendered sports that do not align with their biological sex; and prohibit surgery on a child for the purpose of altering their biological sex characteristics. [Victor Marx:] Yes.",
+      "note": "The Colorado Sun asked one question about Initiatives 108, 109 and 110, which became Propositions 133, 134 and 135; Marx answered yes to all three."
+    },
+    {
+      "statement": "minor-gender-surgery-ban",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/06/06/barbara-kirkmeyer-scott-bottoms-victor-marx-colorado-primary-election-gop-governor-issue-guide/",
+      "source_title": "Kirkmeyer vs. Marx vs. Bottoms: Where GOP candidates stand on issues - The Colorado Sun",
+      "date": "2026-06-06",
+      "quote": "How do you plan to vote on Initiatives 108, 109 and 110, which would, respectively, make child sex trafficking punishable by life in prison without the possibility of parole; prohibit transgender kids and college students from participating in gendered sports that do not align with their biological sex; and prohibit surgery on a child for the purpose of altering their biological sex characteristics. [Victor Marx:] Yes.",
+      "note": "The Colorado Sun asked one question about Initiatives 108, 109 and 110, which became Propositions 133, 134 and 135; Marx answered yes to all three."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "Lauren Boebert (U.S. Representative, R)",
+      "source_url": "https://ballotpedia.org/Victor_Marx"
+    }
+  ],
+  "finance": {
+    "raised": 1660000,
+    "spent": null,
+    "cash_on_hand": null,
+    "as_of": "2026-04-30",
+    "source_url": "https://coloradotimesrecorder.com/2026/05/republican-governor-hopefuls-pitch-mass-deportations-jail-threats/78866/",
+    "source_name": "Colorado Times Recorder",
+    "note": "Reported raised in the reporting period through April 2026; campaign said total fundraising since entering the race was approaching $2.3 million. The same article reported irregularities a conservative commentator (Ross Kaminsky) found in Marx's TRACER donor filings, including donor names listed with inconsistent cities/occupations, which a reviewer may want to weigh when assessing this figure."
+  },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Victor Marx - Ballotpedia",
+      "url": "https://ballotpedia.org/Victor_Marx",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Abortion Shaping the Republican Gubernatorial Primary - Colorado Times Recorder",
+      "url": "https://coloradotimesrecorder.com/2025/12/abortion-shaping-the-republican-gubernatorial-primary/74886/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Republican Governor Hopefuls Pitch Mass Deportations, Jail Threats - Colorado Times Recorder",
+      "url": "https://coloradotimesrecorder.com/2026/05/republican-governor-hopefuls-pitch-mass-deportations-jail-threats/78866/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "My Policies - Victor Marx for Governor",
+      "url": "https://www.victor2026.com/my-policies",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Meet Victor - Victor Marx for Governor",
+      "url": "https://www.victor2026.com/meet-victor",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Kirkmeyer vs. Marx vs. Bottoms: Where GOP candidates stand on issues - The Colorado Sun",
+      "url": "https://coloradosun.com/2026/06/06/barbara-kirkmeyer-scott-bottoms-victor-marx-colorado-primary-election-gop-governor-issue-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "How Colorado's candidates for governor say they would address wolves, hunting, fishing and a rural divide - The Colorado Sun",
+      "url": "https://coloradosun.com/2026/06/24/colorado-governor-wolves-hunting-fishing-wildlife-issue-stances/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Where Phil Weiser and Victor Marx stand on the issues - The Colorado Sun",
+      "url": "https://coloradosun.com/2026/10/10/colorado-governor-phil-weiser-victor-marx-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado governor | Weiser, Marx and Lopez vie for top state seat - Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2026/10/02/colorado-governor-weiser-marx-and-lopez-vie-for-top-state-seat-4/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Republican Victor Marx taps George Markert as his lieutenant governor pick in Colorado's gubernatorial race - Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2026/07/31/republican-victor-marx-taps-george-markert-as-his-lieutenant-governor-pick-in-colorados-gubernatorial-race/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "victor2026.com",
+      "url": "https://www.victor2026.com",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged.",
-  "running_mate": {
-    "name": "George Washington Markert",
-    "summary": []
+  "research_notes": "Marx has never held elected office, so record is empty. No fetched source was found addressing keep-tabor-surplus (Proposition NN) by name, conservation-sales-tax (Proposition 137), public-lands (federal land sales), health-coverage, keep-tariffs, federal-budget-law (OBBBA), deportation-priority as distinct from state/ICE cooperation, challenge-federal-policies, plain-language-ballots, or redistricting-commission; these are left out of positions. The TRACER donor-filing irregularities reported by Colorado Times Recorder (flagged in the finance note) are worth double-checking against the Secretary of State's corrected filing before using the fundraising figure prominently.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 14,
+    "positions_unverifiable": 0,
+    "detail": {
+      "abortion-legal": "found",
+      "immigration-notify-ice": "found",
+      "housing-state-zoning": "found",
+      "clean-energy-shift": "found",
+      "natural-gas-right": "found",
+      "hunting-right": "found",
+      "mail-ballot-id": "found",
+      "income-tax-cap": "found",
+      "graduated-income-tax": "found",
+      "fentanyl-penalties": "found",
+      "stricter-gun-laws": "found",
+      "child-trafficking-life": "found",
+      "sports-biological-sex": "found",
+      "minor-gender-surgery-ban": "found"
+    }
   }
 }

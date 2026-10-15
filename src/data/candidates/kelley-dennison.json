@@ -37,6 +37,16 @@
       "date": "2026-06-11",
       "quote": "We need an immigration system that discourages entrenchment, strengthens border security and creates a lawful path to citizenship that makes following the legal process more worthwhile than taking the risk of entering illegally.",
       "note": "Explicitly combines stronger border security with a lawful path to citizenship, an explicitly mixed position rather than prioritizing deportation alone."
+    },
+    {
+      "statement": "public-lands",
+      "value": 3,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-2-candidate-qa/",
+      "source_title": "Colorado U.S. House District 2 candidate Q&A",
+      "date": "2026-10-03",
+      "quote": "its no harm no foul. On principal, I want to develop a more robust interaction between the federal government and it’s land, and our resource sector. Colorado deserves to be a rich state, we need minerals now more than we ever have. However, it is imperative we preserve the beauty of our state, all the wealth in the world isn’t worth living on a pile of ashes.",
+      "note": "Answering a question about opening federal land to oil and gas leasing, she says she has no objection to land swaps between private holders and the federal government and wants more mineral development, while also stressing preservation of the state's natural beauty; coded as an explicit middle position rather than a clear agree or disagree on land staying in federal hands."
     }
   ],
   "endorsements": [
@@ -66,24 +76,30 @@
       "accessed": "2026-10-14"
     },
     {
+      "title": "Colorado U.S. House District 2 candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-2-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
       "title": "kelleyforco.com",
       "url": "https://kelleyforco.com/",
       "accessed": "2026-10-14"
     },
     {
-      "title": "FEC candidate financial summary",
+      "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H6CO02206/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "First-time candidate with a thin public record. Her Ballotpedia Candidate Connection survey (bio and three campaign themes: economic affordability, environmental stewardship, pro-family policies) contains only general statements that don't map to specific statements without stretching (e.g., 'defending our beautiful mountains, rivers and forests' does not specifically address federal land sales or any ballot measure). Her campaign website (kelleyforco.com), including dedicated Second Amendment and Economic Affordability issue pages, is a JavaScript-rendered single-page app that returns no readable text content to curl or WebFetch; the issue pages exist but could not be read. She was also reported to have given interviews to Colorado Public Radio and Colorado Newsline, both of which are blocked to automated fetching per protocol. No prior public office, so 'record' is empty.",
+  "research_notes": "First-time candidate with a thin public record. Her Ballotpedia Candidate Connection survey (bio and three campaign themes: economic affordability, environmental stewardship, pro-family policies) contains only general statements that don't map to specific statements without stretching (e.g., 'defending our beautiful mountains, rivers and forests' does not specifically address federal land sales or any ballot measure). Her campaign website (kelleyforco.com) is a JavaScript-rendered single-page app (confirmed on second pass to be built on base44.com, not WordPress, so no wp-json endpoint exists either) that returns no readable text content to curl or WebFetch; the issue pages exist but could not be read. She was also reported to have given interviews to Colorado Public Radio and Colorado Newsline, both of which are blocked to automated fetching per protocol. No prior public office, so 'record' is empty. Second pass 2026-10-14: added public-lands from the Denver Post's Oct. 3, 2026 CD2 candidate Q&A.",
   "verification": {
-    "checked": "2026-10-15",
-    "positions_verified": 1,
+    "checked": "2026-10-14",
+    "positions_verified": 2,
     "positions_unverifiable": 0,
     "detail": {
-      "deportation-priority": "found"
+      "deportation-priority": "found",
+      "public-lands": "found"
     }
   }
 }

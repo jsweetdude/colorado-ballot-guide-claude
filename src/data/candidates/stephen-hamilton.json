@@ -6,28 +6,79 @@
   "incumbent": false,
   "profile": "short",
   "website": null,
+  "running_mate": {
+    "name": "James K Treibert",
+    "summary": [
+      {
+        "text": "James Treibert, Hamilton's running mate, holds a 2006 graduate degree from the University of Maryland and is also an independent candidate for President of the United States in the 2028 election, according to Ballotpedia.",
+        "source_url": "https://ballotpedia.org/James_Treibert"
+      }
+    ]
+  },
   "summary": [
     {
-      "text": "Stephen T. Hamilton is on the ballot for Governor and Lieutenant Governor as the American Constitution Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Stephen T. Hamilton is the American Constitution Party candidate for Colorado governor; no campaign website or prior political offices were found as of this research.",
+      "source_url": "https://theballotbrief.com/candidate/stephen-t-hamilton-co"
     }
   ],
   "experience": [],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "keep-tariffs",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Stephen_Hamilton",
+      "source_title": "Stephen Hamilton - Ballotpedia (Candidate Connection survey)",
+      "date": "2024-01-01",
+      "quote": "support President Donald J Trump with tariffs how the nation ran 150 some years and was superior",
+      "note": "From a Candidate Connection survey Ballotpedia says he completed in 2024; only the year is known, so 2024-01-01 is a placeholder. The survey response is a wide-ranging, often hard-to-parse statement about his candidacy; most of it does not map clearly onto any of the 25 statements, which is why only a couple of positions are coded here despite the length of the source document.",
+      "date_basis": "year"
+    },
+    {
+      "statement": "keep-mail-voting",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Stephen_Hamilton",
+      "source_title": "Stephen Hamilton - Ballotpedia (Candidate Connection survey)",
+      "date": "2024-01-01",
+      "quote": "no more unsecure ballot box drop offs , and when it comes to our elections we need to go back to the founding father's policies",
+      "note": "Calls for ending ballot drop boxes as part of a broader call to change the state's election process."
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Stephen Hamilton - Ballotpedia",
+      "url": "https://ballotpedia.org/Stephen_Hamilton",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Stephen T. Hamilton 2026: Governor - The Ballot Brief",
+      "url": "https://theballotbrief.com/candidate/stephen-t-hamilton-co",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Voter Guide Profile for CO Governor candidate - Stephen T. Hamilton - iVoterGuide",
+      "url": "https://ivoterguide.com/candidate/95522/race/32766/election/1475",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "James Treibert - Ballotpedia",
+      "url": "https://ballotpedia.org/James_Treibert",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged.",
-  "running_mate": {
-    "name": "James K Treibert",
-    "summary": []
+  "research_notes": "No campaign website, prior offices, or 2026-specific news coverage could be found for Hamilton; he did not answer any question on his iVoterGuide questionnaire. The only substantive material located is a rambling 2024 Ballotpedia Candidate Connection survey response (note: Ballotpedia lists it as his 2024 submission, though he is the certified 2026 governor candidate); most of its content does not state a clear, codeable position on any of the 25 statements, so this profile is thin by necessity rather than by shortcut. A reviewer should double-check whether a more recent statement from him exists before publication.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 2,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-tariffs": "found",
+      "keep-mail-voting": "found"
+    }
   }
 }
