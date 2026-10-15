@@ -47,16 +47,6 @@
       "note": "Listed as one of his top three priorities; his campaign site elaborates that he supports repealing ACA mandates and relying on free-market competition instead of expanded government coverage."
     },
     {
-      "statement": "fentanyl-penalties",
-      "value": 1,
-      "source_type": "direct_statement",
-      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-7-candidate-qa/",
-      "source_title": "Colorado U.S. House District 7 candidate Q&A - The Denver Post",
-      "date": "2026-10-03",
-      "quote": "Criminal Justice Reform through decriminalizing victimless crimes & reducing the prison population to about 25% of where it is today.",
-      "note": "His campaign site's Drug Policy section further states the War on Drugs 'has been a catastrophic failure' and calls for treating addiction as a health issue, not a criminal one."
-    },
-    {
       "statement": "clean-energy-shift",
       "value": 2,
       "source_type": "direct_statement",
@@ -85,17 +75,6 @@
       "date": "2026-10-14",
       "quote": "Dan will oppose any federal gun registration, red flag laws, or magazine capacity restrictions.",
       "note": "Campaign site page is undated; date given is the access date.",
-      "date_basis": "accessed"
-    },
-    {
-      "statement": "abortion-legal",
-      "value": 4,
-      "source_type": "inferred",
-      "source_url": "https://dankilo.com",
-      "source_title": "Home - Dan Kilo for Congress",
-      "date": "2026-10-14",
-      "quote": "Individual Liberty: Your life, your choices. Government should stay out of your personal decisions.",
-      "note": "Inferred: this is a general statement of his 'individual liberty' principle, not a statement naming abortion specifically. Campaign site page is undated; date given is the access date.",
       "date_basis": "accessed"
     }
   ],
@@ -134,7 +113,7 @@
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Sallis's Ballotpedia page is a stub with no Candidate Connection survey. He is one of only two CD-7 candidates (with Pettersen) who answered the Denver Post's 2026 candidate questionnaire, which gave strong, dated material. His own campaign site (dankilo.com) elaborates on several of the same positions in more detail but carries no page dates, so those citations use the access date. No sourced position found on abortion beyond the inferred one above, nor on the Colorado ballot measures (Amendments 81-87, Propositions 132-137) despite checking his site's Issues page, which does not mention them by name.",
+  "research_notes": "Sallis's Ballotpedia page is a stub with no Candidate Connection survey. He is one of only two CD-7 candidates (with Pettersen) who answered the Denver Post's 2026 candidate questionnaire, which gave strong, dated material. His own campaign site (dankilo.com) elaborates on several of the same positions in more detail but carries no page dates, so those citations use the access date. No sourced position found on abortion beyond the inferred one above, nor on the Colorado ballot measures (Amendments 81-87, Propositions 132-137) despite checking his site's Issues page, which does not mention them by name. Build review 2026-10-14: removed inferred position(s) on fentanyl-penalties, abortion-legal; the source states a general principle and does not name that policy area.",
   "verification": {
     "checked": "2026-10-14",
     "positions_verified": 6,

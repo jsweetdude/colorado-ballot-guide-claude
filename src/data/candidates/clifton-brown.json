@@ -27,18 +27,7 @@
     }
   ],
   "record": [],
-  "positions": [
-    {
-      "statement": "public-lands",
-      "value": 4,
-      "source_type": "inferred",
-      "source_url": "https://ballotpedia.org/Clifton_Brown",
-      "source_title": "Clifton Brown (Ballotpedia), 2026 Candidate Connection survey",
-      "date": "2026-07-25",
-      "quote": "Alaska contains one of the largest old growth forests on the planet and is now being threatened by the trump administration and dirty thieves that support him.",
-      "note": "Statement concerns protecting the Tongass-area old-growth forest from the current administration's development/logging policy rather than explicitly addressing sale or transfer of federal land; inferred opposition to land sales given his stated concern for protecting federal land from exploitation."
-    }
-  ],
+  "positions": [],
   "endorsements": [],
   "finance": null,
   "sources": [
@@ -54,7 +43,7 @@
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Brown's Ballotpedia survey and campaign site (ruhero.com) describe a platform of ending gerrymandering by abolishing congressional districts entirely, banning PAC/corporate money and outside income for officeholders, capping interest rates at 12%, a 32-hour workweek, and cutting military spending/closing foreign bases. None of these map cleanly onto the 25 statements without stretching (his redistricting position is about eliminating districts outright, not about Colorado's independent commission versus mid-decade redraws, so it was not coded against the redistricting-commission statement). No position found on abortion, guns, immigration enforcement, taxes, or any Colorado ballot measure specifically.",
+  "research_notes": "Brown's Ballotpedia survey and campaign site (ruhero.com) describe a platform of ending gerrymandering by abolishing congressional districts entirely, banning PAC/corporate money and outside income for officeholders, capping interest rates at 12%, a 32-hour workweek, and cutting military spending/closing foreign bases. None of these map cleanly onto the 25 statements without stretching (his redistricting position is about eliminating districts outright, not about Colorado's independent commission versus mid-decade redraws, so it was not coded against the redistricting-commission statement). No position found on abortion, guns, immigration enforcement, taxes, or any Colorado ballot measure specifically. Build review 2026-10-14: removed inferred position(s) on public-lands; the source states a general principle and does not name that policy area.",
   "verification": {
     "checked": "2026-10-14",
     "positions_verified": 1,

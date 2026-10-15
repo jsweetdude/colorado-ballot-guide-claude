@@ -29,16 +29,6 @@
   "record": [],
   "positions": [
     {
-      "statement": "fentanyl-penalties",
-      "value": 2,
-      "source_type": "inferred",
-      "source_url": "https://liberty4the1st.com/",
-      "source_title": "Chad Humphrey for Congress (campaign site)",
-      "date": "2026-10-14",
-      "quote": "From your marijuana to your phone to your bank account, the government needs to stay out of your business.",
-      "note": "Inferred, coded no stronger than 2, from his general personal-liberty opposition to government involvement in drug matters; he does not address fentanyl trafficking penalties or Proposition 132 specifically. Date reflects when this session fetched his campaign site; the page is undated."
-    },
-    {
       "statement": "keep-tariffs",
       "value": 1,
       "source_type": "questionnaire",
@@ -88,7 +78,7 @@
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "His Ballotpedia survey and campaign site focus on abolishing the IRS and Federal Reserve and ending foreign wars, which do not map directly to any of the 25 statements. The Denver Post's Oct. 3, 2026 candidate Q&A supplied clearer, better-sourced positions on tariffs, public lands and immigration enforcement.",
+  "research_notes": "His Ballotpedia survey and campaign site focus on abolishing the IRS and Federal Reserve and ending foreign wars, which do not map directly to any of the 25 statements. The Denver Post's Oct. 3, 2026 candidate Q&A supplied clearer, better-sourced positions on tariffs, public lands and immigration enforcement. Build review 2026-10-14: removed inferred position(s) on fentanyl-penalties; the source states a general principle and does not name that policy area.",
   "verification": {
     "checked": "2026-10-14",
     "positions_verified": 4,
