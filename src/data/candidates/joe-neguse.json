@@ -5,25 +5,271 @@
   "party": "Democratic Party",
   "incumbent": true,
   "profile": "full",
-  "website": null,
+  "website": "https://joeforcolorado.com",
   "summary": [
     {
-      "text": "Joe Neguse is on the ballot for U.S. House, District 2 as the Democratic Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Joe Neguse is the incumbent U.S. Representative for Colorado's 2nd Congressional District, first elected in 2018.",
+      "source_url": "https://ballotpedia.org/Joe_Neguse"
+    },
+    {
+      "text": "He earned a bachelor's degree and a law degree from the University of Colorado, co-founded the voter-engagement group New Era Colorado, served on the University of Colorado Board of Regents from 2008 to 2014, and was executive director of the Colorado Department of Regulatory Agencies from 2015 to 2017.",
+      "source_url": "https://ballotpedia.org/Joe_Neguse"
+    },
+    {
+      "text": "House Democrats elected him assistant leader for the 119th Congress on November 19, 2024.",
+      "source_url": "https://ballotpedia.org/Joe_Neguse"
     }
   ],
-  "experience": [],
-  "record": [],
-  "positions": [],
-  "endorsements": [],
-  "finance": null,
+  "experience": [
+    {
+      "text": "University of Colorado Board of Regents, 2008-2014",
+      "source_url": "https://ballotpedia.org/Joe_Neguse"
+    },
+    {
+      "text": "Executive director, Colorado Department of Regulatory Agencies, 2015-2017",
+      "source_url": "https://ballotpedia.org/Joe_Neguse"
+    },
+    {
+      "text": "U.S. House, Colorado's 2nd Congressional District, January 2019-present",
+      "source_url": "https://ballotpedia.org/Joe_Neguse"
+    },
+    {
+      "text": "House Democratic assistant leader, 119th Congress, elected November 19, 2024",
+      "source_url": "https://ballotpedia.org/Joe_Neguse"
+    },
+    {
+      "text": "Member, House Natural Resources Committee and House Judiciary Committee, 119th Congress",
+      "source_url": "https://ballotpedia.org/Joe_Neguse"
+    }
+  ],
+  "record": [
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 1, One Big Beautiful Bill Act, motion to concur in Senate amendment (Roll Call 190)",
+      "date": "2025-07-03",
+      "detail": "Voted No. Passed 218-214 and signed into law July 4, 2025.",
+      "source_url": "https://clerk.house.gov/Votes/2025190"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "S. 5, Laken Riley Act, passage (Roll Call 23)",
+      "date": "2025-01-22",
+      "detail": "Voted Nay. Passed 263-156.",
+      "source_url": "https://clerk.house.gov/Votes/2025023"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 28, Protection of Women and Girls in Sports Act, passage (Roll Call 12)",
+      "date": "2025-01-14",
+      "detail": "Voted Nay. Passed 218-206.",
+      "source_url": "https://clerk.house.gov/Votes/2025012"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.J.Res. 72, terminating the national emergency underlying tariffs on Canada (Roll Call 65)",
+      "date": "2026-02-11",
+      "detail": "Voted Yea. Passed 219-211.",
+      "source_url": "https://clerk.house.gov/Votes/202665"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 5376, Inflation Reduction Act, motion to concur in Senate amendment (Roll Call 420, 117th Congress)",
+      "date": "2022-08-12",
+      "detail": "Voted Yea. Passed 220-207; signed into law August 16, 2022.",
+      "source_url": "https://clerk.house.gov/Votes/2022420"
+    },
+    {
+      "kind": "decision",
+      "title": "Joint statement with Rep. Jeff Hurd on removal of public lands sell-off from the 2025 budget reconciliation bill",
+      "date": "2025-06-25",
+      "detail": "Issued a joint statement with Rep. Hurd after the Senate parliamentarian removed public-lands-sale provisions from the reconciliation bill, after the two worked to strip a related land-sale amendment from the House-passed text.",
+      "source_url": "https://hurd.house.gov/media/press-releases/colorado-representatives-jeff-hurd-and-joe-neguse-statement-removal-public"
+    }
+  ],
+  "positions": [
+    {
+      "statement": "federal-budget-law",
+      "value": 2,
+      "source_type": "recorded_vote",
+      "source_url": "https://clerk.house.gov/Votes/2025190",
+      "source_title": "Roll Call 190, H.R. 1 (One Big Beautiful Bill Act), motion to concur in Senate amendment",
+      "date": "2025-07-03",
+      "quote": "Representative Neguse of Democratic from Colorado Voted No",
+      "note": "Voted against final passage of the One Big Beautiful Bill Act."
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 2,
+      "source_type": "recorded_vote",
+      "source_url": "https://clerk.house.gov/Votes/2025023",
+      "source_title": "Roll Call 23, S. 5 (Laken Riley Act), passage",
+      "date": "2025-01-22",
+      "quote": "Representative Neguse of Democratic from Colorado Voted Nay",
+      "note": "Voted against the Laken Riley Act, which expanded mandatory detention of certain noncitizens and enforcement-related authorities."
+    },
+    {
+      "statement": "sports-biological-sex",
+      "value": 2,
+      "source_type": "recorded_vote",
+      "source_url": "https://clerk.house.gov/Votes/2025012",
+      "source_title": "Roll Call 12, H.R. 28 (Protection of Women and Girls in Sports Act), passage",
+      "date": "2025-01-14",
+      "quote": "Representative Neguse of Democratic from Colorado Voted Nay",
+      "note": "Voted against the bill barring transgender girls and women from female school sports teams."
+    },
+    {
+      "statement": "keep-tariffs",
+      "value": 2,
+      "source_type": "recorded_vote",
+      "source_url": "https://clerk.house.gov/Votes/202665",
+      "source_title": "Roll Call 65, H.J.Res. 72, terminating the national emergency underlying tariffs on Canada",
+      "date": "2026-02-11",
+      "quote": "Representative Neguse of Democratic from Colorado Voted Yea",
+      "note": "Voting Yea ended the tariff emergency declaration, i.e. against keeping the tariffs."
+    },
+    {
+      "statement": "public-lands",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://hurd.house.gov/media/press-releases/colorado-representatives-jeff-hurd-and-joe-neguse-statement-removal-public",
+      "source_title": "Colorado Representatives Jeff Hurd and Joe Neguse Statement on Removal of Public Lands Sell Off from Budget Reconciliation Bill",
+      "date": "2025-06-25",
+      "quote": "Republican or Democrat—representing red, purple, or blue districts—one sentiment continues to ring true: public lands are not for sale.",
+      "note": "Joint statement with Rep. Jeff Hurd; the two also worked to strip a House-passed land-sale amendment."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 4,
+      "source_type": "recorded_vote",
+      "source_url": "https://clerk.house.gov/Votes/2022420",
+      "source_title": "Roll Call 420 (117th Congress), H.R. 5376 (Inflation Reduction Act), motion to concur in Senate amendment",
+      "date": "2022-08-12",
+      "quote": "Representative Neguse of Democratic from Colorado Voted Yea",
+      "note": "The Inflation Reduction Act included roughly $369 billion for climate and clean-energy programs per Ballotpedia's summary of the bill."
+    },
+    {
+      "statement": "fentanyl-penalties",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Joe_Neguse",
+      "source_title": "Joe Neguse (Ballotpedia), notable ballot measure endorsements",
+      "date": "2026-10-14",
+      "quote": "Colorado Proposition 132, Penalties for Fentanyl Sale and Possession Initiative (2026) source Oppose On the ballot",
+      "note": "Ballotpedia lists Neguse as opposing Proposition 132; exact date he took this position is not stated on the fetched page (date shown is the research access date). Confirmed separately on the Vote No on 132 coalition page (noon132.com/coalition), which lists 'Congressman Joe Neguse.'"
+    },
+    {
+      "statement": "abortion-legal",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Joe_Neguse",
+      "source_title": "Joe Neguse (Ballotpedia), notable ballot measure endorsements",
+      "date": "2026-10-14",
+      "quote": "Colorado Amendment 79, Right to Abortion and Health Insurance Coverage Initiative (2024) source Support Approved",
+      "note": "Ballotpedia lists Neguse as supporting Amendment 79 (2024); exact date he took this position is not stated on the fetched page (date shown is the research access date). Confirmed separately on coloradansforreproductivefreedom.com/our-coalition/, which lists 'US Representative Joe Neguse CD2.'"
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 4,
+      "source_type": "recorded_vote",
+      "source_url": "https://ballotpedia.org/Joe_Neguse",
+      "source_title": "Joe Neguse (Ballotpedia), key votes: 117th Congress",
+      "date": "2022-06-25",
+      "quote": "Yea Bipartisan Safer Communities Act The Bipartisan Safer Communities Act (S. 2938) was a firearm regulation and mental health bill passed by the 117th Congress and signed into law by President Joe Biden (D) on June 25, 2022.",
+      "note": "Date given is the bill's enactment date as stated on the fetched page; the exact House floor vote date is not separately given there. Bill expanded background checks and funded crisis-intervention programs."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "National Education Association",
+      "source_url": "https://ballotpedia.org/Joe_Neguse"
+    },
+    {
+      "name": "Progressive Democrats of America",
+      "source_url": "https://ballotpedia.org/Joe_Neguse"
+    }
+  ],
+  "finance": {
+    "raised": 2742281,
+    "spent": 1640260,
+    "cash_on_hand": 3092918,
+    "as_of": "2026-06-30",
+    "source_url": "https://www.fec.gov/data/candidate/H8CO02160/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-06-30)."
+  },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Joe Neguse (Ballotpedia)",
+      "url": "https://ballotpedia.org/Joe_Neguse",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 190, H.R. 1 (119th Congress)",
+      "url": "https://clerk.house.gov/Votes/2025190",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 23, S. 5 (119th Congress)",
+      "url": "https://clerk.house.gov/Votes/2025023",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 12, H.R. 28 (119th Congress)",
+      "url": "https://clerk.house.gov/Votes/2025012",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 65, H.J.Res. 72 (119th Congress, 2026)",
+      "url": "https://clerk.house.gov/Votes/202665",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 420, H.R. 5376 (117th Congress)",
+      "url": "https://clerk.house.gov/Votes/2022420",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Representatives Jeff Hurd and Joe Neguse Statement on Removal of Public Lands Sell Off from Budget Reconciliation Bill",
+      "url": "https://hurd.house.gov/media/press-releases/colorado-representatives-jeff-hurd-and-joe-neguse-statement-removal-public",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Vote No on 132 Coalition",
+      "url": "https://noon132.com/coalition",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Coloradans for Reproductive Freedom, Our Coalition",
+      "url": "https://coloradansforreproductivefreedom.com/our-coalition/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "joeforcolorado.com",
+      "url": "https://joeforcolorado.com",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "FEC candidate financial summary",
+      "url": "https://www.fec.gov/data/candidate/H8CO02160/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Most Colorado-specific ballot-measure statements (graduated income tax, TABOR surplus, conservation sales tax, natural gas right, zoning preemption, mail-ballot ID, plain-language ballots, redistricting commission, mail voting, minor gender-surgery ban, child-trafficking penalties, hunting right, immigration-notify-ICE) returned no sourceable statement from Neguse as a federal officeholder and are left uncoded rather than inferred from party or general ideology. Exact calendar dates for his positions on Proposition 132 and Amendment 79 are not stated on the fetched Ballotpedia page; flagged in each record's note. congress.gov and govtrack.us, which Ballotpedia cites for several roll-call numbers, are blocked to automated fetching per protocol, so roll-call numbers for additional historical votes (e.g., Assault Weapons Ban of 2022 exact date) could not be independently confirmed beyond what Ballotpedia's own page states; the gun-law record date is flagged as the bill's enactment date rather than a confirmed floor-vote date.",
+  "verification": {
+    "checked": "2026-10-15",
+    "positions_verified": 9,
+    "positions_unverifiable": 0,
+    "detail": {
+      "federal-budget-law": "found",
+      "deportation-priority": "found",
+      "sports-biological-sex": "found",
+      "keep-tariffs": "found",
+      "public-lands": "found",
+      "clean-energy-shift": "found",
+      "fentanyl-penalties": "found",
+      "abortion-legal": "found",
+      "stricter-gun-laws": "found"
+    }
+  }
 }

@@ -5,25 +5,71 @@
   "party": "Unaffiliated",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://www.wittaforcongress.com/",
   "summary": [
     {
-      "text": "Samir Ezzeldin Witta is on the ballot for U.S. House, District 6 as an unaffiliated candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Samir Witta is an independent (unaffiliated) candidate for Colorado's 6th Congressional District and a practicing oncologist in Colorado for 25 years, who built his own clinic.",
+      "source_url": "https://ballotpedia.org/Samir_Witta"
+    },
+    {
+      "text": "He immigrated to the United States and holds an M.D. from Charles University (1990), a Ph.D. from the National Institutes of Health (1995), and completed further study at the University of Colorado (2004).",
+      "source_url": "https://ballotpedia.org/Samir_Witta"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Practicing oncologist in Colorado for 25 years; founded nonprofits to help cover cancer patients' insurance premiums and deductibles.",
+      "source_url": "https://ballotpedia.org/Samir_Witta"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "health-coverage",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Samir_Witta",
+      "source_title": "Samir Witta - Ballotpedia (Candidate Connection survey)",
+      "date": "2026-10-14",
+      "quote": "Reform healthcare. Cap out-of-pocket deductibles at $2,000, and require drug prices to reflect real science and the prices paid in the rest of the world — so no family has to choose between their health and their rent.",
+      "note": "Proposes capping patient costs and regulating drug prices rather than a specific coverage-expansion program; coded as agreeing with more government action on healthcare costs. Exact survey submission date not shown on the page, so dated to page access date."
+    }
+  ],
   "endorsements": [],
-  "finance": null,
+  "finance": {
+    "raised": 103438,
+    "spent": 150687,
+    "cash_on_hand": -47149,
+    "as_of": "2026-09-30",
+    "source_url": "https://www.fec.gov/data/candidate/H6CO06116/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-09-30)."
+  },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Samir Witta - Ballotpedia",
+      "url": "https://ballotpedia.org/Samir_Witta",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "wittaforcongress.com",
+      "url": "https://www.wittaforcongress.com/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "fec.gov",
+      "url": "https://www.fec.gov/data/candidate/H6CO06116/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "His campaign website (wittaforcongress.com) is a JavaScript-rendered site that did not return readable issue text via a plain fetch; relied on his Ballotpedia Candidate Connection survey instead, which focuses heavily on health care costs, housing affordability (rent/HOA caps), and reducing the influence of donor money, none of which besides health-coverage maps cleanly to the 25 statements. No statements found on abortion, guns, immigration, tariffs, energy, or the Colorado ballot measures. No endorsements listed on Ballotpedia. Campaign finance is available from Ballotpedia/FEC data ($103,438 raised, $150,687 spent for the 2026 cycle) but left null per the federal-candidate finance rule.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 1,
+    "positions_unverifiable": 0,
+    "detail": {
+      "health-coverage": "found"
+    }
+  }
 }

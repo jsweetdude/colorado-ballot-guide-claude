@@ -5,25 +5,48 @@
   "party": "Libertarian Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://www.mcmahonforcongress.com",
   "summary": [
     {
-      "text": "Patty McMahon is on the ballot for U.S. House, District 6 as the Libertarian Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Patty McMahon is the Libertarian nominee for Colorado's 6th Congressional District.",
+      "source_url": "https://www.mcmahonforcongress.com/on-the-issues"
+    },
+    {
+      "text": "She spent over three decades at the U.S. Equal Employment Opportunity Commission, including as Denver's Outreach & Education Coordinator and congressional liaison, and holds a bachelor's degree from Metropolitan State University of Denver (1989).",
+      "source_url": "https://ballotpedia.org/Patty_McMahon"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "U.S. Equal Employment Opportunity Commission, investigator and later Denver Outreach & Education Coordinator and congressional liaison, roughly 30 years.",
+      "source_url": "https://ballotpedia.org/Patty_McMahon"
+    },
+    {
+      "text": "Region VIII lead for the White House Initiative on Asian Americans, Native Hawaiians, and Pacific Islanders.",
+      "source_url": "https://ballotpedia.org/Patty_McMahon"
+    }
+  ],
   "record": [],
   "positions": [],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Patty McMahon - Ballotpedia",
+      "url": "https://ballotpedia.org/Patty_McMahon",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Patty McMahon on the Issues",
+      "url": "https://www.mcmahonforcongress.com/on-the-issues",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "mcmahonforcongress.com",
+      "url": "https://www.mcmahonforcongress.com",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Her Candidate Connection survey and campaign site both focus on separation of powers, civil liberties, opposing unnecessary war, a proposed TRUST Act on federal spending transparency, congressional spending oversight, and a national online-education proposal (O.P.E.N. America). None of these addresses any of the 25 statements with her own words on abortion, guns, immigration, tariffs, energy, taxes, or the Colorado ballot measures, so no positions were coded rather than inferring from her general philosophy. No campaign finance data available from the FEC as of the page's last update, and no endorsements listed on Ballotpedia."
 }

@@ -5,25 +5,72 @@
   "party": "Republican Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://paulmuellerforco.com/",
   "summary": [
     {
-      "text": "Paul Mueller is on the ballot for CU Board of Regents, District 7 as the Republican Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Paul Mueller is an economist, author, and small-business owner in Leadville, Colorado. He is a Senior Research Fellow at the American Institute for Economic Research.",
+      "source_url": "https://paulmuellerforco.com/"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Ph.D. in economics, George Mason University; previously taught at The King's College in New York City.",
+      "source_url": "https://paulmuellerforco.com/"
+    },
+    {
+      "text": "Senior Research Fellow and director of the Defending Freedom and Combating Collectivism initiative at the American Institute for Economic Research.",
+      "source_url": "https://paulmuellerforco.com/"
+    },
+    {
+      "text": "Owner and operator of The Abbey, a bed and breakfast in Leadville, Colorado.",
+      "source_url": "https://paulmuellerforco.com/"
+    }
+  ],
+  "education_focus": [
+    {
+      "text": "Mueller says he would bring 'real budget scrutiny' to the CU System's finances and make sure public funds 'are spent wisely and transparently.'",
+      "source_url": "https://paulmuellerforco.com/"
+    },
+    {
+      "text": "He says he would protect 'the academic freedom faculty need to teach and research,' paired with what he describes as a campus climate of 'mutual respect and decorum.'",
+      "source_url": "https://paulmuellerforco.com/"
+    },
+    {
+      "text": "He says he would steward tuition and resources so that 'a CU degree remains a sound investment for Colorado students and families.'",
+      "source_url": "https://paulmuellerforco.com/"
+    }
+  ],
   "record": [],
   "positions": [],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "CU Board of Regents candidates answer questions on tuition, AI and federal oversight",
+      "url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Voter guide: CU Board of Regents candidates on tuition, AI, and federal oversight",
+      "url": "https://www.chalkbeat.org/colorado/2026/10/05/university-of-colorado-cu-board-of-regents-2026-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Paul Mueller for CU Regent",
+      "url": "https://paulmuellerforco.com/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Paul Mueller - Ballotpedia",
+      "url": "https://ballotpedia.org/Paul_Mueller",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "2026 University of Colorado Board of Regents election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_University_of_Colorado_Board_of_Regents_election",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Mueller did not respond to Chalkbeat's 2026 candidate questionnaire; this profile relies on his campaign website instead. No Ballotpedia Candidate Connection survey on file."
 }

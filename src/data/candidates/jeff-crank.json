@@ -5,25 +5,258 @@
   "party": "Republican Party",
   "incumbent": true,
   "profile": "full",
-  "website": null,
+  "website": "https://crank.house.gov",
   "summary": [
     {
-      "text": "Jeff Crank is on the ballot for U.S. House, District 5 as the Republican Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Jeff Crank is the incumbent U.S. Representative for Colorado's 5th Congressional District, seeking a second term.",
+      "source_url": "https://ballotpedia.org/Jeff_Crank"
+    },
+    {
+      "text": "He was born in Pueblo, Colorado, in 1967 and earned a bachelor's degree in political science from Colorado State University in 1990.",
+      "source_url": "https://ballotpedia.org/Jeff_Crank"
+    },
+    {
+      "text": "His career includes serving as a staffer for former Rep. Joel Hefley, running a political consulting firm, hosting a talk radio show in Colorado Springs, and serving as Colorado state director for Americans for Prosperity.",
+      "source_url": "https://ballotpedia.org/Jeff_Crank"
     }
   ],
-  "experience": [],
-  "record": [],
-  "positions": [],
-  "endorsements": [],
-  "finance": null,
+  "experience": [
+    {
+      "text": "U.S. House of Representatives, Colorado's 5th District, 2025-present.",
+      "source_url": "https://ballotpedia.org/Jeff_Crank"
+    },
+    {
+      "text": "Member, House Committee on Natural Resources (Subcommittee on Energy and Mineral Resources; Subcommittee on Water, Wildlife and Fisheries), appointed January 22, 2025.",
+      "source_url": "https://pikespeakbulletin.org/?p=20524"
+    },
+    {
+      "text": "Staffer for Rep. Joel Hefley; Colorado state director, Americans for Prosperity; radio talk show host, Colorado Springs.",
+      "source_url": "https://ballotpedia.org/Jeff_Crank"
+    }
+  ],
+  "record": [
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 1, One Big Beautiful Bill Act, motion to concur in Senate amendment (final passage)",
+      "date": "2025-07-03",
+      "detail": "Voted Aye. Passed 218-214.",
+      "source_url": "https://clerk.house.gov/Votes/2025190"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "S. 5, Laken Riley Act, passage",
+      "date": "2025-01-22",
+      "detail": "Voted Yea. Passed 263-156.",
+      "source_url": "https://clerk.house.gov/Votes/2025023"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 28, Protection of Women and Girls in Sports Act of 2025, passage",
+      "date": "2025-01-14",
+      "detail": "Voted Yea. Passed 218-206.",
+      "source_url": "https://clerk.house.gov/Votes/2025012"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.J.Res. 72, disapproving the national emergency used to impose tariffs on Canada",
+      "date": "2026-02-11",
+      "detail": "Voted Nay (against ending the tariff emergency). Passed 219-211 over his opposition.",
+      "source_url": "https://clerk.house.gov/Votes/202665"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "Amodei/Maloy amendment mandating sale of public lands in Nevada and Utah (House Natural Resources Committee markup of reconciliation bill)",
+      "date": "2025-05-06",
+      "detail": "Voted Yea. He also voted Nay on a competing Neguse amendment that would have prohibited the land sales.",
+      "source_url": "https://pikespeakbulletin.org/?p=20524"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "S. 2, funding ICE and CBP through 2029",
+      "date": "2026-06-09",
+      "detail": "Voted Yea.",
+      "source_url": "https://pikespeakbulletin.org/?p=20524"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 22, SAVE Act (proof-of-citizenship voter registration requirement), passage",
+      "date": "2025-04-10",
+      "detail": "Voted Yea.",
+      "source_url": "https://pikespeakbulletin.org/?p=20524"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "Public Lands Access Restoration Act (PLARA), H.R. 7979",
+      "date": "2026-01-01",
+      "detail": "Sponsored legislation to expand motorized-vehicle access to public lands; still in subcommittee as of mid-2026.",
+      "source_url": "https://pikespeakbulletin.org/?p=20524"
+    }
+  ],
+  "positions": [
+    {
+      "statement": "federal-budget-law",
+      "value": 4,
+      "source_type": "recorded_vote",
+      "source_url": "https://clerk.house.gov/Votes/2025190",
+      "source_title": "Roll Call 190 | Bill Number: H. R. 1",
+      "date": "2025-07-03",
+      "quote": "Representative Crank of Republican from Colorado Voted Aye",
+      "note": "He also touted his Yea vote in a Gazette editorial, per Pikes Peak Bulletin's summary of his record."
+    },
+    {
+      "statement": "keep-tariffs",
+      "value": 4,
+      "source_type": "recorded_vote",
+      "source_url": "https://clerk.house.gov/Votes/202665",
+      "source_title": "Roll Call 65 | Bill Number: H. J. Res. 72",
+      "date": "2026-02-11",
+      "quote": "Representative Crank of Republican from Colorado Voted Nay",
+      "note": "Voted against ending the Canada tariff emergency; Pikes Peak Bulletin reports he voted the same way on three related procedural tariff votes (H.Res. 211, 313, 707) in February 2026, despite opposing tariffs generally in a 2024 interview."
+    },
+    {
+      "statement": "sports-biological-sex",
+      "value": 4,
+      "source_type": "recorded_vote",
+      "source_url": "https://clerk.house.gov/Votes/2025012",
+      "source_title": "Roll Call 12 | Bill Number: H. R. 28",
+      "date": "2025-01-14",
+      "quote": "Representative Crank of Republican from Colorado Voted Yea",
+      "note": "H.R. 28 would bar athletes whose sex was male from women's and girls' school sports programs."
+    },
+    {
+      "statement": "public-lands",
+      "value": 2,
+      "source_type": "recorded_vote",
+      "source_url": "https://pikespeakbulletin.org/?p=20524",
+      "source_title": "Rep. Jeff Crank's first term voting record highlights",
+      "date": "2025-05-06",
+      "quote": "Amodei/Maloy introduced amendment mandating the selling of public lands, heard by the House Natural Resources Committee – May 6, 2025 Crank voted ‘Yea.’ Neguse introduced amendment to prohibit selling of public lands...Crank voted ‘Nay.’",
+      "note": "Contradicts a stated position: the same article reports Crank told Colorado Public Radio in June 2025 that he opposed selling public lands. Votes are weighted above statements per protocol; flagged for review."
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 4,
+      "source_type": "recorded_vote",
+      "source_url": "https://pikespeakbulletin.org/?p=20524",
+      "source_title": "Rep. Jeff Crank's first term voting record highlights",
+      "date": "2026-06-09",
+      "quote": "Funding ICE and CBP through 2029 S. 2 – June 9, 2026 Crank voted ‘Yea.’",
+      "note": "Multi-year funding for immigration enforcement agencies."
+    },
+    {
+      "statement": "mail-ballot-id",
+      "value": 4,
+      "source_type": "recorded_vote",
+      "source_url": "https://pikespeakbulletin.org/?p=20524",
+      "source_title": "Rep. Jeff Crank's first term voting record highlights",
+      "date": "2025-04-10",
+      "quote": "SAVE America Act H.R. 22 & S. 1383 – April 10, 2025 & February 11, 2026 Crank voted ‘Yea’ both times.",
+      "note": "General proof-of-citizenship voter ID requirement; does not mention mail ballots specifically, so coded as inferred support capped at 4."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Jeff_Crank",
+      "source_title": "Jeff Crank (Ballotpedia, quoting his 2024 campaign website)",
+      "date": "2024-01-01",
+      "quote": "As a lifelong Second Amendment supporter and gun owner and a proud pro-life advocate, I know the importance of a strong conservative voice on these issues.",
+      "note": "Date is approximate (text dated to the 2024 campaign cycle on Ballotpedia); month/day unknown."
+    },
+    {
+      "statement": "abortion-legal",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Jeff_Crank",
+      "source_title": "Jeff Crank (Ballotpedia, quoting his 2024 campaign website)",
+      "date": "2024-01-01",
+      "quote": "As a lifelong Second Amendment supporter and gun owner and a proud pro-life advocate, I know the importance of a strong conservative voice on these issues.",
+      "note": "Date is approximate (text dated to the 2024 campaign cycle on Ballotpedia); month/day unknown."
+    },
+    {
+      "statement": "fentanyl-penalties",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://ballotpedia.org/Jeff_Crank",
+      "source_title": "Jeff Crank (Ballotpedia, quoting his 2024 campaign website)",
+      "date": "2024-01-01",
+      "quote": "With our communities ravaged by fentanyl, not securing our border, will only result in more deaths.",
+      "note": "Statement is about border security and fentanyl flow, not sentencing law directly; inferred support for tougher fentanyl enforcement, capped at 4."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "Donald Trump",
+      "source_url": "https://ballotpedia.org/Jeff_Crank"
+    }
+  ],
+  "finance": {
+    "raised": 2177288,
+    "spent": 778793,
+    "cash_on_hand": 1465048,
+    "as_of": "2026-06-30",
+    "source_url": "https://www.fec.gov/data/candidate/H6CO05142/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-06-30)."
+  },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Roll Call 190 | Bill Number: H. R. 1",
+      "url": "https://clerk.house.gov/Votes/2025190",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 23 | Bill Number: S. 5",
+      "url": "https://clerk.house.gov/Votes/2025023",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 12 | Bill Number: H. R. 28",
+      "url": "https://clerk.house.gov/Votes/2025012",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 65 | Bill Number: H. J. Res. 72",
+      "url": "https://clerk.house.gov/Votes/202665",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Jeff Crank",
+      "url": "https://ballotpedia.org/Jeff_Crank",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Rep. Jeff Crank's first term voting record highlights",
+      "url": "https://pikespeakbulletin.org/?p=20524",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "crank.house.gov",
+      "url": "https://crank.house.gov",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "FEC candidate financial summary",
+      "url": "https://www.fec.gov/data/candidate/H6CO05142/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Crank's public-lands record is contradictory: he voted for the May 2025 committee amendment to mandate public land sales and against the competing amendment to block sales, but separately told Colorado Public Radio in June 2025 that he opposed selling public lands. Per protocol, the recorded votes (strongest source type) were used for the coded position; a reviewer may want to note the contradiction in the published guide. Could not verify the Pikes Peak Bulletin's committee-vote claims against an official Natural Resources Committee roll call document (committee markup votes are not posted on clerk.house.gov); treated the outlet's direct reporting as reliable per protocol's allowance for local news coverage.",
+  "verification": {
+    "checked": "2026-10-15",
+    "positions_verified": 9,
+    "positions_unverifiable": 0,
+    "detail": {
+      "federal-budget-law": "found",
+      "keep-tariffs": "found",
+      "sports-biological-sex": "found",
+      "public-lands": "found",
+      "deportation-priority": "found",
+      "mail-ballot-id": "found",
+      "stricter-gun-laws": "found",
+      "abortion-legal": "found",
+      "fentanyl-penalties": "found"
+    }
+  }
 }

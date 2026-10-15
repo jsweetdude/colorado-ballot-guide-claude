@@ -3,27 +3,99 @@
   "name": "Sherri M Wright",
   "race": "state-board-3",
   "party": "Republican Party",
-  "incumbent": false,
+  "incumbent": true,
   "profile": "short",
   "website": null,
   "summary": [
     {
-      "text": "Sherri M Wright is on the ballot for State Board of Education, District 3 as the Republican Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Sherri Wright is the incumbent State Board of Education member for District 3. She is a retired teacher who has served on local and charter school boards.",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Colorado State Board of Education, District 3 (incumbent).",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Colorado_State_Board_of_Education_election"
+    },
+    {
+      "text": "Bachelor's degree, Fort Lewis College; master's in secondary education, Adams State University.",
+      "source_url": "https://ballotpedia.org/Sherri_Wright"
+    },
+    {
+      "text": "Served on the RE-1 school board and taught for 20 years.",
+      "source_url": "https://ballotpedia.org/Sherri_Wright"
+    }
+  ],
+  "education_focus": [
+    {
+      "text": "Wright's top priority is third-grade reading proficiency; she says schools should use 'proven, evidence-based instruction, grounded in the science of reading.'",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    },
+    {
+      "text": "On charter schools, she says declining enrollment alone 'should not prevent a new charter school from opening' because 'families, not enrollment trends, should drive the demand.'",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    },
+    {
+      "text": "On school accountability, she says she would vote for closure of a persistently low-performing school if prior efforts to improve it had failed.",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "graduated-income-tax",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "source_title": "9 questions for Colorado's State Board of Education candidates this year",
+      "date": "2026-10-07",
+      "quote": "No. I strongly support adequately funding education, but voters deserve clear and transparent ballot measures.",
+      "note": "Wright opposes Proposition NN and Amendment 87 specifically over ballot-transparency concerns while saying she supports funding education adequately; coded as qualified disagreement rather than unqualified opposition."
+    },
+    {
+      "statement": "keep-tabor-surplus",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "source_title": "9 questions for Colorado's State Board of Education candidates this year",
+      "date": "2026-10-07",
+      "quote": "No. I strongly support adequately funding education, but voters deserve clear and transparent ballot measures.",
+      "note": "Same answer, addressing Proposition NN and Amendment 87 together."
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "9 questions for Colorado's State Board of Education candidates this year",
+      "url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Voter guide 2026: How Colorado State Board of Education candidates answered 9 questions",
+      "url": "https://www.chalkbeat.org/colorado/2026/09/30/state-board-of-education-election-2026-candidates-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "2026 Colorado State Board of Education election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Colorado_State_Board_of_Education_election",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Sherri Wright - Ballotpedia",
+      "url": "https://ballotpedia.org/Sherri_Wright",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "No campaign website found. Ballotpedia lists $9,591 raised / $7,918 spent for her 2024 election, a different cycle than the current 2026 race; not used for the 'finance' field, which is left null.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 2,
+    "positions_unverifiable": 0,
+    "detail": {
+      "graduated-income-tax": "found",
+      "keep-tabor-surplus": "found"
+    }
+  }
 }

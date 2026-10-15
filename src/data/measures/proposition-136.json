@@ -1,0 +1,83 @@
+{
+  "id": "proposition-136",
+  "label": "Proposition 136",
+  "title": "Income Tax Rate Limit",
+  "changes": "statute",
+  "origin": "citizen initiative",
+  "threshold": "majority",
+  "ballot_title": "Shall there be a change to the Colorado Revised Statutes capping the state income tax rate at 4.4% of federal taxable income for individuals and corporations?",
+  "yes_means": "A “yes” vote on Proposition 136 establishes the current state income tax rate of 4.4 percent as the maximum rate.",
+  "no_means": "A “no” vote on Proposition 136 keeps the current state income tax rate of 4.4 percent without establishing a new limit in statute.",
+  "summary": [
+    "The measure limits the state income tax rate for individuals and corporations to the current rate of 4.4 percent of taxable income beginning on January 1, 2027.",
+    "No, the measure does not alter the current 4.4 percent state income tax rate. It creates a state law setting this rate as the maximum beginning on January 1, 2027.",
+    "No, Proposition 136 will not change the process for adjusting Colorado’s income tax rate. The state legislature or a citizen initiative may reduce the state income tax rate. The Colorado Constitution already requires that any tax rate increases be approved by voters.",
+    "Amendment 87 creates a graduated income tax, where higher tax rates are applied to higher incomes and lower tax rates are applied to lower incomes earned by a household or business. If both Amendment 87 and Proposition 136 are approved by voters, the proposed rate for incomes over $500,000 in Amendment 87 would be higher than the 4.4 percent limit in Proposition 136. Generally, when parts of voter-approved measures conflict, the policy outcome is determined by the measure that receives more votes. However, if both measures are approved by voters, the exact outcome is unclear. The state legislature or a court will determine how to resolve any conflicts."
+  ],
+  "arguments_for": [
+    "Proposition 136 reinforces voter support for maintaining the current state income tax rate. The current rate, overwhelmingly approved by voters in 2022, is fair and keeps Colorado’s tax rate among the lowest in the country."
+  ],
+  "arguments_against": [
+    "This initiative is designed to put Amendment 87 into legal jeopardy, causing confusion and a potentially costly legal battle to resolve. After the 2026 election, Proposition 136 has no effect, since raising tax rates already requires voter approval and any future approval would override this measure."
+  ],
+  "fiscal_impact": [
+    "The measure limits the state income tax rate to no higher than the current rate of 4.4 percent. This results in no change to state or local government revenue or spending. For this reason, the measure has no fiscal impact."
+  ],
+  "blue_book_pages": "62-63",
+  "behind_it": {
+    "proponents": [
+      {
+        "name": "Suzanne Taheri",
+        "detail": "Designated representative who filed the initiative (Advance Colorado).",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "Michael Fields",
+        "detail": "Designated representative who filed the initiative (Advance Colorado).",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "Brighter Colorado",
+        "detail": "Registered issue committee supporting the measure.",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "No on 87, Yes on 136",
+        "detail": "Registered issue committee supporting the measure.",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      }
+    ],
+    "opponents": [
+      {
+        "name": "Vote Common Sense",
+        "detail": "Registered issue committee opposing the measure.",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "People for a Fair Colorado",
+        "detail": "Registered issue committee opposing the measure.",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "Protect Colorado's Future Coalition",
+        "detail": "Registered issue committee opposing the measure.",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      }
+    ],
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "2026 Colorado State Ballot Information Booklet (Blue Book)",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Amendments and Propositions on the 2026 Ballot – Information and contacts (Colorado Secretary of State)",
+      "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html",
+      "accessed": "2026-10-14"
+    }
+  ],
+  "last_checked": "2026-10-14",
+  "research_notes": ""
+}

@@ -5,25 +5,68 @@
   "party": "Libertarian Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://lpcocolorado.my.canva.site/go-with-joe-regents-6",
   "summary": [
     {
-      "text": "Joe Johnson is on the ballot for CU Board of Regents, District 6 as the Libertarian Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Joe Johnson served as a trustee for the town of Frederick, Colorado, from 2004 to 2008. He later retired from corporate sales and now owns a small business.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Town of Frederick, Colorado, trustee, 2004-2008.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "Retired from corporate sales; currently owns a small business.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    }
+  ],
+  "education_focus": [
+    {
+      "text": "Johnson's priorities center on reducing taxpayer and tuition funding of higher education; he says 'tuition increased 42% faster than inflation' while many degrees have lost value.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "On federal research funding, he says it is 'time for our institutions of higher learning to go back to running their own business, and that includes its funding.'",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "On AI, he says 'AI is among us, and students are already ‘cheating’,' but does not detail a specific policy proposal.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    }
+  ],
   "record": [],
   "positions": [],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "CU Board of Regents candidates answer questions on tuition, AI and federal oversight",
+      "url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Voter guide: CU Board of Regents candidates on tuition, AI, and federal oversight",
+      "url": "https://www.chalkbeat.org/colorado/2026/10/05/university-of-colorado-cu-board-of-regents-2026-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Joe Johnson - Ballotpedia",
+      "url": "https://ballotpedia.org/Joe_Johnson_(Colorado)",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "2026 University of Colorado Board of Regents election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_University_of_Colorado_Board_of_Regents_election",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "lpcocolorado.my.canva.site",
+      "url": "https://lpcocolorado.my.canva.site/go-with-joe-regents-6",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Ballotpedia's page for this candidate carries a completed 2020 Candidate Connection survey from an unrelated state legislative race, not the 2026 Regent race; not used for positions given its age and different office. No 2026 Ballotpedia survey on file."
 }

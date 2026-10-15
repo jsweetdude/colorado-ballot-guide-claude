@@ -8,22 +8,43 @@
   "website": null,
   "summary": [
     {
-      "text": "Clayton Casciato is on the ballot for State Board of Education, District 1 as the Libertarian Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Clayton Casciato is the Libertarian Party candidate for Colorado State Board of Education District 1 in the 2026 general election.",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Colorado_State_Board_of_Education_election"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Unsuccessful candidate for Colorado House of Representatives, District 3, in 2022.",
+      "source_url": "https://ballotpedia.org/Clayton_Casciato"
+    }
+  ],
+  "education_focus": [],
   "record": [],
   "positions": [],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "2026 Colorado State Board of Education election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Colorado_State_Board_of_Education_election",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Clayton Casciato - Ballotpedia",
+      "url": "https://ballotpedia.org/Clayton_Casciato",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "9 questions for Colorado's State Board of Education candidates this year",
+      "url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Voter guide 2026: How Colorado State Board of Education candidates answered 9 questions",
+      "url": "https://www.chalkbeat.org/colorado/2026/09/30/state-board-of-education-election-2026-candidates-voter-guide/",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "No campaign website, Ballotpedia Candidate Connection survey, or news coverage found; did not respond to Chalkbeat's 2026 candidate questionnaire. Very limited public information is available on this candidate, so summary, experience, and education_focus are minimal."
 }

@@ -3,27 +3,104 @@
   "name": "Karla Esser",
   "race": "state-board-7",
   "party": "Democratic Party",
-  "incumbent": false,
+  "incumbent": true,
   "profile": "short",
-  "website": null,
+  "website": "https://www.karlaesser.com",
   "summary": [
     {
-      "text": "Karla Esser is on the ballot for State Board of Education, District 7 as the Democratic Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Karla Esser is the incumbent State Board of Education member for District 7. She is a lifelong educator who directs the graduate program for practicing teachers at Regis University.",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Colorado State Board of Education, District 7 (incumbent).",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Colorado_State_Board_of_Education_election"
+    },
+    {
+      "text": "Doctorate in educational leadership and policy, University of Northern Colorado.",
+      "source_url": "https://ballotpedia.org/Karla_Esser"
+    },
+    {
+      "text": "Director of graduate programs for licensed teachers, Regis University; previously a teacher, professor, school administrator, and assistant superintendent.",
+      "source_url": "https://ballotpedia.org/Karla_Esser"
+    }
+  ],
+  "education_focus": [
+    {
+      "text": "Esser cites two state-commissioned studies finding Colorado would need about $14,600 more in per-pupil funding to meet the Colorado Academic Standards, and points to Proposition NN and Amendment 87 as 'a start to solving this problem.'",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    },
+    {
+      "text": "On school accountability, she says she 'would never vote to close a school simply because of low test scores,' citing performance gaps tied to family income.",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    },
+    {
+      "text": "Her campaign site says arming teachers 'is not the solution' to school safety and favors a multi-stakeholder approach instead.",
+      "source_url": "https://www.karlaesser.com"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "graduated-income-tax",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "source_title": "9 questions for Colorado's State Board of Education candidates this year",
+      "date": "2026-10-07",
+      "quote": "I absolutely support both Proposition NN and Amendment 87.",
+      "note": "Unqualified, emphatic support for both measures."
+    },
+    {
+      "statement": "keep-tabor-surplus",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "source_title": "9 questions for Colorado's State Board of Education candidates this year",
+      "date": "2026-10-07",
+      "quote": "I absolutely support both Proposition NN and Amendment 87.",
+      "note": "Same answer, addressing Proposition NN and Amendment 87 together."
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "9 questions for Colorado's State Board of Education candidates this year",
+      "url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Voter guide 2026: How Colorado State Board of Education candidates answered 9 questions",
+      "url": "https://www.chalkbeat.org/colorado/2026/09/30/state-board-of-education-election-2026-candidates-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "2026 Colorado State Board of Education election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Colorado_State_Board_of_Education_election",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Karla Esser - Ballotpedia",
+      "url": "https://ballotpedia.org/Karla_Esser",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Karla Esser For Colorado State Board of Education, District 7",
+      "url": "https://www.karlaesser.com",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Incumbent, confirmed by Chalkbeat, Wikipedia, and Ballotpedia.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 2,
+    "positions_unverifiable": 0,
+    "detail": {
+      "graduated-income-tax": "found",
+      "keep-tabor-surplus": "found"
+    }
+  }
 }

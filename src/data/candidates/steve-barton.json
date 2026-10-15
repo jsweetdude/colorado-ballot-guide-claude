@@ -5,25 +5,120 @@
   "party": "Republican Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://www.bartonforcolorado.com",
   "summary": [
     {
-      "text": "Steve Barton is on the ballot for State Board of Education, District 7 as the Republican Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Steve Barton is an attorney and former electronic engineer running for the State Board of Education in District 7. He holds degrees in biophysics, electrical engineering and computer science, law, and medicine.",
+      "source_url": "https://ballotpedia.org/Steve_Barton_(Colorado)"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Career experience includes work as an electronic engineer and computer architect designing processor integrated circuits, and as a patent attorney.",
+      "source_url": "https://ballotpedia.org/Steve_Barton_(Colorado)"
+    },
+    {
+      "text": "J.D., Brigham Young University, 1994; M.D., St. George's University, 2007; graduate degree, University of California, Berkeley, 1975.",
+      "source_url": "https://ballotpedia.org/Steve_Barton_(Colorado)"
+    }
+  ],
+  "education_focus": [
+    {
+      "text": "Barton's top message is parental rights: he says 'parents and parental rights need to be respected in all schools' and that parents should be key stakeholders in curriculum and textbook selection.",
+      "source_url": "https://ballotpedia.org/Steve_Barton_(Colorado)"
+    },
+    {
+      "text": "On academic standards, he proposes integrating math instruction with science and business examples and says new teachers should be required to take math-based physical-science and business courses.",
+      "source_url": "https://ballotpedia.org/Steve_Barton_(Colorado)"
+    },
+    {
+      "text": "His campaign site says the 2022 State Social Studies Standards 'require leftist politics from preschool onward' and calls for the board to 'evict politics from schools.'",
+      "source_url": "https://www.bartonforcolorado.com"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "sports-biological-sex",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://ballotpedia.org/Steve_Barton_(Colorado)",
+      "source_title": "Steve Barton - Ballotpedia",
+      "date": "2026-01-01",
+      "quote": "Boot the boys from girl's sports, as anyone who has ever experienced male puberty has advantages in strength, size, and speed over the XX population.",
+      "note": "From Barton's 2026 Ballotpedia Candidate Connection survey; the page shows only the year 2026, not an exact date."
+    },
+    {
+      "statement": "graduated-income-tax",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "source_title": "9 questions for Colorado's State Board of Education candidates this year",
+      "date": "2026-10-07",
+      "quote": "I oppose NN and 87 because both trick voters into killing TABOR (Taxpayer Bill of Rights) for a fake \"benefit of the kids\"",
+      "note": "He proposes an alternative (a minimum education share of the state budget) rather than opposing more education funding outright, so coded as qualified disagreement."
+    },
+    {
+      "statement": "keep-tabor-surplus",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "source_title": "9 questions for Colorado's State Board of Education candidates this year",
+      "date": "2026-10-07",
+      "quote": "I oppose NN and 87 because both trick voters into killing TABOR (Taxpayer Bill of Rights) for a fake \"benefit of the kids\"",
+      "note": "Same answer, addressing Proposition NN and Amendment 87 together."
+    },
+    {
+      "statement": "mail-ballot-id",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://ballotpedia.org/Steve_Barton_(Colorado)",
+      "source_title": "Steve Barton - Ballotpedia",
+      "date": "2026-01-01",
+      "quote": "mail ballots sent to dorm rooms for those who moved years ago, votes cast without identification",
+      "note": "Barton lists this among general fraud concerns he says are 'not in the control of the State Board of Education'; he does not specifically mention Amendment 84 or an ID-number requirement on mail ballots, so this is inferred from general support for voter-ID/fraud prevention and coded no stronger than 4 per the coding guide."
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "9 questions for Colorado's State Board of Education candidates this year",
+      "url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Voter guide 2026: How Colorado State Board of Education candidates answered 9 questions",
+      "url": "https://www.chalkbeat.org/colorado/2026/09/30/state-board-of-education-election-2026-candidates-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "2026 Colorado State Board of Education election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Colorado_State_Board_of_Education_election",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Steve Barton - Ballotpedia",
+      "url": "https://ballotpedia.org/Steve_Barton_(Colorado)",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Steve Barton Campaign for Colorado CD7 State Board of Education",
+      "url": "https://www.bartonforcolorado.com",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Not an incumbent; the incumbent in this race is Karla Esser, confirmed via Chalkbeat and Wikipedia. His Ballotpedia page is listed under 'Steve_Barton_(Colorado)' due to a disambiguation page for the name.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 4,
+    "positions_unverifiable": 0,
+    "detail": {
+      "sports-biological-sex": "found",
+      "graduated-income-tax": "found",
+      "keep-tabor-surplus": "found",
+      "mail-ballot-id": "found"
+    }
+  }
 }

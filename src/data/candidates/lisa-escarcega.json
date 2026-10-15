@@ -3,27 +3,112 @@
   "name": "Lisa Escárcega",
   "race": "state-board-1",
   "party": "Democratic Party",
-  "incumbent": false,
+  "incumbent": true,
   "profile": "short",
-  "website": null,
+  "website": "https://www.lisaescarcega.com",
   "summary": [
     {
-      "text": "Lisa Escárcega is on the ballot for State Board of Education, District 1 as the Democratic Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Lisa Escárcega is the incumbent State Board of Education member for District 1. She is a retired educator and former executive director of the Colorado Association of School Executives.",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
     }
   ],
-  "experience": [],
-  "record": [],
-  "positions": [],
+  "experience": [
+    {
+      "text": "Colorado State Board of Education, District 1 (incumbent).",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Colorado_State_Board_of_Education_election"
+    },
+    {
+      "text": "Executive director, Colorado Association of School Executives.",
+      "source_url": "https://ballotpedia.org/Lisa_Escarcega"
+    },
+    {
+      "text": "Ph.D. in quantitative research methods, University of Denver; master's and education specialist degrees from Ball State University; bachelor's degree in psychology from Northern Michigan University.",
+      "source_url": "https://ballotpedia.org/Lisa_Escarcega"
+    }
+  ],
+  "education_focus": [
+    {
+      "text": "Escárcega says she would keep pushing the state's early-literacy gains into middle school and use school accountability 'to help schools, not just label them.'",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    },
+    {
+      "text": "On funding, she says Colorado's school finance formula 'is not enough to provide adequate funding' and supports changing state tax rules through Proposition NN and Amendment 87.",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    },
+    {
+      "text": "On homeschool enrichment funding, she says 'public dollars should stay within the system' and should not be 'siphoned off' by privately run enrichment programs.",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    }
+  ],
+  "record": [
+    {
+      "kind": "decision",
+      "title": "Social studies and math academic standards revisions",
+      "date": "2026-10-07",
+      "detail": "Escárcega says she 'already helped make significant changes to the social studies and math standards' as a board member and would continue updating math standards to add alternative pathways.",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    }
+  ],
+  "positions": [
+    {
+      "statement": "graduated-income-tax",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "source_title": "9 questions for Colorado's State Board of Education candidates this year",
+      "date": "2026-10-07",
+      "quote": "Yes. Our school funding formula, even the new one being implemented, is not enough to provide adequate funding for a strong Colorado education system.",
+      "note": "Answering Chalkbeat's combined question on whether she supports 'changing state tax rules to raise more money for education, as proposed in Proposition NN and Amendment 87'; her 'yes' covers both measures."
+    },
+    {
+      "statement": "keep-tabor-surplus",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "source_title": "9 questions for Colorado's State Board of Education candidates this year",
+      "date": "2026-10-07",
+      "quote": "Yes. Our school funding formula, even the new one being implemented, is not enough to provide adequate funding for a strong Colorado education system.",
+      "note": "Same answer as above; Chalkbeat asked about Proposition NN (keep-tabor-surplus) and Amendment 87 (graduated-income-tax) together and she answered 'yes' to both."
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "9 questions for Colorado's State Board of Education candidates this year",
+      "url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Voter guide 2026: How Colorado State Board of Education candidates answered 9 questions",
+      "url": "https://www.chalkbeat.org/colorado/2026/09/30/state-board-of-education-election-2026-candidates-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "2026 Colorado State Board of Education election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Colorado_State_Board_of_Education_election",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Lisa Escárcega - Ballotpedia",
+      "url": "https://ballotpedia.org/Lisa_Escarcega",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Lisa Escarcega for Colorado State Board of Education CD1",
+      "url": "https://www.lisaescarcega.com",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Incumbent, confirmed by Chalkbeat and Wikipedia/Ballotpedia. Her campaign site cites additional background (school psychologist, expert witness in the Lobato v. Colorado school-funding case, work on READ Act amendments) that was not independently verified beyond the site itself.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 2,
+    "positions_unverifiable": 0,
+    "detail": {
+      "graduated-income-tax": "found",
+      "keep-tabor-surplus": "found"
+    }
+  }
 }

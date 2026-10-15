@@ -5,25 +5,107 @@
   "party": "Democratic Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://www.edieforcu.com/",
   "summary": [
     {
-      "text": "Edie Hooton is on the ballot for CU Board of Regents, District 2 as the Democratic Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Edie Hooton represented Boulder's state House District 10 from 2017 to 2023 and has served on the legislature's Capital Development Committee, which oversees capital funding for Colorado's public higher-education institutions.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Colorado House of Representatives, District 10, 2017-2023.",
+      "source_url": "https://en.wikipedia.org/wiki/2026_University_of_Colorado_Board_of_Regents_election"
+    },
+    {
+      "text": "Chaired the legislature's Capital Development Committee and served as vice chair of the Energy and Environment Committee, 2021-2022.",
+      "source_url": "https://ballotpedia.org/Edie_Hooton"
+    },
+    {
+      "text": "Master of Public Administration, University of Pennsylvania, 1993.",
+      "source_url": "https://ballotpedia.org/Edie_Hooton"
+    }
+  ],
+  "education_focus": [
+    {
+      "text": "Hooton says her top priorities are holding the line on in-state tuition amid a projected $2 billion state budget deficit, improving four-year graduation rates, and ensuring transparency in university budgeting.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "She says she would not commit CU to Trump administration policies that 'threaten academic freedom, diversity, or institutional autonomy' and would instead help build a multistate coalition to defend the university's funding and curricula.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "On affordability, she proposes curbing administrative costs, locking tuition rates for incoming freshmen, expanding concurrent and hybrid enrollment, and funding campus housing.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    }
+  ],
   "record": [],
-  "positions": [],
-  "endorsements": [],
+  "positions": [
+    {
+      "statement": "clean-energy-shift",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Edie_Hooton",
+      "source_title": "Edie Hooton - Ballotpedia",
+      "date": "2016-01-01",
+      "quote": "I fully embrace the call for 100% renewable energy by 2030 – it is what is needed to respond to the climate crisis facing our planet",
+      "note": "From Hooton's 2016 Colorado House campaign website as archived by Ballotpedia; only the year is shown, not an exact date. This predates her 2026 CU Regent run and no more recent statement on this topic was found."
+    },
+    {
+      "statement": "challenge-federal-policies",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/",
+      "source_title": "CU Board of Regents candidates answer questions on tuition, AI and federal oversight",
+      "date": "2026-10-07",
+      "quote": "Using my legislative experience, I will partner with state allies — leveraging successful strategies like Attorney General Weiser’s multi-state lawsuits and Denver federal court rulings that halted attacks on Boulder’s NCAR — to aggressively protect CU.",
+      "note": "Hooton names the state attorney general's multi-state lawsuits against federal actions as a strategy she would use to protect CU, rather than making a general statement about all state litigation against the administration."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "More than 60 elected local Democratic officials in Colorado's 2nd Congressional District",
+      "source_url": "https://ballotpedia.org/Edie_Hooton"
+    }
+  ],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "CU Board of Regents candidates answer questions on tuition, AI and federal oversight",
+      "url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Voter guide: CU Board of Regents candidates on tuition, AI, and federal oversight",
+      "url": "https://www.chalkbeat.org/colorado/2026/10/05/university-of-colorado-cu-board-of-regents-2026-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "2026 University of Colorado Board of Regents election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_University_of_Colorado_Board_of_Regents_election",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Edie Hooton - Ballotpedia",
+      "url": "https://ballotpedia.org/Edie_Hooton",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "edieforcu.com",
+      "url": "https://www.edieforcu.com/",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Her Colorado House voting record (2017-2023) was not researched in depth given the short-profile scope; 'record' left blank. The clean-energy-shift quote is a decade old and from a different office (state House); flagged for review.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 2,
+    "positions_unverifiable": 0,
+    "detail": {
+      "clean-energy-shift": "found",
+      "challenge-federal-policies": "found"
+    }
+  }
 }

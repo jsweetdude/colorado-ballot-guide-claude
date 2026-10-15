@@ -5,25 +5,253 @@
   "party": "Republican Party",
   "incumbent": true,
   "profile": "full",
-  "website": null,
+  "website": "https://www.laurenforcolorado.com",
   "summary": [
     {
-      "text": "Lauren Boebert is on the ballot for U.S. House, District 4 as the Republican Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Lauren Boebert is the incumbent U.S. Representative for Colorado's 4th Congressional District, seeking a fourth term in Congress.",
+      "source_url": "https://www.coloradopolitics.com/2026/10/02/lauren-boebert-eileen-laubacher-congressional-district-4/"
+    },
+    {
+      "text": "She was born in Altamonte Springs, Florida, and lives in Rifle, Colorado; her career experience includes working as a natural gas product technician and owning and operating Shooters Grill.",
+      "source_url": "https://ballotpedia.org/Lauren_Boebert"
+    },
+    {
+      "text": "She represented Colorado's 3rd Congressional District from 2021 to 2025 before relocating and winning the 4th District seat in 2024.",
+      "source_url": "https://www.coloradopolitics.com/2026/10/02/lauren-boebert-eileen-laubacher-congressional-district-4/"
     }
   ],
-  "experience": [],
-  "record": [],
-  "positions": [],
-  "endorsements": [],
-  "finance": null,
+  "experience": [
+    {
+      "text": "U.S. House of Representatives, Colorado's 3rd District, 2021-2025.",
+      "source_url": "https://ballotpedia.org/Lauren_Boebert"
+    },
+    {
+      "text": "U.S. House of Representatives, Colorado's 4th District, 2025-present.",
+      "source_url": "https://ballotpedia.org/Lauren_Boebert"
+    },
+    {
+      "text": "Member, House Committee on Natural Resources (Vice Chair, Oversight and Investigations Subcommittee) and House Committee on Oversight and Government Reform, 119th Congress.",
+      "source_url": "https://ballotpedia.org/Lauren_Boebert"
+    },
+    {
+      "text": "Owned and operated Shooters Grill; previously worked as a natural gas product technician.",
+      "source_url": "https://ballotpedia.org/Lauren_Boebert"
+    }
+  ],
+  "record": [
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 1, One Big Beautiful Bill Act, motion to concur in Senate amendment (final passage)",
+      "date": "2025-07-03",
+      "detail": "Voted Aye. Passed 218-214.",
+      "source_url": "https://clerk.house.gov/Votes/2025190"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "S. 5, Laken Riley Act, passage",
+      "date": "2025-01-22",
+      "detail": "Voted Yea. Passed 263-156.",
+      "source_url": "https://clerk.house.gov/Votes/2025023"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 28, Protection of Women and Girls in Sports Act of 2025, passage",
+      "date": "2025-01-14",
+      "detail": "Voted Yea. Passed 218-206.",
+      "source_url": "https://clerk.house.gov/Votes/2025012"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.J.Res. 72, disapproving the national emergency used to impose tariffs on Canada",
+      "date": "2026-02-11",
+      "detail": "Voted Nay (against ending the tariff emergency). Passed 219-211 over her opposition.",
+      "source_url": "https://clerk.house.gov/Votes/202665"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 22, SAVE Act (proof-of-citizenship voter registration requirement), passage",
+      "date": "2025-04-10",
+      "detail": "Voted Yea. Passed 220-208.",
+      "source_url": "https://ballotpedia.org/Lauren_Boebert"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "American Energy Act provisions incorporated into H.R. 1",
+      "date": "2025-05-22",
+      "detail": "Her bill streamlining oil and gas permitting was included in the One Big Beautiful Bill Act.",
+      "source_url": "https://boebert.house.gov/media/press-releases/rep-lauren-boebert-secures-wins-one-big-beautiful-bill-passage"
+    }
+  ],
+  "positions": [
+    {
+      "statement": "federal-budget-law",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://boebert.house.gov/media/press-releases/rep-lauren-boebert-secures-wins-one-big-beautiful-bill-passage",
+      "source_title": "Rep. Lauren Boebert Secures Wins in One Big Beautiful Bill Passage",
+      "date": "2025-05-22",
+      "quote": "Voting YES on President Trump's One Big Beautiful Bill is a major step towards implementing the America First mandate voters delivered to us last November.",
+      "note": "She also voted Aye on final passage, July 3, 2025 (clerk.house.gov roll call 190)."
+    },
+    {
+      "statement": "keep-tariffs",
+      "value": 4,
+      "source_type": "recorded_vote",
+      "source_url": "https://clerk.house.gov/Votes/202665",
+      "source_title": "Roll Call 65 | Bill Number: H. J. Res. 72",
+      "date": "2026-02-11",
+      "quote": "Representative Boebert of Republican from Colorado Voted Nay",
+      "note": "The resolution would have terminated the national emergency underlying tariffs on Canada; voting Nay opposed ending the tariffs."
+    },
+    {
+      "statement": "sports-biological-sex",
+      "value": 4,
+      "source_type": "recorded_vote",
+      "source_url": "https://clerk.house.gov/Votes/2025012",
+      "source_title": "Roll Call 12 | Bill Number: H. R. 28",
+      "date": "2025-01-14",
+      "quote": "Representative Boebert of Republican from Colorado Voted Yea",
+      "note": "H.R. 28 would bar athletes whose sex was male from women's and girls' school sports programs."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://boebert.house.gov/media/press-releases/rep-lauren-boebert-secures-wins-one-big-beautiful-bill-passage",
+      "source_title": "Rep. Lauren Boebert Secures Wins in One Big Beautiful Bill Passage",
+      "date": "2025-05-22",
+      "quote": "Removing suppressors from the National Firearms Act (NFA)...remove the unconstitutional excise tax currently levied on suppressors as well as remove the onerous governmental restrictions including government registry, fingerprinting, extensive wait times",
+      "note": "Describes a gun-deregulation policy she secured in H.R. 1, the opposite of stricter gun laws."
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://boebert.house.gov/media/press-releases/rep-lauren-boebert-secures-wins-one-big-beautiful-bill-passage",
+      "source_title": "Rep. Lauren Boebert Secures Wins in One Big Beautiful Bill Passage",
+      "date": "2025-05-22",
+      "quote": "Funds at least one million annual removals, 10,000 new Immigration and Customs Enforcement personnel, and detention capacity sufficient to maintain an average daily population of at least 100,000 aliens.",
+      "note": "Listed as a policy victory she supported in H.R. 1."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://boebert.house.gov/media/press-releases/rep-lauren-boebert-secures-wins-one-big-beautiful-bill-passage",
+      "source_title": "Rep. Lauren Boebert Secures Wins in One Big Beautiful Bill Passage",
+      "date": "2025-05-22",
+      "quote": "Putting in work requirements for Medicaid by 2026 to ensure these dollars will be used to help our most vulnerable populations.",
+      "note": "Describes Medicaid work requirements and eligibility cuts she supported, rather than expanding coverage."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://boebert.house.gov/media/press-releases/rep-lauren-boebert-secures-wins-one-big-beautiful-bill-passage",
+      "source_title": "Rep. Lauren Boebert Secures Wins in One Big Beautiful Bill Passage",
+      "date": "2025-05-22",
+      "quote": "Phasing out Joe Biden's Green New Scam by 2028 and putting American Energy producers back in business.",
+      "note": "Press release also notes H.R. 1 repeals and phases out Inflation Reduction Act clean-energy subsidies."
+    },
+    {
+      "statement": "abortion-legal",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Lauren_Boebert",
+      "source_title": "Lauren Boebert (Ballotpedia, quoting her campaign website)",
+      "date": "2020-01-01",
+      "quote": "Life. I believe life begins at conception. Planned Parenthood can go fund themselves.",
+      "note": "Date is approximate (campaign website text dated to the 2020 election cycle on Ballotpedia); month/day unknown. A 2025 press release also states H.R. 1 ensures taxpayer dollars will not fund abortion providers."
+    },
+    {
+      "statement": "mail-ballot-id",
+      "value": 4,
+      "source_type": "recorded_vote",
+      "source_url": "https://ballotpedia.org/Lauren_Boebert",
+      "source_title": "Lauren Boebert (Ballotpedia key votes table)",
+      "date": "2025-04-10",
+      "quote": "SAVE Act...was a bill passed by the House of Representatives on 4/10/2025 that required individuals to provide documentary proof of citizenship when registering to vote in federal elections...Yea",
+      "note": "General voter-ID/citizenship-verification vote; does not mention mail ballots specifically, so coded as inferred support capped at 4."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "Donald Trump",
+      "source_url": "https://ballotpedia.org/Lauren_Boebert"
+    }
+  ],
+  "finance": {
+    "raised": 1010297,
+    "spent": 922240,
+    "cash_on_hand": 247202,
+    "as_of": "2026-06-30",
+    "source_url": "https://www.fec.gov/data/candidate/H0CO03165/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-06-30)."
+  },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Roll Call 190 | Bill Number: H. R. 1",
+      "url": "https://clerk.house.gov/Votes/2025190",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 23 | Bill Number: S. 5",
+      "url": "https://clerk.house.gov/Votes/2025023",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 12 | Bill Number: H. R. 28",
+      "url": "https://clerk.house.gov/Votes/2025012",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 65 | Bill Number: H. J. Res. 72",
+      "url": "https://clerk.house.gov/Votes/202665",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Lauren Boebert",
+      "url": "https://ballotpedia.org/Lauren_Boebert",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Rep. Lauren Boebert Secures Wins in One Big Beautiful Bill Passage",
+      "url": "https://boebert.house.gov/media/press-releases/rep-lauren-boebert-secures-wins-one-big-beautiful-bill-passage",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Congressional District 4 | Boebert faces Laubacher",
+      "url": "https://www.coloradopolitics.com/2026/10/02/lauren-boebert-eileen-laubacher-congressional-district-4/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "laurenforcolorado.com",
+      "url": "https://www.laurenforcolorado.com",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "FEC candidate financial summary",
+      "url": "https://www.fec.gov/data/candidate/H0CO03165/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Boebert's campaign did not respond to the Colorado Politics 2026 voter guide questionnaire, so no current first-person answers from that outlet were available. Could not find a committee-level roll call confirming or denying how Boebert voted on the May 2025 House Natural Resources Committee markup amendment (Amodei/Maloy) to mandate sale of public lands in Nevada and Utah; opposing-campaign material (Jessica Killin's website, as quoted on Ballotpedia) claims she and Rep. Jeff Crank both voted for it, but this is an opponent's characterization in an unrelated race, not a verified roll call, so no public-lands position was coded for her. A reviewer may want to track down the Natural Resources Committee's official markup roll call record to confirm. The abortion quote is dated only to the 2020 campaign cycle on Ballotpedia; no more specific date was available.",
+  "verification": {
+    "checked": "2026-10-15",
+    "positions_verified": 9,
+    "positions_unverifiable": 0,
+    "detail": {
+      "federal-budget-law": "found",
+      "keep-tariffs": "found",
+      "sports-biological-sex": "found",
+      "stricter-gun-laws": "found",
+      "deportation-priority": "found",
+      "health-coverage": "found",
+      "clean-energy-shift": "found",
+      "abortion-legal": "found",
+      "mail-ballot-id": "found"
+    }
+  }
 }

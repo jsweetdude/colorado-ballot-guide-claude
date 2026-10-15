@@ -5,25 +5,303 @@
   "party": "Democratic Party",
   "incumbent": true,
   "profile": "full",
-  "website": null,
+  "website": "https://jasoncrow.org/",
   "summary": [
     {
-      "text": "Jason Crow is on the ballot for U.S. House, District 6 as the Democratic Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Jason Crow is the incumbent U.S. Representative for Colorado's 6th Congressional District, first elected in 2018.",
+      "source_url": "https://ballotpedia.org/Jason_Crow"
+    },
+    {
+      "text": "He served in the U.S. Army from 2002 to 2006 and later worked as a lawyer and adjunct professor; he holds a bachelor's degree from the University of Wisconsin (2002) and a law degree from the University of Denver (2009).",
+      "source_url": "https://ballotpedia.org/Jason_Crow"
+    },
+    {
+      "text": "In the 119th Congress he serves on the House Permanent Select Committee on Intelligence and the House Armed Services Committee.",
+      "source_url": "https://ballotpedia.org/Jason_Crow"
     }
   ],
-  "experience": [],
-  "record": [],
-  "positions": [],
-  "endorsements": [],
-  "finance": null,
+  "experience": [
+    {
+      "text": "U.S. House of Representatives, Colorado's 6th District, since January 3, 2019.",
+      "source_url": "https://ballotpedia.org/Jason_Crow"
+    },
+    {
+      "text": "U.S. Army, 2002-2006.",
+      "source_url": "https://ballotpedia.org/Jason_Crow"
+    },
+    {
+      "text": "Bachelor's degree, University of Wisconsin, 2002; law degree, University of Denver, 2009; worked as a lawyer and adjunct professor.",
+      "source_url": "https://ballotpedia.org/Jason_Crow"
+    }
+  ],
+  "record": [
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 1, One Big Beautiful Bill Act, final passage (concur in Senate amendment)",
+      "date": "2025-07-03",
+      "detail": "Voted No.",
+      "source_url": "https://clerk.house.gov/Votes/2025190"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "S. 5, Laken Riley Act, final passage",
+      "date": "2025-01-22",
+      "detail": "Voted Nay.",
+      "source_url": "https://clerk.house.gov/Votes/2025023"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 28, Protection of Women and Girls in Sports Act, final passage",
+      "date": "2025-01-14",
+      "detail": "Voted Nay.",
+      "source_url": "https://clerk.house.gov/Votes/2025012"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.J.Res. 72, disapproving the national emergency underlying the Canada tariffs (declared Feb. 1, 2025)",
+      "date": "2026-02-11",
+      "detail": "Voted Yea (to end the tariff emergency); passed 219-211.",
+      "source_url": "https://clerk.house.gov/Votes/2026065"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "House Armed Services Committee markup of the FY2025 reconciliation package",
+      "date": "2025-04-29",
+      "detail": "Voted against the Republican reconciliation package in committee.",
+      "source_url": "https://crow.house.gov/media/press-releases/crow-votes-no-on-reckless-republican-budget-bill"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "End Dark Money Act",
+      "date": "2019-01-01",
+      "detail": "Introduced as his first piece of legislation as a member of Congress, to require disclosure of political spending by nonprofit groups.",
+      "source_url": "https://jasoncrow.org/values/"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "Bill to close the \"Colorado Loophole\"",
+      "date": "2020-01-01",
+      "detail": "Introduced legislation to prohibit sale of long guns to out-of-state residents who could not buy them in their home state.",
+      "source_url": "https://jasoncrow.org/values/"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "Military Installation Resilience Assuredness (MIRA) Act",
+      "date": "2020-01-01",
+      "detail": "Signed into law; improves resilience of military installations vulnerable to extreme weather and climate change.",
+      "source_url": "https://jasoncrow.org/values/"
+    }
+  ],
+  "positions": [
+    {
+      "statement": "abortion-legal",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://jasoncrow.org/values/",
+      "source_title": "Jason Crow for Congress - Values",
+      "date": "2026-10-14",
+      "quote": "I will always fight to protect a woman's right to choose. Women should have the right to make healthcare decisions that are right for them and their families.",
+      "note": "From the campaign site's issues page; no publish date given, dated to page access date."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 5,
+      "source_type": "sponsored_bill",
+      "source_url": "https://jasoncrow.org/values/",
+      "source_title": "Jason Crow for Congress - Values",
+      "date": "2026-10-14",
+      "quote": "I introduced legislation to close the “Colorado Loophole,” which would prohibit the sale of long guns to residents from other states who could not buy them in their own home state, am vice chair of the Gun Violence Prevention Task Force, and was a proud supporter of H.R. 8 to expand background checks for all gun sales.",
+      "note": "Campaign site description of his own sponsored bill and support for background-check expansion; no publish date given."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://jasoncrow.org/values/",
+      "source_title": "Jason Crow for Congress - Values",
+      "date": "2026-10-14",
+      "quote": "We must fight climate change and protect the Colorado that we love. Climate change is the defining issue of our age.",
+      "note": "No publish date given on page; dated to access date."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://crow.house.gov/media/press-releases/crow-votes-no-on-reckless-republican-budget-bill",
+      "source_title": "Crow Votes No on Reckless Republican Budget Bill",
+      "date": "2025-04-29",
+      "quote": "this cash giveaway can only be paid for by stealing health care from millions of Americans by cutting Medicaid",
+      "note": "Statement opposing Medicaid cuts in the reconciliation package that became the One Big Beautiful Bill Act."
+    },
+    {
+      "statement": "keep-tariffs",
+      "value": 2,
+      "source_type": "recorded_vote",
+      "source_url": "https://clerk.house.gov/Votes/2026065",
+      "source_title": "Roll Call 65 | Bill Number: H. J. Res. 72",
+      "date": "2026-02-11",
+      "quote": "Representative Crow of Democratic from Colorado Voted Yea",
+      "note": "Voted to disapprove of (end) the national emergency underlying the Canada tariffs; coded as disagreeing with keeping broad tariffs. Vote only, so not coded stronger."
+    },
+    {
+      "statement": "federal-budget-law",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://crow.house.gov/media/press-releases/crow-votes-no-on-reckless-republican-budget-bill",
+      "source_title": "Crow Votes No on Reckless Republican Budget Bill",
+      "date": "2025-04-29",
+      "quote": "I’m a hard no.",
+      "note": "Statement on the reconciliation package that became the One Big Beautiful Bill Act, combined with his recorded Nay vote on H.R. 1 final passage (clerk.house.gov/Votes/2025190, 2025-07-03)."
+    },
+    {
+      "statement": "public-lands",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://jasoncrow.org/values/",
+      "source_title": "Jason Crow for Congress - Values",
+      "date": "2026-10-14",
+      "quote": "I am also fighting to ensure that our public lands are not sold off to the highest bidder or destroyed by irresponsible drilling and mining, and I will continue to do so if reelected.",
+      "note": "No publish date given on page; dated to access date."
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 2,
+      "source_type": "recorded_vote",
+      "source_url": "https://clerk.house.gov/Votes/2025023",
+      "source_title": "Roll Call 23 | Bill Number: S. 5",
+      "date": "2025-01-22",
+      "quote": "Representative Crow of Democratic from Colorado Voted Nay",
+      "note": "Voted against the Laken Riley Act, which mandates detention of undocumented immigrants charged with certain crimes; coded as disagreeing with making deportation enforcement a top priority. Vote only."
+    },
+    {
+      "statement": "sports-biological-sex",
+      "value": 2,
+      "source_type": "recorded_vote",
+      "source_url": "https://clerk.house.gov/Votes/2025012",
+      "source_title": "Roll Call 12 | Bill Number: H. R. 28",
+      "date": "2025-01-14",
+      "quote": "Representative Crow of Democratic from Colorado Voted Nay",
+      "note": "Voted against the Protection of Women and Girls in Sports Act. Vote only."
+    },
+    {
+      "statement": "fentanyl-penalties",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Jason_Crow",
+      "source_title": "Jason Crow - Ballotpedia",
+      "date": "2026-10-14",
+      "quote": "Colorado Proposition 132, Penalties for Fentanyl Sale and Possession Initiative (2026) Oppose On the ballot",
+      "note": "Ballotpedia's notable ballot measure endorsements table, sourced from noon132.com/coalition, which lists Crow as part of the coalition opposing Proposition 132. No specific date given; dated to page access date."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "U.S. Senator Michael Bennet",
+      "source_url": "https://jasoncrow.org/endorsements/"
+    },
+    {
+      "name": "U.S. Senator John Hickenlooper",
+      "source_url": "https://jasoncrow.org/endorsements/"
+    },
+    {
+      "name": "Colorado Governor Jared Polis",
+      "source_url": "https://jasoncrow.org/endorsements/"
+    },
+    {
+      "name": "Colorado Attorney General Phil Weiser",
+      "source_url": "https://jasoncrow.org/endorsements/"
+    },
+    {
+      "name": "Colorado Treasurer Dave Young",
+      "source_url": "https://jasoncrow.org/endorsements/"
+    },
+    {
+      "name": "Colorado Senate President Steve Fenberg",
+      "source_url": "https://jasoncrow.org/endorsements/"
+    },
+    {
+      "name": "Colorado House Speaker Julie McCluskie",
+      "source_url": "https://jasoncrow.org/endorsements/"
+    }
+  ],
+  "finance": {
+    "raised": 3177447,
+    "spent": 2217842,
+    "cash_on_hand": 2707899,
+    "as_of": "2026-06-30",
+    "source_url": "https://www.fec.gov/data/candidate/H8CO06229/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-06-30)."
+  },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Jason Crow - Ballotpedia",
+      "url": "https://ballotpedia.org/Jason_Crow",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Jason Crow for Congress - Values",
+      "url": "https://jasoncrow.org/values/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Jason Crow for Congress - Endorsements",
+      "url": "https://jasoncrow.org/endorsements/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Crow Votes No on Reckless Republican Budget Bill",
+      "url": "https://crow.house.gov/media/press-releases/crow-votes-no-on-reckless-republican-budget-bill",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 190 | Bill Number: H. R. 1",
+      "url": "https://clerk.house.gov/Votes/2025190",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 23 | Bill Number: S. 5",
+      "url": "https://clerk.house.gov/Votes/2025023",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 12 | Bill Number: H. R. 28",
+      "url": "https://clerk.house.gov/Votes/2025012",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 65 | Bill Number: H. J. Res. 72",
+      "url": "https://clerk.house.gov/Votes/2026065",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "jasoncrow.org",
+      "url": "https://jasoncrow.org/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "fec.gov",
+      "url": "https://www.fec.gov/data/candidate/H8CO06229/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "No direct statement found on Colorado ballot measures Amendment 81 (ICE notification), Amendment 83 (hunting rights), Proposition 133 (child trafficking), Amendment 84 (mail ballot ID), Amendment 86 (redistricting), or state tax/zoning measures (federal House candidate, so these are less likely to be addressed); left unknown rather than inferred. No House floor roll call found specifically on public-lands sale (the Senate reconciliation provision was stripped before passage), so public-lands is sourced from his campaign site instead of a vote. WebSearch budget was exhausted mid-research, limiting further lead-finding for this candidate and others researched afterward; relied on Ballotpedia, clerk.house.gov, and known campaign/office sites via direct fetch instead.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 9,
+    "positions_unverifiable": 1,
+    "detail": {
+      "abortion-legal": "found",
+      "stricter-gun-laws": "found",
+      "clean-energy-shift": "found",
+      "health-coverage": "found",
+      "keep-tariffs": "found",
+      "federal-budget-law": "found",
+      "public-lands": "found",
+      "deportation-priority": "found",
+      "sports-biological-sex": "found",
+      "fentanyl-penalties": "not-found"
+    }
+  }
 }

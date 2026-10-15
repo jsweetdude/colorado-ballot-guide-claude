@@ -5,11 +5,11 @@
   "party": "Libertarian Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://lpcocolorado.my.canva.site/corey4co3",
   "summary": [
     {
-      "text": "Cory Robertson is on the ballot for U.S. House, District 3 as the Libertarian Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Cory Robertson is the Libertarian Party nominee for U.S. House in Colorado's 3rd Congressional District in 2026.",
+      "source_url": "https://ballotpedia.org/Cory_Robertson"
     }
   ],
   "experience": [],
@@ -19,11 +19,16 @@
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Cory Robertson (Ballotpedia)",
+      "url": "https://ballotpedia.org/Cory_Robertson",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Cory Robertson campaign site (Canva)",
+      "url": "https://lpcocolorado.my.canva.site/corey4co3",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "No biography, occupation, or issue positions could be found for Robertson. He has not completed Ballotpedia's Candidate Connection survey. His campaign website (a Canva site) returns only a \"CO-03 District\" heading with no further text to fetch. BallotReady and iVoterGuide listings were checked and likewise contain no biographical or policy content. All fields beyond id/name/race/party/profile/website are empty for lack of any sourceable material, per protocol (unknown is acceptable; nothing was invented)."
 }

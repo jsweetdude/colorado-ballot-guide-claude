@@ -139,7 +139,7 @@ export const measureSchema = z
     id: z.string().regex(/^[a-z0-9-]+$/),
     label: z.string(),
     title: z.string(),
-    changes: z.enum(['constitution', 'statute', 'constitution and statute']),
+    changes: z.enum(['constitution', 'statute', 'constitution and statute', 'district tax']),
     origin: z.string(),
     threshold: z.enum(['55 percent', 'majority']),
     ballot_title: z.string().min(10),

@@ -1,0 +1,81 @@
+{
+  "id": "proposition-133",
+  "label": "Proposition 133",
+  "title": "Penalties for Human Trafficking of a Minor",
+  "changes": "statute",
+  "origin": "citizen initiative",
+  "threshold": "majority",
+  "ballot_title": "Shall there be a change to the Colorado Revised Statutes modifying existing law concerning human trafficking of a minor for sexual servitude, and, in connection therewith, creating new law expanding human trafficking of a minor for sexual servitude to include knowingly trading anything of monetary value to buy or sell sexual activity with a minor and increasing the penalty to be life in prison without parole or release?",
+  "yes_means": "A “yes” vote on Proposition 133 increases the penalties for child sex trafficking to life in prison without parole, and expands child sex trafficking to include buying sexual activity with a minor.",
+  "no_means": "A “no” vote on Proposition 133 keeps the existing felony criminal penalties for child sex trafficking with a sentencing range of 8 to 48 years in prison plus a mandatory parole period.",
+  "summary": [
+    "Under Colorado law, human trafficking of a minor for sexual servitude, or child sex trafficking, occurs when an adult forces or makes a minor available for commercial sexual activity in exchange for money or other compensation. Child sex trafficking is one of many sex crimes with which a buyer or seller may be charged. Legally, a minor cannot consent to commercial sexual activity. Current law provides legal defenses and protections for individuals charged with this crime who are victims of sex trafficking.",
+    "Proposition 133 increases the penalty for child sex trafficking to life in prison without the possibility of parole, and removes judicial discretion in sentencing. It also adds exchanging anything of value to buy or sell sexual activity to the list of acts included in child sex trafficking. If convicted of this crime, buyers and sellers will receive a life sentence."
+  ],
+  "arguments_for": [
+    "Child sex trafficking causes serious and long-lasting harm to victims. Someone who commits this terrible crime deserves a life sentence instead of a shorter prison term or probation. The punishment outlined in the measure is clear, definite, and ensures that offenders cannot hurt more children. With this change, victims will have no doubt that child sex trafficking offenders are punished to the fullest extent of the law. The measure helps deter people from engaging in child sex trafficking and sends a strong message that Colorado takes these crimes seriously. Proposition 133 makes certain that justice is served, children are protected, and victims are shielded from punishment and further harm."
+  ],
+  "arguments_against": [
+    "Harsher sentences are unlikely to deter human trafficking, but may instead result in punishing victims. Many victims of child sex trafficking are pressured or forced to commit crimes to help traffickers. Due to the fear of a life sentence, victims may be less likely to report these crimes or cooperate with police. Additionally, a judge would no longer be able to consider the facts of the case when sentencing someone convicted of child sex trafficking. The measure prioritizes punishment over prevention, and redirects resources from other strategies that combat child sex trafficking. Proposition 133 is unlikely to stop child sex trafficking or protect victims."
+  ],
+  "fiscal_impact": [
+    "The measure increases future state spending in the Colorado Department of Corrections (CDOC). Costs for the measure are estimated to begin in about 14 years. Initial costs are estimated at $180,000 in budget year 2041-42, and grow by that amount for several years thereafter. This would be an increase of $360,000 in budget year 2042-43, $540,000 in budget year 2043-44, and so on. These costs are not adjusted for inflation. Eventually, the increase will stabilize as the costs of new offenders staying longer are offset by a decrease in costs from life sentences ending due to an offender dying or potentially receiving a commutation or pardon.",
+    "The cost increase results from persons convicted of child sex trafficking serving a life sentence instead of a fixed term. It takes years for the first affected offenders to reach the point in their original sentence where they would have been paroled under current law, and that is when the added cost starts.",
+    "This cost estimate reflects current sentencing data and values for state-run prison beds; actual costs will likely be higher in the future due to inflation, and if more individuals are convicted of child sex trafficking than under current law. Notably, costs for medical care will grow separately as offenders age in prison.",
+    "In addition, workload in the trial courts and agencies that provide representation to indigent offenders in the Judicial Department will minimally increase as cases with enhanced penalties generally take longer to process than cases with lesser penalties.",
+    "The measure does not specify a funding source to pay for the increased spending in the CDOC and it is assumed that these costs will be paid from the state General Fund. While the measure may reduce money available for other uses (the three largest of which are Health Care Policy and Financing, Education, and Higher Education), the likely effect of the measure on other programs is unknown and will depend on future budgeting decisions by the state legislature.",
+    "Similar to the state, workload will minimally increase for county-funded district attorneys to prosecute longer cases with enhanced penalties."
+  ],
+  "blue_book_pages": "52-54",
+  "behind_it": {
+    "proponents": [
+      {
+        "name": "Erin Lee",
+        "detail": "Designated representative who filed the initiative.",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "Michelle Austin",
+        "detail": "Designated representative who filed the initiative.",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "Protect Kids Colorado – Issue Committee",
+        "detail": "Registered issue committee supporting the measure.",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "Protect Our Children",
+        "detail": "Registered issue committee supporting the measure.",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      }
+    ],
+    "opponents": [
+      {
+        "name": "Vote Common Sense",
+        "detail": "Registered issue committee opposing the measure.",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "People for a Fair Colorado",
+        "detail": "Registered issue committee opposing the measure.",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      }
+    ],
+    "notes": ""
+  },
+  "sources": [
+    {
+      "title": "2026 Colorado State Ballot Information Booklet (Blue Book)",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Amendments and Propositions on the 2026 Ballot – Information and contacts (Colorado Secretary of State)",
+      "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html",
+      "accessed": "2026-10-14"
+    }
+  ],
+  "last_checked": "2026-10-14",
+  "research_notes": "Colorado Politics (coloradopolitics.com, 2026-10-02) describes Protect Kids Colorado as an advocacy group supporting the measure, consistent with the SOS issue-committee listing; not used as a sourced quote here."
+}

@@ -5,25 +5,65 @@
   "party": "Libertarian Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://davewood4colorado.com",
   "summary": [
     {
-      "text": "Dave Wood is on the ballot for U.S. House, District 8 as the Libertarian Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Dave Wood (listed by Ballotpedia as David Wood) is a retired computer programmer from Westminster, Colorado, running as the Libertarian candidate for Colorado's 8th Congressional District.",
+      "source_url": "https://ballotpedia.org/David_Wood_(Colorado)"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Worked as a computer programmer; now retired.",
+      "source_url": "https://ballotpedia.org/David_Wood_(Colorado)"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "keep-tariffs",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/David_Wood_(Colorado)",
+      "source_title": "David Wood (Colorado) - Ballotpedia (Candidate Connection survey)",
+      "date": "2026-08-22",
+      "quote": "We need Free Trade. Imposing tariffs on foreign goods raises the cost of raw materials and manufactured products, shifting those higher expenses onto us, as struggling consumers.",
+      "note": "Date is when he submitted the Candidate Connection survey, per the page's footnote."
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/David_Wood_(Colorado)",
+      "source_title": "David Wood (Colorado) - Ballotpedia (Candidate Connection survey)",
+      "date": "2026-08-22",
+      "quote": "Stop the shameful deporting of peaceful hard-working immigrants and increase the number of immigration judges so immigrants can get timely due process in applying for citizenship.",
+      "note": "Date is when he submitted the Candidate Connection survey, per the page's footnote."
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "David Wood (Colorado) - Ballotpedia",
+      "url": "https://ballotpedia.org/David_Wood_(Colorado)",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "davewood4colorado.com",
+      "url": "https://davewood4colorado.com",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Ballotpedia's page for this candidate is titled 'David Wood'; the assignment's name 'Dave Wood' is used in the output to match the ballot-order id. No campaign finance data available from the FEC as of the page's last update. Did not independently fetch davewood4colorado.com beyond confirming the URL on Ballotpedia, given the short-profile effort budget and that the Candidate Connection survey already covered his key messages (foreign policy/troop withdrawal, immigration, tariffs, debt) in his own words. No statements found on abortion, guns, health care, or Colorado ballot measures.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 2,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-tariffs": "found",
+      "deportation-priority": "found"
+    }
+  }
 }

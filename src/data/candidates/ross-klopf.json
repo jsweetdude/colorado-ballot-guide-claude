@@ -8,22 +8,90 @@
   "website": null,
   "summary": [
     {
-      "text": "Ross Klopf is on the ballot for State Board of Education, District 7 as the Libertarian Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Ross Klopf is a civil engineer from Lakewood, Colorado, with decades of experience in transportation and water-resources engineering. He has been a Libertarian Party member since 2016.",
+      "source_url": "https://ballotpedia.org/Ross_Klopf"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Civil engineer with decades of experience in transportation and water resources engineering.",
+      "source_url": "https://ballotpedia.org/Ross_Klopf"
+    },
+    {
+      "text": "Unsuccessful Libertarian candidate for Colorado's 7th Congressional District in 2022 and for state House District 28 in 2018.",
+      "source_url": "https://ballotpedia.org/Ross_Klopf"
+    }
+  ],
+  "education_focus": [
+    {
+      "text": "Klopf's top issue is reading comprehension; he points to countries such as Portugal that have improved reading outcomes and suggests giving students reading material they enjoy even if it is not considered a classic.",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    },
+    {
+      "text": "On charter schools, he says 'lower birth rates and declining student enrollment are not valid reasons to deny a charter school application.'",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    },
+    {
+      "text": "On Proposition NN and Amendment 87, he says any new funding measure should specify what share goes to classrooms and teacher pay and include an independent audit committee and a sunset clause.",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "graduated-income-tax",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "source_title": "9 questions for Colorado's State Board of Education candidates this year",
+      "date": "2026-10-07",
+      "quote": "I do not support Amendment 87 for the same reasons described above for Proposition NN. In addition, I believe it could negatively affect Colorado businesses.",
+      "note": "He proposes conditions (an audit committee, a sunset clause) under which a similar measure could win his support, so coded as qualified rather than unqualified disagreement."
+    },
+    {
+      "statement": "keep-tabor-surplus",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "source_title": "9 questions for Colorado's State Board of Education candidates this year",
+      "date": "2026-10-07",
+      "quote": "This measure was placed on the ballot by the state legislature, and I believe it is better than Amendment 87. Although funding is a significant issue for many schools, I do not support this measure.",
+      "note": "Addressing Proposition NN specifically."
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "9 questions for Colorado's State Board of Education candidates this year",
+      "url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Voter guide 2026: How Colorado State Board of Education candidates answered 9 questions",
+      "url": "https://www.chalkbeat.org/colorado/2026/09/30/state-board-of-education-election-2026-candidates-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "2026 Colorado State Board of Education election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Colorado_State_Board_of_Education_election",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Ross Klopf - Ballotpedia",
+      "url": "https://ballotpedia.org/Ross_Klopf",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Bio details are drawn from a 2022 Ballotpedia Candidate Connection survey completed for an unrelated U.S. House race; no 2026 survey on file for this race.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 2,
+    "positions_unverifiable": 0,
+    "detail": {
+      "graduated-income-tax": "found",
+      "keep-tabor-surplus": "found"
+    }
+  }
 }

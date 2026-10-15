@@ -16,11 +16,24 @@
   "record": [],
   "positions": [],
   "endorsements": [],
-  "finance": null,
+  "finance": {
+    "raised": 0,
+    "spent": 0,
+    "cash_on_hand": null,
+    "as_of": "2026-10-14",
+    "source_url": "https://www.fec.gov/data/candidate/S6CO00564/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "No financial report on file with the FEC as of 2026-10-14. Candidates must file once they raise or spend more than $5,000."
+  },
   "sources": [
     {
       "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
       "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "FEC candidate financial summary",
+      "url": "https://www.fec.gov/data/candidate/S6CO00564/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],

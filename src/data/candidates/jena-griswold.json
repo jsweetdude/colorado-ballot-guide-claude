@@ -5,25 +5,216 @@
   "party": "Democratic Party",
   "incumbent": false,
   "profile": "full",
-  "website": null,
+  "website": "https://www.jenaforcolorado.com",
   "summary": [
     {
-      "text": "Jena Griswold is on the ballot for Attorney General as the Democratic Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Jena Griswold is Colorado's Secretary of State, first elected in 2018 and reelected in 2022; she grew up in a working-class family in Estes Park, Colorado.",
+      "source_url": "https://www.jenaforcolorado.com/about"
+    },
+    {
+      "text": "She is the Democratic nominee for Colorado attorney general in the November 2026 general election, having defeated three rivals in the June 30 primary.",
+      "source_url": "https://www.coloradopolitics.com/2026/10/02/colorado-griswold-allen-attorney-general-race/"
     }
   ],
-  "experience": [],
-  "record": [],
-  "positions": [],
-  "endorsements": [],
+  "experience": [
+    {
+      "text": "Colorado Secretary of State, 2019–present (elected 2018, reelected 2022, defeating Republican Pam Anderson 55%-42%).",
+      "source_url": "https://en.wikipedia.org/wiki/Jena_Griswold"
+    },
+    {
+      "text": "Law degree from the University of Pennsylvania Law School; practiced international anti-corruption law in Washington, D.C., then served as Director of the Colorado Governor's Washington, D.C. office.",
+      "source_url": "https://www.jenaforcolorado.com/about"
+    }
+  ],
+  "record": [
+    {
+      "kind": "decision",
+      "title": "Blocked Mesa County Clerk Tina Peters from overseeing county elections",
+      "date": "2021-01-01",
+      "detail": "Filed suit that prevented Tina Peters from being able to oversee elections in Mesa County in 2021 and 2022, after Peters attempted to interfere with the 2020 presidential election process (exact date not given on the fetched page; Wikipedia states this covered 2021 and 2022).",
+      "source_url": "https://en.wikipedia.org/wiki/Jena_Griswold"
+    },
+    {
+      "kind": "decision",
+      "title": "Named respondent in Trump v. Anderson ballot-eligibility case",
+      "date": "2023-09-06",
+      "detail": "Six voters sued in her official capacity as Secretary of State to keep Donald Trump off Colorado's 2024 Republican primary ballot over the Jan. 6 Capitol attack; the Colorado Supreme Court later ruled 4-3 that Trump was disqualified, before the U.S. Supreme Court reversed.",
+      "source_url": "https://en.wikipedia.org/wiki/Jena_Griswold"
+    },
+    {
+      "kind": "decision",
+      "title": "Championed election-security legislation as Secretary of State",
+      "date": "2019-01-01",
+      "detail": "Her campaign says she 'spearheaded legislation to keep Colorado elections safe,' including criminalizing threats to election workers, making it illegal to bring guns near voting centers, and making it a felony to compromise voting equipment (exact bill and date not given on the fetched page; bounded to the start of her tenure).",
+      "source_url": "https://www.jenaforcolorado.com/about"
+    },
+    {
+      "kind": "decision",
+      "title": "Impeachment resolution against Griswold failed in House Judiciary Committee",
+      "date": "2024-04-09",
+      "detail": "A Republican-sponsored resolution to impeach Griswold, citing her comments ahead of the Trump v. Anderson Supreme Court case, failed in the Colorado House Judiciary Committee on April 9, 2024, after being introduced April 4, 2024.",
+      "source_url": "https://en.wikipedia.org/wiki/Jena_Griswold"
+    }
+  ],
+  "positions": [
+    {
+      "statement": "abortion-legal",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://www.coloradopolitics.com/2026/10/02/colorado-griswold-allen-attorney-general-race/",
+      "source_title": "Griswold, Allen vie to become next attorney general",
+      "date": "2026-10-02",
+      "quote": "I will always fight to make sure that all Coloradans have access to reproductive healthcare, including birth control, IVF, and abortion access.",
+      "note": "From Griswold's answer in a Colorado Politics candidate questionnaire."
+    },
+    {
+      "statement": "challenge-federal-policies",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/06/michael-allen-jena-griswold-colorado-attorney-general-election-voter-guide/",
+      "source_title": "Michael Allen, Jena Griswold: Colorado attorney general election voter guide",
+      "date": "2026-10-06",
+      "quote": "These lawsuits are critical to protect our state and stand up to Trump. I will continue to join or file lawsuits when Trump is breaking the law and it affects Colorado.",
+      "note": "From a Colorado Sun candidate interview on whether she agrees with AG Weiser's more than 80 lawsuits against the Trump administration; she said she agrees with the approach."
+    },
+    {
+      "statement": "keep-mail-voting",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://www.coloradopolitics.com/2026/10/02/colorado-griswold-allen-attorney-general-race/",
+      "source_title": "Griswold, Allen vie to become next attorney general",
+      "date": "2026-10-02",
+      "quote": "Trump has carried out a campaign of retribution against Colorado because of Tina Peters and our gold standard elections.",
+      "note": "Describes Colorado's current election system, which she administers, as 'gold standard.'"
+    },
+    {
+      "statement": "immigration-notify-ice",
+      "value": 2,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/06/michael-allen-jena-griswold-colorado-attorney-general-election-voter-guide/",
+      "source_title": "Michael Allen, Jena Griswold: Colorado attorney general election voter guide",
+      "date": "2026-10-06",
+      "quote": "It is not our job to enforce the law of the federal government.",
+      "note": "Said directly in response to a question about the ballot measure requiring law enforcement to assist ICE in certain cases, though as Secretary of State she said she does not take an official position on ballot measures she oversees. The preceding sentence in the same answer was: 'Local officials, state officials, are not federal immigration agents.'"
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 2,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/06/michael-allen-jena-griswold-colorado-attorney-general-election-voter-guide/",
+      "source_title": "Michael Allen, Jena Griswold: Colorado attorney general election voter guide",
+      "date": "2026-10-06",
+      "quote": "I will prosecute ICE agents who commit crimes, and if there is a case to stop their inhumane immigration policies.",
+      "note": "Called current federal immigration enforcement under ICE 'terrorizing' in the same answer."
+    },
+    {
+      "statement": "redistricting-commission",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://www.hppr.org/hppr-news/2025-12-12/in-shift-sen-bennet-supports-colorado-constitutional-amendment-for-emergency-redistricting",
+      "source_title": "In shift, Sen. Bennet supports Colorado constitutional amendment for emergency redistricting",
+      "date": "2025-12-12",
+      "quote": "Colorado Secretary of State Jena Griswold, who is running for attorney general in 2026, has also supported a ballot initiative to allow for emergency redistricting.",
+      "note": "This Dec. 2025 article describes an early version of the redistricting proposal, which gave the independent commission (with court approval) power to redraw maps mid-decade; flagged for review to confirm it is the same measure certified as Amendment 86."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://www.jenaforcolorado.com/about",
+      "source_title": "About — Jena Griswold for Attorney General",
+      "date": "2026-10-14",
+      "quote": "made it illegal to bring guns near voting centers",
+      "note": "Campaign bio page is undated; date given is the page's access date during this research, not a statement date. Describes a narrow gun restriction (near polling places) she championed as Secretary of State, not a broad gun-control position."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/06/michael-allen-jena-griswold-colorado-attorney-general-election-voter-guide/",
+      "source_title": "Michael Allen, Jena Griswold: Colorado attorney general election voter guide",
+      "date": "2026-10-06",
+      "quote": "Addressing corporate polluters and protecting our climate has to be the top priority of the next AG and it will absolutely be mine",
+      "note": "Said she would focus on 'the climate crisis' and strict enforcement of anti-pollution laws given federal rollbacks."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "EMILYs List",
+      "source_url": "https://www.jenaforcolorado.com/news/emilys-list-30-colorado-leaders-and-organizations-endorse-griswold-for-attorney-general"
+    },
+    {
+      "name": "Colorado Building and Construction Trades Council",
+      "source_url": "https://www.jenaforcolorado.com/news/emilys-list-30-colorado-leaders-and-organizations-endorse-griswold-for-attorney-general"
+    },
+    {
+      "name": "Colorado Professional Firefighters",
+      "source_url": "https://www.jenaforcolorado.com/news/emilys-list-30-colorado-leaders-and-organizations-endorse-griswold-for-attorney-general"
+    }
+  ],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Griswold, Allen vie to become next attorney general",
+      "url": "https://www.coloradopolitics.com/2026/10/02/colorado-griswold-allen-attorney-general-race/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Michael Allen, Jena Griswold: Colorado attorney general election voter guide",
+      "url": "https://coloradosun.com/2026/10/06/michael-allen-jena-griswold-colorado-attorney-general-election-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Jena Griswold (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Jena_Griswold",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "About — Jena Griswold for Attorney General",
+      "url": "https://www.jenaforcolorado.com/about",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Issues — Jena Griswold for Attorney General",
+      "url": "https://www.jenaforcolorado.com/issues",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "EMILYs List, 30 Colorado Leaders and Organizations Endorse Griswold for Attorney General",
+      "url": "https://www.jenaforcolorado.com/news/emilys-list-30-colorado-leaders-and-organizations-endorse-griswold-for-attorney-general",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "In shift, Sen. Bennet supports Colorado constitutional amendment for emergency redistricting",
+      "url": "https://www.hppr.org/hppr-news/2025-12-12/in-shift-sen-bennet-supports-colorado-constitutional-amendment-for-emergency-redistricting",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Watch: The Colorado Sun hosts attorney general candidate debate",
+      "url": "https://coloradosun.com/2026/10/14/watch-the-colorado-sun-hosts-attorney-general-candidate-debate/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "jenaforcolorado.com",
+      "url": "https://www.jenaforcolorado.com",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "A Colorado Sun / Noticias Univision debate between Griswold and Allen was scheduled for 6:30pm MDT on Oct. 14, 2026 (the day this research was done); no recap or transcript was available yet at research time, so it is not reflected here — worth checking for a post-debate article before publishing. Amendment 81 is called 'Proposition 81' in a September 2026 Colorado Politics article and 'Amendment 81' in October 2026 pieces; this may reflect its reclassification before certification — worth double-checking the final ballot designation. Could not source Griswold positions on fentanyl penalties (Prop 132), child trafficking sentencing (Prop 133), hunting rights (Amendment 83), transgender-related measures (Props 134/135), mail-ballot ID (Amendment 84), plain-language ballots (Amendment 85), or federal tax/tariff/public-lands questions despite searching; left as unknown rather than inferred from party. The jenaforcolorado.com campaign site is a single-page JavaScript app, so only the 'About' and 'Issues' landing text could be retrieved (no dated sub-pages).",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 8,
+    "positions_unverifiable": 0,
+    "detail": {
+      "abortion-legal": "found",
+      "challenge-federal-policies": "found",
+      "keep-mail-voting": "found",
+      "immigration-notify-ice": "found",
+      "deportation-priority": "found",
+      "redistricting-commission": "found",
+      "stricter-gun-laws": "found",
+      "clean-energy-shift": "found"
+    }
+  }
 }

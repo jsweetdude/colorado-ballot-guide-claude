@@ -8,22 +8,49 @@
   "website": null,
   "summary": [
     {
-      "text": "Douglas Mangeris is on the ballot for U.S. House, District 4 as the Libertarian Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Douglas Mangeris is the Libertarian Party candidate for Colorado's 4th Congressional District.",
+      "source_url": "https://ballotpedia.org/Douglas_Mangeris"
+    },
+    {
+      "text": "He previously ran, and withdrew from, the 2024 general election for this same seat.",
+      "source_url": "https://ballotpedia.org/Douglas_Mangeris"
     }
   ],
   "experience": [],
   "record": [],
   "positions": [],
   "endorsements": [],
-  "finance": null,
+  "finance": {
+    "raised": 0,
+    "spent": 0,
+    "cash_on_hand": null,
+    "as_of": "2026-10-14",
+    "source_url": "https://www.fec.gov/data/candidate/H4CO04215/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "No financial report on file with the FEC as of 2026-10-14. Candidates must file once they raise or spend more than $5,000."
+  },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Douglas Mangeris",
+      "url": "https://ballotpedia.org/Douglas_Mangeris",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Douglas Mangeris (iVoterGuide candidate profile)",
+      "url": "https://ivoterguide.com/candidate/79076/race/32761/election/1475",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "FEC candidate profile, Douglas Mangeris (H4CO04215)",
+      "url": "https://www.fec.gov/data/candidate/H4CO04215/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "FEC candidate financial summary",
+      "url": "https://www.fec.gov/data/candidate/H4CO04215/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "No sourceable issue positions were found. Ballotpedia has no biography, campaign website, or Candidate Connection survey response for Mangeris. iVoterGuide rates his profile 'Insufficient Information' and lists no questionnaire answers across any topic. His only noted public appearance is an 18-minute interview on the 'Long Live Alternate Parties' podcast (Dec. 4, 2025), which could not be transcribed or fetched as text in this session. His FEC committee is MANGERIS4THEPEOPLE2026; no campaign website or social media account could be confirmed as his official channel (an X handle, @MericanDreamz, is linked from his Ballotpedia page but was not fetched/verified, and his LinkedIn profile could not be accessed). A reviewer may want to try the podcast audio directly."
 }

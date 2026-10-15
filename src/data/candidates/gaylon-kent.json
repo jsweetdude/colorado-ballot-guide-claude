@@ -5,25 +5,119 @@
   "party": "Libertarian Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://thefreedomtrain.com/",
   "summary": [
     {
-      "text": "Gaylon Kent is on the ballot for U.S. House, District 2 as the Libertarian Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Gaylon Kent is a writer who lives in Hayden, Colorado, and also works as a hotel night auditor and in hospital security.",
+      "source_url": "https://ballotpedia.org/Gaylon_Kent"
+    },
+    {
+      "text": "He served in the U.S. Navy from 1983 to 1987 and is the Libertarian nominee for Colorado's 2nd Congressional District, having previously run for the U.S. House and U.S. Senate from Colorado in 2012, 2014, 2016, 2018, 2020, and 2024.",
+      "source_url": "https://ballotpedia.org/Gaylon_Kent"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "U.S. Navy, 1983-1987",
+      "source_url": "https://ballotpedia.org/Gaylon_Kent"
+    },
+    {
+      "text": "Author and writer",
+      "source_url": "https://ballotpedia.org/Gaylon_Kent"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "keep-tariffs",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Gaylon_Kent",
+      "source_title": "Gaylon Kent (Ballotpedia), 2026 Candidate Connection survey",
+      "date": "2026-08-31",
+      "quote": "We deserve an economy anchored in low taxes and free markets. Tariffs are nothing more than a tax on us and the Iran is driving gas prices up.",
+      "note": "Quote reproduced as given on the fetched page, including an apparent typo (\"and the Iran is driving\")."
+    },
+    {
+      "statement": "abortion-legal",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Gaylon_Kent",
+      "source_title": "Gaylon Kent (Ballotpedia), quoting his 2024 campaign website",
+      "date": "2024-10-22",
+      "quote": "The moral aspects of this issue are your lookout and no one else's. The government must butt out of the abortion debate.",
+      "note": "Reproduced by Ballotpedia from Kent's 2024 campaign website; his current site (thefreedomtrain.com) did not have readable issue-page text to confirm this is still current, but nothing found contradicts it."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Gaylon_Kent",
+      "source_title": "Gaylon Kent (Ballotpedia), quoting his 2024 campaign website",
+      "date": "2024-10-22",
+      "quote": "Doctors and health insurers must be returned to the free market. They must be financially answerable to their patients and customers.",
+      "note": "Reproduced by Ballotpedia from Kent's 2024 campaign website."
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 3,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Gaylon_Kent",
+      "source_title": "Gaylon Kent (Ballotpedia), quoting his 2024 campaign website",
+      "date": "2024-10-22",
+      "quote": "We're entitled to secure borders and those here illegally are not entitled to citizenship. But they're entitled to be more than criminals, so let's legalize them and let them do the work they came here to do.",
+      "note": "Explicitly mixed: wants secure borders but opposes treating undocumented immigrants as criminals and favors legalizing their work status."
+    },
+    {
+      "statement": "fentanyl-penalties",
+      "value": 2,
+      "source_type": "inferred",
+      "source_url": "https://ballotpedia.org/Gaylon_Kent",
+      "source_title": "Gaylon Kent (Ballotpedia), quoting his 2024 campaign website",
+      "date": "2024-10-22",
+      "quote": "The Drug War has failed in every respect. Decriminalizing drugs would end the violence associated with them.",
+      "note": "Statement addresses drug policy generally, not fentanyl specifically; inferred that support for decriminalization is inconsistent with mandatory prison time for fentanyl sale."
+    }
+  ],
   "endorsements": [],
-  "finance": null,
+  "finance": {
+    "raised": 0,
+    "spent": 0,
+    "cash_on_hand": null,
+    "as_of": "2026-10-14",
+    "source_url": "https://www.fec.gov/data/candidate/H2CO03153/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "No financial report on file with the FEC as of 2026-10-14. Candidates must file once they raise or spend more than $5,000."
+  },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Gaylon Kent (Ballotpedia)",
+      "url": "https://ballotpedia.org/Gaylon_Kent",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "thefreedomtrain.com",
+      "url": "https://thefreedomtrain.com/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "FEC candidate financial summary",
+      "url": "https://www.fec.gov/data/candidate/H2CO03153/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Kent's current campaign website (thefreedomtrain.com) is a simple landing page whose fuller content is on a separate page not captured by fetch tools; most specific issue quotes available are from his 2024 campaign website as reproduced verbatim on his Ballotpedia page, plus his completed 2026 Ballotpedia Candidate Connection survey (used for the tariffs position). No Colorado state ballot measure positions (TABOR, zoning, redistricting, etc.) were found; his flat-tax comments concern the federal income tax, which the graduated-income-tax and income-tax-cap statements explicitly exclude.",
+  "verification": {
+    "checked": "2026-10-15",
+    "positions_verified": 5,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-tariffs": "found",
+      "abortion-legal": "found",
+      "health-coverage": "found",
+      "deportation-priority": "found",
+      "fentanyl-penalties": "found"
+    }
+  }
 }

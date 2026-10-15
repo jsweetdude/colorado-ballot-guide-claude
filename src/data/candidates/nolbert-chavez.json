@@ -3,27 +3,74 @@
   "name": "Nolbert Chavez",
   "race": "cu-regent-7",
   "party": "Democratic Party",
-  "incumbent": false,
+  "incumbent": true,
   "profile": "short",
-  "website": null,
+  "website": "https://www.chavezforcu.com/about-nolbert",
   "summary": [
     {
-      "text": "Nolbert Chavez is on the ballot for CU Board of Regents, District 7 as the Democratic Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Nolbert Chavez represented Denver's state House District 5 from 1994 to 2002 and was elected to the CU Board of Regents in 2020. He chairs the board's finance committee and is an administrator at CU Denver.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Colorado House of Representatives, District 5, 1994-2002.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "University of Colorado Board of Regents, District 7, elected 2020 (incumbent); chairs the board's finance committee.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "Master's degree in political science and public policy from the University of Colorado Denver; adjunct faculty member in CU Denver's School of Public Affairs and founder of a government affairs and strategic planning consulting firm.",
+      "source_url": "https://ballotpedia.org/Nolbert_Chavez"
+    }
+  ],
+  "education_focus": [
+    {
+      "text": "Chavez says he is running 'to continue to advocate for the lowest tuition possible and for CU to be good stewards' of its funding.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "On federal policy, he says the Trump administration 'has weaponized the federal government against universities' by cutting grant funding, and he 'would not voluntarily commit' CU to its policies.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "On state funding, he says the state legislature is responsible for providing adequate higher-education funding and that he will 'continue to fight for our fair share.'",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    }
+  ],
   "record": [],
   "positions": [],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "CU Board of Regents candidates answer questions on tuition, AI and federal oversight",
+      "url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Voter guide: CU Board of Regents candidates on tuition, AI, and federal oversight",
+      "url": "https://www.chalkbeat.org/colorado/2026/10/05/university-of-colorado-cu-board-of-regents-2026-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Nolbert Chavez - Ballotpedia",
+      "url": "https://ballotpedia.org/Nolbert_Chavez",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "2026 University of Colorado Board of Regents election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_University_of_Colorado_Board_of_Regents_election",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "chavezforcu.com",
+      "url": "https://www.chavezforcu.com/about-nolbert",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Incumbent, confirmed by Chalkbeat, Wikipedia, and Ballotpedia. He did not answer Chalkbeat's competitiveness question. No 2026 Ballotpedia Candidate Connection survey on file."
 }

@@ -5,25 +5,281 @@
   "party": "Republican Party",
   "incumbent": false,
   "profile": "full",
-  "website": null,
+  "website": "https://michaelallenforcolorado.com",
   "summary": [
     {
-      "text": "Michael J. Allen is on the ballot for Attorney General as the Republican Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Michael J. Allen is the elected district attorney for Colorado's 4th Judicial District (El Paso and Teller counties), elected in 2020 and reelected in 2024.",
+      "source_url": "https://michaelallenforcolorado.com/endorsements/"
+    },
+    {
+      "text": "He is the Republican nominee for Colorado attorney general in 2026, having defeated David Willson 59.9%-40.1% in the June 30 primary.",
+      "source_url": "https://ballotpedia.org/Michael_Allen_(Colorado)"
     }
   ],
-  "experience": [],
-  "record": [],
-  "positions": [],
-  "endorsements": [],
+  "experience": [
+    {
+      "text": "Served in the U.S. Navy from 1991 to 1998 as an Aviation Electronics Technician.",
+      "source_url": "https://ballotpedia.org/Michael_Allen_(Colorado)"
+    },
+    {
+      "text": "Bachelor's degree from the University of Northern Colorado (2001) and law degree from the University of Kansas School of Law (2005).",
+      "source_url": "https://ballotpedia.org/Michael_Allen_(Colorado)"
+    },
+    {
+      "text": "Worked as a prosecutor in Kansas, including in the Kansas Attorney General's Office's consumer protection division, before returning to Colorado as a deputy district attorney in the 4th Judicial District.",
+      "source_url": "https://ivoterguide.com/candidate/90112/race/32769/election/1475"
+    }
+  ],
+  "record": [
+    {
+      "kind": "decision",
+      "title": "Created an Organized Crime Unit targeting fentanyl trafficking",
+      "date": "2021-01-01",
+      "detail": "His campaign says the unit, targeting fentanyl traffickers, drug cartels and violent robbery rings, 'has prosecuted more fentanyl-death cases than any other office in Colorado, and secured the longest prison sentences statewide' (exact date not given on the page; bounded to the start of his tenure as DA).",
+      "source_url": "https://michaelallenforcolorado.com"
+    },
+    {
+      "kind": "decision",
+      "title": "Prosecuted the Club Q mass shooting as a hate crime",
+      "date": "2021-01-01",
+      "detail": "Secured what his campaign describes as the second-longest prison sentence in Colorado history (exact date not given on the page; bounded to the start of his tenure as DA).",
+      "source_url": "https://michaelallenforcolorado.com"
+    },
+    {
+      "kind": "decision",
+      "title": "Launched Colorado's first motor vehicle theft team",
+      "date": "2025-01-01",
+      "detail": "His campaign says the team helped cut motor vehicle theft in the district by 50% in 2025.",
+      "source_url": "https://michaelallenforcolorado.com"
+    },
+    {
+      "kind": "decision",
+      "title": "Publicly called for felony fentanyl-possession penalty after Commerce City deaths",
+      "date": "2022-02-22",
+      "detail": "Issued a public statement calling on the governor and legislature to raise fentanyl possession back to a felony and add a mandatory sentencing enhancer for distribution deaths, after five people died of a suspected fentanyl overdose in Commerce City.",
+      "source_url": "https://www.kktv.com/2022/02/23/calls-address-deadly-fentanyl-epidemic-colorado-increase-following-tragedy-commerce-city/"
+    }
+  ],
+  "positions": [
+    {
+      "statement": "abortion-legal",
+      "value": 1,
+      "source_type": "questionnaire",
+      "source_url": "https://ivoterguide.com/candidate/90112/race/32769/election/1475",
+      "source_title": "Michael J. Allen — iVoterGuide Candidate Profile",
+      "date": "2026-06-01",
+      "quote": "Human life deserves legal protection from conception until natural death.",
+      "note": "iVoterGuide does not show an exact response date; the survey appears to have been completed before the June 30, 2026 primary candidate deadline. He also said an elective abortion should be allowed only for a medical emergency."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 2,
+      "source_type": "interest_group_rating",
+      "source_url": "https://michaelallenforcolorado.com/endorsements/",
+      "source_title": "Endorsements - Michael Allen for Colorado",
+      "date": "2026-06-01",
+      "quote": "This rating accurately reflects your support for the Second Amendment and your commitment to defending the right to self-defense for Colorado residents.",
+      "note": "From an NRA Political Victory Fund letter posted on his own campaign site, giving him an 'AQ' rating (the highest given to non-incumbents) for the 2026 primary; exact letter date not shown."
+    },
+    {
+      "statement": "hunting-right",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://michaelallenforcolorado.com/endorsements/",
+      "source_title": "Endorsements - Michael Allen for Colorado",
+      "date": "2026-06-01",
+      "quote": "Our members will see your 'AQ' rating as a sign that you are a strong supporter of gun rights and hunting, advocating for the Right to Keep and Bear Arms.",
+      "note": "NRA-PVF letter praises general support for 'gun rights and hunting,' not a direct statement on Amendment 83's constitutional hunting-rights measure specifically."
+    },
+    {
+      "statement": "immigration-notify-ice",
+      "value": 3,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/06/michael-allen-jena-griswold-colorado-attorney-general-election-voter-guide/",
+      "source_title": "Michael Allen, Jena Griswold: Colorado attorney general election voter guide",
+      "date": "2026-10-06",
+      "quote": "the law already gives us the ability to work with federal agencies when there's criminal elements involved, and I think it's probably fine the way it is now. I'm not sure that we need a ballot measure on that.",
+      "note": "Declined to take a position on the ballot measure itself ('that's up to the voters') while suggesting current law may already be adequate — coded as a mixed/middle position."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 2,
+      "source_type": "questionnaire",
+      "source_url": "https://ivoterguide.com/candidate/90112/race/32769/election/1475",
+      "source_title": "Michael J. Allen — iVoterGuide Candidate Profile",
+      "date": "2026-06-01",
+      "quote": "C - Medicaid and Medicare should remain available but no other taxpayer funded programs are necessary.",
+      "note": "Chose option C of four options ranging from government-funded universal healthcare to abolishing Medicaid/Medicare."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 2,
+      "source_type": "questionnaire",
+      "source_url": "https://ivoterguide.com/candidate/90112/race/32769/election/1475",
+      "source_title": "Michael J. Allen — iVoterGuide Candidate Profile",
+      "date": "2026-06-01",
+      "quote": "Man-made climate change is a global threat and requires urgent political action. Disagree"
+    },
+    {
+      "statement": "natural-gas-right",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://ivoterguide.com/candidate/90112/race/32769/election/1475",
+      "source_title": "Michael J. Allen — iVoterGuide Candidate Profile",
+      "date": "2026-06-01",
+      "quote": "All energy options should be on the table and available to consumers to meet growing demands for energy.",
+      "note": "General 'all energy options' answer, not a direct statement on Amendment 82's natural-gas-hookup measure specifically."
+    },
+    {
+      "statement": "sports-biological-sex",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://ivoterguide.com/candidate/90112/race/32769/election/1475",
+      "source_title": "Michael J. Allen — iVoterGuide Candidate Profile",
+      "date": "2026-06-01",
+      "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison."
+    },
+    {
+      "statement": "minor-gender-surgery-ban",
+      "value": 5,
+      "source_type": "questionnaire",
+      "source_url": "https://ivoterguide.com/candidate/90112/race/32769/election/1475",
+      "source_title": "Michael J. Allen — iVoterGuide Candidate Profile",
+      "date": "2026-06-01",
+      "quote": "Attempts to physically or socially transition a child to the opposite sex constitute child abuse."
+    },
+    {
+      "statement": "mail-ballot-id",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://ivoterguide.com/candidate/90112/race/32769/election/1475",
+      "source_title": "Michael J. Allen — iVoterGuide Candidate Profile",
+      "date": "2026-06-01",
+      "quote": "People should be able to vote without photo identification. Strongly Disagree",
+      "note": "General voter-ID answer, not specific to mail ballots or Amendment 84, so capped at 4 per the coding guide."
+    },
+    {
+      "statement": "fentanyl-penalties",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://www.kktv.com/2022/02/23/calls-address-deadly-fentanyl-epidemic-colorado-increase-following-tragedy-commerce-city/",
+      "source_title": "Calls to address deadly fentanyl epidemic in Colorado increase following tragedy in Commerce City",
+      "date": "2022-02-22",
+      "quote": "The first step should be increasing the penalty for possession of fentanyl back to a felony because as little as 2mg of fentanyl can be deadly.",
+      "note": "Statement made in 2022, predating Proposition 132 on the 2026 ballot, but calling for the same change (felony for any amount, plus a mandatory sentence enhancer for distribution deaths)."
+    },
+    {
+      "statement": "challenge-federal-policies",
+      "value": 3,
+      "source_type": "questionnaire",
+      "source_url": "https://coloradosun.com/2026/10/06/michael-allen-jena-griswold-colorado-attorney-general-election-voter-guide/",
+      "source_title": "Michael Allen, Jena Griswold: Colorado attorney general election voter guide",
+      "date": "2026-10-06",
+      "quote": "I would guess that there's a big chunk of those that we would continue and maybe some that we wouldn't continue, but to tell a specific case that we wouldn't pursue would be improper because I don't know the intricate facts of each one of those cases.",
+      "note": "Explicitly case-by-case on whether to continue AG Weiser's roughly 80 lawsuits against the Trump administration."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "National Rifle Association Political Victory Fund (NRA-PVF)",
+      "source_url": "https://michaelallenforcolorado.com/endorsements/"
+    },
+    {
+      "name": "The Gazette / Denver Gazette Editorial Board",
+      "source_url": "https://www.denvergazette.com/2026/09/06/editorial-michael-allen-for-colorado-attorney-general-more-than-ever/"
+    },
+    {
+      "name": "Republican Attorneys General Association",
+      "source_url": "https://michaelallenforcolorado.com/endorsements/"
+    },
+    {
+      "name": "Bill Owens, former Colorado Governor (1999–2007)",
+      "source_url": "https://michaelallenforcolorado.com/endorsements/"
+    },
+    {
+      "name": "John Suthers, former Colorado Attorney General and Colorado Springs Mayor",
+      "source_url": "https://ivoterguide.com/candidate/90112/race/32769/election/1475"
+    },
+    {
+      "name": "Colorado Springs Police Protective Association",
+      "source_url": "https://ivoterguide.com/candidate/90112/race/32769/election/1475"
+    },
+    {
+      "name": "George Brauchler, former district attorney",
+      "source_url": "https://ivoterguide.com/candidate/90112/race/32769/election/1475"
+    },
+    {
+      "name": "Nancy Henjum, Democratic Colorado Springs City Councilwoman",
+      "source_url": "https://michaelallenforcolorado.com/endorsements/"
+    }
+  ],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Griswold, Allen vie to become next attorney general",
+      "url": "https://www.coloradopolitics.com/2026/10/02/colorado-griswold-allen-attorney-general-race/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Michael Allen, Jena Griswold: Colorado attorney general election voter guide",
+      "url": "https://coloradosun.com/2026/10/06/michael-allen-jena-griswold-colorado-attorney-general-election-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Michael Allen says Colorado attorney general should focus on state issues",
+      "url": "https://www.coloradopolitics.com/2026/09/23/michael-allen-colorado-attorney-general-focus/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Michael J. Allen (Ballotpedia)",
+      "url": "https://ballotpedia.org/Michael_Allen_(Colorado)",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Michael J. Allen — iVoterGuide Candidate Profile",
+      "url": "https://ivoterguide.com/candidate/90112/race/32769/election/1475",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Michael Allen for Colorado Attorney General (campaign site)",
+      "url": "https://michaelallenforcolorado.com",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Endorsements - Michael Allen for Colorado",
+      "url": "https://michaelallenforcolorado.com/endorsements/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "EDITORIAL: Michael Allen for Colorado attorney general — more than ever",
+      "url": "https://www.denvergazette.com/2026/09/06/editorial-michael-allen-for-colorado-attorney-general-more-than-ever/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Calls to address deadly fentanyl epidemic in Colorado increase following tragedy in Commerce City",
+      "url": "https://www.kktv.com/2022/02/23/calls-address-deadly-fentanyl-epidemic-colorado-increase-following-tragedy-commerce-city/",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "A Colorado Sun / Noticias Univision debate between Allen and Griswold was scheduled for 6:30pm MDT on Oct. 14, 2026 (the day this research was done); no recap was available yet, so worth checking for a post-debate article before publishing. Could not source Allen's position on child-trafficking sentencing (Prop 133), public lands, federal tariffs/budget law, or state tax measures (Amendment 87/Prop 136/Prop NN) despite searching — these are less central to an AG race but left unknown rather than guessed. An opinion column (coloradopolitics.com, 'Michael Allen can't be trusted on ICE,' Oct. 2, 2026) attributes a quote to Allen from a radio interview praising an ICE officer's conduct in a fatal shooting; this was not used to code any position because it is reported secondhand through a hostile opinion piece rather than a neutral source — flagged for a reviewer to independently verify if needed. The domain michaelforag.com, which appears in some search results as a Michael Allen gun-issues page, actually resolves to a lapsed site for a different candidate (Michael Dougherty) and was not used.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 12,
+    "positions_unverifiable": 0,
+    "detail": {
+      "abortion-legal": "found",
+      "stricter-gun-laws": "found",
+      "hunting-right": "found",
+      "immigration-notify-ice": "found",
+      "health-coverage": "found",
+      "clean-energy-shift": "found",
+      "natural-gas-right": "found",
+      "sports-biological-sex": "found",
+      "minor-gender-surgery-ban": "found",
+      "mail-ballot-id": "found",
+      "fentanyl-penalties": "found",
+      "challenge-federal-policies": "found"
+    }
+  }
 }

@@ -5,25 +5,245 @@
   "party": "Republican Party",
   "incumbent": true,
   "profile": "full",
-  "website": null,
+  "website": "https://jeffhurdforcolorado.com/",
   "summary": [
     {
-      "text": "Jeff Hurd is on the ballot for U.S. House, District 3 as the Republican Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Jeff Hurd is the incumbent U.S. Representative for Colorado's 3rd Congressional District, in office since January 2025.",
+      "source_url": "https://ballotpedia.org/Jeff_Hurd"
+    },
+    {
+      "text": "He is an attorney who worked at the Grand Junction Area Chamber of Commerce, clerked for 10th Circuit Judge Timothy Tymkovich, and co-owned a law firm before his election.",
+      "source_url": "https://ballotpedia.org/Jeff_Hurd"
+    },
+    {
+      "text": "He was born in Grand Junction, Colorado, in 1979.",
+      "source_url": "https://ballotpedia.org/Jeff_Hurd"
     }
   ],
-  "experience": [],
-  "record": [],
-  "positions": [],
-  "endorsements": [],
-  "finance": null,
+  "experience": [
+    {
+      "text": "Bachelor's degree in liberal studies (classical literature and philosophy), University of Notre Dame",
+      "source_url": "https://ballotpedia.org/Jeff_Hurd"
+    },
+    {
+      "text": "J.D., University of Denver Sturm College of Law, 2008; LL.M., Columbia Law School, 2010",
+      "source_url": "https://ballotpedia.org/Jeff_Hurd"
+    },
+    {
+      "text": "Law clerk, U.S. Court of Appeals for the 10th Circuit, Judge Timothy Tymkovich",
+      "source_url": "https://ballotpedia.org/Jeff_Hurd"
+    },
+    {
+      "text": "Co-owner of a law firm; previously worked at the Grand Junction Area Chamber of Commerce",
+      "source_url": "https://ballotpedia.org/Jeff_Hurd"
+    },
+    {
+      "text": "U.S. House, Colorado's 3rd Congressional District, January 2025-present; chair, Indian and Insular Affairs Subcommittee, House Natural Resources Committee",
+      "source_url": "https://ballotpedia.org/Jeff_Hurd"
+    }
+  ],
+  "record": [
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 1, One Big Beautiful Bill Act, motion to concur in Senate amendment (Roll Call 190)",
+      "date": "2025-07-03",
+      "detail": "Voted Aye. Passed 218-214 and signed into law July 4, 2025.",
+      "source_url": "https://clerk.house.gov/Votes/2025190"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "S. 5, Laken Riley Act, passage (Roll Call 23)",
+      "date": "2025-01-22",
+      "detail": "Voted Yea. Passed 263-156.",
+      "source_url": "https://clerk.house.gov/Votes/2025023"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 28, Protection of Women and Girls in Sports Act, passage (Roll Call 12)",
+      "date": "2025-01-14",
+      "detail": "Voted Yea. Passed 218-206.",
+      "source_url": "https://clerk.house.gov/Votes/2025012"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.J.Res. 72, terminating the national emergency underlying tariffs on Canada (Roll Call 65)",
+      "date": "2026-02-11",
+      "detail": "Voted Yea, one of six Republicans to join Democrats. Passed 219-211.",
+      "source_url": "https://clerk.house.gov/Votes/202665"
+    },
+    {
+      "kind": "decision",
+      "title": "Joint statement with Rep. Joe Neguse on removal of public lands sell-off from the 2025 budget reconciliation bill",
+      "date": "2025-06-25",
+      "detail": "Issued a joint statement with Rep. Neguse after the Senate parliamentarian removed public-lands-sale provisions from the reconciliation bill, after the two worked to strip a related land-sale amendment from the House-passed text.",
+      "source_url": "https://hurd.house.gov/media/press-releases/colorado-representatives-jeff-hurd-and-joe-neguse-statement-removal-public"
+    },
+    {
+      "kind": "decision",
+      "title": "Crystal Reservoir land transfer",
+      "date": "2026-10-07",
+      "detail": "According to Hurd, he introduced legislation transferring the federally owned Crystal Reservoir and surrounding acreage to the City of Ouray to let the community restore a local water resource.",
+      "source_url": "https://www.aspentimes.com/opinion/meet-candidates-colorado-3rd-congressional-district-hurd-romero/"
+    }
+  ],
+  "positions": [
+    {
+      "statement": "federal-budget-law",
+      "value": 4,
+      "source_type": "recorded_vote",
+      "source_url": "https://clerk.house.gov/Votes/2025190",
+      "source_title": "Roll Call 190, H.R. 1 (One Big Beautiful Bill Act), motion to concur in Senate amendment",
+      "date": "2025-07-03",
+      "quote": "Representative Hurd (CO) of Republican from Colorado Voted Aye",
+      "note": "Later said of the bill, \"I supported the legislation while recognizing that it was not perfect\" (Aspen Times, Oct. 7, 2026)."
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 4,
+      "source_type": "recorded_vote",
+      "source_url": "https://clerk.house.gov/Votes/2025023",
+      "source_title": "Roll Call 23, S. 5 (Laken Riley Act), passage",
+      "date": "2025-01-22",
+      "quote": "Representative Hurd (CO) of Republican from Colorado Voted Yea",
+      "note": "Voted for the Laken Riley Act, which expanded mandatory detention of certain noncitizens and enforcement-related authorities."
+    },
+    {
+      "statement": "sports-biological-sex",
+      "value": 4,
+      "source_type": "recorded_vote",
+      "source_url": "https://clerk.house.gov/Votes/2025012",
+      "source_title": "Roll Call 12, H.R. 28 (Protection of Women and Girls in Sports Act), passage",
+      "date": "2025-01-14",
+      "quote": "Representative Hurd (CO) of Republican from Colorado Voted Yea",
+      "note": "Voted for the bill barring transgender girls and women from female school sports teams."
+    },
+    {
+      "statement": "keep-tariffs",
+      "value": 2,
+      "source_type": "recorded_vote",
+      "source_url": "https://clerk.house.gov/Votes/202665",
+      "source_title": "Roll Call 65, H.J.Res. 72, terminating the national emergency underlying tariffs on Canada",
+      "date": "2026-02-11",
+      "quote": "Representative Hurd (CO) of Republican from Colorado Voted Yea",
+      "note": "One of six Republicans who voted to end the Canada tariff emergency; voting Yea is against keeping the tariffs."
+    },
+    {
+      "statement": "public-lands",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://hurd.house.gov/media/press-releases/colorado-representatives-jeff-hurd-and-joe-neguse-statement-removal-public",
+      "source_title": "Colorado Representatives Jeff Hurd and Joe Neguse Statement on Removal of Public Lands Sell Off from Budget Reconciliation Bill",
+      "date": "2025-06-25",
+      "quote": "Republican or Democrat—representing red, purple, or blue districts—one sentiment continues to ring true: public lands are not for sale.",
+      "note": "Joint statement with Rep. Joe Neguse; the two also worked to strip a House-passed land-sale amendment. In an October 2026 Aspen Times Q&A he gave a more qualified version: \"I do not support wholesale sales of our public lands,\" while saying narrowly tailored, locally driven land conveyances can make sense."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://www.aspentimes.com/opinion/meet-candidates-colorado-3rd-congressional-district-hurd-romero/",
+      "source_title": "Q&A: Meet the candidates running for Colorado's 3rd Congressional District",
+      "date": "2026-10-07",
+      "quote": "I support requiring able-bodied adults covered by Medicaid expansion to work, attend school, volunteer or participate in other qualifying activities, while protecting people who cannot reasonably meet those requirements.",
+      "note": "Said this while also calling Medicaid \"essential to healthcare in rural Colorado\" and noting exemptions for vulnerable groups."
+    },
+    {
+      "statement": "abortion-legal",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://www.kjct8.com/2025/06/22/congressman-hurd-speaks-pro-life-rally",
+      "source_title": "Congressman Hurd speaks at Pro-Life rally",
+      "date": "2025-06-22",
+      "quote": "I have my pro-life views, but I understand others disagree and I think that exchange of ideas and sharing perspectives is something important in our society",
+      "note": "Made at a Mesa County Right to Life rally. He has separately been reported (politiquote.gigafact.org, citing a Sept. 30, 2024 debate) as saying \"I'm pro life with exceptions\" and that he would not vote for a federal abortion ban, leaving the issue to states."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "Donald Trump",
+      "source_url": "https://ballotpedia.org/Jeff_Hurd"
+    }
+  ],
+  "finance": {
+    "raised": 3552599,
+    "spent": 1800885,
+    "cash_on_hand": 1760849,
+    "as_of": "2026-06-30",
+    "source_url": "https://www.fec.gov/data/candidate/H4CO03357/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-06-30)."
+  },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Jeff Hurd (Ballotpedia)",
+      "url": "https://ballotpedia.org/Jeff_Hurd",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 190, H.R. 1 (119th Congress)",
+      "url": "https://clerk.house.gov/Votes/2025190",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 23, S. 5 (119th Congress)",
+      "url": "https://clerk.house.gov/Votes/2025023",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 12, H.R. 28 (119th Congress)",
+      "url": "https://clerk.house.gov/Votes/2025012",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Roll Call 65, H.J.Res. 72 (119th Congress, 2026)",
+      "url": "https://clerk.house.gov/Votes/202665",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Representatives Jeff Hurd and Joe Neguse Statement on Removal of Public Lands Sell Off from Budget Reconciliation Bill",
+      "url": "https://hurd.house.gov/media/press-releases/colorado-representatives-jeff-hurd-and-joe-neguse-statement-removal-public",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Q&A: Meet the candidates running for Colorado's 3rd Congressional District",
+      "url": "https://www.aspentimes.com/opinion/meet-candidates-colorado-3rd-congressional-district-hurd-romero/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Congressman Hurd speaks at Pro-Life rally",
+      "url": "https://www.kjct8.com/2025/06/22/congressman-hurd-speaks-pro-life-rally",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "\"I'm pro life with exceptions\" (politiquote.gigafact.org)",
+      "url": "https://politiquote.gigafact.org/quotes/jeff-hurd-f31c58/im-pro-life-with-exceptions-8786a3/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "jeffhurdforcolorado.com",
+      "url": "https://jeffhurdforcolorado.com/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "FEC candidate financial summary",
+      "url": "https://www.fec.gov/data/candidate/H4CO03357/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "No sourceable statement found for Hurd on stricter gun laws, state-level Colorado ballot measures (income tax, TABOR, natural gas right, zoning, mail-ballot ID, plain-language ballots, redistricting commission, mail voting, minor gender-surgery ban, fentanyl/child-trafficking penalties, hunting right, immigration-notify-ICE) or clean-energy-shift; left uncoded rather than inferred from party or committee role. Gigafact's politiquote page (an aggregator) was fetched to double-check an older abortion quote attributed to a Sept. 30, 2024 debate video but was not independently verified against primary video; it is cited only as supporting context in a note, not as the basis for a scored position. congress.gov and govtrack.us (cited heavily in Ballotpedia's footnotes) are blocked to automated fetching per protocol.",
+  "verification": {
+    "checked": "2026-10-15",
+    "positions_verified": 7,
+    "positions_unverifiable": 0,
+    "detail": {
+      "federal-budget-law": "found",
+      "deportation-priority": "found",
+      "sports-biological-sex": "found",
+      "keep-tariffs": "found",
+      "public-lands": "found",
+      "health-coverage": "found",
+      "abortion-legal": "found"
+    }
+  }
 }

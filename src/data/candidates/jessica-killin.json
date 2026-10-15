@@ -5,25 +5,176 @@
   "party": "Democratic Party",
   "incumbent": false,
   "profile": "full",
-  "website": null,
+  "website": "https://www.killinforcolorado.com",
   "summary": [
     {
-      "text": "Jessica Killin is on the ballot for U.S. House, District 5 as the Democratic Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Jessica Killin is a U.S. Army veteran and attorney who served as a Captain and Military Police Officer, and later worked more than a decade at USAA and as a congressional and White House staffer, including as chief of staff to Second Gentleman Doug Emhoff.",
+      "source_url": "https://ballotpedia.org/Jessica_Killin"
+    },
+    {
+      "text": "She is a fourth-generation Colorado native, raised in Colorado Springs by two public school educators, and graduated from Falcon High School and Georgetown University's law school.",
+      "source_url": "https://ballotpedia.org/Jessica_Killin"
+    },
+    {
+      "text": "She is the Democratic nominee for Colorado's 5th Congressional District, challenging incumbent Jeff Crank.",
+      "source_url": "https://ballotpedia.org/Jessica_Killin"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Captain and Military Police Officer, U.S. Army, leading soldiers overseas.",
+      "source_url": "https://ballotpedia.org/Jessica_Killin"
+    },
+    {
+      "text": "Executive, USAA, working on VA home loans and protections for military families, over a decade.",
+      "source_url": "https://ballotpedia.org/Jessica_Killin"
+    },
+    {
+      "text": "Political staffer to Reps. Donna Shalala (D-Fla.), Carolyn Maloney (D-N.Y.), and Marie Gluesenkamp Perez (D-Wash.), and to Second Gentleman Doug Emhoff.",
+      "source_url": "https://ballotpedia.org/Jessica_Killin"
+    },
+    {
+      "text": "J.D., Georgetown University.",
+      "source_url": "https://ballotpedia.org/Jessica_Killin"
+    }
+  ],
   "record": [],
-  "positions": [],
-  "endorsements": [],
-  "finance": null,
+  "positions": [
+    {
+      "statement": "keep-tariffs",
+      "value": 1,
+      "source_type": "questionnaire",
+      "source_url": "https://ballotpedia.org/Jessica_Killin",
+      "source_title": "Jessica Killin (Ballotpedia Candidate Connection survey, 2026)",
+      "date": "2026-01-01",
+      "quote": "I will end the harmful tariffs that are driving up prices, which Jeff Crank has repeatedly voted to protect.",
+      "note": "Only year known; Ballotpedia dates the survey to 2026 without a specific day, so the first of the year is used per protocol."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 4,
+      "source_type": "questionnaire",
+      "source_url": "https://ballotpedia.org/Jessica_Killin",
+      "source_title": "Jessica Killin (Ballotpedia Candidate Connection survey, 2026)",
+      "date": "2026-01-01",
+      "quote": "I will work to reverse Medicaid cuts that raise healthcare costs and take on drug and insurance companies to lower prescription prices and premiums.",
+      "note": "Only year known; Ballotpedia dates the survey to 2026 without a specific day, so the first of the year is used per protocol."
+    },
+    {
+      "statement": "public-lands",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Jessica_Killin",
+      "source_title": "Jessica Killin (Ballotpedia, quoting her campaign website)",
+      "date": "2026-01-01",
+      "quote": "Preserve federal lands used by Coloradans and oppose efforts to sell them off",
+      "note": "Only year known; Ballotpedia dates this to 2026 without a specific day, so the first of the year is used per protocol."
+    },
+    {
+      "statement": "abortion-legal",
+      "value": 4,
+      "source_type": "interest_group_rating",
+      "source_url": "https://ballotpedia.org/Jessica_Killin",
+      "source_title": "Jessica Killin (Ballotpedia Candidate Connection survey, 2026)",
+      "date": "2026-01-01",
+      "quote": "She has also been endorsed by the following national organizations: Defend the Vote, EMILYs List, Elect Democratic Women, Human Rights Campaign, Giffords, League of Conservation Voters Action Fund",
+      "note": "EMILYs List endorses candidates who support abortion rights; capped at 4 per protocol for interest-group endorsements."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 4,
+      "source_type": "interest_group_rating",
+      "source_url": "https://ballotpedia.org/Jessica_Killin",
+      "source_title": "Jessica Killin (Ballotpedia Candidate Connection survey, 2026)",
+      "date": "2026-01-01",
+      "quote": "She has also been endorsed by the following national organizations: Defend the Vote, EMILYs List, Elect Democratic Women, Human Rights Campaign, Giffords, League of Conservation Voters Action Fund",
+      "note": "Giffords is a gun-safety advocacy group; endorsement capped at 4 per protocol."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 4,
+      "source_type": "interest_group_rating",
+      "source_url": "https://ballotpedia.org/Jessica_Killin",
+      "source_title": "Jessica Killin (Ballotpedia Candidate Connection survey, 2026)",
+      "date": "2026-01-01",
+      "quote": "She has also been endorsed by the following national organizations: Defend the Vote, EMILYs List, Elect Democratic Women, Human Rights Campaign, Giffords, League of Conservation Voters Action Fund",
+      "note": "League of Conservation Voters Action Fund endorsement capped at 4 per protocol."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "EMILYs List",
+      "source_url": "https://ballotpedia.org/Jessica_Killin"
+    },
+    {
+      "name": "Giffords",
+      "source_url": "https://ballotpedia.org/Jessica_Killin"
+    },
+    {
+      "name": "League of Conservation Voters Action Fund",
+      "source_url": "https://ballotpedia.org/Jessica_Killin"
+    },
+    {
+      "name": "Human Rights Campaign",
+      "source_url": "https://ballotpedia.org/Jessica_Killin"
+    },
+    {
+      "name": "VoteVets",
+      "source_url": "https://ballotpedia.org/Jessica_Killin"
+    },
+    {
+      "name": "Sen. Michael Bennet",
+      "source_url": "https://ballotpedia.org/Jessica_Killin"
+    },
+    {
+      "name": "Sen. John Hickenlooper",
+      "source_url": "https://ballotpedia.org/Jessica_Killin"
+    }
+  ],
+  "finance": {
+    "raised": 3143744,
+    "spent": 1551102,
+    "cash_on_hand": 1592642,
+    "as_of": "2026-06-30",
+    "source_url": "https://www.fec.gov/data/candidate/H6CO05324/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-06-30)."
+  },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Jessica Killin",
+      "url": "https://ballotpedia.org/Jessica_Killin",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Jessica Killin for Congress (campaign home page)",
+      "url": "https://www.killinforcolorado.com/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "killinforcolorado.com",
+      "url": "https://www.killinforcolorado.com",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "FEC candidate financial summary",
+      "url": "https://www.fec.gov/data/candidate/H6CO05324/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Killin's campaign website issues/priorities pages are a JavaScript-rendered app and could not be read with curl; all issue positions therefore come from her Ballotpedia Candidate Connection survey and campaign-website text as reproduced on Ballotpedia. The Ballotpedia survey's exact completion date within 2026 was not given, so dates were set to 2026-01-01 (year only known) per protocol's convention for a month/day-unknown date, noted in each record.",
+  "verification": {
+    "checked": "2026-10-15",
+    "positions_verified": 6,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-tariffs": "found",
+      "health-coverage": "found",
+      "public-lands": "found",
+      "abortion-legal": "found",
+      "stricter-gun-laws": "found",
+      "clean-energy-shift": "found"
+    }
+  }
 }

@@ -5,25 +5,101 @@
   "party": "Republican Party",
   "incumbent": false,
   "profile": "full",
-  "website": null,
+  "website": "https://www.letsmakecoloradogreatagain.com/",
   "summary": [
     {
-      "text": "Jason Clark is on the ballot for U.S. House, District 6 as the Republican Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Jason Ray Clark is a Colorado native and entrepreneur running for U.S. House in Colorado's 6th District; he previously sought the 2026 Republican nomination for Governor of Colorado.",
+      "source_url": "https://ballotpedia.org/Jason_Ray_Clark_(Colorado)"
+    },
+    {
+      "text": "He served in the U.S. Army from 1988 to 1995 and graduated from the United States Military Academy (West Point) in 1992.",
+      "source_url": "https://ballotpedia.org/Jason_Ray_Clark_(Colorado)"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "U.S. Army, 1988-1995.",
+      "source_url": "https://ballotpedia.org/Jason_Ray_Clark_(Colorado)"
+    },
+    {
+      "text": "Bachelor's degree, United States Military Academy, 1992; high school diploma, Smoky Hill High School.",
+      "source_url": "https://ballotpedia.org/Jason_Ray_Clark_(Colorado)"
+    },
+    {
+      "text": "Worked as an entrepreneur, including in the investment industry.",
+      "source_url": "https://ballotpedia.org/Jason_Ray_Clark_(Colorado)"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "income-tax-cap",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Jason_Ray_Clark_(Colorado)",
+      "source_title": "Jason Ray Clark (Colorado) - Ballotpedia (Candidate Connection survey)",
+      "date": "2025-01-01",
+      "quote": "Nix Colorado’s 5% state income tax.",
+      "note": "From his 2025 Candidate Connection survey response for Governor of Colorado; exact date not given, month/year estimated. Eliminating the income tax goes further than capping it at 4.4%, but is in the same direction, so coded as strongly agreeing with a rate cap."
+    },
+    {
+      "statement": "graduated-income-tax",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Jason_Ray_Clark_(Colorado)",
+      "source_title": "Jason Ray Clark (Colorado) - Ballotpedia (Candidate Connection survey)",
+      "date": "2025-01-01",
+      "quote": "Nix Colorado’s 5% state income tax.",
+      "note": "Calling for eliminating the state income tax outright is incompatible with taxing higher incomes at higher rates; coded as strongly disagreeing with a graduated income tax. Exact date not given, month/year estimated."
+    },
+    {
+      "statement": "keep-tabor-surplus",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Jason_Ray_Clark_(Colorado)",
+      "source_title": "Jason Ray Clark (Colorado) - Ballotpedia (Candidate Connection survey)",
+      "date": "2025-01-01",
+      "quote": "Use TABOR to give Coloradans bigger tax refunds.",
+      "note": "From his 2025 Candidate Connection survey response for Governor of Colorado; exact date not given, month/year estimated."
+    }
+  ],
   "endorsements": [],
-  "finance": null,
+  "finance": {
+    "raised": 0,
+    "spent": 0,
+    "cash_on_hand": null,
+    "as_of": "2026-10-14",
+    "source_url": "https://www.fec.gov/data/candidate/H6CO06165/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "No financial report on file with the FEC as of 2026-10-14. Candidates must file once they raise or spend more than $5,000."
+  },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Jason Ray Clark (Colorado) - Ballotpedia",
+      "url": "https://ballotpedia.org/Jason_Ray_Clark_(Colorado)",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Jason (R) Clark Campaign",
+      "url": "https://www.letsmakecoloradogreatagain.com/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "fec.gov",
+      "url": "https://www.fec.gov/data/candidate/H6CO06165/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Clark's 2026 U.S. House Candidate Connection survey response was very brief (three key messages: Affordability, Jobs, Crime; policy passion: limited government), with no specifics on abortion, guns, immigration, energy, or other statements. Used his more detailed 2025 Candidate Connection survey from his concurrent run for Governor of Colorado, where available, since it is his own words on the same underlying positions; dates are estimated to the first of the survey year since Ballotpedia does not give exact dates. His survey response also describes a legal dispute with the Colorado Attorney General's office over his securities license; this is his own account and was not independently corroborated, so it was left out of the summary. No campaign finance activity reported for this race as of the page's last update ($0). No official campaign website specific to the U.S. House race was found; the site used appears to be his repurposed gubernatorial campaign site. WebSearch budget was exhausted mid-research, limiting further lead-finding for this candidate.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 3,
+    "positions_unverifiable": 0,
+    "detail": {
+      "income-tax-cap": "found",
+      "graduated-income-tax": "found",
+      "keep-tabor-surplus": "found"
+    }
+  }
 }

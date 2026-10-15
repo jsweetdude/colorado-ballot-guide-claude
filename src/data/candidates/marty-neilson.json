@@ -5,25 +5,68 @@
   "party": "Republican Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "http://neilsonforcuregent.com",
   "summary": [
     {
-      "text": "Marty Neilson is on the ballot for CU Board of Regents, District 2 as the Republican Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Marty Neilson is a retired chief financial officer who worked for several companies in Colorado and Texas and holds a master's degree in business management.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Chief financial officer for several companies in Colorado and Texas.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "District-level delegate to the 2016 Republican National Convention from Colorado, one of seven unpledged Colorado delegates.",
+      "source_url": "https://ballotpedia.org/Marty_Neilson"
+    }
+  ],
+  "education_focus": [
+    {
+      "text": "Neilson says CU should look at the total cost of attendance, control costs, improve graduation rates, and target financial aid effectively to address affordability.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "On artificial intelligence, she says it 'should add to education not replace the educational process,' pointing to CU's existing rule that students complete AI training before using it in coursework.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "On federal oversight, she says she would commit CU 'to the law, to academic excellence, to responsible stewardship of public resources' and supports 'equal treatment and transparency' in admissions.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    }
+  ],
   "record": [],
   "positions": [],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "CU Board of Regents candidates answer questions on tuition, AI and federal oversight",
+      "url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Voter guide: CU Board of Regents candidates on tuition, AI, and federal oversight",
+      "url": "https://www.chalkbeat.org/colorado/2026/10/05/university-of-colorado-cu-board-of-regents-2026-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Marty Neilson - Ballotpedia",
+      "url": "https://ballotpedia.org/Marty_Neilson",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "2026 University of Colorado Board of Regents election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_University_of_Colorado_Board_of_Regents_election",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "neilsonforcuregent.com",
+      "url": "http://neilsonforcuregent.com",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Chalkbeat's guide spells this candidate's name 'Marty Nielson' and lists a campaign site at neilsonforcuregent.com; Wikipedia, Ballotpedia, and the Colorado GOP spell it 'Neilson,' used here per the assignment. No Ballotpedia Candidate Connection survey on file for 2026. District 2 is an open seat (incumbent Callie Rennison did not seek re-election); confirmed via Chalkbeat and Wikipedia that no candidate in this race is an incumbent."
 }

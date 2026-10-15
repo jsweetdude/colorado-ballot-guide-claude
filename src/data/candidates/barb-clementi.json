@@ -5,25 +5,97 @@
   "party": "Democratic Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://www.barbclementi.com",
   "summary": [
     {
-      "text": "Barb Clementi is on the ballot for State Board of Education, District 3 as the Democratic Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Barb Clementi is a retired teacher who served two terms on the Pueblo School District 60 Board of Education, including as board president, from 2015 to 2023.",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Colorado_State_Board_of_Education_election"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Pueblo School District 60 Board of Education, two terms (2015-2023), including two years as vice president and two years as president.",
+      "source_url": "https://www.barbclementi.com"
+    },
+    {
+      "text": "Taught in Pueblo schools for close to 30 years.",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    },
+    {
+      "text": "Represented Colorado educators on the National Education Association Board of Directors and served as president of the Colorado Association of School Boards.",
+      "source_url": "https://www.barbclementi.com"
+    }
+  ],
+  "education_focus": [
+    {
+      "text": "Clementi says the state should fully fund and implement the updated School Finance Act and regularly review the rural-district funding allotment.",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    },
+    {
+      "text": "On homeschool enrichment programs, she says the concept 'has been seriously abused over the last ten years' to fund private and religious education, and that 'public funds belong in public schools.'",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    },
+    {
+      "text": "Her campaign site says public education dollars 'should stay in public schools and serve their public purpose, not flow through loopholes to private or religious institutions.'",
+      "source_url": "https://www.barbclementi.com"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "graduated-income-tax",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "source_title": "9 questions for Colorado's State Board of Education candidates this year",
+      "date": "2026-10-07",
+      "quote": "I support Prop NN and Amendment 87; both will bring much needed resources to schools, especially rural schools.",
+      "note": "Unqualified support for both measures."
+    },
+    {
+      "statement": "keep-tabor-surplus",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "source_title": "9 questions for Colorado's State Board of Education candidates this year",
+      "date": "2026-10-07",
+      "quote": "I support Prop NN and Amendment 87; both will bring much needed resources to schools, especially rural schools.",
+      "note": "Same answer, addressing Proposition NN and Amendment 87 together."
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "9 questions for Colorado's State Board of Education candidates this year",
+      "url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Voter guide 2026: How Colorado State Board of Education candidates answered 9 questions",
+      "url": "https://www.chalkbeat.org/colorado/2026/09/30/state-board-of-education-election-2026-candidates-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "2026 Colorado State Board of Education election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Colorado_State_Board_of_Education_election",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Barb Clementi for Colorado State Board of Education CD3",
+      "url": "https://www.barbclementi.com",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "No Ballotpedia Candidate Connection survey on file. She is not the incumbent in this race; the incumbent is Sherri Wright, confirmed via Chalkbeat and Wikipedia.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 2,
+    "positions_unverifiable": 0,
+    "detail": {
+      "graduated-income-tax": "found",
+      "keep-tabor-surplus": "found"
+    }
+  }
 }

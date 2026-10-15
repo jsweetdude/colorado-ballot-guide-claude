@@ -140,7 +140,9 @@ const matchData = JSON.stringify({ id: c.id, positions: c.positions.map((p) => (
 
   <section class="pc-card stack-sm" aria-labelledby="fin-h">
     <h2 id="fin-h">Campaign finance</h2>
-    {c.finance ? (
+    {c.finance && c.finance.raised === 0 && c.finance.cash_on_hand == null ? (
+      <p class="muted">{c.finance.note} <a href={c.finance.source_url}>{c.finance.source_name}</a>.</p>
+    ) : c.finance ? (
       <>
         <dl class="facts">
           <dt>Raised</dt><dd>{money(c.finance.raised)}</dd>

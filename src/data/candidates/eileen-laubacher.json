@@ -5,25 +5,140 @@
   "party": "Democratic Party",
   "incumbent": false,
   "profile": "full",
-  "website": null,
+  "website": "https://eileenforcolorado.com",
   "summary": [
     {
-      "text": "Eileen Laubacher is on the ballot for U.S. House, District 4 as the Democratic Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Eileen Laubacher is a retired U.S. Navy rear admiral who served in the Navy from 1990 to 2024, including as Senior Defense Official and Defense Attache in New Delhi, India, and as Senior Director for South Asia on the National Security Council.",
+      "source_url": "https://eileenforcolorado.com/about"
+    },
+    {
+      "text": "She is a 1990 graduate of the U.S. Naval Academy and lives in Highlands Ranch, Colorado, with her husband and five children.",
+      "source_url": "https://eileenforcolorado.com/about"
+    },
+    {
+      "text": "She is the Democratic nominee for Colorado's 4th Congressional District, challenging incumbent Lauren Boebert.",
+      "source_url": "https://ballotpedia.org/Eileen_Laubacher"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "U.S. Navy, 1990-2024, retiring as a rear admiral.",
+      "source_url": "https://ballotpedia.org/Eileen_Laubacher"
+    },
+    {
+      "text": "Senior Defense Official and Defense Attache, New Delhi, India, 2019-2022.",
+      "source_url": "https://eileenforcolorado.com/about"
+    },
+    {
+      "text": "Senior Director for South Asia, National Security Council, under President Biden.",
+      "source_url": "https://eileenforcolorado.com/about"
+    },
+    {
+      "text": "U.S. Naval Academy, graduated 1990.",
+      "source_url": "https://eileenforcolorado.com/about"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "keep-tariffs",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://eileenforcolorado.com/platform",
+      "source_title": "Eileen on the Issues (campaign platform)",
+      "date": "2026-01-01",
+      "quote": "End tariffs that are increasing the price of fuel, fertilizer, equipment, groceries, and everyday goods",
+      "note": "Only year known; the campaign platform page is undated, so the first of the year is used per protocol. The page was live during the 2026 general election campaign."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://eileenforcolorado.com/platform",
+      "source_title": "Eileen on the Issues (campaign platform)",
+      "date": "2026-01-01",
+      "quote": "We need a healthcare system that works for everyone and is affordable and accessible, so people can receive the care they need without worrying about costs.",
+      "note": "Only year known; the campaign platform page is undated, so the first of the year is used per protocol. The page was live during the 2026 general election campaign."
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://www.coloradopolitics.com/2026/10/02/lauren-boebert-eileen-laubacher-congressional-district-4/",
+      "source_title": "Congressional District 4 | Boebert faces Laubacher",
+      "date": "2026-10-13",
+      "quote": "Securing our border and removing dangerous criminals who are here illegally is necessary. But the administration has gone too far when enforcement becomes indiscriminate and inhumane.",
+      "note": "Supports some enforcement but opposes broad/mass deportation approach; from a Colorado Politics voter-guide questionnaire."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 3,
+      "source_type": "direct_statement",
+      "source_url": "https://eileenforcolorado.com/platform",
+      "source_title": "Eileen on the Issues (campaign platform)",
+      "date": "2026-01-01",
+      "quote": "Power America's future with energy produced right here in Colorado with an all-of-the-above approach that includes clean, traditional, and alternative sources",
+      "note": "Explicit all-of-the-above/mixed position, not a call to accelerate the shift to renewables specifically."
+    }
+  ],
   "endorsements": [],
-  "finance": null,
+  "finance": {
+    "raised": 10349940,
+    "spent": 6739031,
+    "cash_on_hand": 3610909,
+    "as_of": "2026-06-30",
+    "source_url": "https://www.fec.gov/data/candidate/H6CO04202/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-06-30)."
+  },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Eileen Laubacher",
+      "url": "https://ballotpedia.org/Eileen_Laubacher",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Rear Admiral Eileen Laubacher | Democrat for Congress (home page)",
+      "url": "https://eileenforcolorado.com/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "About — Rear Admiral Eileen Laubacher",
+      "url": "https://eileenforcolorado.com/about",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Platform — Rear Admiral Eileen Laubacher",
+      "url": "https://eileenforcolorado.com/platform",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Congressional District 4 | Boebert faces Laubacher",
+      "url": "https://www.coloradopolitics.com/2026/10/02/lauren-boebert-eileen-laubacher-congressional-district-4/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "eileenforcolorado.com",
+      "url": "https://eileenforcolorado.com",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "FEC candidate financial summary",
+      "url": "https://www.fec.gov/data/candidate/H6CO04202/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "No explicit statement on abortion or gun laws was found despite checking her Ballotpedia page, campaign website (About and Platform pages), and the Colorado Politics voter-guide questionnaire; those two statements were left unsourced rather than inferred from her 'keep government out of your personal healthcare decisions' line, which is in a cost-of-care context and does not clearly address abortion. No endorsements were found on a fetched page (Ballotpedia lists only unverified 'Sway voting group' listings, which were not used). She has never held elected office, so the record field is empty per protocol. She is a former Republican who left the party before registering as a Democrat (reported by Colorado Politics/Axios), noted here for context but not used to code any position.",
+  "verification": {
+    "checked": "2026-10-15",
+    "positions_verified": 4,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-tariffs": "found",
+      "health-coverage": "found",
+      "deportation-priority": "found",
+      "clean-energy-shift": "found"
+    }
+  }
 }

@@ -11,7 +11,7 @@ interface Props {
 const { measure: m, level = 3, showLean = false, linkToPage = true } = Astro.props;
 const H = level === 2 ? 'h2' : 'h3';
 const H2 = level === 2 ? 'h3' : 'h4';
-const changes = { constitution: 'The Colorado Constitution', statute: 'Colorado statutes (state law)', 'constitution and statute': 'The Colorado Constitution and Colorado statutes' }[m.changes] ?? m.changes;
+const changes = { constitution: 'The Colorado Constitution', statute: 'Colorado statutes (state law)', 'constitution and statute': 'The Colorado Constitution and Colorado statutes', 'district tax': 'Taxes and debt of the Front Range Passenger Rail District (a voter-approved revenue change under TABOR)' }[m.changes] ?? m.changes;
 const threshold = m.threshold === '55 percent' ? 'At least 55 percent of the votes cast' : 'A simple majority (more than half) of the votes cast';
 const originText = m.origin.charAt(0).toUpperCase() + m.origin.slice(1);
 const linked = statementsForMeasure(m.id);
@@ -34,6 +34,7 @@ const isLocal = m.id.startsWith('issue-');
     <dt>Needs to pass</dt><dd>{threshold}</dd>
   </dl>
 
+  {m.applies_to && <p class="small"><strong>Who votes on it:</strong> {m.applies_to}</p>}
   {(m.yes_means || m.no_means) && (
     <div class="yes-no">
       <div><strong>Yes</strong><span>{m.yes_means}</span></div>

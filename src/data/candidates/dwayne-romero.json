@@ -5,25 +5,172 @@
   "party": "Democratic Party",
   "incumbent": false,
   "profile": "full",
-  "website": null,
+  "website": "https://romeroforcolorado.com",
   "summary": [
     {
-      "text": "Dwayne L. Romero is on the ballot for U.S. House, District 3 as the Democratic Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Dwayne Romero is a business owner and Army veteran from the Aspen/Basalt area running as the Democratic nominee for Colorado's 3rd Congressional District.",
+      "source_url": "https://ballotpedia.org/Dwayne_Romero"
+    },
+    {
+      "text": "He served in the U.S. Army Corps of Engineers from 1984 to 1994, earned a bachelor's degree from the United States Military Academy at West Point in 1987, and an MBA from Harvard Business School in 1997.",
+      "source_url": "https://ballotpedia.org/Dwayne_Romero"
+    },
+    {
+      "text": "He has served as Colorado's state director of economic development under Gov. John Hickenlooper, on the Aspen City Council, and on his local fire protection district, transit authority, and school boards.",
+      "source_url": "https://ballotpedia.org/Dwayne_Romero"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "U.S. Army Corps of Engineers, 1984-1994; Army Ranger School graduate; Bronze Star recipient as a Combat Engineer Executive Officer during the Persian Gulf War",
+      "source_url": "https://ballotpedia.org/Dwayne_Romero"
+    },
+    {
+      "text": "Director of Economic Development, State of Colorado, under Gov. John Hickenlooper",
+      "source_url": "https://ballotpedia.org/Dwayne_Romero"
+    },
+    {
+      "text": "CEO, The Romero Group LLC (real estate management company), 2015-present",
+      "source_url": "https://ballotpedia.org/Dwayne_Romero"
+    },
+    {
+      "text": "Local city council, fire protection district board, regional transit authority board, and school board member (Aspen/Basalt area)",
+      "source_url": "https://ballotpedia.org/Dwayne_Romero"
+    }
+  ],
   "record": [],
-  "positions": [],
-  "endorsements": [],
-  "finance": null,
+  "positions": [
+    {
+      "statement": "keep-tariffs",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Dwayne_Romero",
+      "source_title": "Dwayne Romero (Ballotpedia), 2026 Candidate Connection survey",
+      "date": "2026-10-01",
+      "quote": "I'm going to fight to make it easier, starting with repealing these disastrous tariffs and expanding the Family Tax Credits.",
+      "note": "Lists repealing tariffs as one of his three key campaign messages."
+    },
+    {
+      "statement": "federal-budget-law",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://www.aspentimes.com/opinion/meet-candidates-colorado-3rd-congressional-district-hurd-romero/",
+      "source_title": "Q&A: Meet the candidates running for Colorado's 3rd Congressional District",
+      "date": "2026-10-07",
+      "quote": "I will immediately work to overturn the disastrous healthcare cuts from the One Big Beautiful Bill, and I will work with anyone, from any party, to bring back our Affordable Care Act tax credits.",
+      "note": "Calls the law's Medicaid cuts \"disastrous\" and pledges to work to overturn them."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://www.aspentimes.com/opinion/meet-candidates-colorado-3rd-congressional-district-hurd-romero/",
+      "source_title": "Q&A: Meet the candidates running for Colorado's 3rd Congressional District",
+      "date": "2026-10-07",
+      "quote": "I will immediately work to overturn the disastrous healthcare cuts from the One Big Beautiful Bill, and I will work with anyone, from any party, to bring back our Affordable Care Act tax credits.",
+      "note": "Supports restoring ACA premium tax credits and reversing Medicaid cuts."
+    },
+    {
+      "statement": "public-lands",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://www.aspentimes.com/opinion/meet-candidates-colorado-3rd-congressional-district-hurd-romero/",
+      "source_title": "Q&A: Meet the candidates running for Colorado's 3rd Congressional District",
+      "date": "2026-10-07",
+      "quote": "I do not support selling public lands to private interests. These lands belong to all of us.",
+      "note": "Said any proposal to dispose of public lands or erode multiple-use traditions \"undermines what makes our district what it is.\""
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://www.aspentimes.com/opinion/meet-candidates-colorado-3rd-congressional-district-hurd-romero/",
+      "source_title": "Q&A: Meet the candidates running for Colorado's 3rd Congressional District",
+      "date": "2026-10-07",
+      "quote": "A comprehensive plan means continuing to secure the border, reforming ICE and banning agents from wearing masks, hiring more immigration judges, and outlining a path to legal status for long-time, law-abiding undocumented immigrants.",
+      "note": "Puts a path to legal status and ICE reform alongside border security, and separately criticized \"this broad sweeping of families\" by current enforcement."
+    },
+    {
+      "statement": "abortion-legal",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Dwayne_Romero",
+      "source_title": "Dwayne Romero (Ballotpedia), 2026 Candidate Connection survey",
+      "date": "2026-10-01",
+      "quote": "I will put healthcare at the top of my priority list. We've got to keep rural hospitals open and funded, allow medicare to negotiate lower drug prices, and protect women's access to reproductive healthcare.",
+      "note": "Lists protecting reproductive healthcare access among his healthcare priorities."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "National Education Association",
+      "source_url": "https://ballotpedia.org/Dwayne_Romero"
+    },
+    {
+      "name": "VoteVets",
+      "source_url": "https://ballotpedia.org/Dwayne_Romero"
+    },
+    {
+      "name": "Communications Workers of America, CO/WY States Council",
+      "source_url": "https://ballotpedia.org/Dwayne_Romero"
+    },
+    {
+      "name": "International Brotherhood of Electrical Workers Local #113",
+      "source_url": "https://ballotpedia.org/Dwayne_Romero"
+    },
+    {
+      "name": "Sen. John Hickenlooper",
+      "source_url": "https://ballotpedia.org/Dwayne_Romero"
+    },
+    {
+      "name": "Rep. Jason Crow",
+      "source_url": "https://ballotpedia.org/Dwayne_Romero"
+    }
+  ],
+  "finance": {
+    "raised": 716576,
+    "spent": 632367,
+    "cash_on_hand": 84208,
+    "as_of": "2026-06-30",
+    "source_url": "https://www.fec.gov/data/candidate/H6CO03253/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-06-30)."
+  },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Dwayne Romero (Ballotpedia)",
+      "url": "https://ballotpedia.org/Dwayne_Romero",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Q&A: Meet the candidates running for Colorado's 3rd Congressional District",
+      "url": "https://www.aspentimes.com/opinion/meet-candidates-colorado-3rd-congressional-district-hurd-romero/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "romeroforcolorado.com",
+      "url": "https://romeroforcolorado.com",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "FEC candidate financial summary",
+      "url": "https://www.fec.gov/data/candidate/H6CO03253/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Romero has held several local offices (Aspen-area city council, fire district board, transit authority board, school board) but no specific documented votes or decisions from those roles were found in fetched sources, so 'record' is left empty rather than invented. No statement found on guns, Colorado ballot measures (TABOR, income tax, zoning, redistricting, etc.), or clean-energy-shift specifically.",
+  "verification": {
+    "checked": "2026-10-15",
+    "positions_verified": 6,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-tariffs": "found",
+      "federal-budget-law": "found",
+      "health-coverage": "found",
+      "public-lands": "found",
+      "deportation-priority": "found",
+      "abortion-legal": "found"
+    }
+  }
 }

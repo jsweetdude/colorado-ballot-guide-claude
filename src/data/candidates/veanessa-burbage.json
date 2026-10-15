@@ -5,25 +5,69 @@
   "party": "Republican Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://app.elify.com/vb/c/178690?v=1.1.7.06186",
   "summary": [
     {
-      "text": "Veanessa Burbage is on the ballot for CU Board of Regents, District 6 as the Republican Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Veanessa Burbage holds a bachelor's degree and has owned and operated a medical spa for more than 30 years. She said she has no connection to CU but admires the university.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Owner and operator of a medical spa for more than 30 years.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    }
+  ],
+  "education_focus": [
+    {
+      "text": "Burbage's top priority is affordability; she supports an audit of CU 'to ensure efficient use of all funds.'",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "She says she would support CU's president on building out 'Super Intelligence,' data, and drone centers, and would consult with students and officials on what is needed to succeed with the technology.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "She says she supports 'first amendment (freedom of speech) for everyone' on campus.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    }
+  ],
   "record": [],
   "positions": [],
-  "endorsements": [],
+  "endorsements": [
+    {
+      "name": "Colorado Conservative Warrior (a voter-guide group run by Amber Adames)",
+      "source_url": "https://ballotpedia.org/Veanessa_Burbage"
+    }
+  ],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "CU Board of Regents candidates answer questions on tuition, AI and federal oversight",
+      "url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Voter guide: CU Board of Regents candidates on tuition, AI, and federal oversight",
+      "url": "https://www.chalkbeat.org/colorado/2026/10/05/university-of-colorado-cu-board-of-regents-2026-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Veanessa Burbage - Ballotpedia",
+      "url": "https://ballotpedia.org/Veanessa_Burbage",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "2026 University of Colorado Board of Regents election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_University_of_Colorado_Board_of_Regents_election",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "app.elify.com",
+      "url": "https://app.elify.com/vb/c/178690?v=1.1.7.06186",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "No Ballotpedia Candidate Connection survey found. Her answers to Chalkbeat's questionnaire focus on AI/data-center development rather than the issues covered by the 25 statements, so no positions were sourced."
 }

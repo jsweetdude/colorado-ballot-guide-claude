@@ -5,25 +5,85 @@
   "party": "Republican Party",
   "incumbent": false,
   "profile": "full",
-  "website": null,
+  "website": "https://kelleyforco.com/",
   "summary": [
     {
-      "text": "Kelley Anne Dennison is on the ballot for U.S. House, District 2 as the Republican Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Kelley Dennison is a massage therapist from Estes Park, Colorado, running as the Republican nominee for Colorado's 2nd Congressional District.",
+      "source_url": "https://ballotpedia.org/Kelley_Dennison"
+    },
+    {
+      "text": "She earned a high school diploma from Estes Park High School and graduated from the Academy of Natural Therapy in 2023.",
+      "source_url": "https://ballotpedia.org/Kelley_Dennison"
+    },
+    {
+      "text": "She won the June 30, 2026 Republican primary against Christina Blunt with about 58 percent of the vote.",
+      "source_url": "https://ballotpedia.org/Kelley_Dennison"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Massage therapist; graduate of the Academy of Natural Therapy, 2023",
+      "source_url": "https://ballotpedia.org/Kelley_Dennison"
+    }
+  ],
   "record": [],
-  "positions": [],
-  "endorsements": [],
-  "finance": null,
+  "positions": [
+    {
+      "statement": "deportation-priority",
+      "value": 3,
+      "source_type": "direct_statement",
+      "source_url": "https://www.steamboatpilot.com/news/election-2026-colorado-congressional-district-2-republican-candidates-q-and-a/",
+      "source_title": "Q&A: Colorado's 2nd Congressional District Republican candidates",
+      "date": "2026-06-11",
+      "quote": "We need an immigration system that discourages entrenchment, strengthens border security and creates a lawful path to citizenship that makes following the legal process more worthwhile than taking the risk of entering illegally.",
+      "note": "Explicitly combines stronger border security with a lawful path to citizenship, an explicitly mixed position rather than prioritizing deportation alone."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "Colorado Conservative Warrior (Sway voting group)",
+      "source_url": "https://ballotpedia.org/Kelley_Dennison"
+    }
+  ],
+  "finance": {
+    "raised": 0,
+    "spent": 0,
+    "cash_on_hand": null,
+    "as_of": "2026-10-14",
+    "source_url": "https://www.fec.gov/data/candidate/H6CO02206/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "No financial report on file with the FEC as of 2026-10-14. Candidates must file once they raise or spend more than $5,000."
+  },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Kelley Dennison (Ballotpedia)",
+      "url": "https://ballotpedia.org/Kelley_Dennison",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Q&A: Colorado's 2nd Congressional District Republican candidates",
+      "url": "https://www.steamboatpilot.com/news/election-2026-colorado-congressional-district-2-republican-candidates-q-and-a/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "kelleyforco.com",
+      "url": "https://kelleyforco.com/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "FEC candidate financial summary",
+      "url": "https://www.fec.gov/data/candidate/H6CO02206/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "First-time candidate with a thin public record. Her Ballotpedia Candidate Connection survey (bio and three campaign themes: economic affordability, environmental stewardship, pro-family policies) contains only general statements that don't map to specific statements without stretching (e.g., 'defending our beautiful mountains, rivers and forests' does not specifically address federal land sales or any ballot measure). Her campaign website (kelleyforco.com), including dedicated Second Amendment and Economic Affordability issue pages, is a JavaScript-rendered single-page app that returns no readable text content to curl or WebFetch; the issue pages exist but could not be read. She was also reported to have given interviews to Colorado Public Radio and Colorado Newsline, both of which are blocked to automated fetching per protocol. No prior public office, so 'record' is empty.",
+  "verification": {
+    "checked": "2026-10-15",
+    "positions_verified": 1,
+    "positions_unverifiable": 0,
+    "detail": {
+      "deportation-priority": "found"
+    }
+  }
 }

@@ -8,22 +8,90 @@
   "website": null,
   "summary": [
     {
-      "text": "Frederick Espinoza is on the ballot for State Board of Education, District 1 as the Republican Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Frederick Espinoza owns and operates a small business. He says he fell behind academically in a traditional high school and was put on a path to work and small business through an alternative high school and Warren Tech.",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Small-business owner.",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    },
+    {
+      "text": "Served as an Access-a-Ride driver for disabled riders.",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    }
+  ],
+  "education_focus": [
+    {
+      "text": "Espinoza says his central issue is transparency: giving parents and taxpayers access to real proficiency data, curriculum, budgets, and notice on health and policy decisions.",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    },
+    {
+      "text": "On academic standards, he says the board should put 'grade-level literacy, mathematics, science, American history and civics, and financial literacy' back 'at the center' and that standards should say what students must know, 'not which identity conclusions to reach.'",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    },
+    {
+      "text": "He opposes using declining enrollment alone to deny charter-school applications, saying a charter appeal 'should turn on academics, safety, and finances — not on protecting a district's headcount.'",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/"
+    }
+  ],
   "record": [],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "graduated-income-tax",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "source_title": "9 questions for Colorado's State Board of Education candidates this year",
+      "date": "2026-10-07",
+      "quote": "Amendment 87 is another tax-rule change sold as classroom funding. Keep officials accountable. Vote no.",
+      "note": "Part of his answer opposing both Proposition NN and Amendment 87."
+    },
+    {
+      "statement": "keep-tabor-surplus",
+      "value": 1,
+      "source_type": "direct_statement",
+      "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "source_title": "9 questions for Colorado's State Board of Education candidates this year",
+      "date": "2026-10-07",
+      "quote": "DPS used the Denver School Facilities Leasing Corporation to carry huge off-the-books debt and bypass a TABOR vote. NN permanently keeps TABOR refunds; after ten years the K-12 mandate can expire.",
+      "note": "Part of the same answer opposing both Proposition NN and Amendment 87; begins 'No.'"
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "9 questions for Colorado's State Board of Education candidates this year",
+      "url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Voter guide 2026: How Colorado State Board of Education candidates answered 9 questions",
+      "url": "https://www.chalkbeat.org/colorado/2026/09/30/state-board-of-education-election-2026-candidates-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "2026 Colorado State Board of Education election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Colorado_State_Board_of_Education_election",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Frederick Espinoza - Ballotpedia",
+      "url": "https://ballotpedia.org/Frederick_Espinoza",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "No confirmed campaign website found; a domain matching his name (espinozaforcolorado.com) returned only a 'Coming Soon' placeholder page and was not used as a source.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 2,
+    "positions_unverifiable": 0,
+    "detail": {
+      "graduated-income-tax": "found",
+      "keep-tabor-surplus": "found"
+    }
+  }
 }

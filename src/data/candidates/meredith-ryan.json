@@ -5,25 +5,89 @@
   "party": "Unity Party",
   "incumbent": false,
   "profile": "short",
-  "website": null,
+  "website": "https://votemeredithryan.com",
   "summary": [
     {
-      "text": "Meredith Ryan is on the ballot for U.S. House, District 6 as the Unity Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Meredith Ryan is a Unity Party candidate for Colorado's 6th Congressional District who previously ran for Colorado State Senate District 26 in 2024.",
+      "source_url": "https://ballotpedia.org/Meredith_Ryan"
+    },
+    {
+      "text": "She holds an associate degree from the College of Westchester (1978), a bachelor's degree from Concordia College (2006), and a degree from Princeton Theological Seminary (2010), and has worked as a legal administrative assistant, social services program assistant, and paraprofessional.",
+      "source_url": "https://ballotpedia.org/Meredith_Ryan"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Worked as a legal administrative assistant, social services program assistant, and paraprofessional.",
+      "source_url": "https://ballotpedia.org/Meredith_Ryan"
+    },
+    {
+      "text": "Candidate for Colorado State Senate District 26 in the 2024 general election (did not win office).",
+      "source_url": "https://ballotpedia.org/Meredith_Ryan"
+    }
+  ],
   "record": [],
-  "positions": [],
-  "endorsements": [],
+  "positions": [
+    {
+      "statement": "abortion-legal",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Meredith_Ryan",
+      "source_title": "Meredith Ryan - Ballotpedia (Candidate Connection survey, 2024)",
+      "date": "2024-10-19",
+      "quote": "My political orientation is progressive, and I am pro-choice on abortion.",
+      "note": "From her 2024 Candidate Connection survey for Colorado State Senate District 26; her current 2026 survey does not readdress abortion, but this is her own stated position and no contrary statement was found."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Meredith_Ryan",
+      "source_title": "Meredith Ryan - Ballotpedia (Candidate Connection survey, 2026)",
+      "date": "2026-10-14",
+      "quote": "The USA needs to offer a Green New Deal allowing for advancements in technologies without them being at the expense of working people and their work/career options.",
+      "note": "From her current 2026 Candidate Connection survey; exact submission date not shown on the page, so dated to page access date."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Meredith_Ryan",
+      "source_title": "Meredith Ryan - Ballotpedia (Candidate Connection survey, 2024)",
+      "date": "2024-10-19",
+      "quote": "Continue to make healthcare and health insurance more affordable and accessible to Coloradans.",
+      "note": "From her 2024 Candidate Connection survey for Colorado State Senate District 26."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "Vote for Peace (Reject AIPAC from City Council to Congress sway voting group)",
+      "source_url": "https://ballotpedia.org/Meredith_Ryan"
+    }
+  ],
   "finance": null,
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Meredith Ryan - Ballotpedia",
+      "url": "https://ballotpedia.org/Meredith_Ryan",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "votemeredithryan.com",
+      "url": "https://votemeredithryan.com",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Did not fetch her campaign website (votemeredithryan.com) beyond confirming the URL on Ballotpedia, given the short-profile effort budget; her Ballotpedia Candidate Connection surveys from both 2026 (current race) and 2024 (a prior state senate run) provided enough of her own words to source several positions. Her 2026 survey emphasizes ending U.S. involvement in the Gaza/West Bank conflict, rejecting AIPAC money, overturning Citizens United, and a Green New Deal; no statements found on guns, immigration, tariffs, or the Colorado ballot measures.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 3,
+    "positions_unverifiable": 0,
+    "detail": {
+      "abortion-legal": "found",
+      "clean-energy-shift": "found",
+      "health-coverage": "found"
+    }
+  }
 }

@@ -8,22 +8,53 @@
   "website": null,
   "summary": [
     {
-      "text": "Mark \"Marky Jr\" Elworth is on the ballot for U.S. House, District 5 as the Libertarian Party candidate.",
-      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      "text": "Mark Elworth Jr. is the Libertarian Party candidate for Colorado's 5th Congressional District.",
+      "source_url": "https://ballotpedia.org/Mark_Elworth"
+    },
+    {
+      "text": "He was born in Omaha, Nebraska, graduated from the VanEd Educational Center in 2015, and works as a salesman; he lives in Brush, Colorado.",
+      "source_url": "https://ballotpedia.org/Mark_Elworth"
+    },
+    {
+      "text": "He is a longtime marijuana-legalization activist and perennial candidate who has previously run for office in Nebraska and Colorado.",
+      "source_url": "https://ballotpedia.org/Mark_Elworth"
     }
   ],
-  "experience": [],
+  "experience": [
+    {
+      "text": "Has never held elected office; career experience includes working as a salesman.",
+      "source_url": "https://ballotpedia.org/Mark_Elworth"
+    }
+  ],
   "record": [],
   "positions": [],
   "endorsements": [],
-  "finance": null,
+  "finance": {
+    "raised": 0,
+    "spent": 0,
+    "cash_on_hand": null,
+    "as_of": "2026-10-14",
+    "source_url": "https://www.fec.gov/data/candidate/H4CO03340/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "No financial report on file with the FEC as of 2026-10-14. Candidates must file once they raise or spend more than $5,000."
+  },
   "sources": [
     {
-      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
-      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "title": "Mark Elworth",
+      "url": "https://ballotpedia.org/Mark_Elworth",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Elworth CD5 (Libertarian Party of Colorado flyer, image-only PDF)",
+      "url": "https://lpcolorado.org/wp-content/uploads/sites/26/2026/03/Elworth-CD5.pdf",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "FEC candidate financial summary",
+      "url": "https://www.fec.gov/data/candidate/H4CO03340/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Placeholder: research not yet merged."
+  "research_notes": "Elworth completed a 2026 Ballotpedia Candidate Connection survey, but his answers (ending wars and cutting military spending, minimizing government, cutting taxes and government spending, nationwide marijuana legalization, not accepting donations) do not clearly address any of the 25 statements, so no position was coded. A Libertarian Party of Colorado flyer for his campaign (Elworth-CD5.pdf) is an image-only PDF and could not be read as text. No current campaign website or social media account was found or fetched."
 }
