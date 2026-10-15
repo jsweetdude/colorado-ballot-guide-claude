@@ -1,0 +1,96 @@
+{
+  "id": "amendment-83",
+  "label": "Amendment 83",
+  "title": "Constitutional Right to Hunt and Fish",
+  "changes": "constitution",
+  "origin": "citizen initiative",
+  "threshold": "55 percent",
+  "ballot_title": "Shall there be an amendment to the Colorado Constitution creating a constitutional right to hunt, fish, and harvest fish and wildlife by traditional methods, including all species of fish and wildlife managed by the state except non-game species, endangered species, or any species that is illegal to hunt under federal law, and, in connection therewith, establishing hunting and fishing as the preferred means of managing fish and wildlife populations; and preserving the right of the state to regulate hunting, fishing, and wildlife management if necessary for sound scientific wildlife conservation and management, public safety, or to preserve the future of hunting and fishing opportunities for all species?",
+  "yes_means": "A “yes” vote on Amendment 83 establishes a state constitutional right to hunt and fish.",
+  "no_means": "A “no” vote on Amendment 83 means that hunting and fishing will continue as allowed under existing state and federal law.",
+  "summary": [
+    "Amendment 83 establishes a right in the Colorado Constitution to fish and hunt certain wildlife, and establishes hunting and fishing as the preferred means of managing fish and wildlife populations. The right applies to traditional hunting and fishing methods. It does not apply to species that are not typically hunted or fished (nongame species), endangered species, or any species that is illegal to hunt under federal law. This measure does not change existing laws related to trespassing on private property. It allows the state to regulate hunting, fishing, and wildlife management if necessary for sound scientific reasons, public safety, or to preserve future hunting and fishing opportunities.",
+    "Colorado Parks and Wildlife (CPW) is the state agency responsible for fish and wildlife management in Colorado and administers regulations for hunting and fishing, as adopted by the CPW Commission, a citizen board appointed by the Governor. State law requires wildlife and their environment to be protected, preserved, enhanced, and managed for the use, benefit, and enjoyment of the people and visitors of Colorado.",
+    "The measure results in no immediate change to existing state law or regulations. Hunting and fishing will continue to be allowed under existing state and federal law and regulations. Creating a new constitutional right to hunt and fish may affect how the legislature or CPW Commission makes policies about hunting and fishing, and it could lead to changes depending on how courts interpret the language of the measure when reviewing existing or future policies."
+  ],
+  "arguments_for": [
+    "This measure provides lasting protection against future attempts to restrict or eliminate hunting and fishing, and Colorado should join the 24 other states that similarly protect the right to hunt and fish in their state constitutions. Additionally, hunting and fishing are part of Colorado’s heritage and cultural identity and are important to its tourism and recreation economy. Revenue from hunting and fishing licenses benefits habitat and wildlife management efforts in all areas of the state, with one-third of CPW’s current annual revenue, about $115 million, coming from license sales."
+  ],
+  "arguments_against": [
+    "The state constitution should protect fundamental rights and not recreational activities. Colorado is already a leader in wildlife conservation and management. Enshrining a right to hunt and fish in the Colorado Constitution is unnecessary, and it promotes one method of managing wildlife above others. This measure may restrict the ability to place guardrails on hunting, fishing, and trapping. Further, the use of undefined, vague language could prompt costly legal challenges and undermine reasonable regulations that voters, state lawmakers, and CPW have already put in place."
+  ],
+  "fiscal_impact": [
+    "The measure is not expected to significantly change state spending in the near term, but could result in increased legal costs for the state as the new right to hunt and fish is applied. Specifically, CPW may have increased workload and costs for legal advice when developing new rules and regulations to ensure that they comply with the measure. In addition, if legal challenges to the constitutionality of new or existing hunting and fishing regulations occur, CPW spending on litigation costs will increase. The exact amount of these potential costs cannot be estimated because they depend on the actions of private parties and decisions by the courts."
+  ],
+  "blue_book_pages": "21-23",
+  "behind_it": {
+    "proponents": [
+      {
+        "name": "Suzanne Taheri",
+        "detail": "Designated representative who filed Initiative #302 (the measure that became Amendment 83), West Group",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html"
+      },
+      {
+        "name": "Steven Ward",
+        "detail": "Designated representative who filed Initiative #302 (the measure that became Amendment 83), West Group",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html"
+      },
+      {
+        "name": "Vote Yes on 83",
+        "detail": "Primary support committee; had raised about $1.8 million as of September 21, 2026, with major funding from organizations affiliated with the Theodore Roosevelt Conservation Partnership",
+        "source_url": "https://www.coloradopolitics.com/2026/10/02/right-to-hunt-colorado-amendment-83/"
+      },
+      {
+        "name": "Let's Go Colorado",
+        "detail": "Issue committee registered to support the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "Colorado's Wildlife Deserve Better",
+        "detail": "Issue committee registered to support the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "Hunt to Conserve Colorado",
+        "detail": "Issue committee registered to support the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      }
+    ],
+    "opponents": [
+      {
+        "name": "Protect Colorado's Constitution",
+        "detail": "Issue committee registered to oppose the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "Stop the Constitutional Power Grab",
+        "detail": "Issue committee registered to oppose the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "Colorado Hunters and Anglers for Sensible Wildlife Conservation",
+        "detail": "Issue committee registered to oppose the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "Vote No 83",
+        "detail": "Issue committee registered to oppose the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "People for a Fair Colorado",
+        "detail": "Issue committee registered to oppose the measure (also opposing most other citizen-initiated 2026 measures)",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      }
+    ],
+    "notes": ""
+  },
+  "sources": [
+    { "title": "2026 Colorado State Ballot Information Booklet (Blue Book)", "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf", "accessed": "2026-10-14" },
+    { "title": "Colorado Secretary of State 2025-2026 Initiative Title Board filings", "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html", "accessed": "2026-10-14" },
+    { "title": "Colorado Secretary of State 2026 ballot issue committee contacts", "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html", "accessed": "2026-10-14" },
+    { "title": "Colorado Politics: Amendment 83 | Constitutional right to hunt and fish", "url": "https://www.coloradopolitics.com/2026/10/02/right-to-hunt-colorado-amendment-83/", "accessed": "2026-10-14" }
+  ],
+  "last_checked": "2026-10-14",
+  "research_notes": "Blue Book gives only one Argument For and one Argument Against paragraph, and only a single 'State Spending' Fiscal Impact paragraph (no separate Local Government Spending section) for this measure."
+}

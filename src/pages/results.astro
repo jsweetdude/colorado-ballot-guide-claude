@@ -1,0 +1,250 @@
+---
+import Base from '../layouts/Base.astro';
+import MeasureBody from '../components/MeasureBody.astro';
+import { clientData, measures, localMeasures, statements } from '../lib/data';
+import { LINKS } from '../lib/site';
+import geo from '../data/geography.json';
+
+const data = clientData();
+const payload = JSON.stringify({ ...data, senateUp: geo.state_senate_on_ballot_2026 });
+---
+<Base title="Your results" nav="results" textured description="How the candidates and measures on your ballot line up with your answers.">
+  <section class="page-head" aria-labelledby="h1">
+    <p class="eyebrow">Step 3 of 3</p>
+    <h1 id="h1">Your results</h1>
+    <p class="lede">Each match shows how closely a candidate's sourced positions line up with your answers. It is not a recommendation, and it can only use what candidates have said or done on the record.</p>
+  </section>
+
+  <noscript>
+    <div class="pc-callout pc-callout--warning"><span><strong>Results are computed in your browser with JavaScript.</strong> Without it you can still read every <a href="/races/">race</a> and <a href="/measures/">measure</a>.</span></div>
+  </noscript>
+
+  <section class="pc-card" aria-labelledby="summary-h" id="summary">
+    <h2 id="summary-h">Your ballot and answers</h2>
+    <div id="summary-body" class="stack-sm">
+      <p>Loading your answers…</p>
+    </div>
+    <div class="pc-btn-row no-print">
+      <a class="pc-btn" href="/interview/#review">Change answers</a>
+      <a class="pc-btn" href="/ballot/">Change districts</a>
+      <button class="pc-btn pc-btn--ghost" type="button" id="share-open">Share these answers</button>
+    </div>
+  </section>
+
+  <nav aria-label="On this page" class="no-print">
+    <ul class="toc" id="toc"></ul>
+  </nav>
+
+  <section class="stack-lg" aria-labelledby="cand-h">
+    <div class="stack-sm">
+      <h2 id="cand-h">Candidates</h2>
+      <p class="small muted">Candidates are ranked by match. <strong>Confidence</strong> says how much to trust the number: it rises with how many of your questions the candidate has a known position on, how strong the sources are, and how far ahead of the next candidate they are. <a href="/about/#method">How matching works</a>.</p>
+      <div class="legend" aria-hidden="true"><span><i class="sw-known"></i>Known positions</span><span><i class="sw-unknown"></i>No known position</span></div>
+    </div>
+    <div id="races" class="stack-lg"></div>
+  </section>
+
+  <section class="stack-lg" aria-labelledby="meas-h" id="measures">
+    <div class="stack-sm">
+      <h2 id="meas-h">Statewide measures</h2>
+      <p class="small muted">Every voter in Colorado sees these 14. The lean comes only from your answers to the statements tied to each measure. Descriptions, arguments and fiscal notes are the official Blue Book's own words.</p>
+    </div>
+    {measures.length === 0 && <p class="muted">Measure details are being added.</p>}
+    {measures.map((m) => <MeasureBody measure={m} showLean />)}
+  </section>
+
+  <section class="stack" aria-labelledby="local-h" id="local">
+    <h2 id="local-h">More on your ballot</h2>
+    <div class="pc-card stack-sm" id="legislature"></div>
+    {localMeasures.map((m) => (
+      <div data-local-measure={m.id}>
+        <MeasureBody measure={m} showLean={false} />
+      </div>
+    ))}
+    <div class="pc-card stack-sm">
+      <h3>Judges</h3>
+      <p>Your ballot asks whether to retain a Colorado Supreme Court justice, Court of Appeals judges and judges in your district. This guide does not profile judges. The state's <a href={LINKS.judicial}>Office of Judicial Performance Evaluation</a> publishes an evaluation of each one, also printed in the Blue Book.</p>
+    </div>
+    <div class="pc-card stack-sm">
+      <h3>County and city races</h3>
+      <p>Local offices and measures depend on your exact address. See your official sample ballot at <a href={LINKS.govote}>GoVoteColorado.gov</a>.</p>
+    </div>
+  </section>
+
+  <wa-dialog label="Share these answers" id="share-dialog" light-dismiss>
+    <div class="stack-sm">
+      <p class="small">This link carries your answers and congressional district in the part of the address after the #, which browsers never send to any server. Anyone with the link sees the same matches. Your street address is not included.</p>
+      <label class="pc-field-label" for="share-url">Link</label>
+      <div class="row">
+        <input class="pc-input" id="share-url" readonly style="flex:1" />
+        <wa-copy-button from="share-url.value" copy-label="Copy link" success-label="Copied"></wa-copy-button>
+      </div>
+    </div>
+    <button slot="footer" class="pc-btn" type="button" data-dialog="close">Close</button>
+  </wa-dialog>
+
+  <script type="application/json" id="cbg-data" set:html={payload} />
+</Base>
+
+<script>
+  import '@awesome.me/webawesome/dist/components/dialog/dialog.js';
+  import '@awesome.me/webawesome/dist/components/copy-button/copy-button.js';
+  import { rankRace, measureLean, type Answers, type MatchCandidate } from '../lib/match';
+  import { loadAnswers, loadBallot, saveAnswers, saveBallot, encodeShare, decodeShare, type Ballot } from '../lib/store';
+  import { LIKERT_LABEL } from '../lib/labels';
+
+  interface ClientRace {
+    id: string; office: string; short: string; scope: string; district: number | null; tier: string;
+    candidates: (MatchCandidate & { name: string; party: string; incumbent: boolean; runningMate: string | null })[];
+  }
+  const data = JSON.parse(document.getElementById('cbg-data')!.textContent!) as {
+    statements: { id: string; text: string; measures: { id: string; agree_means: 'yes' | 'no' }[] }[];
+    races: ClientRace[];
+    measures: { id: string; label: string; counties: string[] | null }[];
+    senateUp: number[];
+  };
+  const ids = data.statements.map((s) => s.id);
+  const esc = (s: unknown) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!);
+  const partyName = (p: string) => p.replace(/ Party$/, '');
+
+  // A shared link replaces local answers only for this view, unless the visitor saves them.
+  let answers: Answers = loadAnswers();
+  let ballot: Ballot | null = loadBallot();
+  let fromShare = false;
+  if (location.hash.length > 3) {
+    const shared = decodeShare(location.hash, ids);
+    if (shared) {
+      answers = shared.answers;
+      ballot = { cd: shared.cd, sd: null, hd: null, county: null, source: 'shared' };
+      fromShare = true;
+    }
+  }
+
+  const answered = ids.filter((id) => answers[id]?.value != null).length;
+  const cd = ballot?.cd ?? null;
+
+  // Summary
+  const sum = document.getElementById('summary-body')!;
+  const parts: string[] = [];
+  if (fromShare) {
+    parts.push(`<div class="pc-callout"><span><strong>You are viewing answers from a shared link.</strong> <button type="button" class="pc-btn pc-btn--ghost" id="adopt">Save these as my answers</button></span></div>`);
+  }
+  parts.push(`<p>You answered <strong>${answered} of ${ids.length}</strong> statements${answered < ids.length ? ` and skipped ${ids.length - answered}` : ''}.</p>`);
+  if (answered === 0) {
+    parts.push(`<div class="pc-callout pc-callout--warning"><span><strong>No answers yet.</strong> <a href="/interview/">Take the interview</a> to see matches. Until then, every candidate is listed without a match.</span></div>`);
+  }
+  const d = ballot ?? { cd: null, sd: null, hd: null, county: null };
+  const dist = [d.cd && `congressional district ${d.cd}`, d.sd && `state Senate district ${d.sd}`, d.hd && `state House district ${d.hd}`, d.county && `${d.county} County`].filter(Boolean);
+  parts.push(dist.length ? `<p>Districts: ${esc(dist.join(', '))}.</p>` : `<p>No districts chosen, so only statewide races are shown. <a href="/ballot/">Add your districts</a> to see your U.S. House, CU regent and State Board of Education races.</p>`);
+  sum.innerHTML = parts.join('');
+  document.getElementById('adopt')?.addEventListener('click', () => {
+    saveAnswers(answers);
+    if (ballot) saveBallot(ballot);
+    history.replaceState(null, '', location.pathname);
+    location.reload();
+  });
+
+  // Which races are on this ballot
+  const onBallot = data.races.filter((r) => r.scope === 'statewide' || (cd != null && r.district === cd));
+  const toc = document.getElementById('toc')!;
+  const tocItems = onBallot.map((r) => `<li><a href="#race-${r.id}">${esc(r.short)}</a></li>`);
+  tocItems.push(`<li><a href="#measures">Statewide measures</a></li>`, `<li><a href="#local">More on your ballot</a></li>`);
+  toc.innerHTML = tocItems.join('');
+
+  const coverageMeter = (known: number, total: number) => {
+    const pct = total ? Math.round((known / total) * 100) : 0;
+    return `<span class="coverage" aria-hidden="true"><span class="known" style="width:${pct}%"></span><span class="unknown"></span></span>`;
+  };
+
+  function raceHtml(r: ClientRace): string {
+    const ranked = rankRace(answers, r.candidates);
+    const byId = new Map(r.candidates.map((c) => [c.id, c]));
+    const rankedRows = ranked.filter((c) => c.rank != null);
+    const unranked = ranked.filter((c) => c.rank == null);
+    const who = (id: string) => {
+      const c = byId.get(id)!;
+      const mate = c.runningMate ? ` with ${esc(c.runningMate)}` : '';
+      return `<a class="cand-name" href="/candidates/${c.id}/">${esc(c.name)}</a>${mate}<div class="small muted">${esc(partyName(c.party))}${c.incumbent ? ' · Incumbent' : ''}</div>`;
+    };
+    let html = `<section class="race-section" id="race-${r.id}" aria-labelledby="race-${r.id}-h">
+      <div class="race-head"><h3 id="race-${r.id}-h">${esc(r.office)}</h3><a class="small" href="/races/${r.id}/">Race details and all candidates</a></div>
+      <div class="pc-card">`;
+    if (answered === 0) {
+      html += `<ul class="stack-sm">${r.candidates.map((c) => `<li>${who(c.id)}</li>`).join('')}</ul>`;
+    } else {
+      if (rankedRows.length) {
+        html += `<div class="pc-table-wrap"><table class="pc-table results-table">
+          <caption>Ranked by match with your answers. Not a recommendation.</caption>
+          <thead><tr><th scope="col">Candidate</th><th scope="col">Match</th><th scope="col">Confidence</th><th scope="col">Based on</th></tr></thead><tbody>`;
+        for (const c of rankedRows) {
+          const top = c.top ? ` <span class="pc-badge badge-top">${c.tie ? 'Tied top match' : 'Top match'}</span>` : '';
+          html += `<tr>
+            <th scope="row">${who(c.id)}${top}</th>
+            <td><span class="pct">${c.percent}%</span><span class="match-bar" aria-hidden="true"><span style="--value:${c.percent}%"></span></span></td>
+            <td><span class="pc-badge conf-${c.confidence}">${c.confidence}</span></td>
+            <td><span class="small">based on ${c.overlap} of ${c.answered} questions</span>${coverageMeter(c.overlap, c.answered)}</td>
+          </tr>`;
+        }
+        html += `</tbody></table></div>`;
+      } else {
+        html += `<p class="muted">No candidate in this race has sourced positions on enough of the questions you answered to rank.</p>`;
+      }
+      if (unranked.length) {
+        html += `<div class="unranked"><h4>Not enough known to rank</h4>
+          <p class="small muted">These candidates have a sourced position on fewer than a third of the questions you answered.</p>
+          <ul>${unranked.map((c) => `<li><span>${who(c.id)}</span><span class="small muted">known on ${c.overlap} of ${c.answered} of your questions</span></li>`).join('')}</ul></div>`;
+      }
+    }
+    html += `</div></section>`;
+    return html;
+  }
+
+  const racesEl = document.getElementById('races')!;
+  let racesHtml = onBallot.map(raceHtml).join('');
+  if (cd == null) {
+    racesHtml += `<div class="pc-callout"><span><strong>Your U.S. House race is not shown.</strong> <a href="/ballot/">Add your congressional district</a>, or browse <a href="/races/">all eight House races</a>.</span></div>`;
+  }
+  racesEl.innerHTML = racesHtml;
+
+  // Legislature block
+  const leg = document.getElementById('legislature')!;
+  const sdLine = d.sd
+    ? data.senateUp.includes(d.sd)
+      ? `Your state Senate district, <strong>${d.sd}</strong>, has a race on this ballot.`
+      : `Your state Senate district, <strong>${d.sd}</strong>, is not up for election this year.`
+    : 'Add your districts to see your state Senate district.';
+  const hdLine = d.hd ? `Your state House district is <strong>${d.hd}</strong>; all 65 House seats are on the ballot.` : '';
+  leg.innerHTML = `<h3>State legislature</h3><p>${sdLine} ${hdLine}</p>
+    <p class="small">This guide does not profile the roughly 200 legislative candidates. See them in the <a href="https://www.vote411.org/ballot">League of Women Voters' Vote411 guide</a> and on the <a href="https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html">Secretary of State's certified candidate list</a>.</p>`;
+
+  // Local measures: show only when the county is in the district list, or when the county is unknown.
+  document.querySelectorAll<HTMLElement>('[data-local-measure]').forEach((el) => {
+    const m = data.measures.find((x) => x.id === el.dataset.localMeasure);
+    if (m?.counties && d.county && !m.counties.includes(d.county)) el.hidden = true;
+  });
+
+  // Measure leans
+  const stmtText = new Map(data.statements.map((s) => [s.id, s.text]));
+  for (const badge of document.querySelectorAll<HTMLElement>('[data-lean-for]')) {
+    const id = badge.dataset.leanFor!;
+    const r = measureLean(answers, id, data.statements);
+    badge.className = `pc-badge lean-${r.lean}`;
+    badge.textContent = r.lean === 'yes' ? 'Your answers lean yes' : r.lean === 'no' ? 'Your answers lean no' : 'Lean: unclear';
+    const why = document.querySelector<HTMLElement>(`[data-lean-why="${id}"]`);
+    if (why) {
+      if (!r.drivers.length) why.textContent = 'You skipped the related statement, so there is no lean.';
+      else
+        why.textContent =
+          'Based on your answer' + (r.drivers.length > 1 ? 's' : '') + ': ' +
+          r.drivers.map((x) => `${LIKERT_LABEL[answers[x.statement]!.value!].toLowerCase()} with “${stmtText.get(x.statement)}”`).join('; ') + '.';
+    }
+  }
+
+  // Share dialog
+  const dialog = document.getElementById('share-dialog') as HTMLElement & { open: boolean };
+  document.getElementById('share-open')!.addEventListener('click', () => {
+    const url = `${location.origin}/results/#${encodeShare(answers, ids, cd)}`;
+    (document.getElementById('share-url') as HTMLInputElement).value = url;
+    dialog.open = true;
+  });
+</script>

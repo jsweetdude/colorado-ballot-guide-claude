@@ -1,0 +1,82 @@
+{
+  "id": "amendment-82",
+  "label": "Amendment 82",
+  "title": "Constitutional Right to Purchase and Sell Natural Gas",
+  "changes": "constitution",
+  "origin": "citizen initiative",
+  "threshold": "55 percent",
+  "ballot_title": "Shall there be an amendment to the Colorado Constitution creating new law granting the right for consumers to purchase natural gas for cooking or heating in homes or businesses and for distributors and utilities to sell natural gas to consumers?",
+  "yes_means": "A “yes” vote on Amendment 82 establishes a state constitutional right to purchase and sell natural gas for use in homes and businesses.",
+  "no_means": "A “no” vote on Amendment 82 maintains current law and regulations related to the purchase and sale of natural gas.",
+  "summary": [
+    "Natural gas is a fossil fuel comprised primarily of methane. It can be used to power appliances such as furnaces, water heaters, clothes dryers, stoves, and ovens for both residential and commercial properties. Other common household energy sources in Colorado include electricity and propane, which can be used to power these same appliances.",
+    "The state regulates investor-owned natural gas utilities through the Public Utilities Commission (PUC), including rates, safety, and clean heat plans. In December 2025, the PUC issued a rule requiring these utilities to submit plans for a 41 percent reduction in greenhouse gas emissions by 2035, compared to 2015 levels, which align with emission targets in state law. The Colorado Department of Public Health and Environment regulates air pollution and sets emissions standards for natural gas appliances. Local governments may also regulate the installation and repair of natural gas service, delivery, pipelines, and appliances. Several municipalities in Colorado have restricted the installation of natural gas appliances in new construction or certain renovation projects. For example, the Town of Crested Butte recently updated its building code, requiring that new residential buildings use electricity for heating, hot water heaters, and other appliances.",
+    "This measure will establish the right to purchase and sell natural gas for homes and businesses in the state constitution. By doing so, it may limit the ability for state or local governments to enforce existing or future regulations related to natural gas."
+  ],
+  "arguments_for": [
+    "Natural gas is an affordable and widely available energy source that reliably heats homes and businesses, including during periods of extreme cold. Natural gas appliances are proven technologies, and most households in Colorado rely on natural gas as their primary heating source. This measure will ensure continued access to natural gas without interference from state or local governments."
+  ],
+  "arguments_against": [
+    "Using natural gas contributes to climate change through emitting greenhouse gases, leads to air pollution, and should not be protected in the state constitution. Doing so limits efforts to reduce greenhouse gas emissions, improve air quality, and adopt more sustainable options, such as wind, solar, and geothermal energy. Local communities should have the ability to make decisions about public health priorities, energy needs, and climate goals."
+  ],
+  "fiscal_impact": [
+    "The measure may minimally increase expenditures for state agencies, primarily the Department of Local Affairs, to revise technical assistance to local governments concerning building codes that conflict with the right to purchase or sell natural gas. The measure may also increase workload and legal services for state agencies that regulate or monitor emissions from natural gas utilities or intervene in those cases, including the Public Utilities Commission, the Department of Natural Resources, the Department of Public Health and Environment, and the Colorado Energy Office.",
+    "Local governments that currently have or are considering building codes that regulate, prohibit or restrict natural gas in commercial and residential development may have increased legal services and costs to conform the codes with state law, and to modify permitting, inspection, and compliance activities."
+  ],
+  "blue_book_pages": "19-20",
+  "behind_it": {
+    "proponents": [
+      {
+        "name": "Michael Fields",
+        "detail": "Designated representative who filed Initiative #177 (the measure that became Amendment 82); executive director of Advance Colorado",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html"
+      },
+      {
+        "name": "Steven Ward",
+        "detail": "Designated representative who filed Initiative #177 (the measure that became Amendment 82), Advance Colorado",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html"
+      },
+      {
+        "name": "Energy Freedom Alliance of the Rockies",
+        "detail": "Issue committee registered to support the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "Brighter Colorado",
+        "detail": "Issue committee registered to support the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "Affordable Colorado",
+        "detail": "Issue committee registered to support the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      }
+    ],
+    "opponents": [
+      {
+        "name": "No Pollution in the Constitution",
+        "detail": "Issue committee registered to oppose the measure; had raised about $317,000 as of September 21, 2026",
+        "source_url": "https://www.coloradopolitics.com/2026/10/02/constitutional-right-natural-gas-colorado-amendment-82/"
+      },
+      {
+        "name": "Vote Common Sense",
+        "detail": "Issue committee registered to oppose the measure; had raised just under $500,000 as of the article date, and is also challenging several other 2026 ballot measures",
+        "source_url": "https://www.coloradopolitics.com/2026/10/02/constitutional-right-natural-gas-colorado-amendment-82/"
+      },
+      {
+        "name": "People for a Fair Colorado",
+        "detail": "Issue committee registered to oppose the measure (also opposing most other citizen-initiated 2026 measures)",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      }
+    ],
+    "notes": "Advance Colorado (Michael Fields) is described in reporting as the organization backing several 2026 amendments, including this one."
+  },
+  "sources": [
+    { "title": "2026 Colorado State Ballot Information Booklet (Blue Book)", "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf", "accessed": "2026-10-14" },
+    { "title": "Colorado Secretary of State 2025-2026 Initiative Title Board filings", "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html", "accessed": "2026-10-14" },
+    { "title": "Colorado Secretary of State 2026 ballot issue committee contacts", "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html", "accessed": "2026-10-14" },
+    { "title": "Colorado Politics: Amendment 82 | Constitutional right to use natural gas", "url": "https://www.coloradopolitics.com/2026/10/02/constitutional-right-natural-gas-colorado-amendment-82/", "accessed": "2026-10-14" }
+  ],
+  "last_checked": "2026-10-14",
+  "research_notes": "Blue Book gives only one Argument For and one Argument Against paragraph for this measure (singular 'Argument For/Against Amendment 82' headers, not plural)."
+}

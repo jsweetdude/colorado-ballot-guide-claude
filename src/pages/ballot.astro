@@ -1,0 +1,152 @@
+---
+import Base from '../layouts/Base.astro';
+import geo from '../data/geography.json';
+import { LINKS } from '../lib/site';
+
+const range = (n: number) => Array.from({ length: n }, (_, i) => i + 1);
+---
+<Base title="Find your ballot" nav="ballot" description="Find your congressional, state Senate and state House districts from your address, or pick them yourself.">
+  <section class="page-head" aria-labelledby="h1">
+    <p class="eyebrow">Step 1 of 3 · optional</p>
+    <h1 id="h1">Find your ballot</h1>
+    <p class="lede">Your address decides which U.S. House race, CU regent and State Board of Education seats are on your ballot. Enter it to look up your districts, pick them yourself, or skip this step and see the statewide races only.</p>
+  </section>
+
+  <section class="pc-card" aria-labelledby="addr-h">
+    <h2 id="addr-h">Look up by address</h2>
+    <form id="addr-form" class="stack" novalidate>
+      <div class="pc-field">
+        <label for="address">Street address, city and ZIP code</label>
+        <input class="pc-input" id="address" name="address" type="text" autocomplete="street-address" inputmode="text" aria-describedby="address-hint address-error" />
+        <span class="pc-hint" id="address-hint">For example: 1300 Broadway, Denver, CO 80203. Sent once to the free U.S. Census Geocoder through this site's server, then forgotten. Not stored, not logged, never shared with any other service.</span>
+        <span class="pc-error" id="address-error" hidden></span>
+      </div>
+      <div class="pc-btn-row">
+        <button class="pc-btn pc-btn--primary" type="submit" id="addr-submit">Look up my districts</button>
+      </div>
+      <div id="addr-status" role="status" aria-live="polite" class="small"></div>
+    </form>
+  </section>
+
+  <section class="pc-card" aria-labelledby="pick-h">
+    <div class="stack-sm">
+      <h2 id="pick-h">Your districts</h2>
+      <p class="small muted" id="pick-help">Filled in from your address if you looked it up. You can change any of them. CU regent and State Board of Education districts match your congressional district.</p>
+    </div>
+    <form id="district-form" class="stack">
+      <div class="district-grid">
+        <div class="pc-field">
+          <label for="cd">Congressional district</label>
+          <select class="pc-select" id="cd" name="cd">
+            <option value="">Not sure / skip</option>
+            {range(geo.congressional_districts).map((n) => <option value={n}>District {n}</option>)}
+          </select>
+        </div>
+        <div class="pc-field">
+          <label for="county">County</label>
+          <select class="pc-select" id="county" name="county">
+            <option value="">Not sure / skip</option>
+            {geo.counties.map((c) => <option value={c}>{c}</option>)}
+          </select>
+        </div>
+        <div class="pc-field">
+          <label for="sd">State Senate district</label>
+          <select class="pc-select" id="sd" name="sd">
+            <option value="">Not sure / skip</option>
+            {range(geo.state_senate_districts).map((n) => <option value={n}>District {n}</option>)}
+          </select>
+        </div>
+        <div class="pc-field">
+          <label for="hd">State House district</label>
+          <select class="pc-select" id="hd" name="hd">
+            <option value="">Not sure / skip</option>
+            {range(geo.state_house_districts).map((n) => <option value={n}>District {n}</option>)}
+          </select>
+        </div>
+      </div>
+      <p class="small muted">Not sure? Your official sample ballot at <a href={LINKS.govote}>GoVoteColorado.gov</a> lists your districts.</p>
+      <div class="pc-btn-row">
+        <button class="pc-btn pc-btn--primary" type="submit">Use these districts and continue</button>
+        <button class="pc-btn pc-btn--ghost" type="button" id="skip">Skip: statewide races only</button>
+      </div>
+    </form>
+  </section>
+</Base>
+
+<script>
+  import { loadBallot, saveBallot, type Ballot } from '../lib/store';
+
+  const $ = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
+  const addrForm = $('addr-form') as HTMLFormElement;
+  const addr = $('address') as HTMLInputElement;
+  const err = $('address-error');
+  const status = $('addr-status');
+  const submit = $('addr-submit') as HTMLButtonElement;
+  const selects = { cd: $('cd') as HTMLSelectElement, sd: $('sd') as HTMLSelectElement, hd: $('hd') as HTMLSelectElement, county: $('county') as HTMLSelectElement };
+  let source: Ballot['source'] = 'manual';
+
+  function fill(b: Partial<Ballot>) {
+    if (b.cd) selects.cd.value = String(b.cd);
+    if (b.sd) selects.sd.value = String(b.sd);
+    if (b.hd) selects.hd.value = String(b.hd);
+    if (b.county) selects.county.value = b.county;
+  }
+  const saved = loadBallot();
+  if (saved) fill(saved);
+
+  function showError(msg: string) {
+    err.textContent = msg;
+    err.hidden = !msg;
+    addr.setAttribute('aria-invalid', msg ? 'true' : 'false');
+  }
+
+  addrForm.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    showError('');
+    const address = addr.value.trim();
+    if (address.length < 5) {
+      showError('Enter a street address, city and ZIP code.');
+      addr.focus();
+      return;
+    }
+    submit.disabled = true;
+    status.textContent = 'Looking up your districts…';
+    try {
+      const r = await fetch('/api/districts', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ address }),
+      });
+      const data = await r.json().catch(() => ({}));
+      if (!r.ok || !data.found) {
+        status.textContent = '';
+        showError(data.error ?? 'The lookup did not work. Pick your districts below.');
+        addr.focus();
+        return;
+      }
+      fill(data.districts);
+      source = 'address';
+      const d = data.districts;
+      status.textContent = `Found ${data.matchedAddress ?? 'your address'}: congressional district ${d.cd ?? 'unknown'}, state Senate district ${d.sd ?? 'unknown'}, state House district ${d.hd ?? 'unknown'}, ${d.county ?? 'unknown'} County. Check them below, then continue.`;
+      addr.value = '';
+    } catch {
+      status.textContent = '';
+      showError('The lookup did not work. Check your connection, or pick your districts below.');
+    } finally {
+      submit.disabled = false;
+    }
+  });
+
+  const num = (s: HTMLSelectElement) => (s.value ? Number(s.value) : null);
+  ($('district-form') as HTMLFormElement).addEventListener('submit', (e) => {
+    e.preventDefault();
+    const b: Ballot = { cd: num(selects.cd), sd: num(selects.sd), hd: num(selects.hd), county: selects.county.value || null, source };
+    if (!b.cd && !b.sd && !b.hd && !b.county) b.source = 'skipped';
+    saveBallot(b);
+    location.href = '/interview/';
+  });
+  $('skip').addEventListener('click', () => {
+    saveBallot({ cd: null, sd: null, hd: null, county: null, source: 'skipped' });
+    location.href = '/interview/';
+  });
+</script>

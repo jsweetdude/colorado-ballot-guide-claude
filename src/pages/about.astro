@@ -1,0 +1,107 @@
+---
+import Base from '../layouts/Base.astro';
+import { statements, candidates, races } from '../lib/data';
+import { CONFIDENCE_RULES, IMPORTANCE_WEIGHT, SOURCE_QUALITY, SOURCE_LABEL } from '../lib/match';
+import { AXIS_LABEL, measureLabel } from '../lib/labels';
+import { SITE, DATA_LAST_CHECKED_LABEL, LINKS } from '../lib/site';
+
+const pct = (x: number) => `${Math.round(x * 100)} percent`;
+const totalPositions = candidates.reduce((n, c) => n + c.positions.length, 0);
+const axes = ['economic', 'social', 'governance'] as const;
+---
+<Base title="About and method" nav="about" description="How the Colorado Ballot Guide matches answers to candidates, how confidence works, and where the data comes from.">
+  <section class="page-head" aria-labelledby="h1">
+    <h1 id="h1">About and method</h1>
+    <p class="lede">The Colorado Ballot Guide was built by John Sweet as a personal project. No money was spent on it. It is not affiliated with any campaign, party or organization, and it does not endorse any candidate or measure.</p>
+  </section>
+
+  <section class="prose" aria-labelledby="what-h">
+    <h2 id="what-h">What it covers</h2>
+    <p>The U.S. Senate race, governor and lieutenant governor, attorney general, secretary of state, state treasurer, all eight U.S. House districts, three CU Board of Regents seats, three State Board of Education seats, and all 14 statewide ballot measures, plus the Front Range Passenger Rail District's Ballot Issue 7A where it applies. That is {races.length} races and {candidates.length} candidates, every candidate certified by the Secretary of State on September 4, 2026, except write-ins.</p>
+    <p>It does not profile the roughly 200 state legislative candidates or judges. For those, see <a href={LINKS.vote411}>Vote411</a> and the <a href={LINKS.judicial}>Office of Judicial Performance Evaluation</a>.</p>
+  </section>
+
+  <section class="prose" aria-labelledby="method" id="method">
+    <h2 id="method-h">How matching works</h2>
+    <p>You answer each statement on a five-point scale, from strongly disagree (1) to strongly agree (5), and set how much it matters: low, normal or high. Skipped statements are left out entirely. Each candidate's position on a statement is coded on the same scale from a sourced vote, bill, questionnaire answer, statement or rating.</p>
+    <p>For each statement that you answered <em>and</em> the candidate has a known position on:</p>
+    <pre><code>points = weight × (4 − |your answer − candidate's position|) ÷ 4
+weight = {IMPORTANCE_WEIGHT.low} for low, {IMPORTANCE_WEIGHT.normal} for normal, {IMPORTANCE_WEIGHT.high} for high importance</code></pre>
+    <p>So the same answer earns the full weight, one step apart earns three quarters, and opposite ends of the scale earn nothing. The match percentage is the points earned divided by the most points possible on those same statements:</p>
+    <pre><code>match = sum of points ÷ sum of weights, on the statements you share</code></pre>
+    <p>“Based on N of M questions” means the candidate has a known position on N of the M statements you answered. Statements where the candidate's position is unknown do not count for or against them.</p>
+    <p>A candidate is ranked only if they have a known position on at least a third of the statements you answered (and at least {CONFIDENCE_RULES.rankableMinimum}). Others are listed under “not enough known to rank.” A high match with a candidate who has said little is not a strong signal, so the guide does not pretend it is.</p>
+
+    <h2 id="confidence">How confidence works</h2>
+    <p>Confidence says how much weight to put on a match. It uses three things:</p>
+    <ul>
+      <li><strong>Coverage:</strong> known positions ÷ statements you answered.</li>
+      <li><strong>Source quality:</strong> the average quality of the sources behind the shared statements. A recorded vote, sponsored bill, questionnaire answer or direct statement counts {SOURCE_QUALITY.recorded_vote}; an interest-group rating {SOURCE_QUALITY.interest_group_rating}; an inferred position {SOURCE_QUALITY.inferred}.</li>
+      <li><strong>Margin:</strong> how many percentage points separate the candidate from the nearest other ranked candidate in the race. A close race lowers confidence for both.</li>
+    </ul>
+    <div class="pc-table-wrap pc-card">
+      <table class="pc-table">
+        <caption class="visually-hidden">Confidence rules</caption>
+        <thead><tr><th scope="col">Level</th><th scope="col">All of these must hold</th></tr></thead>
+        <tbody>
+          <tr><th scope="row">High</th><td>Coverage at least {pct(CONFIDENCE_RULES.high.coverage)}, source quality at least {CONFIDENCE_RULES.high.quality}, margin at least {CONFIDENCE_RULES.high.margin} points, and at least {CONFIDENCE_RULES.high.minOverlap} shared statements</td></tr>
+          <tr><th scope="row">Medium</th><td>Coverage at least a third, source quality at least {CONFIDENCE_RULES.medium.quality}, margin at least {CONFIDENCE_RULES.medium.margin} points, and at least {CONFIDENCE_RULES.medium.minOverlap} shared statements</td></tr>
+          <tr><th scope="row">Low</th><td>Anything else</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p>When only one candidate in a race can be ranked, margin is left out.</p>
+
+    <h2 id="leans">How measure leans work</h2>
+    <p>Each measure is tied to one or two statements, and each tie says whether agreeing points to a yes or a no vote. The lean adds up weight × (your answer − 3) across those statements, flipping the sign where agreeing points to no. Above zero leans yes, below zero leans no. If you skipped the statements, answered neither agree nor disagree, or your answers cancel out, the lean is “unclear.” A lean is a reading of your own answers, not advice.</p>
+  </section>
+
+  <section class="prose" aria-labelledby="data-h">
+    <h2 id="data-h">Where the data comes from</h2>
+    <p>Candidate lists come from the <a href={LINKS.sosCandidates}>Secretary of State's certified list</a>, in official ballot order. Measure descriptions, arguments and fiscal notes are quoted from the <a href={LINKS.bluebookPdf}>2026 Blue Book</a>. Candidate positions, votes and backgrounds come from official roll calls (House Clerk, U.S. Senate), the Colorado General Assembly, Ballotpedia, candidates' own sites and questionnaires, and news coverage from outlets such as the Colorado Sun, Denver7, 9News and Colorado Politics. Federal campaign finance totals come from the Federal Election Commission.</p>
+    <p>Every position is a record with the statement, a value on the five-point scale, a source link, a source type, a date and a short verbatim quote from the source. A position without a source is unknown; nothing is filled in from party platforms or from memory. There are {totalPositions} sourced positions in all.</p>
+    <p><strong>What is inferred, and how it is labeled.</strong> When a source addresses a closely related point but not the statement itself (for example, general support for voter ID applied to the mail-ballot ID statement), the position is marked <em>Inferred</em> on the candidate's page, explained in a note, coded no stronger than agree or disagree, and counted at {SOURCE_QUALITY.inferred} quality. Ratings and endorsements from interest groups are labeled as such and also capped at agree or disagree.</p>
+    <p>The guide's quotes were checked automatically against the live source pages where the page could be fetched; a profile says when a quote was confirmed that way.</p>
+    <p>Source types: {Object.values(SOURCE_LABEL).join(', ')}.</p>
+    <p><strong>Data last checked: {DATA_LAST_CHECKED_LABEL}.</strong> Each candidate and measure page shows its own last-checked date.</p>
+  </section>
+
+  <section class="stack" aria-labelledby="stmts-h">
+    <div class="prose">
+      <h2 id="stmts-h">The {statements.length} statements</h2>
+      <p>Statements are written so that agreeing and disagreeing are both reasonable positions, in plain language, one idea each. Each comes with the rule used to code candidates' positions on it.</p>
+    </div>
+    {axes.map((axis) => (
+      <div class="pc-card pc-table-wrap">
+        <table class="pc-table">
+          <caption class="visually-hidden">{AXIS_LABEL[axis]} statements</caption>
+          <thead><tr><th scope="col">{AXIS_LABEL[axis]}</th><th scope="col">How candidate positions are coded</th></tr></thead>
+          <tbody>
+            {statements.filter((s) => s.axis === axis).map((s) => (
+              <tr>
+                <th scope="row" style="font-weight:500;width:45%">{s.text}{s.measures.length > 0 && <span class="small muted" style="display:block">Tied to {s.measures.map((m) => `${measureLabel(m.id)} (agree means ${m.agree_means})`).join(', ')}</span>}</th>
+                <td class="small">{s.coding_guide}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    ))}
+  </section>
+
+  <section class="prose" aria-labelledby="privacy-h">
+    <h2 id="privacy-h">Privacy</h2>
+    <p>Your answers and districts are stored only in your browser's local storage. A share link carries answers after the # in the address, which browsers do not send to servers. If you look up your address, it goes to this site's server once, which asks the U.S. Census Geocoder for your districts and returns them; the address is sent in the request body, not the URL, and is not logged or stored. There are no cookies, no analytics beyond the hosting provider's default request logs, no ads and no third-party scripts. Fonts and components are served from this site.</p>
+  </section>
+
+  <section class="prose" aria-labelledby="err-h">
+    <h2 id="err-h">Report an error</h2>
+    <p>If a position, vote, quote or description is wrong or out of date, <a href={SITE.issues}>open an issue on the project's GitHub repository</a> with a link to a better source. Corrections are welcome from anyone, including campaigns.</p>
+  </section>
+
+  <section class="prose" aria-labelledby="lic-h">
+    <h2 id="lic-h">License</h2>
+    <p>Code: MIT License. Data (candidate profiles, positions and measure files): Creative Commons Attribution 4.0 (CC BY 4.0). Blue Book text is published by the Colorado Legislative Council Staff. <a href={SITE.repo}>Source code and data</a>.</p>
+    <p>Built by John Sweet as a personal project. No money was spent. Not affiliated with any campaign, party or organization.</p>
+  </section>
+</Base>

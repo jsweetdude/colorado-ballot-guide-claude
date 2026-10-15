@@ -1,0 +1,20 @@
+---
+import Base from '../../layouts/Base.astro';
+import MeasureBody from '../../components/MeasureBody.astro';
+import { measures, localMeasures, type Measure } from '../../lib/data';
+
+export function getStaticPaths() {
+  return [...measures, ...localMeasures].map((measure) => ({ params: { id: measure.id }, props: { measure } }));
+}
+const { measure } = Astro.props as { measure: Measure };
+---
+<Base title={`${measure.label}: ${measure.title}`} nav="measures" description={measure.yes_means || measure.title}>
+  <p class="eyebrow"><a href="/measures/">All measures</a></p>
+  <MeasureBody measure={measure} level={2} linkToPage={false} />
+  {measure.sources.length > 0 && (
+    <section class="pc-card stack-sm" aria-labelledby="src-h">
+      <h2 id="src-h">Where this came from</h2>
+      <ul class="sources-list">{measure.sources.map((s) => <li><a href={s.url}>{s.title}</a>, accessed {s.accessed}</li>)}</ul>
+    </section>
+  )}
+</Base>

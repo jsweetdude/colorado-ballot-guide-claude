@@ -1,0 +1,12 @@
+import { chromium } from '@playwright/test';
+const S = process.env.SHOT_DIR ?? 'test-results';
+const [, , path, name, width = '1280', dark = ''] = process.argv;
+const b = await chromium.launch();
+const p = await b.newPage({ viewport: { width: Number(width), height: 900 }, colorScheme: dark ? 'dark' : 'light' });
+const errs = [];
+p.on('console', (m) => m.type() === 'error' && errs.push(m.text()));
+p.on('pageerror', (e) => errs.push(e.message));
+await p.goto((process.env.BASE_URL ?? 'http://localhost:4321') + path, { waitUntil: 'networkidle' });
+await p.screenshot({ path: `${S}/${name}.png`, fullPage: true });
+console.log(name, 'errors:', errs.length ? errs : 'none');
+await b.close();

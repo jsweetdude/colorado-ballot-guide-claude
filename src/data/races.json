@@ -1,0 +1,738 @@
+{
+  "source": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+  "order_source": "https://www.coloradosos.gov/pubs/elections/vote/generalBallotOrder.html",
+  "certified": "2026-09-04",
+  "last_checked": "2026-10-14",
+  "note": "Candidates are listed in official ballot order: major parties, then minor parties, then unaffiliated, each tier ordered by the Secretary of State's July 28, 2026 lot drawing (governor tickets by last name). Certified write-in candidates are not included.",
+  "races": [
+    {
+      "id": "us-senate",
+      "office": "U.S. Senate",
+      "short": "U.S. Senate",
+      "scope": "statewide",
+      "tier": "A",
+      "about": "One of Colorado's two U.S. senators, elected statewide to a six-year term.",
+      "candidates": [
+        {
+          "id": "mark-baisley",
+          "name": "Mark Baisley",
+          "party": "Republican Party",
+          "incumbent": false,
+          "profile": "full"
+        },
+        {
+          "id": "john-hickenlooper",
+          "name": "John Hickenlooper",
+          "party": "Democratic Party",
+          "incumbent": true,
+          "profile": "full"
+        },
+        {
+          "id": "bob-chew",
+          "name": "Bob Chew",
+          "party": "Forward Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "christopher-baum",
+          "name": "Christopher Baum",
+          "party": "Approval Voting Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "blake-huber",
+          "name": "Blake Huber",
+          "party": "Libertarian Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "adam-withrow",
+          "name": "Adam Withrow",
+          "party": "Unity Party",
+          "incumbent": false,
+          "profile": "short"
+        }
+      ]
+    },
+    {
+      "id": "governor",
+      "office": "Governor and Lieutenant Governor",
+      "short": "Governor",
+      "scope": "statewide",
+      "tier": "A",
+      "about": "Colorado's chief executive, elected statewide on a joint ticket with the lieutenant governor for a four-year term. Governor Jared Polis is term-limited.",
+      "candidates": [
+        {
+          "id": "victor-marx",
+          "name": "Victor Marx",
+          "party": "Republican Party",
+          "incumbent": false,
+          "profile": "full",
+          "running_mate": "George Washington Markert"
+        },
+        {
+          "id": "phil-weiser",
+          "name": "Phil Weiser",
+          "party": "Democratic Party",
+          "incumbent": false,
+          "profile": "full",
+          "running_mate": "Lesley Dahlkemper"
+        },
+        {
+          "id": "stephen-hamilton",
+          "name": "Stephen T. Hamilton",
+          "party": "American Constitution Party",
+          "incumbent": false,
+          "profile": "short",
+          "running_mate": "James K Treibert"
+        },
+        {
+          "id": "eric-mulder",
+          "name": "Eric Mulder",
+          "party": "Libertarian Party",
+          "incumbent": false,
+          "profile": "short",
+          "running_mate": "Wayne Harlos"
+        },
+        {
+          "id": "jeff-peckman",
+          "name": "Jeff Peckman",
+          "party": "Unity Party",
+          "incumbent": false,
+          "profile": "short",
+          "running_mate": "T.J. Cole"
+        },
+        {
+          "id": "erik-underwood",
+          "name": "Erik Underwood",
+          "party": "Approval Voting Party",
+          "incumbent": false,
+          "profile": "short",
+          "running_mate": "Frank Atwood"
+        },
+        {
+          "id": "greg-lopez",
+          "name": "Greg Lopez",
+          "party": "Unaffiliated",
+          "incumbent": false,
+          "profile": "full",
+          "running_mate": "Taralyn Romero"
+        }
+      ]
+    },
+    {
+      "id": "attorney-general",
+      "office": "Attorney General",
+      "short": "Attorney General",
+      "scope": "statewide",
+      "tier": "A",
+      "about": "Colorado's chief legal officer, elected statewide for a four-year term. Attorney General Phil Weiser is term-limited.",
+      "candidates": [
+        {
+          "id": "michael-allen",
+          "name": "Michael J. Allen",
+          "party": "Republican Party",
+          "incumbent": false,
+          "profile": "full"
+        },
+        {
+          "id": "jena-griswold",
+          "name": "Jena Griswold",
+          "party": "Democratic Party",
+          "incumbent": false,
+          "profile": "full"
+        }
+      ]
+    },
+    {
+      "id": "secretary-of-state",
+      "office": "Secretary of State",
+      "short": "Secretary of State",
+      "scope": "statewide",
+      "tier": "A",
+      "about": "Oversees Colorado's elections, business filings and campaign finance reporting. Elected statewide for a four-year term. Secretary of State Jena Griswold is term-limited.",
+      "candidates": [
+        {
+          "id": "amanda-gonzalez",
+          "name": "Amanda Gonzalez",
+          "party": "Democratic Party",
+          "incumbent": false,
+          "profile": "full"
+        },
+        {
+          "id": "james-wiley",
+          "name": "James Wiley",
+          "party": "Republican Party",
+          "incumbent": false,
+          "profile": "full"
+        },
+        {
+          "id": "sean-vadney",
+          "name": "Sean Vadney",
+          "party": "Libertarian Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "amanda-campbell",
+          "name": "Amanda Campbell",
+          "party": "American Constitution Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "celeste-landry",
+          "name": "Celeste Landry",
+          "party": "Forward Party",
+          "incumbent": false,
+          "profile": "short"
+        }
+      ]
+    },
+    {
+      "id": "treasurer",
+      "office": "State Treasurer",
+      "short": "Treasurer",
+      "scope": "statewide",
+      "tier": "A",
+      "about": "Manages the state's money and investments and runs the unclaimed property program. Elected statewide for a four-year term. Treasurer Dave Young is term-limited.",
+      "candidates": [
+        {
+          "id": "jeff-bridges",
+          "name": "Jeff Bridges",
+          "party": "Democratic Party",
+          "incumbent": false,
+          "profile": "full"
+        },
+        {
+          "id": "kevin-grantham",
+          "name": "Kevin Grantham",
+          "party": "Republican Party",
+          "incumbent": false,
+          "profile": "full"
+        },
+        {
+          "id": "jodie-barr",
+          "name": "Jodie Barr",
+          "party": "Libertarian Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "marilee-langner-sturgis",
+          "name": "Marilee Langner Sturgis",
+          "party": "Approval Voting Party",
+          "incumbent": false,
+          "profile": "short"
+        }
+      ]
+    },
+    {
+      "id": "us-house-1",
+      "office": "U.S. House, District 1",
+      "short": "U.S. House District 1",
+      "scope": "congressional",
+      "district": 1,
+      "tier": "A",
+      "about": "Colorado's 1st Congressional District seat in the U.S. House of Representatives, a two-year term.",
+      "candidates": [
+        {
+          "id": "melat-kiros",
+          "name": "Melat Kiros",
+          "party": "Democratic Party",
+          "incumbent": false,
+          "profile": "full"
+        },
+        {
+          "id": "christy-peterson",
+          "name": "Christy Peterson",
+          "party": "Republican Party",
+          "incumbent": false,
+          "profile": "full"
+        },
+        {
+          "id": "critter-milton",
+          "name": "Critter Milton",
+          "party": "Unity Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "chad-humphrey",
+          "name": "Chad Humphrey",
+          "party": "Libertarian Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "shimon-blau",
+          "name": "Shimon Blau",
+          "party": "Unaffiliated",
+          "incumbent": false,
+          "profile": "short"
+        }
+      ]
+    },
+    {
+      "id": "us-house-2",
+      "office": "U.S. House, District 2",
+      "short": "U.S. House District 2",
+      "scope": "congressional",
+      "district": 2,
+      "tier": "A",
+      "about": "Colorado's 2nd Congressional District seat in the U.S. House of Representatives, a two-year term.",
+      "candidates": [
+        {
+          "id": "joe-neguse",
+          "name": "Joe Neguse",
+          "party": "Democratic Party",
+          "incumbent": true,
+          "profile": "full"
+        },
+        {
+          "id": "kelley-dennison",
+          "name": "Kelley Anne Dennison",
+          "party": "Republican Party",
+          "incumbent": false,
+          "profile": "full"
+        },
+        {
+          "id": "gaylon-kent",
+          "name": "Gaylon Kent",
+          "party": "Libertarian Party",
+          "incumbent": false,
+          "profile": "short"
+        }
+      ]
+    },
+    {
+      "id": "us-house-3",
+      "office": "U.S. House, District 3",
+      "short": "U.S. House District 3",
+      "scope": "congressional",
+      "district": 3,
+      "tier": "A",
+      "about": "Colorado's 3rd Congressional District seat in the U.S. House of Representatives, a two-year term.",
+      "candidates": [
+        {
+          "id": "dwayne-romero",
+          "name": "Dwayne L. Romero",
+          "party": "Democratic Party",
+          "incumbent": false,
+          "profile": "full"
+        },
+        {
+          "id": "jeff-hurd",
+          "name": "Jeff Hurd",
+          "party": "Republican Party",
+          "incumbent": true,
+          "profile": "full"
+        },
+        {
+          "id": "cory-robertson",
+          "name": "Cory Robertson",
+          "party": "Libertarian Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "clifton-brown",
+          "name": "Clifton Brown",
+          "party": "Unaffiliated",
+          "incumbent": false,
+          "profile": "short"
+        }
+      ]
+    },
+    {
+      "id": "us-house-4",
+      "office": "U.S. House, District 4",
+      "short": "U.S. House District 4",
+      "scope": "congressional",
+      "district": 4,
+      "tier": "A",
+      "about": "Colorado's 4th Congressional District seat in the U.S. House of Representatives, a two-year term.",
+      "candidates": [
+        {
+          "id": "lauren-boebert",
+          "name": "Lauren Boebert",
+          "party": "Republican Party",
+          "incumbent": true,
+          "profile": "full"
+        },
+        {
+          "id": "eileen-laubacher",
+          "name": "Eileen Laubacher",
+          "party": "Democratic Party",
+          "incumbent": false,
+          "profile": "full"
+        },
+        {
+          "id": "douglas-mangeris",
+          "name": "Douglas Mangeris",
+          "party": "Libertarian Party",
+          "incumbent": false,
+          "profile": "short"
+        }
+      ]
+    },
+    {
+      "id": "us-house-5",
+      "office": "U.S. House, District 5",
+      "short": "U.S. House District 5",
+      "scope": "congressional",
+      "district": 5,
+      "tier": "A",
+      "about": "Colorado's 5th Congressional District seat in the U.S. House of Representatives, a two-year term.",
+      "candidates": [
+        {
+          "id": "jeff-crank",
+          "name": "Jeff Crank",
+          "party": "Republican Party",
+          "incumbent": true,
+          "profile": "full"
+        },
+        {
+          "id": "jessica-killin",
+          "name": "Jessica Killin",
+          "party": "Democratic Party",
+          "incumbent": false,
+          "profile": "full"
+        },
+        {
+          "id": "christopher-mitchell",
+          "name": "Christopher Mitchell",
+          "party": "American Constitution Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "mark-elworth",
+          "name": "Mark \"Marky Jr\" Elworth",
+          "party": "Libertarian Party",
+          "incumbent": false,
+          "profile": "short"
+        }
+      ]
+    },
+    {
+      "id": "us-house-6",
+      "office": "U.S. House, District 6",
+      "short": "U.S. House District 6",
+      "scope": "congressional",
+      "district": 6,
+      "tier": "A",
+      "about": "Colorado's 6th Congressional District seat in the U.S. House of Representatives, a two-year term.",
+      "candidates": [
+        {
+          "id": "jason-crow",
+          "name": "Jason Crow",
+          "party": "Democratic Party",
+          "incumbent": true,
+          "profile": "full"
+        },
+        {
+          "id": "jason-clark",
+          "name": "Jason Clark",
+          "party": "Republican Party",
+          "incumbent": false,
+          "profile": "full"
+        },
+        {
+          "id": "patty-mcmahon",
+          "name": "Patty McMahon",
+          "party": "Libertarian Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "meredith-ryan",
+          "name": "Meredith Ryan",
+          "party": "Unity Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "samir-witta",
+          "name": "Samir Ezzeldin Witta",
+          "party": "Unaffiliated",
+          "incumbent": false,
+          "profile": "short"
+        }
+      ]
+    },
+    {
+      "id": "us-house-7",
+      "office": "U.S. House, District 7",
+      "short": "U.S. House District 7",
+      "scope": "congressional",
+      "district": 7,
+      "tier": "A",
+      "about": "Colorado's 7th Congressional District seat in the U.S. House of Representatives, a two-year term.",
+      "candidates": [
+        {
+          "id": "tim-bennett",
+          "name": "Tim Bennett",
+          "party": "Republican Party",
+          "incumbent": false,
+          "profile": "full"
+        },
+        {
+          "id": "brittany-pettersen",
+          "name": "Brittany Pettersen",
+          "party": "Democratic Party",
+          "incumbent": true,
+          "profile": "full"
+        },
+        {
+          "id": "susan-hall",
+          "name": "Susan Hall",
+          "party": "Unity Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "lawrence-kyle-clark",
+          "name": "Lawrence Kyle Clark",
+          "party": "American Constitution Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "dan-sallis",
+          "name": "Dan \"Kilo\" Sallis",
+          "party": "Libertarian Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "joe-krzeczkowski",
+          "name": "Joe Krzeczkowski",
+          "party": "Unaffiliated",
+          "incumbent": false,
+          "profile": "short"
+        }
+      ]
+    },
+    {
+      "id": "us-house-8",
+      "office": "U.S. House, District 8",
+      "short": "U.S. House District 8",
+      "scope": "congressional",
+      "district": 8,
+      "tier": "A",
+      "about": "Colorado's 8th Congressional District seat in the U.S. House of Representatives, a two-year term.",
+      "candidates": [
+        {
+          "id": "gabe-evans",
+          "name": "Gabe Evans",
+          "party": "Republican Party",
+          "incumbent": true,
+          "profile": "full"
+        },
+        {
+          "id": "manny-rutinel",
+          "name": "Manny Rutinel",
+          "party": "Democratic Party",
+          "incumbent": false,
+          "profile": "full"
+        },
+        {
+          "id": "dave-wood",
+          "name": "Dave Wood",
+          "party": "Libertarian Party",
+          "incumbent": false,
+          "profile": "short"
+        }
+      ]
+    },
+    {
+      "id": "state-board-1",
+      "office": "State Board of Education, District 1",
+      "short": "State Board of Education District 1",
+      "scope": "congressional",
+      "district": 1,
+      "tier": "B",
+      "about": "Sets statewide education policy and academic standards for K-12 public schools. Its districts match the congressional districts; members serve six-year terms.",
+      "candidates": [
+        {
+          "id": "lisa-escarcega",
+          "name": "Lisa Escárcega",
+          "party": "Democratic Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "frederick-espinoza",
+          "name": "Frederick Espinoza",
+          "party": "Republican Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "clayton-casciato",
+          "name": "Clayton Casciato",
+          "party": "Libertarian Party",
+          "incumbent": false,
+          "profile": "short"
+        }
+      ]
+    },
+    {
+      "id": "state-board-3",
+      "office": "State Board of Education, District 3",
+      "short": "State Board of Education District 3",
+      "scope": "congressional",
+      "district": 3,
+      "tier": "B",
+      "about": "Sets statewide education policy and academic standards for K-12 public schools. Its districts match the congressional districts; members serve six-year terms.",
+      "candidates": [
+        {
+          "id": "sherri-wright",
+          "name": "Sherri M Wright",
+          "party": "Republican Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "barb-clementi",
+          "name": "Barb Clementi",
+          "party": "Democratic Party",
+          "incumbent": false,
+          "profile": "short"
+        }
+      ]
+    },
+    {
+      "id": "state-board-7",
+      "office": "State Board of Education, District 7",
+      "short": "State Board of Education District 7",
+      "scope": "congressional",
+      "district": 7,
+      "tier": "B",
+      "about": "Sets statewide education policy and academic standards for K-12 public schools. Its districts match the congressional districts; members serve six-year terms.",
+      "candidates": [
+        {
+          "id": "karla-esser",
+          "name": "Karla Esser",
+          "party": "Democratic Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "steve-barton",
+          "name": "Steve Barton",
+          "party": "Republican Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "ross-klopf",
+          "name": "Ross Klopf",
+          "party": "Libertarian Party",
+          "incumbent": false,
+          "profile": "short"
+        }
+      ]
+    },
+    {
+      "id": "cu-regent-2",
+      "office": "CU Board of Regents, District 2",
+      "short": "CU Regent District 2",
+      "scope": "congressional",
+      "district": 2,
+      "tier": "B",
+      "about": "Governs the University of Colorado system. Regent districts match the congressional districts; regents serve six-year terms.",
+      "candidates": [
+        {
+          "id": "marty-neilson",
+          "name": "Marty Neilson",
+          "party": "Republican Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "edie-hooton",
+          "name": "Edie Hooton",
+          "party": "Democratic Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "richard-friend",
+          "name": "Richard Friend",
+          "party": "Libertarian Party",
+          "incumbent": false,
+          "profile": "short"
+        }
+      ]
+    },
+    {
+      "id": "cu-regent-6",
+      "office": "CU Board of Regents, District 6",
+      "short": "CU Regent District 6",
+      "scope": "congressional",
+      "district": 6,
+      "tier": "B",
+      "about": "Governs the University of Colorado system. Regent districts match the congressional districts; regents serve six-year terms.",
+      "candidates": [
+        {
+          "id": "veanessa-burbage",
+          "name": "Veanessa Burbage",
+          "party": "Republican Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "ilana-spiegel",
+          "name": "Ilana Spiegel",
+          "party": "Democratic Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "joe-johnson",
+          "name": "Joe Johnson",
+          "party": "Libertarian Party",
+          "incumbent": false,
+          "profile": "short"
+        }
+      ]
+    },
+    {
+      "id": "cu-regent-7",
+      "office": "CU Board of Regents, District 7",
+      "short": "CU Regent District 7",
+      "scope": "congressional",
+      "district": 7,
+      "tier": "B",
+      "about": "Governs the University of Colorado system. Regent districts match the congressional districts; regents serve six-year terms.",
+      "candidates": [
+        {
+          "id": "paul-mueller",
+          "name": "Paul Mueller",
+          "party": "Republican Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "nolbert-chavez",
+          "name": "Nolbert Chavez",
+          "party": "Democratic Party",
+          "incumbent": false,
+          "profile": "short"
+        },
+        {
+          "id": "betterose-ryan",
+          "name": "BetteRose Ryan",
+          "party": "Libertarian Party",
+          "incumbent": false,
+          "profile": "short"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+---
+import '@fontsource/instrument-sans/400.css';
+import '@fontsource/instrument-sans/500.css';
+import '@fontsource/instrument-sans/600.css';
+import '@fontsource/instrument-sans/700.css';
+import '@fontsource/atkinson-hyperlegible-mono/400.css';
+import '../styles/porcelain.css';
+import '../styles/app.css';
+import { SITE, DATA_LAST_CHECKED_LABEL } from '../lib/site';
+
+interface Props {
+  title: string;
+  description?: string;
+  textured?: boolean;
+  nav?: 'home' | 'ballot' | 'interview' | 'results' | 'races' | 'measures' | 'about' | null;
+  wide?: boolean;
+}
+const { title, description = SITE.description, textured = false, nav = null, wide = false } = Astro.props;
+const fullTitle = title === SITE.name ? title : `${title} | ${SITE.name}`;
+const links = [
+  { id: 'interview', href: '/interview/', label: 'Interview' },
+  { id: 'results', href: '/results/', label: 'Your results' },
+  { id: 'races', href: '/races/', label: 'All races' },
+  { id: 'measures', href: '/measures/', label: 'Measures' },
+  { id: 'about', href: '/about/', label: 'About and method' },
+];
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <slot name="head" />
+  </head>
+  <body class:list={['pc', { 'pc-textured': textured }]}>
+    <a class="skip-link" href="#main">Skip to main content</a>
+    <header class="site-header">
+      <div class="wrap header-row">
+        <a class="brand" href="/" aria-current={nav === 'home' ? 'page' : undefined}>
+          <svg width="22" height="22" viewBox="0 0 22 22" aria-hidden="true" focusable="false"><rect x="2.5" y="4.5" width="17" height="13" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M6 9.5h10M6 13h6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+          <span>{SITE.name}</span>
+        </a>
+        <nav aria-label="Main">
+          <ul class="nav-list">
+            {links.map((l) => (
+              <li><a href={l.href} aria-current={nav === l.id ? 'page' : undefined}>{l.label}</a></li>
+            ))}
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main id="main" tabindex="-1" class:list={['wrap', { 'wrap--wide': wide }]}>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap footer-grid">
+        <p>Built by John Sweet as a personal project. No money was spent. Not affiliated with any campaign, party or organization.</p>
+        <p>Candidate and measure data last checked {DATA_LAST_CHECKED_LABEL}. <a href={SITE.issues}>Report an error</a>. Code MIT, data CC BY 4.0.</p>
+        <p>Official information: <a href="https://www.govotecolorado.gov/">GoVoteColorado.gov</a> · <a href="https://leg.colorado.gov/bluebook">2026 Blue Book</a></p>
+      </div>
+    </footer>
+  </body>
+</html>

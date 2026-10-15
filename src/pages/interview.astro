@@ -1,0 +1,230 @@
+---
+import Base from '../layouts/Base.astro';
+import statements from '../data/statements.json';
+import { AXIS_LABEL, LIKERT_LABEL, measureLabel } from '../lib/labels';
+
+const total = statements.length;
+const likert = [1, 2, 3, 4, 5];
+const importance = [
+  { value: 'low', label: 'Low' },
+  { value: 'normal', label: 'Normal' },
+  { value: 'high', label: 'High' },
+];
+---
+<Base title="The interview" nav="interview" description="Answer 25 short statements about your views. Your answers stay in your browser.">
+  <section class="page-head" aria-labelledby="h1">
+    <p class="eyebrow">Step 2 of 3</p>
+    <h1 id="h1">The interview</h1>
+    <p class="lede">{total} statements. For each, say how much you agree and how much it matters to you, or skip it. Both agreeing and disagreeing are reasonable positions; there are no right answers. Your answers are saved in this browser only.</p>
+  </section>
+
+  <noscript>
+    <div class="pc-callout pc-callout--warning"><span><strong>This interview needs JavaScript</strong> to save answers and compute matches in your browser. You can still read every <a href="/races/">race</a> and <a href="/measures/">measure</a> without it.</span></div>
+  </noscript>
+
+  <div class="iv-shell" id="iv-shell">
+    <div class="iv-progress">
+      <div class="iv-progress-row">
+        <span id="iv-pos" aria-hidden="true">Statement 1 of {total}</span>
+        <span id="iv-count">0 answered</span>
+      </div>
+      <div class="pc-progress" id="iv-bar" role="progressbar" aria-label="Interview progress" aria-valuemin="0" aria-valuemax={total} aria-valuenow="0" aria-valuetext={`Statement 1 of ${total}`} style="--value:0%"><span></span></div>
+    </div>
+
+    <form id="interview" class="stack" novalidate>
+      {statements.map((s, i) => (
+        <section class="pc-card iv-card" data-index={i} data-id={s.id} hidden={i !== 0} aria-labelledby={`st-${s.id}`}>
+          <div class="iv-meta">
+            <span class="pc-badge">{AXIS_LABEL[s.axis]}</span>
+            <span class="pc-label">{s.topic}{s.measures.length > 0 && ` · On your ballot: ${s.measures.map((m) => measureLabel(m.id)).join(', ')}`}</span>
+          </div>
+          <fieldset class="plain stack">
+            <legend><h2 class="iv-statement" id={`st-${s.id}`} tabindex="-1"><span class="visually-hidden">Statement {i + 1} of {total}: </span>{s.text}</h2></legend>
+            <div class="likert">
+              {likert.map((v) => (
+                <label class="likert-opt">
+                  <input type="radio" class="pc-radio" name={`a-${s.id}`} value={v} />
+                  <span>{LIKERT_LABEL[v]}</span>
+                </label>
+              ))}
+            </div>
+          </fieldset>
+          <fieldset class="plain importance">
+            <legend class="pc-field-label">How much does this matter to you?</legend>
+            <div class="pc-seg">
+              {importance.map((o) => (
+                <label><input type="radio" name={`w-${s.id}`} value={o.value} checked={o.value === 'normal'} /><span>{o.label}</span></label>
+              ))}
+            </div>
+          </fieldset>
+        </section>
+      ))}
+
+      <section class="pc-card iv-card" id="iv-review" data-index={total} hidden aria-labelledby="review-h">
+        <div class="stack-sm">
+          <h2 class="iv-statement" id="review-h" tabindex="-1">Review your answers</h2>
+          <p class="small muted">Change anything, then see your results. Skipped statements are left out of every match.</p>
+        </div>
+        <ol class="review-list" id="review-list"></ol>
+      </section>
+
+      <div class="iv-nav">
+        <button class="pc-btn" type="button" id="iv-back">Back</button>
+        <div class="pc-btn-row">
+          <button class="pc-btn pc-btn--ghost" type="button" id="iv-skip">Skip this statement</button>
+          <button class="pc-btn pc-btn--primary" type="submit" id="iv-next">Next</button>
+          <a class="pc-btn pc-btn--primary" href="/results/" id="iv-results" hidden>See my results</a>
+        </div>
+      </div>
+      <p class="small"><button type="button" class="pc-btn pc-btn--ghost" id="iv-reset">Start over and clear my answers</button></p>
+    </form>
+  </div>
+</Base>
+
+<script>
+  import statements from '../data/statements.json';
+  import { LIKERT_LABEL, IMPORTANCE_LABEL } from '../lib/labels';
+  import { loadAnswers, saveAnswers, saveStep, clearAnswers } from '../lib/store';
+  import type { Answers, Importance, Likert } from '../lib/match';
+
+  const total = statements.length;
+  const form = document.getElementById('interview') as HTMLFormElement;
+  const cards = Array.from(document.querySelectorAll<HTMLElement>('.iv-card'));
+  const bar = document.getElementById('iv-bar')!;
+  const pos = document.getElementById('iv-pos')!;
+  const count = document.getElementById('iv-count')!;
+  const back = document.getElementById('iv-back') as HTMLButtonElement;
+  const skip = document.getElementById('iv-skip') as HTMLButtonElement;
+  const next = document.getElementById('iv-next') as HTMLButtonElement;
+  const toResults = document.getElementById('iv-results') as HTMLAnchorElement;
+  const reviewList = document.getElementById('review-list')!;
+  const baseTitle = document.title;
+
+  let answers: Answers = loadAnswers();
+  let step = 0;
+
+  // Restore saved answers into the form.
+  for (const s of statements) {
+    const a = answers[s.id];
+    if (!a) continue;
+    if (a.value != null) {
+      const r = form.querySelector<HTMLInputElement>(`input[name="a-${s.id}"][value="${a.value}"]`);
+      if (r) r.checked = true;
+    }
+    const w = form.querySelector<HTMLInputElement>(`input[name="w-${s.id}"][value="${a.importance}"]`);
+    if (w) w.checked = true;
+  }
+
+  function readCard(id: string) {
+    const v = form.querySelector<HTMLInputElement>(`input[name="a-${id}"]:checked`);
+    const w = form.querySelector<HTMLInputElement>(`input[name="w-${id}"]:checked`);
+    answers[id] = { value: v ? (Number(v.value) as Likert) : null, importance: (w?.value ?? 'normal') as Importance };
+    saveAnswers(answers);
+  }
+
+  form.addEventListener('change', (e) => {
+    const t = e.target as HTMLInputElement;
+    const id = t.name?.slice(2);
+    if (id) readCard(id);
+    updateProgress();
+  });
+
+  const answeredCount = () => statements.filter((s) => answers[s.id]?.value != null).length;
+
+  function updateProgress() {
+    const n = answeredCount();
+    const shown = Math.min(step + 1, total);
+    count.textContent = `${n} answered`;
+    pos.textContent = step >= total ? 'Review' : `Statement ${shown} of ${total}`;
+    bar.setAttribute('aria-valuenow', String(Math.min(step, total)));
+    bar.setAttribute('aria-valuetext', step >= total ? `Review, ${n} of ${total} answered` : `Statement ${shown} of ${total}, ${n} answered`);
+    bar.style.setProperty('--value', `${(Math.min(step, total) / total) * 100}%`);
+  }
+
+  function renderReview() {
+    reviewList.innerHTML = '';
+    statements.forEach((s, i) => {
+      const a = answers[s.id];
+      const li = document.createElement('li');
+      const text = document.createElement('span');
+      text.textContent = `${i + 1}. ${s.text}`;
+      const ans = document.createElement('span');
+      ans.className = 'review-answer' + (a?.value == null ? ' is-skipped' : '');
+      ans.textContent = a?.value == null ? 'Skipped' : `${LIKERT_LABEL[a.value]} · importance ${IMPORTANCE_LABEL[a.importance].toLowerCase()}`;
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'pc-btn pc-btn--ghost';
+      btn.textContent = 'Change';
+      btn.setAttribute('aria-label', `Change your answer to statement ${i + 1}`);
+      btn.addEventListener('click', () => go(i));
+      li.append(text, ans, btn);
+      reviewList.append(li);
+    });
+  }
+
+  function show(i: number, focus = true) {
+    step = Math.max(0, Math.min(i, total));
+    cards.forEach((c) => (c.hidden = Number(c.dataset.index) !== step));
+    const atReview = step >= total;
+    if (atReview) renderReview();
+    back.disabled = step === 0;
+    skip.hidden = atReview;
+    next.hidden = atReview;
+    toResults.hidden = !atReview;
+    document.title = atReview ? `Review | ${baseTitle}` : `Statement ${step + 1} of ${total} | ${baseTitle}`;
+    saveStep(step);
+    updateProgress();
+    if (focus) {
+      const h = cards.find((c) => Number(c.dataset.index) === step)?.querySelector<HTMLElement>('.iv-statement');
+      h?.focus();
+    }
+  }
+
+  function go(i: number) {
+    const target = Math.max(0, Math.min(i, total));
+    const hash = target >= total ? '#review' : `#q${target + 1}`;
+    if (location.hash === hash) show(target);
+    else location.hash = hash;
+  }
+
+  function fromHash(): number | null {
+    if (location.hash === '#review') return total;
+    const m = /^#q(\d+)$/.exec(location.hash);
+    return m ? Math.max(0, Math.min(Number(m[1]) - 1, total - 1)) : null;
+  }
+
+  window.addEventListener('hashchange', () => {
+    const h = fromHash();
+    if (h != null) show(h);
+  });
+
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    if (step < total) {
+      readCard(statements[step].id);
+      go(step + 1);
+    }
+  });
+  skip.addEventListener('click', () => {
+    const id = statements[step].id;
+    form.querySelectorAll<HTMLInputElement>(`input[name="a-${id}"]`).forEach((r) => (r.checked = false));
+    readCard(id);
+    go(step + 1);
+  });
+  back.addEventListener('click', () => go(step - 1));
+  document.getElementById('iv-reset')!.addEventListener('click', () => {
+    if (!confirm('Clear all your answers and start over?')) return;
+    clearAnswers();
+    answers = {};
+    form.reset();
+    go(0);
+  });
+
+  const initial = fromHash();
+  if (initial != null) show(initial, false);
+  else {
+    // Returning visitor: resume at the first unanswered statement.
+    const firstOpen = statements.findIndex((s) => !answers[s.id]);
+    show(firstOpen === -1 ? 0 : firstOpen, false);
+  }
+</script>

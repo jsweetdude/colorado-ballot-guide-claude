@@ -1,0 +1,90 @@
+{
+ "result": {
+  "input": {
+   "address": {
+    "address": "200 E Colfax Ave, Denver, CO 80203"
+   },
+   "vintage": {
+    "isDefault": true,
+    "id": "4",
+    "vintageName": "Current_Current",
+    "vintageDescription": "Current Vintage - Current Benchmark"
+   },
+   "benchmark": {
+    "isDefault": true,
+    "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+    "id": "4",
+    "benchmarkName": "Public_AR_Current"
+   }
+  },
+  "addressMatches": [
+   {
+    "tigerLine": {
+     "side": "R",
+     "tigerLineId": "177305728"
+    },
+    "geographies": {
+     "States": [
+      {
+       "GEOID": "08",
+       "STATE": "08",
+       "BASENAME": "Colorado",
+       "NAME": "Colorado"
+      }
+     ],
+     "Counties": [
+      {
+       "GEOID": "08031",
+       "STATE": "08",
+       "BASENAME": "Denver",
+       "NAME": "Denver County"
+      }
+     ],
+     "2026 State Legislative Districts - Upper": [
+      {
+       "GEOID": "08031",
+       "STATE": "08",
+       "BASENAME": "31",
+       "NAME": "State Senate District 31"
+      }
+     ],
+     "120th Congressional Districts": [
+      {
+       "GEOID": "0801",
+       "STATE": "08",
+       "BASENAME": "1",
+       "NAME": "Congressional District 1"
+      }
+     ],
+     "2026 State Legislative Districts - Lower": [
+      {
+       "GEOID": "08006",
+       "STATE": "08",
+       "BASENAME": "6",
+       "NAME": "State House District 6"
+      }
+     ]
+    },
+    "coordinates": {
+     "x": -104.984403184626,
+     "y": 39.739996725077
+    },
+    "addressComponents": {
+     "zip": "80203",
+     "streetName": "COLFAX",
+     "preType": "",
+     "city": "DENVER",
+     "preDirection": "E",
+     "suffixDirection": "",
+     "fromAddress": "150",
+     "state": "CO",
+     "suffixType": "AVE",
+     "toAddress": "298",
+     "suffixQualifier": "",
+     "preQualifier": ""
+    },
+    "matchedAddress": "200 E COLFAX AVE, DENVER, CO, 80203"
+   }
+  ]
+ }
+}

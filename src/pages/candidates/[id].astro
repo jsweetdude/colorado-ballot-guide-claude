@@ -1,0 +1,191 @@
+---
+import Base from '../../layouts/Base.astro';
+import { candidates, raceById, statements, type Candidate } from '../../lib/data';
+import { SOURCE_LABEL } from '../../lib/match';
+import { LIKERT_LABEL, partyShort, AXIS_LABEL } from '../../lib/labels';
+import { formatDate, SITE } from '../../lib/site';
+
+export function getStaticPaths() {
+  return candidates.map((c) => ({ params: { id: c.id }, props: { c } }));
+}
+const { c } = Astro.props as { c: Candidate };
+const race = raceById.get(c.race)!;
+const positions = new Map(c.positions.map((p) => [p.statement, p]));
+const known = c.positions.length;
+const host = (u: string) => {
+  try {
+    return new URL(u).hostname.replace(/^www\./, '');
+  } catch {
+    return 'source';
+  }
+};
+const money = (n: number | null) => (n == null ? 'Not reported' : n.toLocaleString('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 }));
+const recordKind = { recorded_vote: 'Vote', sponsored_bill: 'Bill', decision: 'Decision' } as const;
+const issueUrl = `${SITE.issues}/new?title=${encodeURIComponent(`Error on ${c.name}'s profile`)}`;
+const verified = c.verification?.detail ?? {};
+const axes = ['economic', 'social', 'governance'] as const;
+const federal = c.race === 'us-senate' || c.race.startsWith('us-house');
+const matchData = JSON.stringify({ id: c.id, positions: c.positions.map((p) => ({ statement: p.statement, value: p.value, source_type: p.source_type })) });
+---
+<Base title={c.name} nav="races" description={`${c.name}, ${partyShort(c.party)} candidate for ${race.office}: background, record and sourced positions.`}>
+  <section class="page-head" aria-labelledby="h1">
+    <p class="eyebrow"><a href={`/races/${race.id}/`}>{race.office}</a></p>
+    <h1 id="h1">{c.name}</h1>
+    <p class="row">
+      <span class="pc-badge">{partyShort(c.party)}</span>
+      {c.incumbent && <span class="pc-badge">Incumbent</span>}
+      {c.running_mate && <span class="small">Running mate: {c.running_mate.name}</span>}
+    </p>
+    {c.website && <p class="small"><a href={c.website}>Campaign website</a> ({host(c.website)})</p>}
+  </section>
+
+  <section class="pc-card" id="you-match" hidden aria-labelledby="you-h">
+    <h2 id="you-h">Compared with your answers</h2>
+    <p id="you-line"></p>
+  </section>
+
+  <section class="pc-card stack-sm" aria-labelledby="who-h">
+    <h2 id="who-h">Who {c.name.split(' ')[0]} is</h2>
+    <ul class="stack-sm">
+      {c.summary.map((s) => <li>{s.text} <a class="small" href={s.source_url}>({host(s.source_url)})</a></li>)}
+    </ul>
+    {c.running_mate && c.running_mate.summary.length > 0 && (
+      <>
+        <h3>Running mate: {c.running_mate.name}</h3>
+        <ul class="stack-sm">{c.running_mate.summary.map((s) => <li>{s.text} <a class="small" href={s.source_url}>({host(s.source_url)})</a></li>)}</ul>
+      </>
+    )}
+    {c.profile === 'short' && <p class="small muted">This is a short profile. Minor-party and unaffiliated candidates get one unless they have serious press coverage; positions are listed wherever a source could be found.</p>}
+  </section>
+
+  {c.experience.length > 0 && (
+    <section class="pc-card stack-sm" aria-labelledby="exp-h">
+      <h2 id="exp-h">Experience</h2>
+      <ul class="stack-sm">{c.experience.map((s) => <li>{s.text} <a class="small" href={s.source_url}>({host(s.source_url)})</a></li>)}</ul>
+    </section>
+  )}
+
+  {c.education_focus && c.education_focus.length > 0 && (
+    <section class="pc-card stack-sm" aria-labelledby="edu-h">
+      <h2 id="edu-h">What they say they would do on the board</h2>
+      <ul class="stack-sm">{c.education_focus.map((s) => <li>{s.text} <a class="small" href={s.source_url}>({host(s.source_url)})</a></li>)}</ul>
+    </section>
+  )}
+
+  {c.record.length > 0 && (
+    <section class="pc-card stack-sm" aria-labelledby="rec-h">
+      <h2 id="rec-h">Key votes and decisions</h2>
+      <div class="pc-table-wrap">
+        <table class="pc-table">
+          <caption class="visually-hidden">Key votes, bills and decisions with sources</caption>
+          <thead><tr><th scope="col">Date</th><th scope="col">Type</th><th scope="col">What</th><th scope="col">Source</th></tr></thead>
+          <tbody>
+            {c.record.map((r) => (
+              <tr>
+                <td class="nowrap">{r.date ? formatDate(r.date) : 'Undated'}</td>
+                <td>{recordKind[r.kind]}</td>
+                <td><strong>{r.title}</strong><br /><span class="small">{r.detail}</span></td>
+                <td><a href={r.source_url}>{host(r.source_url)}</a></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+  )}
+
+  <section class="stack" aria-labelledby="pos-h">
+    <div class="stack-sm">
+      <h2 id="pos-h">Positions on the interview statements</h2>
+      <p class="small">Known on <strong>{known} of {statements.length}</strong> statements. Every position links to its source and date. Positions marked <em>Inferred</em> are reasoned from a closely related statement, not stated outright, and count less toward confidence.</p>
+      <div class="legend" aria-hidden="true"><span><i class="sw-unknown"></i>No known position</span></div>
+    </div>
+    {axes.map((axis) => (
+      <div class="pc-card pc-table-wrap">
+        <table class="pc-table pos-table">
+          <caption class="visually-hidden">{AXIS_LABEL[axis]} statements</caption>
+          <thead><tr><th scope="col">{AXIS_LABEL[axis]} statement</th><th scope="col">Position and source</th></tr></thead>
+          <tbody>
+            {statements.filter((s) => s.axis === axis).map((s) => {
+              const p = positions.get(s.id);
+              return (
+                <tr>
+                  <th scope="row" style="font-weight:500;width:42%">{s.text}<span class="small muted" data-you={s.id} hidden></span></th>
+                  {p ? (
+                    <td class="stack-sm">
+                      <span><strong>{LIKERT_LABEL[p.value]}</strong> <span class="scale" aria-hidden="true">{[1, 2, 3, 4, 5].map((v) => <i class={v === p.value ? 'on' : ''}></i>)}</span>
+                        {p.source_type === 'inferred' && <span class="pc-badge pc-badge--warning">Inferred</span>}</span>
+                      <blockquote class="quote">“{p.quote}”</blockquote>
+                      {p.note && <span class="small">{p.note}</span>}
+                      <span class="source-line">{SOURCE_LABEL[p.source_type]}, {formatDate(p.date)}: <a href={p.source_url}>{p.source_title}</a> ({host(p.source_url)}){p.via && `, read via ${p.via}`}{verified[s.id] === 'found' && '. Quote checked against the source page.'}</span>
+                    </td>
+                  ) : (
+                    <td class="pos-unknown"><span>No known position</span></td>
+                  )}
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+    ))}
+  </section>
+
+  <section class="pc-card stack-sm" aria-labelledby="end-h">
+    <h2 id="end-h">Endorsements</h2>
+    {c.endorsements.length ? (
+      <ul>{c.endorsements.map((e) => <li>{e.name} <a class="small" href={e.source_url}>({host(e.source_url)})</a></li>)}</ul>
+    ) : <p class="muted">None found in the sources checked.</p>}
+  </section>
+
+  <section class="pc-card stack-sm" aria-labelledby="fin-h">
+    <h2 id="fin-h">Campaign finance</h2>
+    {c.finance ? (
+      <>
+        <dl class="facts">
+          <dt>Raised</dt><dd>{money(c.finance.raised)}</dd>
+          <dt>Spent</dt><dd>{money(c.finance.spent)}</dd>
+          <dt>Cash on hand</dt><dd>{money(c.finance.cash_on_hand)}</dd>
+        </dl>
+        <p class="source-line">As of {formatDate(c.finance.as_of)}. Source: <a href={c.finance.source_url}>{c.finance.source_name}</a>.{c.finance.note && ` ${c.finance.note}`}</p>
+      </>
+    ) : (
+      <p class="muted">No totals found. {federal ? <>Search the <a href="https://www.fec.gov/data/candidates/?state=CO&election_year=2026">Federal Election Commission</a>.</> : <>Search <a href="https://tracer.sos.colorado.gov/PublicSite/homepage.aspx">Colorado TRACER</a>, the state's campaign finance database.</>}</p>
+    )}
+  </section>
+
+  <section class="pc-card stack-sm" aria-labelledby="src-h">
+    <h2 id="src-h">Where this came from, last checked on {formatDate(c.last_checked)}</h2>
+    <ul class="sources-list">
+      {c.sources.map((s) => <li><a href={s.url}>{s.title || host(s.url)}</a> ({host(s.url)}), accessed {formatDate(s.accessed)}</li>)}
+    </ul>
+    <p class="small">See something wrong or missing? <a href={issueUrl}>Report an error</a>.</p>
+  </section>
+
+  <script type="application/json" id="cand-data" set:html={matchData} />
+</Base>
+
+<script>
+  import { loadAnswers } from '../../lib/store';
+  import { matchCandidate } from '../../lib/match';
+  import { LIKERT_LABEL } from '../../lib/labels';
+
+  const answers = loadAnswers();
+  const cand = JSON.parse(document.getElementById('cand-data')!.textContent!);
+  const any = Object.values(answers).some((a) => a?.value != null);
+  if (any) {
+    for (const el of document.querySelectorAll<HTMLElement>('[data-you]')) {
+      const a = answers[el.dataset.you!];
+      el.textContent = a?.value != null ? ` You: ${LIKERT_LABEL[a.value].toLowerCase()}.` : ' You skipped this.';
+      el.hidden = false;
+      el.style.display = 'block';
+    }
+    const m = matchCandidate(answers, cand);
+    const box = document.getElementById('you-match')!;
+    document.getElementById('you-line')!.textContent =
+      m.percent == null
+        ? `None of this candidate's known positions are on statements you answered.`
+        : `${m.percent}% match, based on ${m.overlap} of the ${m.answered} statements you answered. Your answer is shown under each statement below.`;
+    box.hidden = false;
+  }
+</script>

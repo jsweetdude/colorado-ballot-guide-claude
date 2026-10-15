@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.astro/
+.vercel/
+.env*
+test-results/
+playwright-report/
+# Handoff material from the project brief, kept out of the public history.
+brief/
+.DS_Store

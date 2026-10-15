@@ -1,0 +1,37 @@
+---
+import Base from '../../layouts/Base.astro';
+import { races, candidatesFor } from '../../lib/data';
+import { partyShort } from '../../lib/labels';
+import { LINKS } from '../../lib/site';
+
+const groups = [
+  { title: 'Statewide offices', items: races.filter((r) => r.scope === 'statewide') },
+  { title: 'U.S. House', items: races.filter((r) => r.id.startsWith('us-house')) },
+  { title: 'State Board of Education', items: races.filter((r) => r.id.startsWith('state-board')) },
+  { title: 'CU Board of Regents', items: races.filter((r) => r.id.startsWith('cu-regent')) },
+];
+---
+<Base title="All races" nav="races" description="Every race this guide covers, with every certified candidate in ballot order.">
+  <section class="page-head" aria-labelledby="h1">
+    <h1 id="h1">All races</h1>
+    <p class="lede">Every race this guide covers, with every certified candidate in the order they appear on the ballot. Choose a race for details and candidate profiles.</p>
+    <p class="small muted">Candidate list from the <a href={LINKS.sosCandidates}>Secretary of State's official general election candidate list</a>, certified September 4, 2026. Write-in candidates are not listed. State legislative races are not covered; see <a href={LINKS.vote411}>Vote411</a>.</p>
+  </section>
+  {groups.map((g) => (
+    <section class="stack" aria-labelledby={`g-${g.title}`}>
+      <h2 id={`g-${g.title}`}>{g.title}</h2>
+      <div class="grid-2">
+        {g.items.map((r) => (
+          <div class="pc-card">
+            <h3><a href={`/races/${r.id}/`}>{r.office}</a></h3>
+            <ul class="small">
+              {candidatesFor(r).map((c) => (
+                <li><a href={`/candidates/${c.id}/`}>{c.name}</a>{c.running_mate && ` and ${c.running_mate.name}`}, {partyShort(c.party)}{c.incumbent && ' (incumbent)'}</li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+    </section>
+  ))}
+</Base>

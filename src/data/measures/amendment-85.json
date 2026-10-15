@@ -1,0 +1,69 @@
+{
+  "id": "amendment-85",
+  "label": "Amendment 85",
+  "title": "Plain Language Ballot Titles",
+  "changes": "constitution",
+  "origin": "citizen initiative",
+  "threshold": "55 percent",
+  "ballot_title": "Shall there be an amendment to the Colorado Constitution concerning ballot question language, and, in connection therewith, requiring all state and local ballot questions to be written in plain language and at no more than an 8th grade reading level and prohibiting a state statute from requiring language that conflicts with these requirements in ballot questions for citizen-initiated measures?",
+  "yes_means": "A “yes” vote on Amendment 85 requires that ballot titles be written in plain language, defined as an eighth-grade reading level, and prohibits any law from interfering with this requirement.",
+  "no_means": "A “no” vote on Amendment 85 maintains current law, which requires plain language for ballot titles, but does not specify a particular grade-level reading standard.",
+  "summary": [
+    "State law requires that the Title Board write ballot titles that are brief and help voters understand the effect of a “yes” or “no” vote on the measure. The board must write titles in plain language, that are understandable by the widest possible audience, and that avoid legal, technical, or specialized terminology, when possible.",
+    "Amendment 85 requires that all ballot titles be in plain language, written at no more than an eighth-grade reading level. The measure does not define plain language or designate who will determine if ballot titles meet the standard. An eighth-grade reading level is described as one that is easily and fully understood by a majority of people. This typically includes short sentences, familiar words, and a conversational tone.",
+    "Amendment 85 also prohibits laws requiring citizen initiatives to include language in the ballot title that may interfere with the plain language requirement. The ballot titles for measures referred by the state legislature are not subject to this prohibition. There are several current laws that require additional language in ballot titles. For example, if a citizen initiative raises or lowers state taxes, the initiative’s title must include specific language describing the changes and the impact on taxpayers. For citizen initiatives that reduce tax collections, the title must include an estimate of potential state spending reductions and how reduced revenue might impact the three largest areas of government spending."
+  ],
+  "arguments_for": [
+    "While ballot titles are supposed to be written as plainly as possible, this measure provides additional guidance as to what that means by requiring an eighth-grade reading level as the standard. Providing a constitutional standard will help in crafting simple titles that voters may better understand when considering their vote, and may help them to navigate complicated and technical information when trying to understand a measure’s impact.",
+    "The measure creates a constitutional protection against the state legislature interfering with plain language in initiative ballot titles. Citizen initiatives are a way for the public to pass laws without restrictions created by the legislature. This measure ensures that no future legislature may add laws or change existing laws to create complicated or confusing initiative ballot titles."
+  ],
+  "arguments_against": [
+    "This measure is unnecessary as state law already provides ample guidance for the preparation of ballot titles in plain language. Ballot titles must convey important information to voters about complex policies. This measure creates a constitutional standard with no guidance about how its requirements are different from current law. This could lead to more challenges of initiative ballot titles, impacting the initiative process.",
+    "This measure puts vague and undefined language in the constitution, which could prevent the creation of laws to help voters better understand the effects of ballot measures. Laws that add language to ballot titles could be prohibited, even if that language provides critical information for voters. The measure may lead to challenges of existing laws that help voters understand how their vote affects state and local programs and funding."
+  ],
+  "fiscal_impact": [
+    "The Title Board includes representatives from the Department of State, the Attorney General’s Office, and the General Assembly. The measure may minimally increase workload for the Title Board to update its standards for plain language and what constitutes an eighth-grade reading level and to apply these standards when setting titles for citizen-initiated ballot measures."
+  ],
+  "blue_book_pages": "27-29",
+  "behind_it": {
+    "proponents": [
+      {
+        "name": "Michael Fields",
+        "detail": "Designated representative who filed Initiative #234 (the measure that became Amendment 85), Advance Colorado",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html"
+      },
+      {
+        "name": "Suzanne Taheri",
+        "detail": "Designated representative who filed Initiative #234 (the measure that became Amendment 85), Advance Colorado",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html"
+      },
+      {
+        "name": "Brighter Colorado",
+        "detail": "Issue committee registered to support the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      }
+    ],
+    "opponents": [
+      {
+        "name": "Vote Common Sense",
+        "detail": "Issue committee registered to oppose the measure (also opposing several other 2026 ballot measures)",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "People for a Fair Colorado",
+        "detail": "Issue committee registered to oppose the measure (also opposing most other citizen-initiated 2026 measures)",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      }
+    ],
+    "notes": "Colorado Politics (10/2/2026) identifies Advance Colorado as the measure's backer but names no formal opposition campaign."
+  },
+  "sources": [
+    { "title": "2026 Colorado State Ballot Information Booklet (Blue Book)", "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf", "accessed": "2026-10-14" },
+    { "title": "Legislative Council Staff Ballot Analysis 2026: Amendment 85", "url": "https://leg.colorado.gov/ballots/plain-language-ballot-titles-2", "accessed": "2026-10-14" },
+    { "title": "Colorado Secretary of State 2025-2026 Initiative Title Board filings", "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html", "accessed": "2026-10-14" },
+    { "title": "Colorado Secretary of State 2026 ballot issue committee contacts", "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html", "accessed": "2026-10-14" },
+    { "title": "Colorado Politics: Amendment 85 | Eighth grade reading level for ballot questions", "url": "https://www.coloradopolitics.com/2026/10/02/eight-grade-reading-colorado-ballots-amendment-85/", "accessed": "2026-10-14" }
+  ],
+  "last_checked": "2026-10-14",
+  "research_notes": "Fiscal Impact section for this measure has only one 'State Spending' paragraph in the Blue Book."
+}

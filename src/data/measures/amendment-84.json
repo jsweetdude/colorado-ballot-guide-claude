@@ -1,0 +1,75 @@
+{
+  "id": "amendment-84",
+  "label": "Amendment 84",
+  "title": "Mail Ballot Voter Identification",
+  "changes": "constitution",
+  "origin": "citizen initiative",
+  "threshold": "55 percent",
+  "ballot_title": "Shall there be an amendment to the Colorado Constitution requiring a voter to sign and include the last four digits of their social security number or their Colorado driver’s license or identification card number on the outside of their mail ballot for any federal or state election, and, in connection therewith, allowing the voter to correct missing or incorrect information, including with alternative forms of identification; and prohibiting a county clerk and recorder from counting the mail ballot unless the problem is fixed?",
+  "yes_means": "A “yes” vote on Amendment 84 requires voters to provide identification information with their mail ballot, in addition to their signature.",
+  "no_means": "A “no” vote on Amendment 84 continues the current signature-only verification system for mail ballots.",
+  "summary": [
+    "For federal and statewide elections, the measure requires voters to include the last four digits of a government-issued identification number when submitting their mail ballot. Acceptable forms of identification are a social security number, a Colorado driver’s license number, or a Colorado identification card number. Any form of Colorado identification provided must be compliant with the federal Real ID law. This new verification process created by the measure is in addition to the current signature verification process for mail ballots.",
+    "If a voter’s identification information is missing or cannot be matched to the state voter registration database, the county election office must contact the voter to tell them how to correct the discrepancy. Consistent with the existing signature verification process, the ballot will not be counted unless the voter takes steps within eight days of election day to confirm their identify. Specifically, a voter may submit a copy of one of the forms of identification allowed under the measure. Alternately, a voter may provide a copy of a U.S. passport, a U.S. military identification card, or a tribal photo identification card. During this process, identification may be provided in-person or digitally. Voters with qualifying physical disabilities or elderly voters who are entitled under federal law to vote by mail may submit a broader range of acceptable forms of identification.",
+    "Colorado currently uses signature verification to determine that mail ballots come from eligible voters. When a voter returns a mail ballot, they must sign the envelope. Once the ballot is received by the county election office, the signature on the envelope is then compared to the voter’s signature on file from election and driver’s license records. If a signature discrepancy is found, the signature is then reviewed by two election judges of different political parties. If they both agree that the signature likely does not belong to the voter, the county election office must contact the voter to have them confirm their identity and that they submitted the ballot. If the voter does not confirm their identity within eight days after election day, the ballot is not counted."
+  ],
+  "arguments_for": [
+    "Additional voter verification for mail ballots strengthens election security while preserving convenient access to voting. Government-issued identification documents are more consistent and less subjective than the current signature verification process. Most voters already have an eligible identification card, or know their social security number. If a voter does not have one of the required forms of identification to complete their mail ballot, they can choose to vote in person using several identification options. Adding a convenient form of additional verification for mail ballots promotes public confidence that ineligible ballots will not be counted."
+  ],
+  "arguments_against": [
+    "The measure adds an unnecessary burden to voting, without meaningfully improving election security. The measure could result in eligible voters’ ballots not being counted due to minor mistakes when submitting their mail ballot. Further, voters who have privacy concerns about providing sensitive information when submitting their ballot or who are unable to produce the required identification will be discouraged from using mail ballots, which is Colorado's most commonly used and convenient method of voting. The current signature verification process is effective, secure, and convenient for voters and it successfully identifies the rare cases when ineligible individuals attempt to submit a mail ballot."
+  ],
+  "fiscal_impact": [
+    "The measure will increase state and local spending by up to $2.7 million in the initial budget year 2026-27, and $1.2 million annually in future years for voter outreach, printing, and election staff to verify voter information. These costs will be divided between state and local governments as discussed below.",
+    "The new verification process under the measure will increase county spending by up to $2.5 million in the 2026-27 budget year and up to $1.2 million in future years. About 45 percent of these county costs will be reimbursed by the state government. These costs are driven from several new requirements under the measure. First, election judges must review identification numbers provided by voters, which will increase staffing hours and overtime during elections. Second, county election offices must notify voters of any discrepancies involving their identification information, which will require sending a postcard or digital notification to voters and segregating ballots until valid identification is provided. Lastly, county election offices will also be required to update ballot materials and envelopes, modify various elections systems, and conduct voter outreach.",
+    "The Department of State will have increased costs to inform voters of the changes to mail voting across the state and to reimburse counties. Specifically, the department will need to conduct an outreach and communication campaign at a cost of $100,000 in state budget year 2026-27 and $200,000 in state budget year 2027-28. The department will also have ongoing workload and costs for outreach and printed materials estimated at $20,000 for each presidential primary, statewide primary, and general election. As discussed above, the state will also have costs to reimburse counties for a portion of their costs under the measure. This reimbursement is estimated to be up to $1.1 million in during the 2026-27 budget year, and up to $500,000 for in future years. Historically, these costs have been paid using fees and other revenue collected by the department, rather than from the state General Fund.",
+    "To cover the costs in the Department of State discussed above, business filing fees may need to be raised to cover all or some of the costs of this measure. The fees affected, the timing of any increase, and the actual amount of fee charges will be set administratively by the department based on its available fund balance and total program costs."
+  ],
+  "blue_book_pages": "24-26",
+  "behind_it": {
+    "proponents": [
+      {
+        "name": "Suzanne Taheri",
+        "detail": "Designated representative who filed Initiative #362 (the measure that became Amendment 84), West Group; former Colorado Deputy Secretary of State",
+        "source_url": "https://www.coloradopolitics.com/2026/10/02/identification-voting-ballot-colorado-amendment-84/"
+      },
+      {
+        "name": "Chuck Broerman",
+        "detail": "Designated representative who filed Initiative #362 (the measure that became Amendment 84), West Group; El Paso County Treasurer",
+        "source_url": "https://www.coloradopolitics.com/2026/10/02/identification-voting-ballot-colorado-amendment-84/"
+      },
+      {
+        "name": "Colorado Voter Trust Initiative",
+        "detail": "Issue committee registered to support the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      }
+    ],
+    "opponents": [
+      {
+        "name": "Defend our Ballots Issue Committee",
+        "detail": "Issue committee registered to oppose the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "Vote Common Sense",
+        "detail": "Issue committee registered to oppose the measure (also opposing several other 2026 ballot measures)",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "People for a Fair Colorado",
+        "detail": "Issue committee registered to oppose the measure (also opposing most other citizen-initiated 2026 measures)",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      }
+    ],
+    "notes": ""
+  },
+  "sources": [
+    { "title": "2026 Colorado State Ballot Information Booklet (Blue Book)", "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf", "accessed": "2026-10-14" },
+    { "title": "Legislative Council Staff Ballot Analysis 2026: Amendment 84", "url": "https://leg.colorado.gov/ballots/mail-ballot-voter-identification-2", "accessed": "2026-10-14" },
+    { "title": "Colorado Secretary of State 2025-2026 Initiative Title Board filings", "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html", "accessed": "2026-10-14" },
+    { "title": "Colorado Secretary of State 2026 ballot issue committee contacts", "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html", "accessed": "2026-10-14" },
+    { "title": "Colorado Politics: Amendment 84 | ID requirements for mail ballots", "url": "https://www.coloradopolitics.com/2026/10/02/identification-voting-ballot-colorado-amendment-84/", "accessed": "2026-10-14" }
+  ],
+  "last_checked": "2026-10-14",
+  "research_notes": "Preserved verbatim two apparent wording artifacts from the Blue Book itself (not transcription errors): 'confirm their identify' (summary) and 'estimated to be up to $1.1 million in during the 2026-27 budget year' (fiscal impact)."
+}

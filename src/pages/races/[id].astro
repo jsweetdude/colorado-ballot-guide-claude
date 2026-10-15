@@ -1,0 +1,45 @@
+---
+import Base from '../../layouts/Base.astro';
+import { races, candidatesFor, statements, type Race } from '../../lib/data';
+import { partyShort } from '../../lib/labels';
+import { formatDate, LINKS } from '../../lib/site';
+
+export function getStaticPaths() {
+  return races.map((race) => ({ params: { id: race.id }, props: { race } }));
+}
+const { race } = Astro.props as { race: Race };
+const cands = candidatesFor(race);
+const total = statements.length;
+---
+<Base title={race.office} nav="races" description={`${race.office}: every candidate on the 2026 Colorado ballot, with sourced profiles.`}>
+  <section class="page-head" aria-labelledby="h1">
+    <p class="eyebrow"><a href="/races/">All races</a></p>
+    <h1 id="h1">{race.office}</h1>
+    <p class="lede">{race.about}</p>
+    {race.scope === 'congressional' && <p class="small muted">On the ballot for voters in congressional district {race.district}.</p>}
+  </section>
+
+  <section class="stack" aria-labelledby="cands-h">
+    <h2 id="cands-h">Candidates, in ballot order</h2>
+    <div class="legend" aria-hidden="true"><span><i class="sw-known"></i>Statements with a sourced position</span><span><i class="sw-unknown"></i>No known position</span></div>
+    <div class="pc-table-wrap pc-card">
+      <table class="pc-table">
+        <caption class="visually-hidden">Candidates for {race.office}, with how many of the {total} interview statements have a sourced position</caption>
+        <thead><tr><th scope="col">Candidate</th><th scope="col">Party</th><th scope="col">Known positions</th></tr></thead>
+        <tbody>
+          {cands.map((c) => (
+            <tr>
+              <th scope="row"><a href={`/candidates/${c.id}/`}>{c.name}</a>{c.running_mate && <span class="small muted"> with {c.running_mate.name}</span>}{c.incumbent && <span class="small muted"> · Incumbent</span>}</th>
+              <td>{partyShort(c.party)}</td>
+              <td>
+                <span class="small">{c.positions.length} of {total}</span>
+                <span class="coverage" aria-hidden="true"><span class="known" style={`width:${Math.round((c.positions.length / total) * 100)}%`}></span><span class="unknown"></span></span>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+    <p class="small muted">Take the <a href="/interview/">interview</a> to see how each candidate lines up with your views. Candidate list last checked {formatDate('2026-10-14')} against the <a href={LINKS.sosCandidates}>Secretary of State's certified list</a>.</p>
+  </section>
+</Base>

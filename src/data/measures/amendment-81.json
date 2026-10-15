@@ -1,0 +1,85 @@
+{
+  "id": "amendment-81",
+  "label": "Amendment 81",
+  "title": "Law Enforcement Communication with Federal Immigration Authorities",
+  "changes": "constitution",
+  "origin": "citizen initiative",
+  "threshold": "55 percent",
+  "ballot_title": "Shall there be an amendment to the Colorado Constitution requiring law enforcement to notify the department of homeland security when a person is charged with either a violent crime or any crime if the person has a prior felony conviction if law enforcement cannot determine that the person is lawfully present in the United States?",
+  "yes_means": "A “yes” vote on Amendment 81 requires law enforcement to notify federal immigration authorities after filing certain criminal charges against individuals who are not confirmed to be lawfully present.",
+  "no_means": "A “no” vote on Amendment 81 maintains current law, which allows cooperation with federal immigration authorities in some criminal matters, but limits state and local law enforcement involvement in civil immigration enforcement.",
+  "summary": [
+    "Amendment 81 requires certified peace officers employed by a law enforcement agency, correctional officers, and district attorney personnel to notify the federal Department of Homeland Security (DHS) within 72 hours of charging someone with a crime if the charge is a crime of violence or if the individual has a prior felony conviction. The notification requirement applies if the charged individual is not lawfully present in the United States, or if their lawful status cannot be determined.",
+    "The measure applies to an individual charged with, but not yet convicted of, a crime of violence, which are crimes causing serious bodily harm or death to another person, or involving the use of a deadly weapon. This includes crimes such as murder, assault, arson, escape, extortion, kidnapping, aggravated robbery, and certain sexual offenses and human trafficking. The measure also applies to individuals with any prior felony conviction, regardless of when it occurred, who are charged with any type of crime—including traffic violations, petty offenses, misdemeanors, and felonies. In all cases, the measure applies once the individual is formally charged with a crime, not at the time of arrest, and before any legal process has determined whether they are guilty or innocent.",
+    "Colorado law currently permits state and local law enforcement to cooperate in the enforcement of federal criminal law, but limits state and local participation in civil immigration enforcement. Among other restrictions, state and local government agencies and employees are prohibited from sharing certain nonpublic personal information with federal immigration authorities, unless directed by federal law, a court order, or a judicial warrant. Employees who violate these prohibitions may be subject to a fine of up to $50,000. However, neither federal nor state law require law enforcement agencies to notify federal immigration authorities when unlawfully present individuals are charged with crimes. State and local authorities do not currently track or publish data on how many unlawfully present individuals are charged with crimes of violence or are charged with any crime after a prior felony conviction."
+  ],
+  "arguments_for": [
+    "Violent individuals and repeat offenders residing in the United States unlawfully should be reported to federal immigration authorities for further enforcement action, which could include removal from the country. The measure increases communication and coordination between Colorado law enforcement and federal immigration authorities to identify individuals who may pose a threat to public safety, without targeting those who are otherwise law-abiding and contribute positively to society.",
+    "The measure creates a new uniform statewide standard for cooperation with federal immigration authorities. Consistent requirements across jurisdictions improve enforcement and reduce variation among local policies, thus improving public safety and allowing the criminal justice system to work efficiently and effectively in removing potential criminals from the country."
+  ],
+  "arguments_against": [
+    "The measure undermines the constitutional right to due process and the presumption of innocence by requiring local law enforcement to report individuals to DHS and Immigration and Customs Enforcement (ICE) before a court determines whether the individual committed a crime. Criminal charges are allegations, not findings of guilt, and individuals should not face potentially life-altering immigration consequences, including deportation, before receiving a fair trial. People who are legally present or who are found to not have committed any crime could be swept up in immigration enforcement actions if they are unable to prove their status in the measure’s strict 72-hour timeframe.",
+    "The measure is too broad to be enforced equitably and consistently, which erodes trust between law enforcement and their communities. By failing to define key terms such as “reasonable effort” or “lawful presence,” enforcement is left up to the discretion of individual officers, who may rely on subjective characteristics such as language spoken or personal appearance when deciding to review a person’s legal status. This breakdown in trust may deter some individuals from reporting crimes, cooperating with investigations, or seeking assistance for fear of subjecting themselves or members of their community to immigration enforcement."
+  ],
+  "fiscal_impact": [
+    "In state budget year 2026-27, state spending and workload will increase for agencies that employ law enforcement officers. Two departments require system updates: the Department of Revenue requires $50,000 to access federal databases and make programming changes, and the Department of Natural Resources requires $10,000 to update computer systems. The measure does not specify a funding source to pay for these costs and it is assumed that they will be paid from the General Fund. Workload may also increase in these departments, as well as the departments of Higher Education, Human Services, Judicial, Law, and Public Safety, to the extent they are required to determine a charged individual's immigration status and communicate with the federal government on affected cases; however, this work will be primarily conducted by local governments.",
+    "Local law enforcement agencies, including police, district attorney offices, and Regional Transportation District officers, will have increased workload and potential spending. As with the state, the added workload involves determining a charged individual's immigration status and communicating with the federal government on affected cases. Because this determination happens after charges are filed, most of the workload will fall on district attorney offices. The amount of work will vary by jurisdiction depending on how many individuals are charged there. Spending, if incurred, will be on systems updates."
+  ],
+  "blue_book_pages": "15-18",
+  "behind_it": {
+    "proponents": [
+      {
+        "name": "Michael Fields",
+        "detail": "Designated representative who filed Initiative #95 (the measure that became Amendment 81); executive director of Advance Colorado",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html"
+      },
+      {
+        "name": "Suzanne Taheri",
+        "detail": "Designated representative who filed Initiative #95 (the measure that became Amendment 81)",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html"
+      },
+      {
+        "name": "Brighter Colorado",
+        "detail": "Issue committee registered to support the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "Eagle County Republican Women Club",
+        "detail": "Issue committee registered to support the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      }
+    ],
+    "opponents": [
+      {
+        "name": "Colorado Communities First",
+        "detail": "Issue committee registered to oppose the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "The People's No",
+        "detail": "Issue committee registered to oppose the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "Vote Common Sense",
+        "detail": "Issue committee registered to oppose the measure (also opposing several other 2026 Colorado measures)",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "People for a Fair Colorado",
+        "detail": "Issue committee registered to oppose the measure (also opposing most other citizen-initiated 2026 measures)",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      }
+    ],
+    "notes": "Colorado Politics (10/2/2026) independently confirms Advance Colorado, led by Michael Fields, as the measure's backer, and reports opposition from immigrant advocacy groups and several district attorneys, without naming specific committees."
+  },
+  "sources": [
+    { "title": "2026 Colorado State Ballot Information Booklet (Blue Book)", "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf", "accessed": "2026-10-14" },
+    { "title": "Legislative Council Staff Ballot Analysis 2026: Amendment 81", "url": "https://leg.colorado.gov/ballots/law-enforcement-communication-with-federal-immigration-authorities-2", "accessed": "2026-10-14" },
+    { "title": "Colorado Secretary of State 2025-2026 Initiative Title Board filings", "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html", "accessed": "2026-10-14" },
+    { "title": "Colorado Secretary of State 2026 ballot issue committee contacts", "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html", "accessed": "2026-10-14" },
+    { "title": "Colorado Politics: Amendment 81 | Local cooperation with federal immigration authorities", "url": "https://www.coloradopolitics.com/2026/10/02/cooperation-immigration-enforcement-colorado-amendment-81/", "accessed": "2026-10-14" }
+  ],
+  "last_checked": "2026-10-14",
+  "research_notes": "Summary paragraphs picked from the 'What does the measure do?', 'Which individuals are subject to notification?' (merged across a page break), and 'What is current law...' Q&As; the 'What authority do local governments have...' Q&A was omitted as supplementary. Opposition committees Vote Common Sense and People for a Fair Colorado are multi-measure umbrella committees opposing nearly every citizen-initiated 2026 measure, not single-issue groups."
+}

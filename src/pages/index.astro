@@ -1,0 +1,64 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE, DATES, LINKS } from '../lib/site';
+import statements from '../data/statements.json';
+import racesData from '../data/races.json';
+
+const measureCount = 14;
+const tierA = racesData.races.filter((r) => r.tier === 'A');
+const houseCount = tierA.filter((r) => r.id.startsWith('us-house')).length;
+---
+<Base title={SITE.name} nav="home" textured>
+  <section class="page-head" aria-labelledby="h1">
+    <p class="eyebrow">Colorado general election · November 3, 2026</p>
+    <h1 id="h1">Colorado Ballot Guide</h1>
+    <p class="lede">A free, nonpartisan guide for the ballot you are holding now. Answer a short interview, then see each race and measure explained, with every candidate's position linked to its source.</p>
+    <div class="pc-btn-row">
+      <a class="pc-btn pc-btn--primary pc-btn-lg" href="/ballot/">Start</a>
+      <a class="pc-btn pc-btn-lg" href="/races/">Browse races without the interview</a>
+    </div>
+  </section>
+
+  <section class="pc-card" aria-labelledby="how-h">
+    <h2 id="how-h">How it works</h2>
+    <ol class="steps">
+      <li><span>You answer {statements.length} plain-language statements about taxes, immigration, abortion, guns, energy, elections and more, and say how much each one matters to you.</span></li>
+      <li><span>The guide compares your answers with each candidate's recorded votes, bills and public statements, and shows how closely each one lines up, with a confidence level and the number of questions it is based on.</span></li>
+      <li><span>It explains all {measureCount} statewide measures in the official Blue Book's words and shows which way your own answers lean on each.</span></li>
+    </ol>
+    <p class="small muted">Covers the U.S. Senate, governor, attorney general, secretary of state, treasurer, all {houseCount} U.S. House districts, the {measureCount} statewide measures, CU regents and the State Board of Education. Add your address to see your districts, or skip it and see the statewide races.</p>
+  </section>
+
+  <section class="pc-card" aria-labelledby="not-h">
+    <h2 id="not-h">What it does not do</h2>
+    <ul class="not-list">
+      <li><strong>It does not store your answers.</strong> They stay in this browser on this device. Nothing is sent anywhere except the street address, if you choose to look it up, and that is not saved or logged.</li>
+      <li><strong>It does not recommend anyone.</strong> It shows how your answers line up with what each candidate has said and done. The choice is yours, and many voters weigh things no quiz can measure.</li>
+      <li><strong>It does not take money.</strong> No ads, no donations, no sponsors, no tracking, and no ties to any campaign, party or group.</li>
+    </ul>
+  </section>
+
+  <section class="stack" aria-labelledby="dates-h">
+    <h2 id="dates-h">Two dates</h2>
+    <div class="dates">
+      <div class="date-card">
+        <span class="date-when"><time datetime={DATES.registerBy.iso}>{DATES.registerBy.label}</time></span>
+        <p>Last day to register or update your address and still get a ballot in the mail. Also the last day county clerks recommend mailing your ballot back; after that, use a drop box or vote center. Postmarks do not count.</p>
+      </div>
+      <div class="date-card">
+        <span class="date-when"><time datetime={DATES.electionDay.iso}>{DATES.electionDay.label}</time></span>
+        <p>Election Day. Ballots must be <em>received</em> by 7 p.m. Drop boxes and vote centers are open until then, and you can register and vote in person the same day.</p>
+      </div>
+    </div>
+    <p class="small muted">Dates from the <a href="https://www.larimer.gov/election">Larimer County Clerk's 2026 election page</a> and the Colorado Secretary of State. Check your own county clerk for drop box locations.</p>
+  </section>
+
+  <section class="pc-card" aria-labelledby="official-h">
+    <h2 id="official-h">Official sources</h2>
+    <ul class="stack-sm">
+      <li><a href={LINKS.govote}>GoVoteColorado.gov</a>: register, update your address, check your registration and see your official sample ballot.</li>
+      <li><a href={LINKS.bluebook}>The 2026 Blue Book</a>: the legislature's nonpartisan analysis of every statewide measure, mailed to every voter household.</li>
+      <li><a href={LINKS.judicial}>Office of Judicial Performance Evaluation</a>: evaluations of the judges on your ballot for retention.</li>
+    </ul>
+  </section>
+</Base>

@@ -1,0 +1,205 @@
+[
+  {
+    "id": "graduated-income-tax",
+    "axis": "economic",
+    "topic": "State income tax",
+    "text": "Colorado should tax higher incomes at higher rates instead of using one flat rate for everyone.",
+    "measures": [
+      { "id": "amendment-87", "agree_means": "yes" },
+      { "id": "proposition-136", "agree_means": "no" }
+    ],
+    "coding_guide": "Agree: supports Amendment 87 or a graduated state income tax in Colorado. Disagree: opposes Amendment 87 or wants to keep the flat state income tax. Statements about federal tax brackets do not count."
+  },
+  {
+    "id": "income-tax-cap",
+    "axis": "economic",
+    "topic": "State income tax",
+    "text": "State law should cap Colorado's income tax rate at today's 4.4 percent.",
+    "measures": [{ "id": "proposition-136", "agree_means": "yes" }],
+    "coding_guide": "Agree: supports Proposition 136, or pledges to oppose any increase in the state income tax rate. Disagree: opposes Proposition 136, or supports higher state income tax rates for some taxpayers."
+  },
+  {
+    "id": "keep-tabor-surplus",
+    "axis": "economic",
+    "topic": "TABOR refunds",
+    "text": "When Colorado collects more than its TABOR revenue limit, the state should keep the extra for schools instead of refunding it.",
+    "measures": [{ "id": "proposition-nn", "agree_means": "yes" }],
+    "coding_guide": "Agree: supports Proposition NN or letting the state keep revenue above the TABOR limit for schools and services. Disagree: opposes Proposition NN or wants revenue above the limit refunded to taxpayers."
+  },
+  {
+    "id": "conservation-sales-tax",
+    "axis": "economic",
+    "topic": "Water and land",
+    "text": "Sales tax collected on sporting goods should be set aside for water, land and wildfire programs.",
+    "measures": [{ "id": "proposition-137", "agree_means": "yes" }],
+    "coding_guide": "Agree: supports Proposition 137. Disagree: opposes Proposition 137."
+  },
+  {
+    "id": "natural-gas-right",
+    "axis": "economic",
+    "topic": "Energy",
+    "text": "The state constitution should protect the right to buy and use natural gas in homes and businesses.",
+    "measures": [{ "id": "amendment-82", "agree_means": "yes" }],
+    "coding_guide": "Agree: supports Amendment 82, or opposes limits on natural gas hookups and appliances. Disagree: opposes Amendment 82, or supports limiting new natural gas hookups or appliances."
+  },
+  {
+    "id": "clean-energy-shift",
+    "axis": "economic",
+    "topic": "Energy",
+    "text": "Government should speed up the shift from oil, gas and coal to renewable energy.",
+    "measures": [],
+    "coding_guide": "Agree: supports a faster move to renewable energy, clean-energy mandates or targets, federal clean-energy tax credits, or limits on new drilling. Disagree: supports expanding oil, gas or coal production, opposes clean-energy mandates, or supported repealing federal clean-energy credits."
+  },
+  {
+    "id": "housing-state-zoning",
+    "axis": "economic",
+    "topic": "Housing",
+    "text": "The state should be able to override local zoning rules to allow more housing to be built.",
+    "measures": [],
+    "coding_guide": "Agree: supports state laws that preempt local zoning to allow more housing (for example Colorado's 2024 laws on accessory dwelling units, density near transit, or occupancy limits). Disagree: wants zoning decisions left to local governments, or opposed those laws."
+  },
+  {
+    "id": "health-coverage",
+    "axis": "economic",
+    "topic": "Health care",
+    "text": "Government should do more to make sure everyone has health insurance, even if it costs taxpayers more.",
+    "measures": [],
+    "coding_guide": "Agree: supports expanding coverage, such as extending the enhanced Affordable Care Act premium tax credits, protecting or expanding Medicaid, a public option or Medicare for All. Disagree: supports reducing federal health spending, Medicaid work requirements or cuts, or market-based approaches instead of expanded government coverage."
+  },
+  {
+    "id": "keep-tariffs",
+    "axis": "economic",
+    "topic": "Trade",
+    "text": "The federal government should keep broad tariffs on imported goods.",
+    "measures": [],
+    "coding_guide": "Agree: supports the broad tariffs imposed in 2025 and 2026. Disagree: opposes broad tariffs, or voted to end the emergency declarations behind them."
+  },
+  {
+    "id": "federal-budget-law",
+    "axis": "economic",
+    "topic": "Federal taxes and spending",
+    "text": "Congress was right to pass the 2025 federal tax and spending law known as the One Big Beautiful Bill Act.",
+    "measures": [],
+    "coding_guide": "Agree: voted for or praised H.R. 1 of the 119th Congress (Public Law 119-21, signed July 4, 2025). Disagree: voted against or criticized it."
+  },
+  {
+    "id": "public-lands",
+    "axis": "economic",
+    "topic": "Public lands",
+    "text": "Federal public lands should stay in federal ownership rather than being sold or transferred.",
+    "measures": [],
+    "coding_guide": "Agree: opposes selling or transferring federal public lands. Disagree: supports selling federal land or transferring it to states or private owners."
+  },
+  {
+    "id": "abortion-legal",
+    "axis": "social",
+    "topic": "Abortion",
+    "text": "Abortion should be legal in all or most cases.",
+    "measures": [],
+    "coding_guide": "Agree: supports abortion rights, Colorado's Amendment 79 (2024), or the federal Women's Health Protection Act. Disagree: supports bans or new restrictions on abortion. An endorsement or rating from an abortion-rights or anti-abortion group is an interest-group rating."
+  },
+  {
+    "id": "stricter-gun-laws",
+    "axis": "social",
+    "topic": "Guns",
+    "text": "Gun laws should be stricter than they are now.",
+    "measures": [],
+    "coding_guide": "Agree: supports new gun restrictions, such as Colorado's 2025 permit requirement for certain semiautomatic firearms (SB25-003), an assault weapons ban or wider background checks. Disagree: opposes new restrictions or wants to loosen current ones. An NRA or gun-safety group grade is an interest-group rating."
+  },
+  {
+    "id": "sports-biological-sex",
+    "axis": "social",
+    "topic": "Transgender youth",
+    "text": "Students should play on school sports teams that match their biological sex, not their gender identity.",
+    "measures": [{ "id": "proposition-134", "agree_means": "yes" }],
+    "coding_guide": "Agree: supports Proposition 134 or the federal Protection of Women and Girls in Sports Act. Disagree: opposes Proposition 134 or that act, or supports letting transgender students play on teams matching their gender identity."
+  },
+  {
+    "id": "minor-gender-surgery-ban",
+    "axis": "social",
+    "topic": "Transgender youth",
+    "text": "Colorado should ban surgery that changes the sex characteristics of patients under 18 as treatment for gender identity.",
+    "measures": [{ "id": "proposition-135", "agree_means": "yes" }],
+    "coding_guide": "Agree: supports Proposition 135, or supports banning all gender-transition medical care for minors (which includes surgery). Disagree: opposes Proposition 135. Opposing restrictions on gender-affirming care in general, without addressing surgery, is inferred and coded no stronger than 2."
+  },
+  {
+    "id": "immigration-notify-ice",
+    "axis": "social",
+    "topic": "Immigration",
+    "text": "Colorado police and jails should notify federal immigration authorities when they charge someone with a serious crime and cannot confirm the person is in the country legally.",
+    "measures": [{ "id": "amendment-81", "agree_means": "yes" }],
+    "coding_guide": "Agree: supports Amendment 81, or supports repealing Colorado's limits on local cooperation with federal immigration enforcement in criminal cases. Disagree: opposes Amendment 81 or defends those limits."
+  },
+  {
+    "id": "deportation-priority",
+    "axis": "social",
+    "topic": "Immigration",
+    "text": "Deporting people who are in the U.S. without legal status should be a top federal priority.",
+    "measures": [],
+    "coding_guide": "Agree: supports mass deportation or expanded federal immigration enforcement and funding. Disagree: opposes mass deportation, puts a path to legal status first, or opposes the scale or methods of current enforcement."
+  },
+  {
+    "id": "fentanyl-penalties",
+    "axis": "social",
+    "topic": "Criminal justice",
+    "text": "Fentanyl crimes should carry tougher penalties, including mandatory prison time for selling any amount.",
+    "measures": [{ "id": "proposition-132", "agree_means": "yes" }],
+    "coding_guide": "Agree: supports Proposition 132, felony charges for possessing any amount of fentanyl, or mandatory prison for dealing any amount. Disagree: opposes Proposition 132 or prefers current law and treatment-first approaches."
+  },
+  {
+    "id": "child-trafficking-life",
+    "axis": "social",
+    "topic": "Criminal justice",
+    "text": "Child sex trafficking should be punished with life in prison without parole.",
+    "measures": [{ "id": "proposition-133", "agree_means": "yes" }],
+    "coding_guide": "Agree: supports Proposition 133. Disagree: opposes Proposition 133."
+  },
+  {
+    "id": "hunting-right",
+    "axis": "social",
+    "topic": "Wildlife",
+    "text": "Hunting and fishing should be a right protected in the state constitution.",
+    "measures": [{ "id": "amendment-83", "agree_means": "yes" }],
+    "coding_guide": "Agree: supports Amendment 83 or a constitutional right to hunt and fish. Disagree: opposes Amendment 83."
+  },
+  {
+    "id": "mail-ballot-id",
+    "axis": "governance",
+    "topic": "Voting",
+    "text": "Voters should have to write an ID number, such as the last four digits of their Social Security number, on their mail ballot envelope.",
+    "measures": [{ "id": "amendment-84", "agree_means": "yes" }],
+    "coding_guide": "Agree: supports Amendment 84 or requiring an ID number with mail ballots. General support for voter ID without mention of mail ballots is inferred and coded no stronger than 4. Disagree: opposes Amendment 84 or prefers signature verification alone."
+  },
+  {
+    "id": "plain-language-ballots",
+    "axis": "governance",
+    "topic": "Ballot measures",
+    "text": "Ballot questions should be required to be written at an eighth-grade reading level.",
+    "measures": [{ "id": "amendment-85", "agree_means": "yes" }],
+    "coding_guide": "Agree: supports Amendment 85. Disagree: opposes Amendment 85."
+  },
+  {
+    "id": "redistricting-commission",
+    "axis": "governance",
+    "topic": "Redistricting",
+    "text": "Only Colorado's independent commission should redraw the state's congressional map, even if other states redraw theirs mid-decade.",
+    "measures": [{ "id": "amendment-86", "agree_means": "yes" }],
+    "coding_guide": "Agree: supports Amendment 86, or opposes Colorado redrawing its congressional map mid-decade. Disagree: opposes Amendment 86, or supports Colorado redrawing its map mid-decade, for example in response to other states."
+  },
+  {
+    "id": "keep-mail-voting",
+    "axis": "governance",
+    "topic": "Elections",
+    "text": "Colorado's all-mail ballot election system should stay largely as it is.",
+    "measures": [],
+    "coding_guide": "Agree: defends Colorado's current election system or calls it secure and accurate. Disagree: calls for major changes, such as ending universal mail ballots, hand counts, removing voting machines or requiring in-person voting. Supporting Amendment 84 alone is not a call for major change."
+  },
+  {
+    "id": "challenge-federal-policies",
+    "axis": "governance",
+    "topic": "State and federal",
+    "text": "Colorado's state government should challenge the current federal administration's policies in court.",
+    "measures": [],
+    "coding_guide": "Agree: supports the state's lawsuits against the current federal administration or pledges to continue them. Disagree: criticizes those lawsuits as political or wasteful, or pledges to cooperate with the administration instead."
+  }
+]

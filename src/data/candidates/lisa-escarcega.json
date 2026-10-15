@@ -1,0 +1,29 @@
+{
+  "id": "lisa-escarcega",
+  "name": "Lisa Escárcega",
+  "race": "state-board-1",
+  "party": "Democratic Party",
+  "incumbent": false,
+  "profile": "short",
+  "website": null,
+  "summary": [
+    {
+      "text": "Lisa Escárcega is on the ballot for State Board of Education, District 1 as the Democratic Party candidate.",
+      "source_url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+    }
+  ],
+  "experience": [],
+  "record": [],
+  "positions": [],
+  "endorsements": [],
+  "finance": null,
+  "sources": [
+    {
+      "title": "2026 General Election Official Candidate List, Colorado Secretary of State",
+      "url": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+      "accessed": "2026-10-14"
+    }
+  ],
+  "last_checked": "2026-10-14",
+  "research_notes": "Placeholder: research not yet merged."
+}

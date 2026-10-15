@@ -1,0 +1,67 @@
+{
+  "id": "amendment-86",
+  "label": "Amendment 86",
+  "title": "Requirements for Off-Cycle Congressional Redistricting",
+  "changes": "constitution",
+  "origin": "citizen initiative",
+  "threshold": "55 percent",
+  "ballot_title": "Shall there be an amendment to the Colorado Constitution concerning congressional redistricting, and, in connection therewith, reenacting the current process for congressional redistricting in the Colorado Constitution and prohibiting modifications to a final map unless at least three public meetings are held, the modifications do not have the effect of dividing communities of interest or purposefully favoring one political party, and are approved by the congressional redistricting commission and the Colorado Supreme Court?",
+  "yes_means": "A “yes” vote on Amendment 86 requires the Colorado Independent Congressional Redistricting Commission to approve any new congressional districts proposed outside of a scheduled redistricting year.",
+  "no_means": "A “no” vote on Amendment 86 continues the current requirements for changing congressional districts every ten years.",
+  "summary": [
+    "In 2018, Colorado voters amended the Colorado Constitution to create the Colorado Independent Congressional Redistricting Commission (commission). Every ten years, a new commission is formed and is charged with using the population figures from the U.S. Census Bureau, specific legal criteria, and public input from around the state to draw Colorado’s congressional districts. The last commission was formed and completed its work in 2021, and the next commission will meet and create new districts in 2031.",
+    "Off-cycle redistricting means changing the boundaries of congressional districts between the regular redistricting periods. The current redistricting process, protected in the Colorado Constitution, is designed for redrawing congressional and legislative districts immediately following the census and does not establish a process specifically for off-cycle redistricting. Since 2025, at least ten states have changed their congressional district maps through off-cycle redistricting.",
+    "Amendment 86 requires that any off-cycle redistricting, if it were to occur, be approved by the commission and adopted by the Colorado Supreme Court. Before approving any changes, the commission must hold at least three public hearings. The measure also prohibits off-cycle changes to congressional districts that intentionally favor a political party or unnecessarily divide communities of interest. Any such redistricting efforts would require the use of population figures from the most recent census or another data source."
+  ],
+  "arguments_for": [
+    "Amendment 86 protects public participation in any off-cycle changes to congressional districts and ensures that changes are reviewed through a fair and transparent process. Requiring the commission to review districts, and not allowing districts to favor a single political party, keeps partisan politics out of the process. This affirms the voters’ intent in creating an independent commission, which was overwhelmingly approved in a 2018 statewide election. Across the nation, politicians have attempted to change districts in their favor with limited public input. Amendment 86 safeguards the redistricting process in Colorado."
+  ],
+  "arguments_against": [
+    "If Colorado voters ever want to enact new congressional districts in an off-cycle redistricting year, this measure stands in their way. Whether new districts are in response to partisan redistricting in other states, changes in political priorities, or other concerns with Colorado's congressional districts, this measure creates an unnecessary constitutional barrier. Further, if voters feel that the districts created by the commission during the regularly scheduled redistricting no longer meet the needs of the state, that same commission should not play a role in the process. Voters should always have the final word on whether Colorado’s congressional districts still reflect the state’s needs."
+  ],
+  "fiscal_impact": [
+    "The measure increases costs in the Legislative Department by about $370,000 in any year that the commission must convene and review changes to congressional maps outside of its usual redistricting schedule. The costs are to staff the commission, provide reimbursement for commissioners, and hire legal counsel. The Judicial Department will also have a small workload increase to review any new maps."
+  ],
+  "blue_book_pages": "30-32",
+  "behind_it": {
+    "proponents": [
+      {
+        "name": "Suzanne Taheri",
+        "detail": "Designated representative who filed Initiative #256 (the measure that became Amendment 86), Advance Colorado",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html"
+      },
+      {
+        "name": "Elizabeth Caven",
+        "detail": "Designated representative who filed Initiative #256 (the measure that became Amendment 86), Advance Colorado",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html"
+      },
+      {
+        "name": "Fair Redistricting Colorado",
+        "detail": "Issue committee registered to support the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      },
+      {
+        "name": "Brighter Colorado",
+        "detail": "Issue committee registered to support the measure",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      }
+    ],
+    "opponents": [
+      {
+        "name": "People for a Fair Colorado",
+        "detail": "Issue committee registered to oppose the measure (also opposing most other citizen-initiated 2026 measures)",
+        "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
+      }
+    ],
+    "notes": "Colorado Politics (10/2/2026) covers the measure's background and arguments but does not name designated proponents, campaign committees, or funding figures beyond what the Secretary of State's contacts page lists."
+  },
+  "sources": [
+    { "title": "2026 Colorado State Ballot Information Booklet (Blue Book)", "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf", "accessed": "2026-10-14" },
+    { "title": "Legislative Council Staff Ballot Analysis 2026: Amendment 86", "url": "https://leg.colorado.gov/ballots/requirements-for-off-cycle-congressional-redistricting-2", "accessed": "2026-10-14" },
+    { "title": "Colorado Secretary of State 2025-2026 Initiative Title Board filings", "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html", "accessed": "2026-10-14" },
+    { "title": "Colorado Secretary of State 2026 ballot issue committee contacts", "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html", "accessed": "2026-10-14" },
+    { "title": "Colorado Politics: Amendment 86 | Redrawing political maps in 'off cycles'", "url": "https://www.coloradopolitics.com/2026/10/02/redistricting-fight-colorado-amendment-86/", "accessed": "2026-10-14" }
+  ],
+  "last_checked": "2026-10-14",
+  "research_notes": "Fiscal Impact section for this measure has only one 'State Spending' paragraph in the Blue Book."
+}

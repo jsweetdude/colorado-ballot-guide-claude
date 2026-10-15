@@ -1,0 +1,90 @@
+---
+import { formatDate } from '../lib/site';
+import { statementsForMeasure, type Measure } from '../lib/data';
+
+interface Props {
+  measure: Measure;
+  level?: 2 | 3;
+  showLean?: boolean;
+  linkToPage?: boolean;
+}
+const { measure: m, level = 3, showLean = false, linkToPage = true } = Astro.props;
+const H = level === 2 ? 'h2' : 'h3';
+const H2 = level === 2 ? 'h3' : 'h4';
+const changes = { constitution: 'The Colorado Constitution', statute: 'Colorado statutes (state law)', 'constitution and statute': 'The Colorado Constitution and Colorado statutes' }[m.changes] ?? m.changes;
+const threshold = m.threshold === '55 percent' ? 'At least 55 percent of the votes cast' : 'A simple majority (more than half) of the votes cast';
+const originText = m.origin.charAt(0).toUpperCase() + m.origin.slice(1);
+const linked = statementsForMeasure(m.id);
+const headingId = `${m.id}-h`;
+const isLocal = m.id.startsWith('issue-');
+---
+<article class="pc-card measure" id={m.id} aria-labelledby={headingId}>
+  <div class="measure-head">
+    <div class="stack-sm">
+      <p class="pc-label">{isLocal ? 'Local ballot issue' : m.changes === 'statute' ? 'Statewide proposition' : 'Statewide constitutional amendment'}</p>
+      <H id={headingId}>{m.label}: {m.title}</H>
+    </div>
+    {showLean && <span class="pc-badge lean-unclear" data-lean-for={m.id}>Lean: unclear</span>}
+  </div>
+  {showLean && <p class="small" data-lean-why={m.id}></p>}
+
+  <dl class="facts">
+    <dt>Put on the ballot by</dt><dd>{originText}</dd>
+    <dt>Changes</dt><dd>{changes}</dd>
+    <dt>Needs to pass</dt><dd>{threshold}</dd>
+  </dl>
+
+  {(m.yes_means || m.no_means) && (
+    <div class="yes-no">
+      <div><strong>Yes</strong><span>{m.yes_means}</span></div>
+      <div><strong>No</strong><span>{m.no_means}</span></div>
+    </div>
+  )}
+
+  <div>
+    <wa-details summary="What it does (Blue Book summary)" appearance="outlined">
+      <div class="details-body">
+        {m.summary.map((p) => <p>{p}</p>)}
+        <p class="muted"><strong>Ballot question as printed:</strong> {m.ballot_title}</p>
+      </div>
+    </wa-details>
+    <wa-details summary="Arguments for and against (Blue Book)" appearance="outlined">
+      <div class="details-body">
+        <H2>For</H2>
+        {m.arguments_for.length ? m.arguments_for.map((p) => <p>{p}</p>) : <p class="muted">None listed.</p>}
+        <H2>Against</H2>
+        {m.arguments_against.length ? m.arguments_against.map((p) => <p>{p}</p>) : <p class="muted">None listed.</p>}
+      </div>
+    </wa-details>
+    <wa-details summary="Fiscal impact (Blue Book)" appearance="outlined">
+      <div class="details-body">{m.fiscal_impact.map((p) => <p>{p}</p>)}</div>
+    </wa-details>
+    <wa-details summary="Who put it on the ballot and who is campaigning" appearance="outlined">
+      <div class="details-body">
+        <p>{originText}.</p>
+        <H2>Supporters</H2>
+        {m.behind_it.proponents.length ? (
+          <ul>{m.behind_it.proponents.map((p) => <li><a href={p.source_url}>{p.name}</a>{p.detail && `: ${p.detail}`}</li>)}</ul>
+        ) : <p class="muted">No sourced supporters recorded.</p>}
+        <H2>Opponents</H2>
+        {m.behind_it.opponents.length ? (
+          <ul>{m.behind_it.opponents.map((p) => <li><a href={p.source_url}>{p.name}</a>{p.detail && `: ${p.detail}`}</li>)}</ul>
+        ) : <p class="muted">No sourced organized opposition recorded.</p>}
+        {m.behind_it.notes && <p>{m.behind_it.notes}</p>}
+        <p class="muted">Names of campaigns and groups come from their own filings and news coverage. This guide does not endorse either side.</p>
+      </div>
+    </wa-details>
+  </div>
+
+  {linked.length > 0 && (
+    <p class="small muted">Related interview {linked.length === 1 ? 'statement' : 'statements'}: {linked.map((s, i) => <>{i > 0 && '; '}“{s.text}” (agreeing points to {s.agree_means === 'yes' ? 'a yes' : 'a no'} vote)</>)}</p>
+  )}
+  <p class="source-line">
+    {isLocal ? 'Source: Front Range Passenger Rail District notice in the 2026 Blue Book' : 'Source: 2026 Blue Book, Legislative Council Staff'}, pages {m.blue_book_pages}. Last checked {formatDate(m.last_checked)}.
+    {linkToPage && <> <a href={`/measures/${m.id}/`}>Full page for {m.label}</a></>}
+  </p>
+</article>
+
+<script>
+  import '@awesome.me/webawesome/dist/components/details/details.js';
+</script>
