@@ -41,6 +41,17 @@
       "date": "2026-10-02",
       "quote": "I would roll back the mail-in voting system with exceptions for individuals who have disabilities that make in-person voting difficult.",
       "note": "He carves out a disability exception, but frames rolling back universal mail voting as a central campaign position: \"There's no reason why in-person voting shouldn't be the primary method our state uses.\""
+    },
+    {
+      "statement": "mail-ballot-id",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://www.vote411.org/ballot",
+      "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+      "date": "2026-10-15",
+      "quote": "This includes requiring government-issued identification when voting, verifying citizenship during voter registration, maintaining accurate voter rolls",
+      "note": "General support for voter identification without mention of mail ballots, which the coding rule treats as inferred and capped at agree. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race.",
+      "date_basis": "accessed"
     }
   ],
   "endorsements": [],
@@ -70,16 +81,13 @@
       "title": "Sean Vadney for Colorado Secretary of State",
       "url": "https://seanvadneyforsos.org",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+      "url": "https://www.vote411.org/ballot",
+      "accessed": "2026-10-15"
     }
   ],
-  "last_checked": "2026-10-14",
-  "research_notes": "No endorsements found on a fetched page. His Ballotpedia Candidate Connection survey (submitted May 1, 2026) and the Denver Post's Oct. 3, 2026 candidate Q&A (which corroborates his keep-mail-voting position) do not address mail-ballot ID, plain-language ballots or redistricting, so those statements are left unsourced rather than inferred. Second pass 2026-10-14: fetched his campaign site (seanvadneyforsos.org), which repeats the same two-plank platform (election security, business filings) as his Ballotpedia survey and does not mention mail-ballot ID, plain-language ballots, redistricting, or lawsuits against the federal administration. No new positions were added.",
-  "verification": {
-    "checked": "2026-10-14",
-    "positions_verified": 1,
-    "positions_unverifiable": 0,
-    "detail": {
-      "keep-mail-voting": "found"
-    }
-  }
+  "last_checked": "2026-10-15",
+  "research_notes": "No endorsements found on a fetched page. His Ballotpedia Candidate Connection survey (submitted May 1, 2026) and the Denver Post's Oct. 3, 2026 candidate Q&A (which corroborates his keep-mail-voting position) do not address mail-ballot ID, plain-language ballots or redistricting, so those statements are left unsourced rather than inferred. Second pass 2026-10-14: fetched his campaign site (seanvadneyforsos.org), which repeats the same two-plank platform (election security, business filings) as his Ballotpedia survey and does not mention mail-ballot ID, plain-language ballots, redistricting, or lawsuits against the federal administration. No new positions were added. Gap fill 2026-10-15: Added an inferred voter-ID position from his Vote411 answer."
 }

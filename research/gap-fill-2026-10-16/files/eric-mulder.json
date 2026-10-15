@@ -1,0 +1,138 @@
+{
+  "id": "eric-mulder",
+  "name": "Eric Mulder",
+  "race": "governor",
+  "party": "Libertarian Party",
+  "incumbent": false,
+  "profile": "short",
+  "website": "https://mulderforgovernor.org",
+  "running_mate": {
+    "name": "Wayne Harlos",
+    "summary": [
+      {
+        "text": "Wayne Harlos, Mulder's running mate, also ran for Lieutenant Governor of Colorado on the Libertarian ticket in the 2020 election, according to Ballotpedia.",
+        "source_url": "https://ballotpedia.org/Wayne_Harlos"
+      }
+    ]
+  },
+  "summary": [
+    {
+      "text": "Eric Mulder is a U.S. Army veteran, security guard and small business owner from Aurora who previously served on Aurora's Veterans Affairs Commission and Civic Engagement Commission.",
+      "source_url": "https://ballotpedia.org/Eric_Mulder"
+    }
+  ],
+  "experience": [
+    {
+      "text": "U.S. Army, 2010-2016.",
+      "source_url": "https://ballotpedia.org/Eric_Mulder"
+    },
+    {
+      "text": "Member, Aurora Civic Engagement Commission; previously served on the Aurora Veterans Affairs Commission.",
+      "source_url": "https://ballotpedia.org/Eric_Mulder"
+    },
+    {
+      "text": "Bachelor's degree, Rocky Mountain College of Art + Design, 2020.",
+      "source_url": "https://ballotpedia.org/Eric_Mulder"
+    },
+    {
+      "text": "Small business owner and private security contractor.",
+      "source_url": "https://ballotpedia.org/Eric_Mulder"
+    }
+  ],
+  "record": [],
+  "positions": [
+    {
+      "statement": "clean-energy-shift",
+      "value": 3,
+      "source_type": "direct_statement",
+      "source_url": "https://ballotpedia.org/Eric_Mulder",
+      "source_title": "Eric Mulder - Ballotpedia (2026 Candidate Connection survey)",
+      "date": "2026-01-01",
+      "quote": "From small modular reactors, to natural gas, wind, solar, and geothermal we must use every tool in our disposal to power our state and fortify our energy grid",
+      "date_basis": "year"
+    },
+    {
+      "statement": "natural-gas-right",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://ballotpedia.org/Eric_Mulder",
+      "source_title": "Eric Mulder - Ballotpedia (2026 Candidate Connection survey)",
+      "date": "2026-01-01",
+      "quote": "From small modular reactors, to natural gas, wind, solar, and geothermal we must use every tool in our disposal to power our state and fortify our energy grid",
+      "note": "Inferred support for continued natural gas use from his energy-diversity platform; Amendment 82 is not named."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 2,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/",
+      "source_title": "Colorado Governor candidate Q&A - The Denver Post",
+      "date": "2026-10-03",
+      "quote": "I propose returning Medicaid to its pre-COVID baseline, reviewing everything added since then and eliminating what is unnecessary.",
+      "note": "Answering a question about the state's Medicaid funding crisis; he also proposes strengthening disability-eligibility standards and using state purchasing power to negotiate lower drug prices, which is why this is coded as a qualified rather than unqualified disagreement."
+    },
+    {
+      "statement": "immigration-notify-ice",
+      "value": 1,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/",
+      "source_title": "Colorado Governor candidate Q&A - The Denver Post",
+      "date": "2026-10-03",
+      "quote": "I support limiting state cooperation with federal agencies in order to uphold constitutional safeguards on privacy and due process.",
+      "note": "He also says ICE's 'wrongful arrest, detention, and deportation of citizens is inexcusable,' with no stated carve-out for cooperation on serious crimes, so coded as an unqualified disagreement with Amendment 81's approach."
+    },
+    {
+      "statement": "housing-state-zoning",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://www.vote411.org/ballot",
+      "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+      "date": "2026-10-15",
+      "date_basis": "accessed",
+      "quote": "Housing diversity should be pursued, encouraging home rule districts to allow for multiple family units, accessory dwelling units, mobile home and tiny communities, etc.",
+      "note": "Favors the state encouraging local governments to allow denser housing; he says encourage rather than override, so this is inferred and capped at agree. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race."
+    }
+  ],
+  "endorsements": [],
+  "finance": null,
+  "sources": [
+    {
+      "title": "Eric Mulder - Ballotpedia",
+      "url": "https://ballotpedia.org/Eric_Mulder",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Eric Mulder for Colorado Governor (campaign site)",
+      "url": "https://mulderforgovernor.org",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Governor candidate Q&A - The Denver Post",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "ballotpedia.org",
+      "url": "https://ballotpedia.org/Wayne_Harlos",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+      "url": "https://www.vote411.org/ballot",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "last_checked": "2026-10-15",
+  "research_notes": "Mulder's 2026 campaign site is mostly a placeholder/signup page with no issues content reachable by automated fetch; his Libertarian Party press release (lpcolorado.org) was blocked by a bot-detection challenge page. His Ballotpedia 2026 Candidate Connection survey gave three key messages (keeping state sales tax revenue local during emergencies, limiting government surveillance/privacy, and energy diversity) but only the energy answer maps clearly to one of the 25 statements. A separate 2024 Ballotpedia survey response exists from a different race (an Aurora-area state legislative campaign, not governor) and was not used here to avoid conflating offices. No endorsements beyond crowd-sourced 'Sway' voting-group listings were found. Second pass 2026-10-14: added health-coverage, immigration-notify-ice from https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/, which he did answer. Gap fill 2026-10-15: Added an inferred housing position from his Vote411 answer.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 4,
+    "positions_unverifiable": 0,
+    "detail": {
+      "clean-energy-shift": "found",
+      "natural-gas-right": "found",
+      "health-coverage": "found",
+      "immigration-notify-ice": "found"
+    }
+  }
+}

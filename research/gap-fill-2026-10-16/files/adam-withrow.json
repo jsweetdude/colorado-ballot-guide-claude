@@ -1,0 +1,114 @@
+{
+  "id": "adam-withrow",
+  "name": "Adam Withrow",
+  "race": "us-senate",
+  "party": "Unity Party",
+  "incumbent": false,
+  "profile": "short",
+  "website": "https://www.senatorwithrow.com/",
+  "summary": [
+    {
+      "text": "Adam Withrow is the Unity Party candidate for U.S. Senate, an educator from southern Colorado who was born in Algona, Iowa.",
+      "source_url": "https://ballotpedia.org/Adam_Withrow"
+    },
+    {
+      "text": "He previously ran for the U.S. House in Colorado's 3rd Congressional District in 2024 as the Unity Party of Colorado nominee.",
+      "source_url": "https://ballotpedia.org/Adam_Withrow"
+    }
+  ],
+  "experience": [
+    {
+      "text": "Educator (listed profession).",
+      "source_url": "https://ballotpedia.org/Adam_Withrow"
+    },
+    {
+      "text": "Ran for U.S. House, Colorado's 3rd Congressional District, as the Unity Party of Colorado nominee in 2024; lost to Jeff Hurd (R).",
+      "source_url": "https://ballotpedia.org/Adam_Withrow"
+    },
+    {
+      "text": "Has not held elected office.",
+      "source_url": "https://ballotpedia.org/Adam_Withrow"
+    }
+  ],
+  "record": [],
+  "positions": [
+    {
+      "statement": "clean-energy-shift",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://www.senatorwithrow.com/",
+      "source_title": "Home | Adam Withrow for Senate",
+      "date": "2026-10-14",
+      "quote": "Fossil fuels are obsolete. Yes, we have them. Yes, we will continue to use them, but they are finite resources, and the rate we use them up keeps increasing.",
+      "note": "He calls for 'a smooth transition starting today' to future energy sources."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://www.senatorwithrow.com/",
+      "source_title": "Home | Adam Withrow for Senate",
+      "date": "2026-10-14",
+      "quote": "It's time to re imagine our healthcare system and create one that works for everyone. Healthcare for all would cost less than half of our defense budget."
+    },
+    {
+      "statement": "keep-tariffs",
+      "value": 1,
+      "source_type": "questionnaire",
+      "source_url": "https://www.vote411.org/ballot",
+      "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+      "date": "2026-10-15",
+      "date_basis": "accessed",
+      "quote": "At the same time, we need to fully open up global free trade.",
+      "note": "Answer on reducing household expenses; the same answer says very few people benefit from trade barriers. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race."
+    }
+  ],
+  "endorsements": [],
+  "finance": {
+    "raised": 0,
+    "spent": 0,
+    "cash_on_hand": null,
+    "as_of": "2026-10-14",
+    "source_url": "https://www.fec.gov/data/candidate/S6CO00564/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "No financial report on file with the FEC as of 2026-10-14. Candidates must file once they raise or spend more than $5,000."
+  },
+  "sources": [
+    {
+      "title": "Adam Withrow - Ballotpedia",
+      "url": "https://ballotpedia.org/Adam_Withrow",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Home | Adam Withrow for Senate",
+      "url": "https://www.senatorwithrow.com/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado U.S. Senate candidate Q&A - The Denver Post",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-u-s-senate-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "fec.gov",
+      "url": "https://www.fec.gov/data/candidate/S6CO00564/?cycle=2026&election_full=true",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+      "url": "https://www.vote411.org/ballot",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "last_checked": "2026-10-15",
+  "research_notes": "Withrow completed Ballotpedia's 2026 Candidate Connection survey, but it focused on general philosophy (cost of living, AI personhood, foreign policy) rather than the 25 coded statements, so it is not quoted directly. His campaign homepage addresses energy and health care but not most other topics on the list. His menu page lists further platform sections (Gun Rights, Housing, Immigration, Drugs and Crime, Voting Rights, etc.) but these render only via client-side JavaScript and were not retrievable as static text via curl; a Coloradoan Oct. 1, 2026 candidate Q&A exists for him but repeatedly failed to load fully through the available read-proxy (unlike the Huber and Baum Q&As, which worked), so it could not be used. He told Ballotpedia he declined to name endorsers when asked ('I'm not one to name names'), so no endorsements are listed despite his implication that some exist. Second pass 2026-10-14: the Denver Post's Oct. 3, 2026 Senate candidate Q&A confirms 'Christopher Baum and Adam Withrow did not return the questionnaire,' so no additional source was available there; no positions added. Gap fill 2026-10-15: Added his Vote411 answer on trade. His energy answer repeats the renewable-energy position already coded from his site.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 2,
+    "positions_unverifiable": 0,
+    "detail": {
+      "clean-energy-shift": "found",
+      "health-coverage": "found"
+    }
+  }
+}

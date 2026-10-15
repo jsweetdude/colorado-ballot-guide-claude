@@ -1,0 +1,148 @@
+[
+  {
+    "id": "cory-robertson",
+    "positions": [
+      {
+        "statement": "stricter-gun-laws",
+        "value": 1,
+        "source_type": "questionnaire",
+        "source_url": "https://www.vote411.org/ballot",
+        "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+        "date": "2026-10-15",
+        "date_basis": "accessed",
+        "quote": "No. If everyone was allowed to carry, no matter where they were, statistics show that where people can open and conceal carry freely the ratio of innocent people dying from gun violence is lower.",
+        "note": "Answer to whether the federal government should have a role in reducing gun violence; favors looser carry rules. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race."
+      }
+    ],
+    "note": "Added his Vote411 answer on guns. His other Vote411 answers (AI, deregulation, Social Security, religious funding) do not map to the statements; the energy answer favors deregulation and curbing oil-industry lobbying without taking a side on the pace of a shift, so it is not coded."
+  },
+  {
+    "id": "christopher-baum",
+    "positions": [
+      {
+        "statement": "stricter-gun-laws",
+        "value": 2,
+        "source_type": "questionnaire",
+        "source_url": "https://www.vote411.org/ballot",
+        "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+        "date": "2026-10-15",
+        "date_basis": "accessed",
+        "quote": "Having armed law abiding citizens will discourage violent citizens more than efforts disarm responsible citizens.",
+        "note": "Answer to whether the federal government should have a role in reducing gun violence. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race."
+      },
+      {
+        "statement": "clean-energy-shift",
+        "value": 2,
+        "source_type": "questionnaire",
+        "source_url": "https://www.vote411.org/ballot",
+        "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+        "date": "2026-10-15",
+        "date_basis": "accessed",
+        "quote": "Remove government obstacles to production; insure that environmental protections are fully justified and not just politically expedient",
+        "note": "Answer on U.S. energy production; favors removing obstacles to production rather than a faster shift. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race."
+      },
+      {
+        "statement": "abortion-legal",
+        "value": 2,
+        "source_type": "inferred",
+        "source_url": "https://www.vote411.org/ballot",
+        "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+        "date": "2026-10-15",
+        "date_basis": "accessed",
+        "quote": "I would strive to insure that both born and unborn citizens are protected.",
+        "note": "Said in his national-security answer; protecting the unborn is read as opposing abortion rights, so this is inferred and capped at disagree. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race."
+      }
+    ],
+    "note": "Added three positions from his Vote411 answers, his first sourced positions. Nothing on the other statements."
+  },
+  {
+    "id": "adam-withrow",
+    "positions": [
+      {
+        "statement": "keep-tariffs",
+        "value": 1,
+        "source_type": "questionnaire",
+        "source_url": "https://www.vote411.org/ballot",
+        "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+        "date": "2026-10-15",
+        "date_basis": "accessed",
+        "quote": "At the same time, we need to fully open up global free trade.",
+        "note": "Answer on reducing household expenses; the same answer says very few people benefit from trade barriers. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race."
+      }
+    ],
+    "note": "Added his Vote411 answer on trade. His energy answer repeats the renewable-energy position already coded from his site."
+  },
+  {
+    "id": "jeff-peckman",
+    "positions": [
+      {
+        "statement": "deportation-priority",
+        "value": 3,
+        "source_type": "questionnaire",
+        "source_url": "https://www.vote411.org/ballot",
+        "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+        "date": "2026-10-15",
+        "date_basis": "accessed",
+        "quote": "State government should support legal, humane treatment and deportation of immigrants who are illegally in the U.S. It should also collaborate with the federal government to expedite green cards, visas and citizenship for valuable, law-abiding workers and students.",
+        "note": "Supports deportation of people here illegally alongside expedited legal status for workers and students; coded as mixed. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race."
+      },
+      {
+        "statement": "health-coverage",
+        "value": 3,
+        "source_type": "questionnaire",
+        "source_url": "https://www.vote411.org/ballot",
+        "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+        "date": "2026-10-15",
+        "date_basis": "accessed",
+        "quote": "I believe in universal coverage for unexpected emergencies. I don’t think all disease care for everyone should paid for by taxes or a general fund",
+        "note": "Universal emergency coverage but not tax-funded care for everything; coded as mixed. The quote keeps the answer's own wording. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race."
+      },
+      {
+        "statement": "keep-tariffs",
+        "value": 2,
+        "source_type": "questionnaire",
+        "source_url": "https://www.vote411.org/ballot",
+        "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+        "date": "2026-10-15",
+        "date_basis": "accessed",
+        "quote": "U.S. wars and tariffs have driven up costs.",
+        "note": "Answer on reducing household expenses; names tariffs as a cause of higher costs. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race."
+      }
+    ],
+    "note": "Added three positions from his Vote411 answers."
+  },
+  {
+    "id": "eric-mulder",
+    "positions": [
+      {
+        "statement": "housing-state-zoning",
+        "value": 4,
+        "source_type": "inferred",
+        "source_url": "https://www.vote411.org/ballot",
+        "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+        "date": "2026-10-15",
+        "date_basis": "accessed",
+        "quote": "Housing diversity should be pursued, encouraging home rule districts to allow for multiple family units, accessory dwelling units, mobile home and tiny communities, etc.",
+        "note": "Favors the state encouraging local governments to allow denser housing; he says encourage rather than override, so this is inferred and capped at agree. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race."
+      }
+    ],
+    "note": "Added an inferred housing position from his Vote411 answer."
+  },
+  {
+    "id": "sean-vadney",
+    "positions": [
+      {
+        "statement": "mail-ballot-id",
+        "value": 4,
+        "source_type": "inferred",
+        "source_url": "https://www.vote411.org/ballot",
+        "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+        "date": "2026-10-15",
+        "date_basis": "accessed",
+        "quote": "This includes requiring government-issued identification when voting, verifying citizenship during voter registration, maintaining accurate voter rolls",
+        "note": "General support for voter identification without mention of mail ballots, which the coding rule treats as inferred and capped at agree. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race."
+      }
+    ],
+    "note": "Added an inferred voter-ID position from his Vote411 answer."
+  }
+]

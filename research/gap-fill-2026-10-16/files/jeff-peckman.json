@@ -1,0 +1,119 @@
+{
+  "id": "jeff-peckman",
+  "name": "Jeff Peckman",
+  "race": "governor",
+  "party": "Unity Party",
+  "incumbent": false,
+  "profile": "short",
+  "website": "https://jeffpeckman.com",
+  "running_mate": {
+    "name": "T.J. Cole",
+    "summary": [
+      {
+        "text": "T.J. Cole, Peckman's running mate and chair of the Unity Party of Colorado, has worked as a lawyer, college professor, high school principal, district court magistrate and deputy state public defender.",
+        "source_url": "https://ballotpedia.org/T.J._Cole"
+      }
+    ]
+  },
+  "summary": [
+    {
+      "text": "Jeff Peckman is an entrepreneur and longtime third-party and ballot-initiative campaigner who has run for office and backed citizen initiatives in Colorado for nearly three decades.",
+      "source_url": "https://ballotpedia.org/Jeff_Peckman"
+    }
+  ],
+  "experience": [
+    {
+      "text": "High school diploma, Abraham Lincoln High School; career experience as an entrepreneur.",
+      "source_url": "https://ballotpedia.org/Jeff_Peckman"
+    },
+    {
+      "text": "Has run three previous candidate campaigns and backed three ballot-initiative campaigns over the last 28 years, including a 2010 Denver initiative on extraterrestrial-affairs disclosure, by his own account.",
+      "source_url": "https://ballotpedia.org/Jeff_Peckman"
+    }
+  ],
+  "record": [],
+  "positions": [
+    {
+      "statement": "immigration-notify-ice",
+      "value": 3,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/",
+      "source_title": "Colorado Governor candidate Q&A - The Denver Post",
+      "date": "2026-10-03",
+      "quote": "I don't agree with state laws that restrict legal and humane agent activities, but I agree that if profit-motivated ICE agents disregard laws, the state should restrict cooperation.",
+      "note": "Explicit middle/mixed position: supports cooperation with lawful ICE activity but supports restricting cooperation when ICE agents act unlawfully, rather than a clear agree or disagree with Amendment 81."
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 3,
+      "source_type": "questionnaire",
+      "source_url": "https://www.vote411.org/ballot",
+      "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+      "date": "2026-10-15",
+      "date_basis": "accessed",
+      "quote": "State government should support legal, humane treatment and deportation of immigrants who are illegally in the U.S. It should also collaborate with the federal government to expedite green cards, visas and citizenship for valuable, law-abiding workers and students.",
+      "note": "Supports deportation of people here illegally alongside expedited legal status for workers and students; coded as mixed. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race."
+    },
+    {
+      "statement": "health-coverage",
+      "value": 3,
+      "source_type": "questionnaire",
+      "source_url": "https://www.vote411.org/ballot",
+      "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+      "date": "2026-10-15",
+      "date_basis": "accessed",
+      "quote": "I believe in universal coverage for unexpected emergencies. I don’t think all disease care for everyone should paid for by taxes or a general fund",
+      "note": "Universal emergency coverage but not tax-funded care for everything; coded as mixed. The quote keeps the answer's own wording. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race."
+    },
+    {
+      "statement": "keep-tariffs",
+      "value": 2,
+      "source_type": "questionnaire",
+      "source_url": "https://www.vote411.org/ballot",
+      "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+      "date": "2026-10-15",
+      "date_basis": "accessed",
+      "quote": "U.S. wars and tariffs have driven up costs.",
+      "note": "Answer on reducing household expenses; names tariffs as a cause of higher costs. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race."
+    }
+  ],
+  "endorsements": [],
+  "finance": null,
+  "sources": [
+    {
+      "title": "Jeff Peckman - Ballotpedia",
+      "url": "https://ballotpedia.org/Jeff_Peckman",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Jeff Peckman for Governor (campaign site)",
+      "url": "https://jeffpeckman.com",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "T.J. Cole - Ballotpedia",
+      "url": "https://ballotpedia.org/T.J._Cole",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Governor candidate Q&A - The Denver Post",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+      "url": "https://www.vote411.org/ballot",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "last_checked": "2026-10-15",
+  "research_notes": "Peckman's Ballotpedia 2026 Candidate Connection survey and his campaign site are built around a personal framework of 'coherence principles,' novel energy and emissions technology, and UFO/UAP disclosure rather than conventional policy positions; his platform discusses reducing emissions and government spending in ways that do not map cleanly onto the 25 statements' agree/disagree framing without stretching the text (e.g., he criticizes EV subsidies and 'milking' climate change for votes while also pitching his own emissions-reduction technology, which cuts in different directions on clean-energy-shift). No endorsements beyond a single crowd-sourced 'Sway' voting-group listing were found. Given the ambiguity, most positions are left uncoded rather than force-fitting a value; a reviewer with more time may find clearer material in his full 'Solutions Blueprint' document linked from his site. Second pass 2026-10-14: added immigration-notify-ice from https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/, which he did answer. Gap fill 2026-10-15: Added three positions from his Vote411 answers.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 1,
+    "positions_unverifiable": 0,
+    "detail": {
+      "immigration-notify-ice": "found"
+    }
+  }
+}

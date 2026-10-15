@@ -50,6 +50,17 @@
       "source_title": "Home | Adam Withrow for Senate",
       "date": "2026-10-14",
       "quote": "It's time to re imagine our healthcare system and create one that works for everyone. Healthcare for all would cost less than half of our defense budget."
+    },
+    {
+      "statement": "keep-tariffs",
+      "value": 1,
+      "source_type": "questionnaire",
+      "source_url": "https://www.vote411.org/ballot",
+      "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+      "date": "2026-10-15",
+      "quote": "At the same time, we need to fully open up global free trade.",
+      "note": "Answer on reducing household expenses; the same answer says very few people benefit from trade barriers. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race.",
+      "date_basis": "accessed"
     }
   ],
   "endorsements": [],
@@ -82,17 +93,13 @@
       "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/S6CO00564/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+      "url": "https://www.vote411.org/ballot",
+      "accessed": "2026-10-15"
     }
   ],
-  "last_checked": "2026-10-14",
-  "research_notes": "Withrow completed Ballotpedia's 2026 Candidate Connection survey, but it focused on general philosophy (cost of living, AI personhood, foreign policy) rather than the 25 coded statements, so it is not quoted directly. His campaign homepage addresses energy and health care but not most other topics on the list. His menu page lists further platform sections (Gun Rights, Housing, Immigration, Drugs and Crime, Voting Rights, etc.) but these render only via client-side JavaScript and were not retrievable as static text via curl; a Coloradoan Oct. 1, 2026 candidate Q&A exists for him but repeatedly failed to load fully through the available read-proxy (unlike the Huber and Baum Q&As, which worked), so it could not be used. He told Ballotpedia he declined to name endorsers when asked ('I'm not one to name names'), so no endorsements are listed despite his implication that some exist. Second pass 2026-10-14: the Denver Post's Oct. 3, 2026 Senate candidate Q&A confirms 'Christopher Baum and Adam Withrow did not return the questionnaire,' so no additional source was available there; no positions added.",
-  "verification": {
-    "checked": "2026-10-14",
-    "positions_verified": 2,
-    "positions_unverifiable": 0,
-    "detail": {
-      "clean-energy-shift": "found",
-      "health-coverage": "found"
-    }
-  }
+  "last_checked": "2026-10-15",
+  "research_notes": "Withrow completed Ballotpedia's 2026 Candidate Connection survey, but it focused on general philosophy (cost of living, AI personhood, foreign policy) rather than the 25 coded statements, so it is not quoted directly. His campaign homepage addresses energy and health care but not most other topics on the list. His menu page lists further platform sections (Gun Rights, Housing, Immigration, Drugs and Crime, Voting Rights, etc.) but these render only via client-side JavaScript and were not retrievable as static text via curl; a Coloradoan Oct. 1, 2026 candidate Q&A exists for him but repeatedly failed to load fully through the available read-proxy (unlike the Huber and Baum Q&As, which worked), so it could not be used. He told Ballotpedia he declined to name endorsers when asked ('I'm not one to name names'), so no endorsements are listed despite his implication that some exist. Second pass 2026-10-14: the Denver Post's Oct. 3, 2026 Senate candidate Q&A confirms 'Christopher Baum and Adam Withrow did not return the questionnaire,' so no additional source was available there; no positions added. Gap fill 2026-10-15: Added his Vote411 answer on trade. His energy answer repeats the renewable-energy position already coded from his site."
 }

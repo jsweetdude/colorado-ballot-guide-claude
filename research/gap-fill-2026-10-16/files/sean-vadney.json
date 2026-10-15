@@ -1,0 +1,101 @@
+{
+  "id": "sean-vadney",
+  "name": "Sean Vadney",
+  "race": "secretary-of-state",
+  "party": "Libertarian Party",
+  "incumbent": false,
+  "profile": "short",
+  "website": "https://seanvadneyforsos.org",
+  "summary": [
+    {
+      "text": "Sean Vadney is a small business owner and political volunteer who is the Libertarian nominee for Colorado Secretary of State.",
+      "source_url": "https://ballotpedia.org/Sean_Vadney"
+    },
+    {
+      "text": "He was selected to replace Alex Astley as the Libertarian Party's general-election candidate after finishing second to Astley, 61.9% to 38.1%, in the June 30, 2026 Libertarian primary.",
+      "source_url": "https://ballotpedia.org/James_Wiley"
+    }
+  ],
+  "experience": [
+    {
+      "text": "Small business owner; has been involved in Colorado politics for about seven years as a volunteer.",
+      "source_url": "https://ballotpedia.org/Sean_Vadney"
+    },
+    {
+      "text": "Lives in Highlands Ranch; the Denver Post's candidate Q&A lists his profession as entertainment and hospitality and his education as Southern New Hampshire University.",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-secretary-of-state-candidate-qa/"
+    },
+    {
+      "text": "Has never held elected office.",
+      "source_url": "https://ballotpedia.org/Sean_Vadney"
+    }
+  ],
+  "record": [],
+  "positions": [
+    {
+      "statement": "keep-mail-voting",
+      "value": 1,
+      "source_type": "questionnaire",
+      "source_url": "https://www.coloradopolitics.com/2026/10/02/gonzales-wiley-vadney-landry-secretary-of-state/",
+      "source_title": "Secretary of State | Gonzalez, Wiley are top contenders for open seat",
+      "date": "2026-10-02",
+      "quote": "I would roll back the mail-in voting system with exceptions for individuals who have disabilities that make in-person voting difficult.",
+      "note": "He carves out a disability exception, but frames rolling back universal mail voting as a central campaign position: \"There's no reason why in-person voting shouldn't be the primary method our state uses.\""
+    },
+    {
+      "statement": "mail-ballot-id",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://www.vote411.org/ballot",
+      "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+      "date": "2026-10-15",
+      "date_basis": "accessed",
+      "quote": "This includes requiring government-issued identification when voting, verifying citizenship during voter registration, maintaining accurate voter rolls",
+      "note": "General support for voter identification without mention of mail ballots, which the coding rule treats as inferred and capped at agree. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race."
+    }
+  ],
+  "endorsements": [],
+  "finance": null,
+  "sources": [
+    {
+      "title": "Sean Vadney - Ballotpedia",
+      "url": "https://ballotpedia.org/Sean_Vadney",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "James Wiley - Ballotpedia",
+      "url": "https://ballotpedia.org/James_Wiley",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Secretary of State | Gonzalez, Wiley are top contenders for open seat",
+      "url": "https://www.coloradopolitics.com/2026/10/02/gonzales-wiley-vadney-landry-secretary-of-state/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Secretary of State candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-secretary-of-state-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Sean Vadney for Colorado Secretary of State",
+      "url": "https://seanvadneyforsos.org",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+      "url": "https://www.vote411.org/ballot",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "last_checked": "2026-10-15",
+  "research_notes": "No endorsements found on a fetched page. His Ballotpedia Candidate Connection survey (submitted May 1, 2026) and the Denver Post's Oct. 3, 2026 candidate Q&A (which corroborates his keep-mail-voting position) do not address mail-ballot ID, plain-language ballots or redistricting, so those statements are left unsourced rather than inferred. Second pass 2026-10-14: fetched his campaign site (seanvadneyforsos.org), which repeats the same two-plank platform (election security, business filings) as his Ballotpedia survey and does not mention mail-ballot ID, plain-language ballots, redistricting, or lawsuits against the federal administration. No new positions were added. Gap fill 2026-10-15: Added an inferred voter-ID position from his Vote411 answer.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 1,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-mail-voting": "found"
+    }
+  }
+}

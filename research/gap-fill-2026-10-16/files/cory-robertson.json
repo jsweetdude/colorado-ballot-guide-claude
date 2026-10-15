@@ -1,0 +1,51 @@
+{
+  "id": "cory-robertson",
+  "name": "Cory Robertson",
+  "race": "us-house-3",
+  "party": "Libertarian Party",
+  "incumbent": false,
+  "profile": "short",
+  "website": "https://lpcocolorado.my.canva.site/corey4co3",
+  "summary": [
+    {
+      "text": "Cory Robertson is the Libertarian Party nominee for U.S. House in Colorado's 3rd Congressional District in 2026.",
+      "source_url": "https://ballotpedia.org/Cory_Robertson"
+    }
+  ],
+  "experience": [],
+  "record": [],
+  "positions": [
+    {
+      "statement": "stricter-gun-laws",
+      "value": 1,
+      "source_type": "questionnaire",
+      "source_url": "https://www.vote411.org/ballot",
+      "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+      "date": "2026-10-15",
+      "date_basis": "accessed",
+      "quote": "No. If everyone was allowed to carry, no matter where they were, statistics show that where people can open and conceal carry freely the ratio of innocent people dying from gun violence is lower.",
+      "note": "Answer to whether the federal government should have a role in reducing gun violence; favors looser carry rules. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race."
+    }
+  ],
+  "endorsements": [],
+  "finance": null,
+  "sources": [
+    {
+      "title": "Cory Robertson (Ballotpedia)",
+      "url": "https://ballotpedia.org/Cory_Robertson",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Cory Robertson campaign site (Canva)",
+      "url": "https://lpcocolorado.my.canva.site/corey4co3",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
+      "url": "https://www.vote411.org/ballot",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "last_checked": "2026-10-15",
+  "research_notes": "No biography, occupation, or issue positions could be found for Robertson. He has not completed Ballotpedia's Candidate Connection survey. His campaign website (a Canva site) returns only a \"CO-03 District\" heading with no further text to fetch. BallotReady and iVoterGuide listings were checked and likewise contain no biographical or policy content. All fields beyond id/name/race/party/profile/website are empty for lack of any sourceable material, per protocol (unknown is acceptable; nothing was invented). Gap fill 2026-10-15: Added his Vote411 answer on guns. His other Vote411 answers (AI, deregulation, Social Security, religious funding) do not map to the statements; the energy answer favors deregulation and curbing oil-industry lobbying without taking a side on the pace of a shift, so it is not coded."
+}
