@@ -62,6 +62,13 @@
       "date": "2026-01-01",
       "detail": "Campaign states Jefferson County delivered the most ballots cast of any Colorado county in two election cycles under her tenure, came in under budget, and received EAC Clearinghouse election-innovation awards in 2023, 2024 and 2025; self-reported by her campaign.",
       "source_url": "https://www.amandaforcolorado.com/priorities"
+    },
+    {
+      "kind": "decision",
+      "title": "Supported 2024 jail voting-access law",
+      "date": "2024-01-01",
+      "detail": "As Jefferson County Clerk, cited her work on a 2024 Colorado law requiring access to in-person voting at all county jails as part of her record on expanding voting access; exact date within 2024 not given by this source.",
+      "source_url": "https://www.denverpost.com/2026/10/04/colorado-secretary-of-state-race-election-voting/"
     }
   ],
   "positions": [
@@ -181,21 +188,21 @@
       "accessed": "2026-10-14"
     },
     {
+      "title": "Colorado Secretary of State candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-secretary-of-state-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado's top secretary of state candidates want to depoliticize the office. But their approaches differ widely.",
+      "url": "https://www.denverpost.com/2026/10/04/colorado-secretary-of-state-race-election-voting/",
+      "accessed": "2026-10-14"
+    },
+    {
       "title": "amandaforcolorado.com",
       "url": "https://www.amandaforcolorado.com/",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "The Colorado Sun's Oct. 7, 2026 candidate guide directly asked Gonzalez about Amendment 84 and confirmed she declines to take official positions on ballot measures; mail-ballot-id is coded from her own words in that answer rather than from party or general inference. No statement found naming Amendment 85 or 86 specifically, so plain-language-ballots and redistricting-commission are left unsourced (unknown). Two 'decision' record items sourced to her own campaign site (voter-roll purge defense, Jeffco election-administration record) are self-reported and not independently verified against a news outlet in this session -- a reviewer should check these before publishing.",
-  "verification": {
-    "checked": "2026-10-14",
-    "positions_verified": 3,
-    "positions_unverifiable": 0,
-    "detail": {
-      "keep-mail-voting": "found",
-      "mail-ballot-id": "found",
-      "challenge-federal-policies": "found"
-    }
-  }
+  "research_notes": "The Colorado Sun's Oct. 7, 2026 candidate guide directly asked Gonzalez about Amendment 84 and confirmed she declines to take official positions on ballot measures; mail-ballot-id is coded from her own words in that answer rather than from party or general inference. No statement found naming Amendment 85 or 86 specifically, so plain-language-ballots and redistricting-commission are left unsourced (unknown). Two 'decision' record items sourced to her own campaign site (voter-roll purge defense, Jeffco election-administration record) are self-reported and not independently verified against a news outlet in this session -- a reviewer should check these before publishing. Second pass 2026-10-14: checked the Denver Post's Oct. 3, 2026 SoS candidate Q&A and Robert Tann's Oct. 4, 2026 Denver Post article on the race; added one record item (the 2024 jail voting-access law) from the latter. Both sources reinforce her existing keep-mail-voting and challenge-federal-policies positions and do not address plain-language-ballots or redistricting-commission, so no new positions were added."
 }

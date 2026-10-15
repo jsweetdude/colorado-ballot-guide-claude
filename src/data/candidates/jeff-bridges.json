@@ -147,22 +147,16 @@
       "accessed": "2026-10-14"
     },
     {
+      "title": "Colorado State Treasurer candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-state-treasurer-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
       "title": "bridgesforcolorado.com",
       "url": "https://bridgesforcolorado.com",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Could not find a Bridges statement specifically naming Amendment 87 (graduated income tax) or Proposition 136 (income-tax cap) despite searching news coverage and his campaign/legislative pages, even though the assignment flagged these as expected topics for treasurer candidates — his TABOR-related comments all referenced Proposition NN specifically, not the two income-tax measures. Left as unknown rather than inferred. No positions found on hunting rights, immigration, sports/gender measures, or federal tariffs — plausibly outside the scope of a treasurer campaign, but flagged as unconfirmed gaps. No campaign finance total found in a fetched source, so finance is left null per protocol.",
-  "verification": {
-    "checked": "2026-10-14",
-    "positions_verified": 4,
-    "positions_unverifiable": 0,
-    "detail": {
-      "keep-tabor-surplus": "found",
-      "stricter-gun-laws": "found",
-      "clean-energy-shift": "found",
-      "abortion-legal": "found"
-    }
-  }
+  "research_notes": "Could not find a Bridges statement specifically naming Amendment 87 (graduated income tax) or Proposition 136 (income-tax cap) despite searching news coverage and his campaign/legislative pages, even though the assignment flagged these as expected topics for treasurer candidates — his TABOR-related comments all referenced Proposition NN specifically, not the two income-tax measures. Left as unknown rather than inferred. No positions found on hunting rights, immigration, sports/gender measures, or federal tariffs — plausibly outside the scope of a treasurer campaign, but flagged as unconfirmed gaps. No campaign finance total found in a fetched source, so finance is left null per protocol. Second pass 2026-10-14: checked the Denver Post's Oct. 3, 2026 treasurer candidate Q&A (covers only unclaimed property and PERA, not tax policy) and the Colorado Sun's Amendment 87 and Proposition 136 explainers, neither of which quotes Bridges on state income tax rates; both measures are citizen/advocacy-group initiatives with no legislative referral vote to check. graduated-income-tax and income-tax-cap remain unsourced; no new positions were added."
 }

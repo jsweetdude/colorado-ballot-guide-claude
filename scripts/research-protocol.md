@@ -110,3 +110,16 @@ For each `full` candidate: aim to source as many of the 25 statements as honestl
 For each `short` candidate: Ballotpedia (Candidate Connection survey if any), campaign site, any news coverage. 20 to 40 minutes of effort at most.
 
 When done, reply with a short plain-text summary: for each candidate, the number of positions sourced, and anything a reviewer should double-check. Do not paste the JSON into your reply.
+
+## Rules added in the build review (2026-10-14)
+
+Earlier passes produced a few problems these rules prevent. `scripts/apply-review.mjs` holds the corrections already made.
+
+- Quotes skip words only with " ... " or a [bracketed insert], never by joining text across an attribution such as "he said".
+- A bare answer ("Yes.") is quoted together with the question it answers.
+- "Undecided" or "I'll decide later" is unknown, not 3.
+- A record that points both ways (for example a vote one way and a statement the other) is coded 3 with both halves named in `note`.
+- An inference must come from a source that names the statement's policy area; a general principle is not enough.
+- Undated pages: set `date` to the day read and `"date_basis": "accessed"`; year only: `YYYY-01-01` with `"date_basis": "year"`.
+- Supporting the deportation of people convicted of serious crimes while opposing broader deportation is coded 2 on `deportation-priority`.
+- Record items are votes, bills or official decisions, described in neutral words, not events or press-release phrasing.
