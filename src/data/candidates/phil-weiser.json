@@ -156,7 +156,7 @@
     {
       "statement": "minor-gender-surgery-ban",
       "value": 2,
-      "source_type": "direct_statement",
+      "source_type": "inferred",
       "source_url": "https://ballotpedia.org/Phil_Weiser",
       "source_title": "Phil Weiser - Ballotpedia (2026 Candidate Connection survey)",
       "date": "2026-01-01",

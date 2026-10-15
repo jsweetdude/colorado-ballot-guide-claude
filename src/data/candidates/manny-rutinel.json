@@ -104,13 +104,13 @@
     },
     {
       "statement": "deportation-priority",
-      "value": 3,
+      "value": 2,
       "source_type": "direct_statement",
       "source_url": "https://www.mannyforcolorado.com/issues",
       "source_title": "Issues - Manny for Colorado",
       "date": "2026-10-14",
       "quote": "We need an immigration enforcement system that improves public safety and national security by focusing on the deportation of violent criminals, gang members, and human traffickers – not our neighbors who contribute to our communities",
-      "note": "Explicitly supports deporting people convicted of serious crimes while opposing broader deportation and favoring a path to citizenship for long-settled immigrants; coded as an explicit mixed position rather than agree or disagree."
+      "note": "Supports deporting people convicted of serious crimes while opposing broader deportation; coded disagree, the same as other candidates who take this position."
     },
     {
       "statement": "health-coverage",

@@ -176,16 +176,6 @@
       "date_basis": "year"
     },
     {
-      "statement": "fentanyl-penalties",
-      "value": 4,
-      "source_type": "inferred",
-      "source_url": "https://ballotpedia.org/Jeff_Crank",
-      "source_title": "Jeff Crank (Ballotpedia, quoting his 2024 campaign website)",
-      "date": "2024-01-01",
-      "quote": "With our communities ravaged by fentanyl, not securing our border, will only result in more deaths.",
-      "note": "Statement is about border security and fentanyl flow, not sentencing law directly; inferred support for tougher fentanyl enforcement, capped at 4."
-    },
-    {
       "statement": "health-coverage",
       "value": 2,
       "source_type": "questionnaire",
@@ -294,10 +284,10 @@
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Crank's public-lands record is contradictory: he voted for the May 2025 committee amendment to mandate public land sales and against the competing amendment to block sales, but separately told Colorado Public Radio in June 2025 that he opposed selling public lands. Per protocol, the recorded votes (strongest source type) were used for the coded position; a reviewer may want to note the contradiction in the published guide. Could not verify the Pikes Peak Bulletin's committee-vote claims against an official Natural Resources Committee roll call document (committee markup votes are not posted on clerk.house.gov); treated the outlet's direct reporting as reliable per protocol's allowance for local news coverage. Second pass 2026-10-14: added health-coverage, clean-energy-shift and challenge-federal-policies from the Colorado Sun's Oct. 7, 2026 CD5 issue guide, and immigration-notify-ice from the Denver Post's Oct. 3, 2026 CD5 candidate Q&A.",
+  "research_notes": "Crank's public-lands record is contradictory: he voted for the May 2025 committee amendment to mandate public land sales and against the competing amendment to block sales, but separately told Colorado Public Radio in June 2025 that he opposed selling public lands. Per protocol, the recorded votes (strongest source type) were used for the coded position; a reviewer may want to note the contradiction in the published guide. Could not verify the Pikes Peak Bulletin's committee-vote claims against an official Natural Resources Committee roll call document (committee markup votes are not posted on clerk.house.gov); treated the outlet's direct reporting as reliable per protocol's allowance for local news coverage. Second pass 2026-10-14: added health-coverage, clean-energy-shift and challenge-federal-policies from the Colorado Sun's Oct. 7, 2026 CD5 issue guide, and immigration-notify-ice from the Denver Post's Oct. 3, 2026 CD5 candidate Q&A. Build review 2026-10-14: removed an inferred fentanyl-penalties position based on a border-security quote, which does not address sentencing.",
   "verification": {
     "checked": "2026-10-14",
-    "positions_verified": 13,
+    "positions_verified": 12,
     "positions_unverifiable": 0,
     "detail": {
       "federal-budget-law": "found",
@@ -308,7 +298,6 @@
       "mail-ballot-id": "found",
       "stricter-gun-laws": "found",
       "abortion-legal": "found",
-      "fentanyl-penalties": "found",
       "health-coverage": "found",
       "clean-energy-shift": "found",
       "challenge-federal-policies": "found",

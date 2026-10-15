@@ -154,13 +154,13 @@
     },
     {
       "statement": "deportation-priority",
-      "value": 1,
+      "value": 2,
       "source_type": "direct_statement",
       "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-7-candidate-qa/",
       "source_title": "Colorado U.S. House District 7 candidate Q&A - The Denver Post",
       "date": "2026-10-03",
       "quote": "We need a system that deports convicted, dangerous criminals. Instead, Americans are being shot in the streets, families torn apart by masked, unidentified agents, and deaths in ICE custody have reached their highest level in over a decade.",
-      "note": "From the Denver Post's 2026 candidate questionnaire. She also says she has 'opposed pouring billions more into unchecked ICE and CBP operations' and wants to 'completely overhaul ICE operations.'"
+      "note": "Supports deporting convicted, dangerous criminals while opposing current broad enforcement; coded disagree, the same as other candidates who take this position."
     },
     {
       "statement": "clean-energy-shift",
