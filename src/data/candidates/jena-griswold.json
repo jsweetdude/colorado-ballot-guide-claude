@@ -130,13 +130,13 @@
     },
     {
       "statement": "clean-energy-shift",
-      "value": 5,
-      "source_type": "questionnaire",
+      "value": 4,
+      "source_type": "inferred",
       "source_url": "https://coloradosun.com/2026/10/06/michael-allen-jena-griswold-colorado-attorney-general-election-voter-guide/",
       "source_title": "Michael Allen, Jena Griswold: Colorado attorney general election voter guide",
       "date": "2026-10-06",
       "quote": "Addressing corporate polluters and protecting our climate has to be the top priority of the next AG and it will absolutely be mine",
-      "note": "Said she would focus on 'the climate crisis' and strict enforcement of anti-pollution laws given federal rollbacks."
+      "note": "Says addressing corporate polluters and protecting the climate will be her top priority as attorney general; support for speeding the shift to renewable energy is inferred from that."
     }
   ],
   "endorsements": [

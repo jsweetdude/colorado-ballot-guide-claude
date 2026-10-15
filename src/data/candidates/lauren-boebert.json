@@ -167,22 +167,22 @@
     {
       "statement": "mail-ballot-id",
       "value": 4,
-      "source_type": "recorded_vote",
+      "source_type": "inferred",
       "source_url": "https://ballotpedia.org/Lauren_Boebert",
       "source_title": "Lauren Boebert (Ballotpedia key votes table)",
       "date": "2025-04-10",
       "quote": "SAVE Act...was a bill passed by the House of Representatives on 4/10/2025 that required individuals to provide documentary proof of citizenship when registering to vote in federal elections...Yea",
-      "note": "General voter-ID/citizenship-verification vote; does not mention mail ballots specifically, so coded as inferred support coded no stronger than agree."
+      "note": "Voted for the SAVE Act, which requires documentary proof of citizenship to register; support for an ID number on mail ballots is inferred from that, as the coding guide directs for voter-ID positions that do not mention mail ballots."
     },
     {
       "statement": "minor-gender-surgery-ban",
-      "value": 4,
+      "value": 5,
       "source_type": "direct_statement",
       "source_url": "https://boebert.house.gov/issues/pro-life-and-family-values",
       "source_title": "Pro-Life and Family Values (Rep. Lauren Boebert, official House site)",
       "date": "2026-10-15",
       "quote": "Sex change surgeries render a person sterile for life, and taxpayer dollars should not be used to permanently maim confused children. Children should never be used as pawns to advance radical gender ideology. Permanently altering and disabling the physical bodies of children is never ok",
-      "note": "Opposes gender-transition surgery for minors; the page does not mention Proposition 135 or a Colorado ban, so this is coded agree rather than strongly agree.",
+      "note": "Calls surgery that alters children's bodies \"never ok\" without qualification; the page does not mention Proposition 135, but the position it states is the one the measure enacts.",
       "date_basis": "accessed"
     }
   ],

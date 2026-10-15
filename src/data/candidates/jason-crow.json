@@ -115,13 +115,14 @@
     },
     {
       "statement": "clean-energy-shift",
-      "value": 5,
-      "source_type": "direct_statement",
+      "value": 4,
+      "source_type": "inferred",
       "source_url": "https://jasoncrow.org/values/",
       "source_title": "Jason Crow for Congress - Values",
       "date": "2026-10-14",
       "quote": "We must fight climate change and protect the Colorado that we love. Climate change is the defining issue of our age.",
-      "date_basis": "accessed"
+      "date_basis": "accessed",
+      "note": "Calls climate change the defining issue of our age; support for speeding the shift to renewable energy is inferred from that."
     },
     {
       "statement": "health-coverage",

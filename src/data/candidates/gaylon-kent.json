@@ -50,7 +50,7 @@
     },
     {
       "statement": "health-coverage",
-      "value": 2,
+      "value": 1,
       "source_type": "direct_statement",
       "source_url": "https://ballotpedia.org/Gaylon_Kent",
       "source_title": "Gaylon Kent (Ballotpedia), quoting his 2024 campaign website",
@@ -60,13 +60,13 @@
     },
     {
       "statement": "deportation-priority",
-      "value": 3,
+      "value": 1,
       "source_type": "direct_statement",
       "source_url": "https://ballotpedia.org/Gaylon_Kent",
       "source_title": "Gaylon Kent (Ballotpedia), quoting his 2024 campaign website",
       "date": "2024-10-22",
       "quote": "We're entitled to secure borders and those here illegally are not entitled to citizenship. But they're entitled to be more than criminals, so let's legalize them and let them do the work they came here to do.",
-      "note": "Explicitly mixed: wants secure borders but opposes treating undocumented immigrants as criminals and favors legalizing their work status."
+      "note": "Wants secure borders and no citizenship for people here illegally, but says they should be legalized to work rather than treated as criminals; on deportation itself the position is unqualified opposition."
     },
     {
       "statement": "fentanyl-penalties",

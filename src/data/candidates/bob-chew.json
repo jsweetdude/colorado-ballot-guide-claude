@@ -47,25 +47,14 @@
       "note": "He also says he will 'work with any member of Congress to reduce tariffs.'"
     },
     {
-      "statement": "health-coverage",
-      "value": 3,
-      "source_type": "direct_statement",
-      "source_url": "https://bobchew2026.com/issues/",
-      "source_title": "Issues - Bob Chew for CO",
-      "date": "2026-10-14",
-      "quote": "Different countries and states use different combinations of public and private systems, each with strengths and weaknesses.",
-      "note": "He explicitly declines to back either expanding government coverage or a market-only approach, instead calling for study of multiple systems' tradeoffs; coded as an explicit middle/mixed position.",
-      "date_basis": "accessed"
-    },
-    {
       "statement": "deportation-priority",
-      "value": 3,
+      "value": 2,
       "source_type": "direct_statement",
       "source_url": "https://bobchew2026.com/issues/",
       "source_title": "Issues - Bob Chew for CO",
       "date": "2026-10-14",
       "quote": "Deporting a drug kingpin makes us safer; deporting a local farm hand makes us poorer.",
-      "note": "He supports removing violent criminals and traffickers but opposes spending resources deporting peaceful, economically-contributing immigrants; coded as an explicit middle/mixed position.",
+      "note": "Supports deporting people who threaten public safety while opposing deportation of peaceful, working immigrants; coded disagree, the same as other candidates who take this position.",
       "date_basis": "accessed"
     },
     {

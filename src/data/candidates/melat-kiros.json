@@ -95,16 +95,6 @@
       "note": "Inferred, coded no stronger than 2: she opposes current ICE enforcement broadly but does not address Colorado's specific limits on local police/jail cooperation with federal immigration authorities."
     },
     {
-      "statement": "fentanyl-penalties",
-      "value": 2,
-      "source_type": "inferred",
-      "source_url": "https://ballotpedia.org/Melat_Kiros",
-      "source_title": "Melat Kiros - Ballotpedia (quoting her campaign website, kirosforco.com)",
-      "date": "2026-04-24",
-      "quote": "We cannot arrest our way out of poverty or criminalize mental illness. A holistic approach to public safety needs includes access to housing, mental healthcare, good jobs, and strong schools.",
-      "note": "Inferred, coded no stronger than 2, from her general public-safety philosophy opposing increased criminalization; she does not address fentanyl penalties or Proposition 132 by name."
-    },
-    {
       "statement": "sports-biological-sex",
       "value": 2,
       "source_type": "inferred",
@@ -113,16 +103,6 @@
       "date": "2026-04-24",
       "quote": "state legislatures across the country continue to target trans youth and roll back protections",
       "note": "Inferred, coded no stronger than 2, from her general opposition to restrictions targeting transgender youth; she does not address school sports or Proposition 134 by name."
-    },
-    {
-      "statement": "minor-gender-surgery-ban",
-      "value": 2,
-      "source_type": "inferred",
-      "source_url": "https://ballotpedia.org/Melat_Kiros",
-      "source_title": "Melat Kiros - Ballotpedia (quoting her campaign website, kirosforco.com)",
-      "date": "2026-04-24",
-      "quote": "We need to pass the Equality Act to protect LGBTQIA+ individuals from discrimination in schools, workplaces, and public life.",
-      "note": "Inferred, coded no stronger than 2, from her general opposition to restrictions on gender-affirming care; she does not address surgery or Proposition 135 specifically."
     },
     {
       "statement": "housing-state-zoning",

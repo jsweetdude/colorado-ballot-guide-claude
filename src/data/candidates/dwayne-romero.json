@@ -62,7 +62,7 @@
     },
     {
       "statement": "health-coverage",
-      "value": 4,
+      "value": 5,
       "source_type": "direct_statement",
       "source_url": "https://www.aspentimes.com/opinion/meet-candidates-colorado-3rd-congressional-district-hurd-romero/",
       "source_title": "Q&A: Meet the candidates running for Colorado's 3rd Congressional District",
@@ -93,12 +93,12 @@
     {
       "statement": "abortion-legal",
       "value": 4,
-      "source_type": "direct_statement",
+      "source_type": "inferred",
       "source_url": "https://ballotpedia.org/Dwayne_Romero",
       "source_title": "Dwayne Romero (Ballotpedia), 2026 Candidate Connection survey",
       "date": "2026-10-01",
       "quote": "I will put healthcare at the top of my priority list. We've got to keep rural hospitals open and funded, allow medicare to negotiate lower drug prices, and protect women's access to reproductive healthcare.",
-      "note": "Lists protecting reproductive healthcare access among his healthcare priorities."
+      "note": "Lists protecting women's access to reproductive health care among his priorities; support for abortion rights is inferred from that."
     },
     {
       "statement": "clean-energy-shift",

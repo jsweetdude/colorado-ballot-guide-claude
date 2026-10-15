@@ -74,23 +74,13 @@
     },
     {
       "statement": "clean-energy-shift",
-      "value": 1,
+      "value": 2,
       "source_type": "questionnaire",
       "source_url": "https://coloradosun.com/2026/10/10/colorado-governor-phil-weiser-victor-marx-voter-guide/",
       "source_title": "Where Phil Weiser and Victor Marx stand on the issues - The Colorado Sun",
       "date": "2026-10-10",
       "quote": "Yes. \"If I'm governor, I'm opening up all forms of energy. We're going to make sure they meet appropriate health and environmental standards, but I just don't believe Colorado should shut down responsible domestic energy production and then import energy from somewhere else.\"",
       "note": "Answering whether Colorado would still be drilling new oil and gas wells at the end of a second term, he said yes and described opening up all forms of energy production."
-    },
-    {
-      "statement": "natural-gas-right",
-      "value": 4,
-      "source_type": "inferred",
-      "source_url": "https://www.victor2026.com/my-policies",
-      "source_title": "My Policies - Victor Marx for Governor",
-      "date": "2026-07-01",
-      "quote": "I will support an all-of-the-above energy strategy that expands renewable sources like wind, solar, and geothermal while maintaining the vital role of oil, gas, hydroelectric power, and emerging technologies such as modular nuclear and advanced storage systems.",
-      "note": "Inferred: his platform commits to maintaining the role of oil and gas broadly but does not address consumer natural-gas hookups or appliances specifically, so coded no stronger than agree. He separately told the Colorado Sun (Oct. 10, 2026) he is 'opening up all forms of energy' and opposes shutting down domestic gas production."
     },
     {
       "statement": "hunting-right",
@@ -123,24 +113,14 @@
       "note": "Inferred: commits to reducing, not raising, the state income tax rate, consistent with Proposition 136's cap, though the measure is not named directly."
     },
     {
-      "statement": "graduated-income-tax",
-      "value": 2,
-      "source_type": "inferred",
-      "source_url": "https://www.coloradopolitics.com/2026/10/02/colorado-governor-weiser-marx-and-lopez-vie-for-top-state-seat-4/",
-      "source_title": "Colorado governor | Weiser, Marx and Lopez vie for top state seat - Colorado Politics",
-      "date": "2026-10-02",
-      "quote": "I will not balance the budget through new taxes or backdoor fees. Colorado needs a sustainable budget that lives within recurring revenue, protects TABOR, and maintains an adequate reserve.",
-      "note": "Inferred opposition to a graduated income tax increase (Amendment 87) from his general no-new-taxes stance; asked directly about Amendment 87 in the June 6, 2026 primary guide he predicted it 'won't pass' but said new revenue 'shouldn't be an excuse to stop demanding accountability,' which does not state a clear yes/no on the measure itself."
-    },
-    {
       "statement": "fentanyl-penalties",
-      "value": 4,
+      "value": 3,
       "source_type": "direct_statement",
       "source_url": "https://www.victor2026.com/my-policies",
       "source_title": "My Policies - Victor Marx for Governor",
       "date": "2026-07-01",
       "quote": "I will pursue enhanced penalties for trafficking quantities exceeding statutory thresholds under C.R.S. § 18-18-405.5, while expanding treatment diversion for non-violent addiction cases.",
-      "note": "Supports tougher trafficking penalties above certain thresholds combined with treatment diversion for non-violent cases, short of Proposition 132's mandatory prison for any amount sold."
+      "note": "Supports tougher penalties for trafficking above statutory thresholds while expanding treatment diversion for non-violent addiction cases, short of Proposition 132's mandatory prison for any amount; the record points both ways."
     },
     {
       "statement": "stricter-gun-laws",
@@ -159,7 +139,7 @@
       "source_url": "https://coloradosun.com/2026/06/06/barbara-kirkmeyer-scott-bottoms-victor-marx-colorado-primary-election-gop-governor-issue-guide/",
       "source_title": "Kirkmeyer vs. Marx vs. Bottoms: Where GOP candidates stand on issues - The Colorado Sun",
       "date": "2026-06-06",
-      "quote": "Yes. \"If an adult rapes a child, I'm absolutely for the death penalty. I've seen it again and again, it's horrific.\"",
+      "quote": "How do you plan to vote on Initiatives 108, 109 and 110, which would, respectively, make child sex trafficking punishable by life in prison without the possibility of parole; prohibit transgender kids and college students from participating in gendered sports that do not align with their biological sex; and prohibit surgery on a child for the purpose of altering their biological sex characteristics. [Victor Marx:] Yes.",
       "note": "Answered 'yes' to a single question covering Initiatives 108, 109 and 110, which became Propositions 133 (child sex trafficking - life without parole), 134 (sports) and 135 (minors' surgery ban); this record covers Initiative 108/Proposition 133."
     },
     {
@@ -184,13 +164,13 @@
     },
     {
       "statement": "health-coverage",
-      "value": 2,
+      "value": 3,
       "source_type": "questionnaire",
       "source_url": "https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/",
       "source_title": "Colorado Governor candidate Q&A - The Denver Post",
       "date": "2026-10-03",
       "quote": "Savings should protect access for children, pregnant women, seniors and people with disabilities, while maintaining adequate rates for essential providers. We cannot solve this with one-time money or across-the-board cuts that drive providers out.",
-      "note": "Answering a question about the state's Medicaid funding crisis, Marx said he would require an audit and pursue fraud/waste savings rather than new funding, but explicitly ruled out across-the-board cuts; coded as a qualified rather than unqualified disagreement."
+      "note": "Answering a question about the state's Medicaid funding shortfall, he would pursue an audit and fraud and waste savings rather than new funding, while protecting access for children, pregnant women, seniors and people with disabilities and ruling out across-the-board cuts; the record points both ways."
     }
   ],
   "endorsements": [
@@ -274,18 +254,16 @@
   "research_notes": "Marx has never held elected office, so record is empty. No fetched source was found addressing keep-tabor-surplus (Proposition NN) by name, conservation-sales-tax (Proposition 137), public-lands (federal land sales), keep-tariffs, federal-budget-law (OBBBA), deportation-priority as distinct from state/ICE cooperation, challenge-federal-policies, plain-language-ballots, or redistricting-commission; these are left out of positions. The TRACER donor-filing irregularities reported by Colorado Times Recorder (flagged in the finance note) are worth double-checking against the Secretary of State's corrected filing before using the fundraising figure prominently. Second pass 2026-10-14: added health-coverage from https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/.",
   "verification": {
     "checked": "2026-10-15",
-    "positions_verified": 15,
+    "positions_verified": 13,
     "positions_unverifiable": 0,
     "detail": {
       "abortion-legal": "found",
       "immigration-notify-ice": "found",
       "housing-state-zoning": "found",
       "clean-energy-shift": "found",
-      "natural-gas-right": "found",
       "hunting-right": "found",
       "mail-ballot-id": "found",
       "income-tax-cap": "found",
-      "graduated-income-tax": "found",
       "fentanyl-penalties": "found",
       "stricter-gun-laws": "found",
       "child-trafficking-life": "found",

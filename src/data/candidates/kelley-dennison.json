@@ -29,16 +29,6 @@
   "record": [],
   "positions": [
     {
-      "statement": "deportation-priority",
-      "value": 3,
-      "source_type": "direct_statement",
-      "source_url": "https://www.steamboatpilot.com/news/election-2026-colorado-congressional-district-2-republican-candidates-q-and-a/",
-      "source_title": "Q&A: Colorado's 2nd Congressional District Republican candidates",
-      "date": "2026-06-11",
-      "quote": "We need an immigration system that discourages entrenchment, strengthens border security and creates a lawful path to citizenship that makes following the legal process more worthwhile than taking the risk of entering illegally.",
-      "note": "Explicitly combines stronger border security with a lawful path to citizenship, an explicitly mixed position rather than prioritizing deportation alone."
-    },
-    {
       "statement": "public-lands",
       "value": 3,
       "source_type": "questionnaire",

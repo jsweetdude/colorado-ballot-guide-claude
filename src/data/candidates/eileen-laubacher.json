@@ -52,17 +52,6 @@
       "date_basis": "year"
     },
     {
-      "statement": "health-coverage",
-      "value": 4,
-      "source_type": "direct_statement",
-      "source_url": "https://eileenforcolorado.com/platform",
-      "source_title": "Eileen on the Issues (campaign platform)",
-      "date": "2026-01-01",
-      "quote": "We need a healthcare system that works for everyone and is affordable and accessible, so people can receive the care they need without worrying about costs.",
-      "note": "The page was live during the 2026 general election campaign.",
-      "date_basis": "year"
-    },
-    {
       "statement": "deportation-priority",
       "value": 2,
       "source_type": "direct_statement",

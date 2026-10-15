@@ -95,12 +95,12 @@
     {
       "statement": "challenge-federal-policies",
       "value": 4,
-      "source_type": "direct_statement",
+      "source_type": "inferred",
       "source_url": "https://coloradosun.com/2026/10/07/james-wiley-amanda-gonzalez-secretary-of-state-voter-guide/",
       "source_title": "Where James Wiley and Amanda Gonzalez stand on the top issues in the Colorado secretary of state's race",
       "date": "2026-10-07",
       "quote": "It is clearly not the president's role to regulate how Colorado runs our elections. He should particularly not be doing that for partisan purposes.",
-      "note": "Answering how Colorado should respond to possible Trump administration attempts to limit mail voting."
+      "note": "Answering how Colorado should respond to possible federal attempts to limit mail voting, she said it is not the president's role to regulate the state's elections; support for challenging such actions is inferred from that."
     }
   ],
   "endorsements": [

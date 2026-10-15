@@ -82,24 +82,14 @@
       "note": "From an NRA Political Victory Fund letter posted on his own campaign site, giving him an 'AQ' rating (the highest given to non-incumbents) for the 2026 primary; exact letter date not shown."
     },
     {
-      "statement": "hunting-right",
-      "value": 4,
-      "source_type": "inferred",
-      "source_url": "https://michaelallenforcolorado.com/endorsements/",
-      "source_title": "Endorsements - Michael Allen for Colorado",
-      "date": "2026-06-01",
-      "quote": "Our members will see your 'AQ' rating as a sign that you are a strong supporter of gun rights and hunting, advocating for the Right to Keep and Bear Arms.",
-      "note": "NRA-PVF letter praises general support for 'gun rights and hunting,' not a direct statement on Amendment 83's constitutional hunting-rights measure specifically."
-    },
-    {
       "statement": "immigration-notify-ice",
-      "value": 3,
+      "value": 2,
       "source_type": "questionnaire",
       "source_url": "https://coloradosun.com/2026/10/06/michael-allen-jena-griswold-colorado-attorney-general-election-voter-guide/",
       "source_title": "Michael Allen, Jena Griswold: Colorado attorney general election voter guide",
       "date": "2026-10-06",
       "quote": "the law already gives us the ability to work with federal agencies when there's criminal elements involved, and I think it's probably fine the way it is now. I'm not sure that we need a ballot measure on that.",
-      "note": "Declined to take a position on the ballot measure itself ('that's up to the voters') while suggesting current law may already be adequate — coded as a mixed/middle position."
+      "note": "Says current law already allows working with federal agencies in criminal cases and is \"probably fine the way it is now\", while leaving the ballot measure to the voters; coded as a qualified defense of the current limits."
     },
     {
       "statement": "health-coverage",
@@ -114,11 +104,12 @@
     {
       "statement": "clean-energy-shift",
       "value": 2,
-      "source_type": "questionnaire",
+      "source_type": "inferred",
       "source_url": "https://ivoterguide.com/candidate/90112/race/32769/election/1475",
       "source_title": "Michael J. Allen — iVoterGuide Candidate Profile",
       "date": "2026-06-01",
-      "quote": "Man-made climate change is a global threat and requires urgent political action. Disagree"
+      "quote": "Man-made climate change is a global threat and requires urgent political action. Disagree",
+      "note": "Disagreed with a survey statement that man-made climate change requires urgent political action; opposition to speeding the shift to renewable energy is inferred from that."
     },
     {
       "statement": "natural-gas-right",

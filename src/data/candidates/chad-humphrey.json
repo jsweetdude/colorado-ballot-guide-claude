@@ -39,13 +39,13 @@
     },
     {
       "statement": "public-lands",
-      "value": 1,
+      "value": 2,
       "source_type": "questionnaire",
       "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-1-candidate-qa/",
       "source_title": "Colorado U.S. House District 1 candidate Q&A",
       "date": "2026-10-03",
       "quote": "Decisions about Colorado's public lands have no business being made in Washington, D.C. Period.",
-      "note": "Argues the state legislature, not Washington, should decide Colorado's land policy, which the coding guide treats as supporting transfer away from federal control."
+      "note": "Says decisions about Colorado's public lands should not be made in Washington, which for federal land means moving control to the state; coded disagree with qualification because selling or transferring ownership is not stated."
     },
     {
       "statement": "deportation-priority",

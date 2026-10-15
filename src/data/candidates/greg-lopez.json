@@ -82,34 +82,14 @@
       "date_basis": "year"
     },
     {
-      "statement": "graduated-income-tax",
-      "value": 2,
-      "source_type": "inferred",
-      "source_url": "https://www.greglopez.co/issues",
-      "source_title": "Issues - Greg Lopez For Colorado",
-      "date": "2025-01-01",
-      "quote": "I firmly believe that Colorado taxpayers deserve transparency, accountability, and protection from unchecked government growth.",
-      "note": "Inferred opposition to Amendment 87 from his general TABOR-defense and anti-tax-growth stance; he does not name the measure directly."
-    },
-    {
-      "statement": "income-tax-cap",
-      "value": 4,
-      "source_type": "inferred",
-      "source_url": "https://www.greglopez.co/issues",
-      "source_title": "Issues - Greg Lopez For Colorado",
-      "date": "2025-01-01",
-      "quote": "I strongly support the Taxpayer's Bill of Rights because it empowers citizens, limits excessive taxation, and ensures taxpayers have a direct voice in major fiscal decisions.",
-      "note": "Inferred support for Proposition 136's rate cap from his strong general TABOR support; the measure is not named directly."
-    },
-    {
       "statement": "abortion-legal",
       "value": 2,
-      "source_type": "direct_statement",
+      "source_type": "inferred",
       "source_url": "https://www.greglopez.co/issues",
       "source_title": "Issues - Greg Lopez For Colorado",
       "date": "2025-01-01",
       "quote": "I strongly believe every human life has value and deserves dignity, compassion, and respect. I will continue to support policies that protect life while also supporting mothers, families, adoption services, healthcare access, and community-based support systems that help women and children thrive.",
-      "note": "This is his most recent (2025/2026 campaign) statement and is a softer formulation than a 2022 interview in which, as a Republican candidate for governor, he said of signing a legislative abortion ban, 'Odds are I would sign it' (news.yahoo.com, 2022-05-04). A reviewer may want to double-check whether his current position has in fact moderated or whether this is just different phrasing."
+      "note": "Pledges to \"support policies that protect life\" alongside support for mothers, adoption and families; opposition to abortion rights is inferred from that. In a 2022 interview as a candidate for governor he said of a legislative abortion ban, \"Odds are I would sign it\" (news.yahoo.com, 2022-05-04)."
     },
     {
       "statement": "stricter-gun-laws",
@@ -131,23 +111,13 @@
     },
     {
       "statement": "housing-state-zoning",
-      "value": 1,
-      "source_type": "direct_statement",
-      "source_url": "https://www.greglopez.co/issues",
-      "source_title": "Issues - Greg Lopez For Colorado",
-      "date": "2025-01-01",
-      "quote": "As Governor, I will work to restore local control whenever possible by reducing unnecessary state mandates and empowering counties, municipalities, and school districts to make decisions that best serve their communities.",
-      "note": "Consistent with his statement in the Aug. 27, 2026 debate with Weiser that he 'would never take local control away from a jurisdiction' (montrosepress.com)."
-    },
-    {
-      "statement": "natural-gas-right",
-      "value": 4,
+      "value": 2,
       "source_type": "inferred",
       "source_url": "https://www.greglopez.co/issues",
       "source_title": "Issues - Greg Lopez For Colorado",
       "date": "2025-01-01",
-      "quote": "I will lead Colorado in pursuing an \"all-of-the-above\" energy strategy that supports innovation, affordability, reliability, and job creation.",
-      "note": "Inferred support for continued natural gas access from his all-of-the-above energy stance; Amendment 82 is not named."
+      "quote": "As Governor, I will work to restore local control whenever possible by reducing unnecessary state mandates and empowering counties, municipalities, and school districts to make decisions that best serve their communities.",
+      "note": "Pledges to restore local control by reducing state mandates on counties and municipalities; opposition to state zoning preemption is inferred from that. In the August 27, 2026 debate he said he would never take local control away from a jurisdiction (montrosepress.com)."
     },
     {
       "statement": "clean-energy-shift",
@@ -157,16 +127,6 @@
       "source_title": "Issues - Greg Lopez For Colorado",
       "date": "2025-01-01",
       "quote": "Due to the overbearing environmental and clean energy policies of the Polis administration over the last eight years Colorado families have seen a severe increase in their gas and electric bills across the state."
-    },
-    {
-      "statement": "hunting-right",
-      "value": 4,
-      "source_type": "inferred",
-      "source_url": "https://www.greglopez.co/issues",
-      "source_title": "Issues - Greg Lopez For Colorado",
-      "date": "2025-01-01",
-      "quote": "The Game and Fish will focus on wildlife management, hunting, fishing, and habitat protection and State Parks will focus on managing state parks, trails and recreational facilities.",
-      "note": "Inferred support for Amendment 83 from his broader pro-hunting/fishing platform; the amendment is not named directly."
     },
     {
       "statement": "sports-biological-sex",

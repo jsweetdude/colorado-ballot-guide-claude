@@ -51,23 +51,23 @@
     },
     {
       "statement": "graduated-income-tax",
-      "value": 2,
+      "value": 1,
       "source_type": "direct_statement",
       "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
       "source_title": "9 questions for Colorado's State Board of Education candidates this year",
       "date": "2026-10-07",
       "quote": "I oppose NN and 87 because both trick voters into killing TABOR (Taxpayer Bill of Rights) for a fake \"benefit of the kids\"",
-      "note": "He proposes an alternative (a minimum education share of the state budget) rather than opposing more education funding outright, so coded as qualified disagreement."
+      "note": "Opposes Amendment 87 and Proposition NN by name, without qualification; he proposes a minimum education share of the state budget instead."
     },
     {
       "statement": "keep-tabor-surplus",
-      "value": 2,
+      "value": 1,
       "source_type": "direct_statement",
       "source_url": "https://coloradosun.com/2026/10/07/colorado-state-board-of-education-candidates-school-safety-tests-questions/",
       "source_title": "9 questions for Colorado's State Board of Education candidates this year",
       "date": "2026-10-07",
       "quote": "I oppose NN and 87 because both trick voters into killing TABOR (Taxpayer Bill of Rights) for a fake \"benefit of the kids\"",
-      "note": "Same answer, addressing Proposition NN and Amendment 87 together."
+      "note": "Same answer, opposing Proposition NN and Amendment 87 together without qualification."
     },
     {
       "statement": "mail-ballot-id",

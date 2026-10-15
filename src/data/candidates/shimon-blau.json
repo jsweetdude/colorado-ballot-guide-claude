@@ -39,13 +39,13 @@
     },
     {
       "statement": "deportation-priority",
-      "value": 3,
+      "value": 2,
       "source_type": "questionnaire",
       "source_url": "https://www.coloradopolitics.com/2026/10/02/kiros-blau-peterson-congressional-district-1/",
       "source_title": "Congressional District 1: Kiros faces Peterson, Blau",
       "date": "2026-10-02",
       "quote": "Criminal aliens who threaten public safety should be deported, and our streets must be safer. At the same time, we should fast-track legal status for long-term, contributing members of our communities who have built their lives here.",
-      "note": "Explicitly mixed: supports deporting those who threaten public safety while opposing broader enforcement he calls indiscriminate."
+      "note": "Supports deporting people who threaten public safety while opposing broader enforcement and backing legal status for long-term residents; coded disagree, the same as other candidates who take this position."
     },
     {
       "statement": "clean-energy-shift",

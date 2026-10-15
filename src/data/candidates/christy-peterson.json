@@ -34,13 +34,13 @@
   "positions": [
     {
       "statement": "minor-gender-surgery-ban",
-      "value": 5,
-      "source_type": "questionnaire",
+      "value": 4,
+      "source_type": "inferred",
       "source_url": "https://ballotpedia.org/Christy_Peterson",
       "source_title": "Christy Peterson - Ballotpedia (2026 Candidate Connection survey)",
       "date": "2026-04-13",
       "quote": "no to mutilizing innocent childrens' body parts, no to adults who manipulate children to mutilize.",
-      "note": "Listed among her core 'no to' campaign positions; read as opposing gender-transition surgery for minors. Typos are in the original survey text."
+      "note": "Listed among her core \"no to\" positions in her candidate survey; opposition to gender-transition surgery for minors is inferred from it, since the survey text does not name the procedure or Proposition 135. Typos are in the original survey text."
     },
     {
       "statement": "keep-mail-voting",
@@ -55,22 +55,22 @@
     {
       "statement": "health-coverage",
       "value": 2,
-      "source_type": "direct_statement",
+      "source_type": "inferred",
       "source_url": "https://ballotpedia.org/Christy_Peterson",
       "source_title": "Christy Peterson - Ballotpedia (2026 Candidate Connection survey)",
       "date": "2026-04-13",
       "quote": "In 2013 when Obamacare was planning to fine citizens for not buying their health insurance, she knew it was unconstitutional.",
-      "note": "Opposition to the ACA's individual mandate, paired with her stated 'low taxes, limited government' philosophy, read as opposing expanded government health-insurance mandates."
+      "note": "Opposed the Affordable Care Act's individual mandate as unconstitutional; opposition to expanded government coverage is inferred from that."
     },
     {
       "statement": "stricter-gun-laws",
       "value": 2,
-      "source_type": "direct_statement",
+      "source_type": "inferred",
       "source_url": "https://ballotpedia.org/Christy_Peterson",
       "source_title": "Christy Peterson - Ballotpedia (2026 Candidate Connection survey)",
       "date": "2026-04-13",
       "quote": "Yes to protecting free speech, bear arms & America First!",
-      "note": "A short platform bullet rather than an elaborated statement, so coded as disagree-with-qualification rather than strongly disagree."
+      "note": "A platform bullet backing the right to bear arms; opposition to stricter gun laws is inferred from it."
     },
     {
       "statement": "deportation-priority",

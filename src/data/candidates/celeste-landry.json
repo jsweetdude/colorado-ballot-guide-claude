@@ -34,7 +34,7 @@
   "positions": [
     {
       "statement": "keep-mail-voting",
-      "value": 5,
+      "value": 4,
       "source_type": "questionnaire",
       "source_url": "https://www.denverpost.com/2026/10/03/colorado-secretary-of-state-candidate-qa/",
       "source_title": "Colorado Secretary of State candidate Q&A",

@@ -45,13 +45,13 @@
   "positions": [
     {
       "statement": "keep-tabor-surplus",
-      "value": 1,
-      "source_type": "questionnaire",
+      "value": 2,
+      "source_type": "inferred",
       "source_url": "https://coloradosun.com/2026/10/05/jeff-bridges-kevin-grantham-colorado-treasurer-issue-guide/",
       "source_title": "Jeff Bridges, Kevin Grantham: Colorado treasurer issue guide",
       "date": "2026-10-05",
       "quote": "The taxpayers since 1992 have viewed it as a means to protect themselves against the overreaching government when it comes to taxation, when it comes to spending. And I think they have guarded their right to vote on those matters very jealously.",
-      "note": "Said in response to a question on whether he views TABOR primarily as a positive or negative; he said 'I view it entirely positively.' In an Oct. 2, 2026 Colorado Politics questionnaire he separately said opponent Jeff Bridges 'is also leading the charge to increase taxes again on Coloradans,' referring to Bridges' sponsorship of the Proposition NN ballot measure."
+      "note": "Views TABOR \"entirely positively\" as taxpayers' protection on taxation and spending; opposition to keeping revenue above the limit is inferred from that. In an October 2, 2026 Colorado Politics questionnaire he said Jeff Bridges \"is also leading the charge to increase taxes again on Coloradans\", referring to Bridges's sponsorship of Proposition NN."
     },
     {
       "statement": "income-tax-cap",

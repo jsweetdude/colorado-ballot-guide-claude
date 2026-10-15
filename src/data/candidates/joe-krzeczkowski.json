@@ -65,36 +65,6 @@
       "date": "2026-06-05",
       "quote": "In Colorado, we respect the right to own firearms for self-defense and sport, but we also expect the common-sense transparency required to keep our schools and streets safe.",
       "note": "Explicit mixed position: affirms gun ownership rights while calling for added safety measures, rather than clearly agreeing or disagreeing with stricter laws generally."
-    },
-    {
-      "statement": "keep-mail-voting",
-      "value": 4,
-      "source_type": "inferred",
-      "source_url": "https://joeforco.com/values",
-      "source_title": "Values - Joe K for Colorado",
-      "date": "2026-06-05",
-      "quote": "We should be encouraging and enabling every citizen to vote in our elections, not putting red tape in the way.",
-      "note": "Inferred: this is a general pro-access voting-rights statement (tied to the federal Freedom to Vote Act), not a statement about Colorado's all-mail ballot system specifically."
-    },
-    {
-      "statement": "abortion-legal",
-      "value": 4,
-      "source_type": "inferred",
-      "source_url": "https://joeforco.com/values",
-      "source_title": "Values - Joe K for Colorado",
-      "date": "2026-06-05",
-      "quote": "Whether it's your home, your data, or what happens in your bedroom or doctor's office, your business is your own. You have the right to privacy.",
-      "note": "Inferred: a general medical-privacy statement; abortion is not named explicitly."
-    },
-    {
-      "statement": "federal-budget-law",
-      "value": 2,
-      "source_type": "inferred",
-      "source_url": "https://joeforco.com/values",
-      "source_title": "Values - Joe K for Colorado",
-      "date": "2026-06-05",
-      "quote": "We gave trickle-down economics an honest run, and it's clear that it doesn't work.",
-      "note": "Inferred: he does not name the One Big Beautiful Bill Act, but this statement opposes the tax-cut approach it embodies and calls for 'the wealthy elites and corporations' to 'pay their fair share.'"
     }
   ],
   "endorsements": [],

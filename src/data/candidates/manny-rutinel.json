@@ -74,7 +74,7 @@
   "positions": [
     {
       "statement": "abortion-legal",
-      "value": 5,
+      "value": 4,
       "source_type": "sponsored_bill",
       "source_url": "https://leg.colorado.gov/bills/sb25-129",
       "source_title": "SB25-129 Legally Protected Hlth-Care Activity Protections | Colorado General Assembly",
@@ -114,7 +114,7 @@
     },
     {
       "statement": "health-coverage",
-      "value": 5,
+      "value": 4,
       "source_type": "direct_statement",
       "source_url": "https://www.mannyforcolorado.com/issues",
       "source_title": "Issues - Manny for Colorado",

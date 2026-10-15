@@ -146,22 +146,22 @@
     {
       "statement": "mail-ballot-id",
       "value": 4,
-      "source_type": "recorded_vote",
+      "source_type": "inferred",
       "source_url": "https://pikespeakbulletin.org/?p=20524",
       "source_title": "Rep. Jeff Crank's first term voting record highlights",
       "date": "2025-04-10",
       "quote": "SAVE America Act H.R. 22 & S. 1383 – April 10, 2025 & February 11, 2026 Crank voted ‘Yea’ both times.",
-      "note": "General proof-of-citizenship voter ID requirement; does not mention mail ballots specifically, so coded as inferred support coded no stronger than agree."
+      "note": "Voted twice for the SAVE Act, which requires documentary proof of citizenship to register; support for an ID number on mail ballots is inferred from that, as the coding guide directs for voter-ID positions that do not mention mail ballots."
     },
     {
       "statement": "stricter-gun-laws",
-      "value": 1,
-      "source_type": "direct_statement",
+      "value": 2,
+      "source_type": "inferred",
       "source_url": "https://ballotpedia.org/Jeff_Crank",
       "source_title": "Jeff Crank (Ballotpedia, quoting his 2024 campaign website)",
       "date": "2024-01-01",
       "quote": "As a lifelong Second Amendment supporter and gun owner and a proud pro-life advocate, I know the importance of a strong conservative voice on these issues.",
-      "note": "Date is approximate (text dated to the 2024 campaign cycle on Ballotpedia); month/day unknown.",
+      "note": "Describes himself as a lifelong Second Amendment supporter and gun owner; opposition to stricter gun laws is inferred from that.",
       "date_basis": "year"
     },
     {
@@ -197,13 +197,13 @@
     },
     {
       "statement": "challenge-federal-policies",
-      "value": 1,
+      "value": 2,
       "source_type": "questionnaire",
       "source_url": "https://coloradosun.com/2026/10/07/jeff-crank-jessica-killin-issue-guide-colorado/",
       "source_title": "Where Jeff Crank, Jessica Killin stand on the issues in Colorado's race to represent the 5th Congressional District",
       "date": "2026-10-07",
       "quote": "Crank called the lawsuit “constitutionally laughable” and said the state should use its money for more productive endeavors such as working to entice aerospace companies to move to the state.",
-      "note": "About Colorado's lawsuit challenging the Trump administration's relocation of U.S. Space Command headquarters to Alabama; he disagreed with the relocation decision itself but dismissed the state's court challenge to it as wasteful."
+      "note": "Called the state's lawsuit over the relocation of Space Command \"constitutionally laughable\" and said the money should go to more productive uses, while disagreeing with the relocation itself; one lawsuit rather than the state's litigation in general, so disagree with qualification."
     },
     {
       "statement": "immigration-notify-ice",

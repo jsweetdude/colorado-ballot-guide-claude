@@ -52,16 +52,6 @@
       "date_basis": "year"
     },
     {
-      "statement": "natural-gas-right",
-      "value": 4,
-      "source_type": "inferred",
-      "source_url": "https://ballotpedia.org/Eric_Mulder",
-      "source_title": "Eric Mulder - Ballotpedia (2026 Candidate Connection survey)",
-      "date": "2026-01-01",
-      "quote": "From small modular reactors, to natural gas, wind, solar, and geothermal we must use every tool in our disposal to power our state and fortify our energy grid",
-      "note": "Inferred support for continued natural gas use from his energy-diversity platform; Amendment 82 is not named."
-    },
-    {
       "statement": "health-coverage",
       "value": 2,
       "source_type": "questionnaire",
@@ -73,24 +63,13 @@
     },
     {
       "statement": "immigration-notify-ice",
-      "value": 1,
+      "value": 2,
       "source_type": "questionnaire",
       "source_url": "https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/",
       "source_title": "Colorado Governor candidate Q&A - The Denver Post",
       "date": "2026-10-03",
       "quote": "I support limiting state cooperation with federal agencies in order to uphold constitutional safeguards on privacy and due process.",
-      "note": "He also says ICE's 'wrongful arrest, detention, and deportation of citizens is inexcusable,' with no stated carve-out for cooperation on serious crimes, so coded as an unqualified disagreement with Amendment 81's approach."
-    },
-    {
-      "statement": "housing-state-zoning",
-      "value": 4,
-      "source_type": "inferred",
-      "source_url": "https://www.vote411.org/ballot",
-      "source_title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
-      "date": "2026-10-15",
-      "quote": "Housing diversity should be pursued, encouraging home rule districts to allow for multiple family units, accessory dwelling units, mobile home and tiny communities, etc.",
-      "note": "Favors the state encouraging local governments to allow denser housing; he says encourage rather than override, so this is inferred and capped at agree. Vote411 shows answers only after an address is entered, so the quote cannot be checked by script; it was read in a browser on 2026-10-15 using a public address in the race.",
-      "date_basis": "accessed"
+      "note": "Supports limiting state cooperation with federal agencies on privacy and due-process grounds, answering Vote411's immigration question, and calls ICE's wrongful arrests inexcusable; coded disagree with qualification because notification in serious-crime cases is not addressed."
     }
   ],
   "endorsements": [],

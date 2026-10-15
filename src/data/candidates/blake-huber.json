@@ -34,13 +34,13 @@
   "positions": [
     {
       "statement": "deportation-priority",
-      "value": 3,
+      "value": 2,
       "source_type": "questionnaire",
       "source_url": "https://www.coloradoan.com/story/news/politics/elections/2026/10/01/blake-huber-running-for-election-to-u-s-senate-colorado-midterm/91799847007/",
       "source_title": "Colorado election: Q&A with U.S. Senate candidate Blake Huber - The Coloradoan",
       "date": "2026-10-01",
       "quote": "rational immigration reform that secures our borders while providing realistic legal pathways for people who want to work and contribute. Enforcement should focus on genuine threats, not workers and families trying to build better lives.",
-      "note": "Explicitly supports border enforcement against 'genuine threats' while opposing enforcement against working immigrants and families; coded as an explicit middle/mixed position."
+      "note": "Supports border enforcement focused on genuine threats while opposing enforcement against workers and families; coded disagree, the same as other candidates who take this position."
     },
     {
       "statement": "clean-energy-shift",
