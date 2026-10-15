@@ -71,14 +71,34 @@
         "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
       }
     ],
-    "notes": "Colorado Politics (10/2/2026) independently confirms Advance Colorado, led by Michael Fields, as the measure's backer, and reports opposition from immigrant advocacy groups and several district attorneys, without naming specific committees."
+    "notes": "Colorado Politics (October 2, 2026) reports Advance Colorado, led by Michael Fields, as the measure's backer, and opposition from immigrant advocacy groups and several district attorneys."
   },
   "sources": [
-    { "title": "2026 Colorado State Ballot Information Booklet (Blue Book)", "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf", "accessed": "2026-10-14" },
-    { "title": "Legislative Council Staff Ballot Analysis 2026: Amendment 81", "url": "https://leg.colorado.gov/ballots/law-enforcement-communication-with-federal-immigration-authorities-2", "accessed": "2026-10-14" },
-    { "title": "Colorado Secretary of State 2025-2026 Initiative Title Board filings", "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html", "accessed": "2026-10-14" },
-    { "title": "Colorado Secretary of State 2026 ballot issue committee contacts", "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html", "accessed": "2026-10-14" },
-    { "title": "Colorado Politics: Amendment 81 | Local cooperation with federal immigration authorities", "url": "https://www.coloradopolitics.com/2026/10/02/cooperation-immigration-enforcement-colorado-amendment-81/", "accessed": "2026-10-14" }
+    {
+      "title": "2026 Colorado State Ballot Information Booklet (Blue Book)",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Legislative Council Staff Ballot Analysis 2026: Amendment 81",
+      "url": "https://leg.colorado.gov/ballots/law-enforcement-communication-with-federal-immigration-authorities-2",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Secretary of State 2025-2026 Initiative Title Board filings",
+      "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Secretary of State 2026 ballot issue committee contacts",
+      "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Politics: Amendment 81 | Local cooperation with federal immigration authorities",
+      "url": "https://www.coloradopolitics.com/2026/10/02/cooperation-immigration-enforcement-colorado-amendment-81/",
+      "accessed": "2026-10-14"
+    }
   ],
   "last_checked": "2026-10-14",
   "research_notes": "Summary paragraphs picked from the 'What does the measure do?', 'Which individuals are subject to notification?' (merged across a page break), and 'What is current law...' Q&As; the 'What authority do local governments have...' Q&A was omitted as supplementary. Opposition committees Vote Common Sense and People for a Fair Colorado are multi-measure umbrella committees opposing nearly every citizen-initiated 2026 measure, not single-issue groups."

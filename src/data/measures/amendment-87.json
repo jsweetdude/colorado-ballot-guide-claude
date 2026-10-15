@@ -96,15 +96,39 @@
         "source_url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html"
       }
     ],
-    "notes": "Although the Blue Book describes Amendment 87 as a constitutional amendment, it explicitly states it 'Passes with a majority vote' rather than 55 percent, which is recorded here as instructed. Several committees listed on the Secretary of State's contacts page (e.g. Brighter Colorado, Affordable Colorado, Let's Go Colorado) also oppose or support other 2026 measures, reflecting overlapping multi-measure campaign coalitions this cycle, especially around the competing Amendment 87/Proposition 136 tax questions."
+    "notes": "Several committees on the Secretary of State's list also support or oppose other 2026 measures, especially the competing Amendment 87 and Proposition 136 tax questions."
   },
   "sources": [
-    { "title": "2026 Colorado State Ballot Information Booklet (Blue Book)", "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf", "accessed": "2026-10-14" },
-    { "title": "Legislative Council Staff Ballot Analysis 2026: Amendment 87", "url": "https://leg.colorado.gov/ballots/graduated-income-tax-2", "accessed": "2026-10-14" },
-    { "title": "Colorado Secretary of State 2025-2026 Initiative Title Board filings", "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html", "accessed": "2026-10-14" },
-    { "title": "Colorado Secretary of State 2026 ballot issue committee contacts", "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html", "accessed": "2026-10-14" },
-    { "title": "Colorado Politics: Amendment 87 | Graduated income tax rate", "url": "https://www.coloradopolitics.com/2026/10/02/graduated-income-tax-colorado-amendment-87/", "accessed": "2026-10-14" },
-    { "title": "CPR News: Liberal groups want to change Colorado's income tax structure", "url": "https://www.cpr.org/2025/09/03/income-tax-graduated-2026-colorado-ballot-measure", "accessed": "2026-10-14" }
+    {
+      "title": "2026 Colorado State Ballot Information Booklet (Blue Book)",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Legislative Council Staff Ballot Analysis 2026: Amendment 87",
+      "url": "https://leg.colorado.gov/ballots/graduated-income-tax-2",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Secretary of State 2025-2026 Initiative Title Board filings",
+      "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/index.html",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Secretary of State 2026 ballot issue committee contacts",
+      "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado Politics: Amendment 87 | Graduated income tax rate",
+      "url": "https://www.coloradopolitics.com/2026/10/02/graduated-income-tax-colorado-amendment-87/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "CPR News: Liberal groups want to change Colorado's income tax structure",
+      "url": "https://www.cpr.org/2025/09/03/income-tax-graduated-2026-colorado-ballot-measure",
+      "accessed": "2026-10-14"
+    }
   ],
   "last_checked": "2026-10-14",
   "research_notes": "Fiscal Impact array omits the formulaic TABOR-mandated 'State Spending and Tax Increases' disclosure subsection (historical fiscal-year-spending table required by Article X, Section 20) since it is boilerplate/tabular rather than narrative paragraphs explaining the measure's impact; the Taxpayer Impacts, State Revenue, State Spending, and School District Revenue and Spending paragraphs are included in full. Two State Revenue paragraphs were kept as separate array items because they are separated by a page break in the source and address distinct points (revenue estimate vs. the constitutionally-required maximum-dollar-amount disclosure)."
