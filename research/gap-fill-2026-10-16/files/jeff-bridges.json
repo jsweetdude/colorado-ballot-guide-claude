@@ -106,6 +106,16 @@
       "date": "2025-05-22",
       "quote": "While we budget with a scalpel, Congressional Republicans are using a chainsaw. This budget is irresponsible and reckless, and it will hurt Coloradans.",
       "note": "Statement issued as chair of the Joint Budget Committee after the U.S. House passed the bill in May 2025; it became law in July 2025."
+    },
+    {
+      "statement": "keep-tariffs",
+      "value": 1,
+      "source_type": "questionnaire",
+      "source_url": "https://www.cpr.org/2026/09/25/vg-2026-jeff-bridges-voter-guide/",
+      "source_title": "Colorado Treasurer: Democrat Jeff Bridges (CPR News voter guide interview)",
+      "date": "2026-09-25",
+      "quote": "You want to talk about a war on rural Colorado; it's being waged by the White House through tariffs",
+      "note": "Tariffs are outside the treasurer's statement set, so this does not affect his match; it is shown on his profile. CPR News blocks automated fetching; the page was read in a browser."
     }
   ],
   "endorsements": [],
@@ -170,19 +180,25 @@
       "title": "Joint release: GOP Budget Is Devastating for Coloradans (Colorado House Democrats)",
       "url": "https://www.cohousedems.com/news/joint-release%3A-gop-budget-is-devastating-for-coloradans",
       "accessed": "2026-10-15"
+    },
+    {
+      "title": "Colorado Treasurer: Democrat Jeff Bridges (CPR News voter guide interview)",
+      "url": "https://www.cpr.org/2026/09/25/vg-2026-jeff-bridges-voter-guide/",
+      "accessed": "2026-10-15"
     }
   ],
   "last_checked": "2026-10-15",
-  "research_notes": "Could not find a Bridges statement specifically naming Amendment 87 (graduated income tax) or Proposition 136 (income-tax cap) despite searching news coverage and his campaign/legislative pages, even though the assignment flagged these as expected topics for treasurer candidates — his TABOR-related comments all referenced Proposition NN specifically, not the two income-tax measures. Left as unknown rather than inferred. No positions found on hunting rights, immigration, sports/gender measures, or federal tariffs — plausibly outside the scope of a treasurer campaign, but flagged as unconfirmed gaps. No campaign finance total found in a fetched source, so finance is left null per protocol. Second pass 2026-10-14: checked the Denver Post's Oct. 3, 2026 treasurer candidate Q&A (covers only unclaimed property and PERA, not tax policy) and the Colorado Sun's Amendment 87 and Proposition 136 explainers, neither of which quotes Bridges on state income tax rates; both measures are citizen/advocacy-group initiatives with no legislative referral vote to check. graduated-income-tax and income-tax-cap remain unsourced; no new positions were added. Gap fill 2026-10-15: Added his May 2025 statement on the federal budget bill from the House Democrats' joint release. Still nothing found from him on Amendment 87, Proposition 136 or Proposition 137 (searched the Colorado Sun treasurer guide, the Denver Post treasurer Q&A, the CPR News interview and the Colorado Politics profile).",
+  "research_notes": "Could not find a Bridges statement specifically naming Amendment 87 (graduated income tax) or Proposition 136 (income-tax cap) despite searching news coverage and his campaign/legislative pages, even though the assignment flagged these as expected topics for treasurer candidates — his TABOR-related comments all referenced Proposition NN specifically, not the two income-tax measures. Left as unknown rather than inferred. No positions found on hunting rights, immigration, sports/gender measures, or federal tariffs — plausibly outside the scope of a treasurer campaign, but flagged as unconfirmed gaps. No campaign finance total found in a fetched source, so finance is left null per protocol. Second pass 2026-10-14: checked the Denver Post's Oct. 3, 2026 treasurer candidate Q&A (covers only unclaimed property and PERA, not tax policy) and the Colorado Sun's Amendment 87 and Proposition 136 explainers, neither of which quotes Bridges on state income tax rates; both measures are citizen/advocacy-group initiatives with no legislative referral vote to check. graduated-income-tax and income-tax-cap remain unsourced; no new positions were added. Gap fill 2026-10-15: Added his May 2025 statement on the federal budget bill from the House Democrats' joint release. Still nothing found from him on Amendment 87, Proposition 136 or Proposition 137 (searched the Colorado Sun treasurer guide, the Denver Post treasurer Q&A, the CPR News interview and the Colorado Politics profile). Gap fill 2026-10-15: Added his CPR News answer on tariffs, found by comparing with the sibling build and confirmed in a browser.",
   "verification": {
-    "checked": "2026-10-14",
-    "positions_verified": 4,
+    "checked": "2026-10-15",
+    "positions_verified": 5,
     "positions_unverifiable": 0,
     "detail": {
       "keep-tabor-surplus": "found",
       "stricter-gun-laws": "found",
       "clean-energy-shift": "found",
-      "abortion-legal": "found"
+      "abortion-legal": "found",
+      "federal-budget-law": "found"
     }
   }
 }

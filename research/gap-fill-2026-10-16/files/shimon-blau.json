@@ -1,0 +1,139 @@
+{
+  "id": "shimon-blau",
+  "name": "Shimon Blau",
+  "race": "us-house-1",
+  "party": "Unaffiliated",
+  "incumbent": false,
+  "profile": "short",
+  "website": "https://blauforcongress.com",
+  "summary": [
+    {
+      "text": "Shimon Blau is a physician with more than 20 years of experience and a small business owner running as an unaffiliated candidate for Colorado's 1st Congressional District.",
+      "source_url": "https://ballotpedia.org/Shimon_Blau"
+    },
+    {
+      "text": "He grew up in Denver and returned to the city 13 years ago; he launched his campaign and petitioned onto the November ballot within days of Melat Kiros' Democratic primary win.",
+      "source_url": "https://www.coloradopolitics.com/2026/10/02/kiros-blau-peterson-congressional-district-1/"
+    }
+  ],
+  "experience": [
+    {
+      "text": "Practicing physician for more than 20 years; small business owner.",
+      "source_url": "https://ballotpedia.org/Shimon_Blau"
+    },
+    {
+      "text": "Has never held elected office.",
+      "source_url": "https://ballotpedia.org/Shimon_Blau"
+    }
+  ],
+  "record": [],
+  "positions": [
+    {
+      "statement": "health-coverage",
+      "value": 4,
+      "source_type": "questionnaire",
+      "source_url": "https://ballotpedia.org/Shimon_Blau",
+      "source_title": "Shimon Blau - Ballotpedia (2026 Candidate Connection survey)",
+      "date": "2026-10-08",
+      "quote": "Healthcare is a right, not a luxury, and no one should have to choose between getting the care they need and paying their bills. While I believe we should ultimately work toward universal healthcare, there are practical steps we can take now to lower costs."
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 3,
+      "source_type": "questionnaire",
+      "source_url": "https://www.coloradopolitics.com/2026/10/02/kiros-blau-peterson-congressional-district-1/",
+      "source_title": "Congressional District 1: Kiros faces Peterson, Blau",
+      "date": "2026-10-02",
+      "quote": "Criminal aliens who threaten public safety should be deported, and our streets must be safer. At the same time, we should fast-track legal status for long-term, contributing members of our communities who have built their lives here.",
+      "note": "Explicitly mixed: supports deporting those who threaten public safety while opposing broader enforcement he calls indiscriminate."
+    },
+    {
+      "statement": "clean-energy-shift",
+      "value": 4,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-1-candidate-qa/",
+      "source_title": "Colorado U.S. House District 1 candidate Q&A",
+      "date": "2026-10-03",
+      "quote": "I would advocate for protecting these lands, expanding responsible renewable energy, and ensuring federal agencies consider conservation, recreation, wildlife, and local communities in leasing decisions.",
+      "note": "Qualified support ('responsible' renewable energy) rather than an unqualified call to accelerate the shift."
+    },
+    {
+      "statement": "abortion-legal",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://blauforcongress.com/",
+      "source_title": "Shimon Blau for Congress (campaign site)",
+      "date": "2026-10-15",
+      "date_basis": "accessed",
+      "quote": "I support a woman's right to make her own healthcare decisions, and I support the freedom of consenting adults to marry the person they love. These are deeply personal decisions, and I do not believe government should interfere in women's healthcare",
+      "note": "He speaks of a woman's right to her own healthcare decisions without using the word abortion, so this is inferred and capped at agree."
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "Denver Gazette (editorial endorsement)",
+      "source_url": "https://ballotpedia.org/Shimon_Blau"
+    },
+    {
+      "name": "Ross Kaminsky",
+      "source_url": "https://ballotpedia.org/Shimon_Blau"
+    },
+    {
+      "name": "Mandy Connell",
+      "source_url": "https://ballotpedia.org/Shimon_Blau"
+    }
+  ],
+  "finance": {
+    "raised": 184750,
+    "spent": 119805,
+    "cash_on_hand": 64944,
+    "as_of": "2026-09-30",
+    "source_url": "https://www.fec.gov/data/candidate/H6CO01356/?cycle=2026&election_full=true",
+    "source_name": "Federal Election Commission",
+    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-09-30)."
+  },
+  "sources": [
+    {
+      "title": "Shimon Blau - Ballotpedia",
+      "url": "https://ballotpedia.org/Shimon_Blau",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Congressional District 1: Kiros faces Peterson, Blau",
+      "url": "https://www.coloradopolitics.com/2026/10/02/kiros-blau-peterson-congressional-district-1/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado U.S. House District 1 candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-1-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "blauforcongress.com",
+      "url": "https://blauforcongress.com",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "fec.gov",
+      "url": "https://www.fec.gov/data/candidate/H6CO01356/?cycle=2026&election_full=true",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Shimon Blau for Congress (campaign site)",
+      "url": "https://blauforcongress.com/",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "last_checked": "2026-10-15",
+  "research_notes": "Finance left null per instructions even though his Ballotpedia page reports FEC-sourced 2026 totals ($184,750 raised / $119,805 spent), since he is a federal candidate and the build team pulls FEC numbers centrally. Gap fill 2026-10-15: Added an inferred abortion position from his campaign site, found by comparing with the sibling build and confirmed by fetching the page.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 3,
+    "positions_unverifiable": 0,
+    "detail": {
+      "health-coverage": "found",
+      "deportation-priority": "found",
+      "clean-energy-shift": "found"
+    }
+  }
+}

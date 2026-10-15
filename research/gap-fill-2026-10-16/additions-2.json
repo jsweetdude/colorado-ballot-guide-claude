@@ -1,0 +1,85 @@
+[
+  {
+    "id": "jeff-bridges",
+    "positions": [
+      {
+        "statement": "keep-tariffs",
+        "value": 1,
+        "source_type": "questionnaire",
+        "source_url": "https://www.cpr.org/2026/09/25/vg-2026-jeff-bridges-voter-guide/",
+        "source_title": "Colorado Treasurer: Democrat Jeff Bridges (CPR News voter guide interview)",
+        "date": "2026-09-25",
+        "quote": "You want to talk about a war on rural Colorado; it's being waged by the White House through tariffs",
+        "note": "Tariffs are outside the treasurer's statement set, so this does not affect his match; it is shown on his profile. CPR News blocks automated fetching; the page was read in a browser."
+      }
+    ],
+    "note": "Added his CPR News answer on tariffs, found by comparing with the sibling build and confirmed in a browser."
+  },
+  {
+    "id": "kevin-grantham",
+    "positions": [
+      {
+        "statement": "keep-tariffs",
+        "value": 2,
+        "source_type": "questionnaire",
+        "source_url": "https://www.cpr.org/2026/09/25/vg-2026-kevin-j-grantham-voter-guide/",
+        "source_title": "Colorado Treasurer: Republican Kevin J. Grantham (CPR News voter guide interview)",
+        "date": "2026-09-25",
+        "quote": "tariffs ultimately are a tax that the consumer ends up paying for and it's probably not great policy overall.",
+        "note": "He added that there may be an alternative view of the tariffs' long-term effect, so this is coded disagree rather than strongly disagree. Tariffs are outside the treasurer's statement set, so this does not affect his match. CPR News blocks automated fetching; the page was read in a browser."
+      }
+    ],
+    "note": "Added his CPR News answer on tariffs, found by comparing with the sibling build and confirmed in a browser."
+  },
+  {
+    "id": "lauren-boebert",
+    "positions": [
+      {
+        "statement": "minor-gender-surgery-ban",
+        "value": 4,
+        "source_type": "direct_statement",
+        "source_url": "https://boebert.house.gov/issues/pro-life-and-family-values",
+        "source_title": "Pro-Life and Family Values (Rep. Lauren Boebert, official House site)",
+        "date": "2026-10-15",
+        "date_basis": "accessed",
+        "quote": "Sex change surgeries render a person sterile for life, and taxpayer dollars should not be used to permanently maim confused children. Children should never be used as pawns to advance radical gender ideology. Permanently altering and disabling the physical bodies of children is never ok",
+        "note": "Opposes gender-transition surgery for minors; the page does not mention Proposition 135 or a Colorado ban, so this is coded agree rather than strongly agree."
+      }
+    ],
+    "note": "Added her official-site statement on gender-transition surgery for minors, found by comparing with the sibling build and confirmed by fetching the page."
+  },
+  {
+    "id": "melat-kiros",
+    "positions": [
+      {
+        "statement": "stricter-gun-laws",
+        "value": 5,
+        "source_type": "direct_statement",
+        "source_url": "https://www.kirosforco.com/priorities-pdf-final.pdf",
+        "source_title": "Melat Kiros for Congress: priorities (campaign PDF)",
+        "date": "2026-10-15",
+        "date_basis": "accessed",
+        "quote": "Universal Background Checks: Background checks are the foundation of any serious gun safety system.",
+        "note": "The same document also calls for a federal red-flag law, an assault weapons ban, a high-capacity magazine ban and safe-storage requirements, and says she stands with Moms Demand Action; gun violence prevention is a stated priority, so coded strongly agree."
+      }
+    ],
+    "note": "Added her gun-policy position from the campaign's priorities document, found by comparing with the sibling build and confirmed by fetching the PDF."
+  },
+  {
+    "id": "shimon-blau",
+    "positions": [
+      {
+        "statement": "abortion-legal",
+        "value": 4,
+        "source_type": "inferred",
+        "source_url": "https://blauforcongress.com/",
+        "source_title": "Shimon Blau for Congress (campaign site)",
+        "date": "2026-10-15",
+        "date_basis": "accessed",
+        "quote": "I support a woman's right to make her own healthcare decisions, and I support the freedom of consenting adults to marry the person they love. These are deeply personal decisions, and I do not believe government should interfere in women's healthcare",
+        "note": "He speaks of a woman's right to her own healthcare decisions without using the word abortion, so this is inferred and capped at agree."
+      }
+    ],
+    "note": "Added an inferred abortion position from his campaign site, found by comparing with the sibling build and confirmed by fetching the page."
+  }
+]

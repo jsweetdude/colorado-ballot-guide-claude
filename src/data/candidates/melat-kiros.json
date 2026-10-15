@@ -133,6 +133,17 @@
       "date": "2026-10-02",
       "quote": "We need Housing First policies, federal dollars for housing production, along with zoning and permitting reform.",
       "note": "Inferred, coded no stronger than 4: she calls for zoning and permitting reform to build more housing, but as a congressional candidate she addresses this as federal policy rather than naming Colorado's state zoning-preemption laws specifically."
+    },
+    {
+      "statement": "stricter-gun-laws",
+      "value": 5,
+      "source_type": "direct_statement",
+      "source_url": "https://www.kirosforco.com/priorities-pdf-final.pdf",
+      "source_title": "Melat Kiros for Congress: priorities (campaign PDF)",
+      "date": "2026-10-15",
+      "quote": "Universal Background Checks: Background checks are the foundation of any serious gun safety system.",
+      "note": "The same document also calls for a federal red-flag law, an assault weapons ban, a high-capacity magazine ban and safe-storage requirements, and says she stands with Moms Demand Action; gun violence prevention is a stated priority, so coded strongly agree.",
+      "date_basis": "accessed"
     }
   ],
   "endorsements": [
@@ -196,13 +207,18 @@
       "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H6CO01273/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Melat Kiros for Congress: priorities (campaign PDF)",
+      "url": "https://www.kirosforco.com/priorities-pdf-final.pdf",
+      "accessed": "2026-10-15"
     }
   ],
-  "last_checked": "2026-10-14",
-  "research_notes": "Verified the secondary-source claim that she defeated Rep. Diana DeGette: confirmed via certified June 30, 2026 primary results on Ballotpedia (Kiros 53.2%, DeGette 39.8%, Wanda James 7.0%). Her campaign site (kirosforco.com) renders as a single-page app in this session's curl fetches, so issue-page quotes were taken from Ballotpedia's verbatim block-quote of that same site (dated April 24, 2026) rather than directly; the underlying site was independently confirmed to exist and match these themes. The Colorado Sun's May 29, 2026 Democratic primary issue guide and the Denver Post's Oct. 3, 2026 candidate Q&A independently corroborate her ICE/immigration position and supplied the federal-budget-law and public-lands quotes. No statement found on tariffs, so that is left unsourced rather than inferred. Second pass 2026-10-14: added housing-state-zoning from https://www.coloradopolitics.com/2026/10/02/kiros-blau-peterson-congressional-district-1/.",
+  "last_checked": "2026-10-15",
+  "research_notes": "Verified the secondary-source claim that she defeated Rep. Diana DeGette: confirmed via certified June 30, 2026 primary results on Ballotpedia (Kiros 53.2%, DeGette 39.8%, Wanda James 7.0%). Her campaign site (kirosforco.com) renders as a single-page app in this session's curl fetches, so issue-page quotes were taken from Ballotpedia's verbatim block-quote of that same site (dated April 24, 2026) rather than directly; the underlying site was independently confirmed to exist and match these themes. The Colorado Sun's May 29, 2026 Democratic primary issue guide and the Denver Post's Oct. 3, 2026 candidate Q&A independently corroborate her ICE/immigration position and supplied the federal-budget-law and public-lands quotes. No statement found on tariffs, so that is left unsourced rather than inferred. Second pass 2026-10-14: added housing-state-zoning from https://www.coloradopolitics.com/2026/10/02/kiros-blau-peterson-congressional-district-1/. Gap fill 2026-10-15: Added her gun-policy position from the campaign's priorities document, found by comparing with the sibling build and confirmed by fetching the PDF.",
   "verification": {
-    "checked": "2026-10-14",
-    "positions_verified": 10,
+    "checked": "2026-10-15",
+    "positions_verified": 11,
     "positions_unverifiable": 0,
     "detail": {
       "health-coverage": "found",
@@ -214,7 +230,8 @@
       "fentanyl-penalties": "found",
       "sports-biological-sex": "found",
       "minor-gender-surgery-ban": "found",
-      "housing-state-zoning": "found"
+      "housing-state-zoning": "found",
+      "stricter-gun-laws": "found"
     }
   }
 }

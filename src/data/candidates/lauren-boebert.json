@@ -173,6 +173,17 @@
       "date": "2025-04-10",
       "quote": "SAVE Act...was a bill passed by the House of Representatives on 4/10/2025 that required individuals to provide documentary proof of citizenship when registering to vote in federal elections...Yea",
       "note": "General voter-ID/citizenship-verification vote; does not mention mail ballots specifically, so coded as inferred support coded no stronger than agree."
+    },
+    {
+      "statement": "minor-gender-surgery-ban",
+      "value": 4,
+      "source_type": "direct_statement",
+      "source_url": "https://boebert.house.gov/issues/pro-life-and-family-values",
+      "source_title": "Pro-Life and Family Values (Rep. Lauren Boebert, official House site)",
+      "date": "2026-10-15",
+      "quote": "Sex change surgeries render a person sterile for life, and taxpayer dollars should not be used to permanently maim confused children. Children should never be used as pawns to advance radical gender ideology. Permanently altering and disabling the physical bodies of children is never ok",
+      "note": "Opposes gender-transition surgery for minors; the page does not mention Proposition 135 or a Colorado ban, so this is coded agree rather than strongly agree.",
+      "date_basis": "accessed"
     }
   ],
   "endorsements": [
@@ -235,13 +246,18 @@
       "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H0CO03165/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Pro-Life and Family Values (Rep. Lauren Boebert, official House site)",
+      "url": "https://boebert.house.gov/issues/pro-life-and-family-values",
+      "accessed": "2026-10-15"
     }
   ],
-  "last_checked": "2026-10-14",
-  "research_notes": "Boebert's campaign did not respond to the Colorado Politics 2026 voter guide questionnaire, so no current first-person answers from that outlet were available. Could not find a committee-level roll call confirming or denying how Boebert voted on the May 2025 House Natural Resources Committee markup amendment (Amodei/Maloy) to mandate sale of public lands in Nevada and Utah; opposing-campaign material (Jessica Killin's website, as quoted on Ballotpedia) claims she and Rep. Jeff Crank both voted for it, but this is an opponent's characterization in an unrelated race, not a verified roll call, so no public-lands position was coded for her. A reviewer may want to track down the Natural Resources Committee's official markup roll call record to confirm. The abortion quote is dated only to the 2020 campaign cycle on Ballotpedia; no more specific date was available.",
+  "last_checked": "2026-10-15",
+  "research_notes": "Boebert's campaign did not respond to the Colorado Politics 2026 voter guide questionnaire, so no current first-person answers from that outlet were available. Could not find a committee-level roll call confirming or denying how Boebert voted on the May 2025 House Natural Resources Committee markup amendment (Amodei/Maloy) to mandate sale of public lands in Nevada and Utah; opposing-campaign material (Jessica Killin's website, as quoted on Ballotpedia) claims she and Rep. Jeff Crank both voted for it, but this is an opponent's characterization in an unrelated race, not a verified roll call, so no public-lands position was coded for her. A reviewer may want to track down the Natural Resources Committee's official markup roll call record to confirm. The abortion quote is dated only to the 2020 campaign cycle on Ballotpedia; no more specific date was available. Gap fill 2026-10-15: Added her official-site statement on gender-transition surgery for minors, found by comparing with the sibling build and confirmed by fetching the page.",
   "verification": {
-    "checked": "2026-10-14",
-    "positions_verified": 9,
+    "checked": "2026-10-15",
+    "positions_verified": 10,
     "positions_unverifiable": 0,
     "detail": {
       "federal-budget-law": "found",
@@ -252,7 +268,8 @@
       "health-coverage": "found",
       "clean-energy-shift": "found",
       "abortion-legal": "found",
-      "mail-ballot-id": "found"
+      "mail-ballot-id": "found",
+      "minor-gender-surgery-ban": "found"
     }
   }
 }

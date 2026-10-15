@@ -56,6 +56,17 @@
       "date": "2026-10-03",
       "quote": "I would advocate for protecting these lands, expanding responsible renewable energy, and ensuring federal agencies consider conservation, recreation, wildlife, and local communities in leasing decisions.",
       "note": "Qualified support ('responsible' renewable energy) rather than an unqualified call to accelerate the shift."
+    },
+    {
+      "statement": "abortion-legal",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://blauforcongress.com/",
+      "source_title": "Shimon Blau for Congress (campaign site)",
+      "date": "2026-10-15",
+      "quote": "I support a woman's right to make her own healthcare decisions, and I support the freedom of consenting adults to marry the person they love. These are deeply personal decisions, and I do not believe government should interfere in women's healthcare",
+      "note": "He speaks of a woman's right to her own healthcare decisions without using the word abortion, so this is inferred and capped at agree.",
+      "date_basis": "accessed"
     }
   ],
   "endorsements": [
@@ -106,18 +117,24 @@
       "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H6CO01356/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Shimon Blau for Congress (campaign site)",
+      "url": "https://blauforcongress.com/",
+      "accessed": "2026-10-15"
     }
   ],
-  "last_checked": "2026-10-14",
-  "research_notes": "Finance left null per instructions even though his Ballotpedia page reports FEC-sourced 2026 totals ($184,750 raised / $119,805 spent), since he is a federal candidate and the build team pulls FEC numbers centrally.",
+  "last_checked": "2026-10-15",
+  "research_notes": "Finance left null per instructions even though his Ballotpedia page reports FEC-sourced 2026 totals ($184,750 raised / $119,805 spent), since he is a federal candidate and the build team pulls FEC numbers centrally. Gap fill 2026-10-15: Added an inferred abortion position from his campaign site, found by comparing with the sibling build and confirmed by fetching the page.",
   "verification": {
-    "checked": "2026-10-14",
-    "positions_verified": 3,
+    "checked": "2026-10-15",
+    "positions_verified": 4,
     "positions_unverifiable": 0,
     "detail": {
       "health-coverage": "found",
       "deportation-priority": "found",
-      "clean-energy-shift": "found"
+      "clean-energy-shift": "found",
+      "abortion-legal": "found"
     }
   }
 }
