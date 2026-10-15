@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ilana-spiegel",
+    "positions": [
+      {
+        "statement": "challenge-federal-policies",
+        "value": 4,
+        "source_type": "inferred",
+        "source_url": "https://www.chalkbeat.org/colorado/2026/10/05/university-of-colorado-cu-board-of-regents-2026-voter-guide/",
+        "source_title": "Voter guide: CU Board of Regents candidates on tuition, AI, and federal oversight (Chalkbeat Colorado)",
+        "date": "2026-10-05",
+        "quote": "I oppose the Trump regime’s efforts to discredit university faculty, defund our life-saving research, and turn university programs into political battlegrounds.",
+        "note": "Answer to Chalkbeat's question on whether she would commit CU to the Trump administration's priorities. She pledges to oppose them but does not mention the state's lawsuits, so this is inferred and capped at agree."
+      }
+    ],
+    "note": "Added an inferred position from her Chalkbeat answer on the federal administration. Her other Chalkbeat answers (AI, affordability, competitiveness, value of a degree) do not touch the 25 statements."
+  },
+  {
+    "id": "nolbert-chavez",
+    "positions": [
+      {
+        "statement": "challenge-federal-policies",
+        "value": 4,
+        "source_type": "inferred",
+        "source_url": "https://www.chalkbeat.org/colorado/2026/10/05/university-of-colorado-cu-board-of-regents-2026-voter-guide/",
+        "source_title": "Voter guide: CU Board of Regents candidates on tuition, AI, and federal oversight (Chalkbeat Colorado)",
+        "date": "2026-10-05",
+        "quote": "The Trump administration has weaponized the federal government against universities. Cutting grant funding and gutting the Department of Education. I would not voluntarily commit to those policies.",
+        "note": "Answer to Chalkbeat's question on whether he would commit CU to the Trump administration's priorities. He says he would not, but does not mention the state's lawsuits, so this is inferred and capped at agree."
+      }
+    ],
+    "note": "Added an inferred position from his Chalkbeat answer on the federal administration. His other Chalkbeat answers do not touch the 25 statements."
+  },
+  {
+    "id": "betterose-ryan",
+    "positions": [
+      {
+        "statement": "challenge-federal-policies",
+        "value": 3,
+        "source_type": "inferred",
+        "source_url": "https://www.chalkbeat.org/colorado/2026/10/05/university-of-colorado-cu-board-of-regents-2026-voter-guide/",
+        "source_title": "Voter guide: CU Board of Regents candidates on tuition, AI, and federal oversight (Chalkbeat Colorado)",
+        "date": "2026-10-05",
+        "quote": "I believe that if the policy is reasonable for our system, we commit. If it is unreasonable, we reject it and figure out how to survive without federal assistance.",
+        "note": "Answer to Chalkbeat's question on whether she would commit CU to the Trump administration's priorities. An explicitly case-by-case stance, coded as mixed; she does not mention the state's lawsuits, so this is inferred."
+      }
+    ],
+    "note": "Added an inferred, mixed position from her Chalkbeat answer on the federal administration. Her other Chalkbeat answers do not touch the 25 statements."
+  }
+]

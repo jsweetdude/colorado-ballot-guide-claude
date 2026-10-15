@@ -49,7 +49,18 @@
       "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
     }
   ],
-  "positions": [],
+  "positions": [
+    {
+      "statement": "challenge-federal-policies",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://www.chalkbeat.org/colorado/2026/10/05/university-of-colorado-cu-board-of-regents-2026-voter-guide/",
+      "source_title": "Voter guide: CU Board of Regents candidates on tuition, AI, and federal oversight (Chalkbeat Colorado)",
+      "date": "2026-10-05",
+      "quote": "I oppose the Trump regime’s efforts to discredit university faculty, defund our life-saving research, and turn university programs into political battlegrounds.",
+      "note": "Answer to Chalkbeat's question on whether she would commit CU to the Trump administration's priorities. She pledges to oppose them but does not mention the state's lawsuits, so this is inferred and capped at agree."
+    }
+  ],
   "endorsements": [],
   "finance": null,
   "sources": [
@@ -79,6 +90,14 @@
       "accessed": "2026-10-14"
     }
   ],
-  "last_checked": "2026-10-14",
-  "research_notes": "Incumbent, confirmed independently by Chalkbeat and by Wikipedia/Ballotpedia's election tables. No 2026 Ballotpedia Candidate Connection survey on file."
+  "last_checked": "2026-10-15",
+  "research_notes": "Incumbent, confirmed independently by Chalkbeat and by Wikipedia/Ballotpedia's election tables. No 2026 Ballotpedia Candidate Connection survey on file. Gap fill 2026-10-15: Added an inferred position from her Chalkbeat answer on the federal administration. Her other Chalkbeat answers (AI, affordability, competitiveness, value of a degree) do not touch the 25 statements.",
+  "verification": {
+    "checked": "2026-10-15",
+    "positions_verified": 1,
+    "positions_unverifiable": 0,
+    "detail": {
+      "challenge-federal-policies": "found"
+    }
+  }
 }

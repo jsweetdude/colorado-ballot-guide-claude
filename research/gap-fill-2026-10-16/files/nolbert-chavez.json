@@ -1,0 +1,87 @@
+{
+  "id": "nolbert-chavez",
+  "name": "Nolbert Chavez",
+  "race": "cu-regent-7",
+  "party": "Democratic Party",
+  "incumbent": true,
+  "profile": "short",
+  "website": "https://www.chavezforcu.com/about-nolbert",
+  "summary": [
+    {
+      "text": "Nolbert Chavez represented Denver's state House District 5 from 1994 to 2002 and was elected to the CU Board of Regents in 2020. He chairs the board's finance committee and is an administrator at CU Denver.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    }
+  ],
+  "experience": [
+    {
+      "text": "Colorado House of Representatives, District 5, 1994-2002.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "University of Colorado Board of Regents, District 7, elected 2020 (incumbent); chairs the board's finance committee.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "Master's degree in political science and public policy from the University of Colorado Denver; adjunct faculty member in CU Denver's School of Public Affairs and founder of a government affairs and strategic planning consulting firm.",
+      "source_url": "https://ballotpedia.org/Nolbert_Chavez"
+    }
+  ],
+  "education_focus": [
+    {
+      "text": "Chavez says he is running 'to continue to advocate for the lowest tuition possible and for CU to be good stewards' of its funding.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "On federal policy, he says the Trump administration 'has weaponized the federal government against universities' by cutting grant funding, and he 'would not voluntarily commit' CU to its policies.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "On state funding, he says the state legislature is responsible for providing adequate higher-education funding and that he will 'continue to fight for our fair share.'",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    }
+  ],
+  "record": [],
+  "positions": [
+    {
+      "statement": "challenge-federal-policies",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://www.chalkbeat.org/colorado/2026/10/05/university-of-colorado-cu-board-of-regents-2026-voter-guide/",
+      "source_title": "Voter guide: CU Board of Regents candidates on tuition, AI, and federal oversight (Chalkbeat Colorado)",
+      "date": "2026-10-05",
+      "quote": "The Trump administration has weaponized the federal government against universities. Cutting grant funding and gutting the Department of Education. I would not voluntarily commit to those policies.",
+      "note": "Answer to Chalkbeat's question on whether he would commit CU to the Trump administration's priorities. He says he would not, but does not mention the state's lawsuits, so this is inferred and capped at agree."
+    }
+  ],
+  "endorsements": [],
+  "finance": null,
+  "sources": [
+    {
+      "title": "CU Board of Regents candidates answer questions on tuition, AI and federal oversight",
+      "url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Voter guide: CU Board of Regents candidates on tuition, AI, and federal oversight",
+      "url": "https://www.chalkbeat.org/colorado/2026/10/05/university-of-colorado-cu-board-of-regents-2026-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Nolbert Chavez - Ballotpedia",
+      "url": "https://ballotpedia.org/Nolbert_Chavez",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "2026 University of Colorado Board of Regents election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_University_of_Colorado_Board_of_Regents_election",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "chavezforcu.com",
+      "url": "https://www.chavezforcu.com/about-nolbert",
+      "accessed": "2026-10-14"
+    }
+  ],
+  "last_checked": "2026-10-15",
+  "research_notes": "Incumbent, confirmed by Chalkbeat, Wikipedia, and Ballotpedia. He did not answer Chalkbeat's competitiveness question. No 2026 Ballotpedia Candidate Connection survey on file. Gap fill 2026-10-15: Added an inferred position from his Chalkbeat answer on the federal administration. His other Chalkbeat answers do not touch the 25 statements."
+}

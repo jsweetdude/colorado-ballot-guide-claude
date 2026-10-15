@@ -1,0 +1,83 @@
+{
+  "id": "betterose-ryan",
+  "name": "BetteRose Ryan",
+  "race": "cu-regent-7",
+  "party": "Libertarian Party",
+  "incumbent": false,
+  "profile": "short",
+  "website": "https://lpcocolorado.my.canva.site/bettes-ready-for-regents-7",
+  "summary": [
+    {
+      "text": "BetteRose Ryan has a bachelor's degree in mathematics with an emphasis on secondary education. She is a former teacher in the Brush and Sterling, Colorado area and a retired U.S. Army sergeant.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    }
+  ],
+  "experience": [
+    {
+      "text": "Teacher in the Brush and Sterling, Colorado area.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "Served in the U.S. Army; retired as a sergeant.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    }
+  ],
+  "education_focus": [
+    {
+      "text": "Ryan says she wants college 'to become more affordable without compromising good education' and wants money 'spent well.'",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "On AI, she says it is 'just another tool' and that students and teachers will need to adjust to it much as they did to calculators.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "On affordability, she says CU should 'dig deeper into the budget' and 'find ways to cut things that don’t add to the education of our students.'",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    }
+  ],
+  "record": [],
+  "positions": [
+    {
+      "statement": "challenge-federal-policies",
+      "value": 3,
+      "source_type": "inferred",
+      "source_url": "https://www.chalkbeat.org/colorado/2026/10/05/university-of-colorado-cu-board-of-regents-2026-voter-guide/",
+      "source_title": "Voter guide: CU Board of Regents candidates on tuition, AI, and federal oversight (Chalkbeat Colorado)",
+      "date": "2026-10-05",
+      "quote": "I believe that if the policy is reasonable for our system, we commit. If it is unreasonable, we reject it and figure out how to survive without federal assistance.",
+      "note": "Answer to Chalkbeat's question on whether she would commit CU to the Trump administration's priorities. An explicitly case-by-case stance, coded as mixed; she does not mention the state's lawsuits, so this is inferred."
+    }
+  ],
+  "endorsements": [],
+  "finance": null,
+  "sources": [
+    {
+      "title": "CU Board of Regents candidates answer questions on tuition, AI and federal oversight",
+      "url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Voter guide: CU Board of Regents candidates on tuition, AI, and federal oversight",
+      "url": "https://www.chalkbeat.org/colorado/2026/10/05/university-of-colorado-cu-board-of-regents-2026-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "BetteRose Ryan - Ballotpedia",
+      "url": "https://ballotpedia.org/BetteRose_Ryan",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "2026 University of Colorado Board of Regents election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_University_of_Colorado_Board_of_Regents_election",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "lpcocolorado.my.canva.site",
+      "url": "https://lpcocolorado.my.canva.site/bettes-ready-for-regents-7",
+      "accessed": "2026-10-14"
+    }
+  ],
+  "last_checked": "2026-10-15",
+  "research_notes": "No Ballotpedia Candidate Connection survey found; her only prior electoral run on file is an unsuccessful 2022 Colorado State Senate District 20 bid with no reported contributions or expenditures. Gap fill 2026-10-15: Added an inferred, mixed position from her Chalkbeat answer on the federal administration. Her other Chalkbeat answers do not touch the 25 statements."
+}

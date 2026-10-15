@@ -1,0 +1,95 @@
+{
+  "id": "ilana-spiegel",
+  "name": "Ilana Spiegel",
+  "race": "cu-regent-6",
+  "party": "Democratic Party",
+  "incumbent": true,
+  "profile": "short",
+  "website": "https://ilana4regent.com/",
+  "summary": [
+    {
+      "text": "Ilana Spiegel was first elected to the CU Board of Regents in 2020 and is running for reelection. She has chaired the board's audit and governance committees.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    }
+  ],
+  "experience": [
+    {
+      "text": "University of Colorado Board of Regents, District 6, elected 2020 (incumbent).",
+      "source_url": "https://en.wikipedia.org/wiki/2026_University_of_Colorado_Board_of_Regents_election"
+    },
+    {
+      "text": "B.A. in English and economics, Wellesley College, 1991; M.A. in education, Columbia University, 1993.",
+      "source_url": "https://ballotpedia.org/Ilana_Spiegel"
+    },
+    {
+      "text": "Career experience includes work as a teacher, education columnist, and advocate with PEACE, LLC.",
+      "source_url": "https://ballotpedia.org/Ilana_Spiegel"
+    }
+  ],
+  "education_focus": [
+    {
+      "text": "Spiegel says she has worked to limit in-state tuition growth, expand financial aid, and reduce student debt, pointing to the CU Promise and CU Boulder's tuition guarantee.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "She says she opposes 'political censorship and MAGA-style interference in university teaching and research' and would continue defending academic freedom and federal research funding.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    },
+    {
+      "text": "On AI, she points to Regent Policy 13J, which she says she helped guide, as establishing 'expectations for privacy, security, transparency, fairness, and human oversight' in AI-driven research.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    }
+  ],
+  "record": [
+    {
+      "kind": "decision",
+      "title": "Regent Policy 13J, governance of AI in university research",
+      "date": "2026-10-07",
+      "detail": "Spiegel says she 'helped guide' the board's AI policy, which sets expectations for privacy, security, transparency, fairness, and human oversight in AI-driven research.",
+      "source_url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/"
+    }
+  ],
+  "positions": [
+    {
+      "statement": "challenge-federal-policies",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://www.chalkbeat.org/colorado/2026/10/05/university-of-colorado-cu-board-of-regents-2026-voter-guide/",
+      "source_title": "Voter guide: CU Board of Regents candidates on tuition, AI, and federal oversight (Chalkbeat Colorado)",
+      "date": "2026-10-05",
+      "quote": "I oppose the Trump regime’s efforts to discredit university faculty, defund our life-saving research, and turn university programs into political battlegrounds.",
+      "note": "Answer to Chalkbeat's question on whether she would commit CU to the Trump administration's priorities. She pledges to oppose them but does not mention the state's lawsuits, so this is inferred and capped at agree."
+    }
+  ],
+  "endorsements": [],
+  "finance": null,
+  "sources": [
+    {
+      "title": "CU Board of Regents candidates answer questions on tuition, AI and federal oversight",
+      "url": "https://coloradosun.com/2026/10/07/cu-board-of-regents-candidates-on-tuition-ai-and-federal-oversight/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Voter guide: CU Board of Regents candidates on tuition, AI, and federal oversight",
+      "url": "https://www.chalkbeat.org/colorado/2026/10/05/university-of-colorado-cu-board-of-regents-2026-voter-guide/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "2026 University of Colorado Board of Regents election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_University_of_Colorado_Board_of_Regents_election",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Ilana Spiegel - Ballotpedia",
+      "url": "https://ballotpedia.org/Ilana_Spiegel",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "ilana4regent.com",
+      "url": "https://ilana4regent.com/",
+      "accessed": "2026-10-14"
+    }
+  ],
+  "last_checked": "2026-10-15",
+  "research_notes": "Incumbent, confirmed independently by Chalkbeat and by Wikipedia/Ballotpedia's election tables. No 2026 Ballotpedia Candidate Connection survey on file. Gap fill 2026-10-15: Added an inferred position from her Chalkbeat answer on the federal administration. Her other Chalkbeat answers (AI, affordability, competitiveness, value of a degree) do not touch the 25 statements."
+}
