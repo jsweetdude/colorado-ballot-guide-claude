@@ -74,7 +74,6 @@
       "source_title": "Platform & Issues - Dan Kilo for Congress",
       "date": "2026-10-14",
       "quote": "Dan will oppose any federal gun registration, red flag laws, or magazine capacity restrictions.",
-      "note": "Campaign site page is undated; date given is the access date.",
       "date_basis": "accessed"
     }
   ],
@@ -116,15 +115,13 @@
   "research_notes": "Sallis's Ballotpedia page is a stub with no Candidate Connection survey. He is one of only two CD-7 candidates (with Pettersen) who answered the Denver Post's 2026 candidate questionnaire, which gave strong, dated material. His own campaign site (dankilo.com) elaborates on several of the same positions in more detail but carries no page dates, so those citations use the access date. No sourced position found on abortion beyond the inferred one above, nor on the Colorado ballot measures (Amendments 81-87, Propositions 132-137) despite checking his site's Issues page, which does not mention them by name. Build review 2026-10-14: removed inferred position(s) on fentanyl-penalties, abortion-legal; the source states a general principle and does not name that policy area.",
   "verification": {
     "checked": "2026-10-14",
-    "positions_verified": 6,
+    "positions_verified": 4,
     "positions_unverifiable": 0,
     "detail": {
       "health-coverage": "found",
-      "fentanyl-penalties": "found",
       "clean-energy-shift": "found",
       "deportation-priority": "found",
-      "stricter-gun-laws": "found",
-      "abortion-legal": "found"
+      "stricter-gun-laws": "found"
     }
   }
 }

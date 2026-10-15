@@ -73,5 +73,13 @@
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "No endorsements found on a fetched page. His Ballotpedia Candidate Connection survey (submitted May 1, 2026) and the Denver Post's Oct. 3, 2026 candidate Q&A (which corroborates his keep-mail-voting position) do not address mail-ballot ID, plain-language ballots or redistricting, so those statements are left unsourced rather than inferred. Second pass 2026-10-14: fetched his campaign site (seanvadneyforsos.org), which repeats the same two-plank platform (election security, business filings) as his Ballotpedia survey and does not mention mail-ballot ID, plain-language ballots, redistricting, or lawsuits against the federal administration. No new positions were added."
+  "research_notes": "No endorsements found on a fetched page. His Ballotpedia Candidate Connection survey (submitted May 1, 2026) and the Denver Post's Oct. 3, 2026 candidate Q&A (which corroborates his keep-mail-voting position) do not address mail-ballot ID, plain-language ballots or redistricting, so those statements are left unsourced rather than inferred. Second pass 2026-10-14: fetched his campaign site (seanvadneyforsos.org), which repeats the same two-plank platform (election security, business filings) as his Ballotpedia survey and does not mention mail-ballot ID, plain-language ballots, redistricting, or lawsuits against the federal administration. No new positions were added.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 1,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-mail-voting": "found"
+    }
+  }
 }

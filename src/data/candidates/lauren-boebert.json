@@ -172,7 +172,7 @@
       "source_title": "Lauren Boebert (Ballotpedia key votes table)",
       "date": "2025-04-10",
       "quote": "SAVE Act...was a bill passed by the House of Representatives on 4/10/2025 that required individuals to provide documentary proof of citizenship when registering to vote in federal elections...Yea",
-      "note": "General voter-ID/citizenship-verification vote; does not mention mail ballots specifically, so coded as inferred support capped at 4."
+      "note": "General voter-ID/citizenship-verification vote; does not mention mail ballots specifically, so coded as inferred support coded no stronger than agree."
     }
   ],
   "endorsements": [
@@ -232,7 +232,7 @@
       "accessed": "2026-10-14"
     },
     {
-      "title": "FEC candidate financial summary",
+      "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H0CO03165/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }

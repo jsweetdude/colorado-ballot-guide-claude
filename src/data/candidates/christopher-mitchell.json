@@ -40,7 +40,7 @@
       "source_title": "Christopher Mitchell (Ballotpedia Candidate Connection survey, 2024)",
       "date": "2024-01-01",
       "quote": "Legalizing the termination of innocent life of the born or unborn, whether by abortion, infanticide, euthanasia, or suicide, is a direct violation of their unalienable right to life.",
-      "note": "From his 2024 Candidate Connection survey (only year known; he has not completed a 2026 survey). Listed as one of his three key campaign messages, 'Sanctity of Life.'",
+      "note": "Listed as one of his three key campaign messages, 'Sanctity of Life.'",
       "date_basis": "year"
     },
     {
@@ -51,7 +51,7 @@
       "source_title": "Christopher Mitchell (Ballotpedia Candidate Connection survey, 2024)",
       "date": "2024-01-01",
       "quote": "America First policies such as U.S. Energy Independence, U.S. Economic Strength, Fiscal Responsibility, Sealed U.S. Sovereign Borders, Fiscal Responsibility, and Superior Military Modalities.",
-      "note": "Statement calls for 'Sealed U.S. Sovereign Borders' but does not address deportation directly; inferred support, capped at 4."
+      "note": "Statement calls for 'Sealed U.S. Sovereign Borders' but does not address deportation directly; inferred support, coded no stronger than agree."
     }
   ],
   "endorsements": [],
@@ -71,7 +71,7 @@
       "accessed": "2026-10-14"
     },
     {
-      "title": "FEC candidate financial summary",
+      "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H4CO05071/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }

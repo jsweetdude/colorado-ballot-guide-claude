@@ -125,5 +125,15 @@
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "No statement found naming Amendment 85 or 86 specifically, so plain-language-ballots and redistricting-commission are left unsourced. Record is empty because he has never held elected office; his election-integrity lawsuits and advocacy (Tina Peters support, Dominion litigation, Union of Ballot Counters) are activist work, not official decisions, and are summarized in experience/summary instead. Second pass 2026-10-14: the Denver Post's Oct. 3, 2026 SoS candidate Q&A states 'James Wiley and Amanda Campbell did not return the questionnaire.' Robert Tann's Oct. 4, 2026 Denver Post article has him calling for a reversal of mail voting and hand-counted ballots (reinforcing his existing keep-mail-voting position) and opposing federal 'usurp' of state election administration (reinforcing challenge-federal-policies), but neither source addresses plain-language-ballots or redistricting-commission. No new positions were added."
+  "research_notes": "No statement found naming Amendment 85 or 86 specifically, so plain-language-ballots and redistricting-commission are left unsourced. Record is empty because he has never held elected office; his election-integrity lawsuits and advocacy (Tina Peters support, Dominion litigation, Union of Ballot Counters) are activist work, not official decisions, and are summarized in experience/summary instead. Second pass 2026-10-14: the Denver Post's Oct. 3, 2026 SoS candidate Q&A states 'James Wiley and Amanda Campbell did not return the questionnaire.' Robert Tann's Oct. 4, 2026 Denver Post article has him calling for a reversal of mail voting and hand-counted ballots (reinforcing his existing keep-mail-voting position) and opposing federal 'usurp' of state election administration (reinforcing challenge-federal-policies), but neither source addresses plain-language-ballots or redistricting-commission. No new positions were added.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 3,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-mail-voting": "found",
+      "mail-ballot-id": "found",
+      "challenge-federal-policies": "found"
+    }
+  }
 }

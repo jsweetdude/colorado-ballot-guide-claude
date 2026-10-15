@@ -32,6 +32,7 @@ const edits = [
   { id: 'joe-krzeczkowski', why: 'Policing roles do not address fentanyl sentencing', drop: ['fentanyl-penalties'] },
   { id: 'chad-humphrey', why: 'Marijuana liberty statement does not address fentanyl sentencing', drop: ['fentanyl-penalties'] },
   { id: 'dan-sallis', why: 'General principles do not name these policy areas', drop: ['fentanyl-penalties', 'abortion-legal'] },
+  { id: 'stephen-hamilton', why: 'Neutral wording', set: { 'keep-tariffs': { note: 'His survey response covers many topics; most of it does not map onto the 25 statements, so only a few positions are coded.' } } },
   // Record items: votes, bills and official decisions only, in neutral words
   { id: 'gabe-evans', why: 'A roundtable is an event, not a decision', dropRecord: /^Hosted CMS/ },
   { id: 'jena-griswold', why: 'Neutral wording', renameRecord: [/^Championed election-security legislation as Secretary of State$/, 'Election-security legislation backed as Secretary of State'] },
@@ -62,5 +63,43 @@ for (const e of edits) {
   if (e.id === 'gabe-evans') for (const r of c.record) if (r.title.startsWith('STOP') && r.detail.includes(', to curb fraud')) r.detail = `${r.detail.replace(', to curb fraud', '').replace(/\.$/, '')}. Its stated aim is reducing Medicaid fraud.`;
   touched.set(e.id, c);
 }
+// Public notes: drop research shorthand about dates (the date label already says
+// when a date is approximate) and put the rest in plain words.
+const DATE_MECHANICS = /placeholder|access(ed)? date|accessed for this research|date reflects|first of the (year|month) is used|date shown is the|month\/year estimated|year only is known|only year known|submission date not shown|exact date not given|dated to (the )?(page )?access/i;
+function cleanNote(note) {
+  // Split only where sentence punctuation is followed by a space and a capital or quote, so "4.4%" and "U.S." stay whole.
+  const sentences = note.split(/(?<=[.!?])\s+(?=[A-Z"'“‘(])/);
+  return sentences
+    .filter((x) => !DATE_MECHANICS.test(x))
+    .join(' ')
+    .replace(/[;,]?\s*flagged for review\.?/gi, '.')
+    .replace(/\bper protocol\b/gi, 'under this guide’s rules')
+    .replace(/\bcapped at 4\b/gi, 'coded no stronger than agree')
+    .replace(/\bcapped at 2\b/gi, 'coded no stronger than disagree')
+    .replace(/\bper (the )?interest-group-rating rule\b/gi, 'as for all interest-group ratings')
+    .replace(/[;,]\./g, '.')
+    .replace(/\.\s*\./g, '.')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+const { readdirSync } = await import('node:fs');
+let cleaned = 0;
+for (const f of readdirSync(dir).filter((x) => x.endsWith('.json'))) {
+  const id = f.replace(/\.json$/, '');
+  const c = load(id);
+  let changed = false;
+  for (const p of c.positions) {
+    if (!p.note) continue;
+    const n = cleanNote(p.note);
+    if (n !== p.note) {
+      changed = true;
+      cleaned++;
+      if (n) p.note = n;
+      else delete p.note;
+    }
+  }
+  if (changed) touched.set(id, c);
+}
+console.log(`Cleaned ${cleaned} public notes.`);
 for (const [id, c] of touched) writeFileSync(`${dir}${id}.json`, `${JSON.stringify(c, null, 2)}\n`);
 console.log(`Applied ${edits.length} review corrections to ${touched.size} candidates.`);

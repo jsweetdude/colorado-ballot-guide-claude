@@ -48,7 +48,6 @@
       "source_title": "Jessica Killin (Ballotpedia Candidate Connection survey, 2026)",
       "date": "2026-01-01",
       "quote": "I will end the harmful tariffs that are driving up prices, which Jeff Crank has repeatedly voted to protect.",
-      "note": "Only year known; Ballotpedia dates the survey to 2026 without a specific day, so the first of the year is used per protocol.",
       "date_basis": "year"
     },
     {
@@ -59,7 +58,6 @@
       "source_title": "Jessica Killin (Ballotpedia Candidate Connection survey, 2026)",
       "date": "2026-01-01",
       "quote": "I will work to reverse Medicaid cuts that raise healthcare costs and take on drug and insurance companies to lower prescription prices and premiums.",
-      "note": "Only year known; Ballotpedia dates the survey to 2026 without a specific day, so the first of the year is used per protocol.",
       "date_basis": "year"
     },
     {
@@ -70,7 +68,6 @@
       "source_title": "Jessica Killin (Ballotpedia, quoting her campaign website)",
       "date": "2026-01-01",
       "quote": "Preserve federal lands used by Coloradans and oppose efforts to sell them off",
-      "note": "Only year known; Ballotpedia dates this to 2026 without a specific day, so the first of the year is used per protocol.",
       "date_basis": "year"
     },
     {
@@ -81,7 +78,7 @@
       "source_title": "Jessica Killin (Ballotpedia Candidate Connection survey, 2026)",
       "date": "2026-01-01",
       "quote": "She has also been endorsed by the following national organizations: Defend the Vote, EMILYs List, Elect Democratic Women, Human Rights Campaign, Giffords, League of Conservation Voters Action Fund",
-      "note": "EMILYs List endorses candidates who support abortion rights; capped at 4 per protocol for interest-group endorsements."
+      "note": "EMILYs List endorses candidates who support abortion rights; coded no stronger than agree under this guide’s rules for interest-group endorsements."
     },
     {
       "statement": "stricter-gun-laws",
@@ -91,7 +88,7 @@
       "source_title": "Jessica Killin (Ballotpedia Candidate Connection survey, 2026)",
       "date": "2026-01-01",
       "quote": "She has also been endorsed by the following national organizations: Defend the Vote, EMILYs List, Elect Democratic Women, Human Rights Campaign, Giffords, League of Conservation Voters Action Fund",
-      "note": "Giffords is a gun-safety advocacy group; endorsement capped at 4 per protocol."
+      "note": "Giffords is a gun-safety advocacy group; endorsement coded no stronger than agree under this guide’s rules."
     },
     {
       "statement": "clean-energy-shift",
@@ -101,7 +98,7 @@
       "source_title": "Jessica Killin (Ballotpedia Candidate Connection survey, 2026)",
       "date": "2026-01-01",
       "quote": "She has also been endorsed by the following national organizations: Defend the Vote, EMILYs List, Elect Democratic Women, Human Rights Campaign, Giffords, League of Conservation Voters Action Fund",
-      "note": "League of Conservation Voters Action Fund endorsement capped at 4 per protocol."
+      "note": "League of Conservation Voters Action Fund endorsement coded no stronger than agree under this guide’s rules."
     },
     {
       "statement": "federal-budget-law",
@@ -111,7 +108,7 @@
       "source_title": "Where Jeff Crank, Jessica Killin stand on the issues in Colorado's race to represent the 5th Congressional District",
       "date": "2026-10-07",
       "quote": "She said she would “pull back on or eliminate” tax cuts for large corporations and the wealthy — “those making over $1 million.”",
-      "note": "Answering which H.R. 1 tax cuts she would keep or change, she would preserve only targeted middle- and lower-income provisions and reverse the law's corporate and top-earner tax cuts; inferred opposition to the law as passed, capped at 2 since she was not asked squarely whether Congress was right to pass it."
+      "note": "Answering which H.R. 1 tax cuts she would keep or change, she would preserve only targeted middle- and lower-income provisions and reverse the law's corporate and top-earner tax cuts; inferred opposition to the law as passed, coded no stronger than disagree since she was not asked squarely whether Congress was right to pass it."
     },
     {
       "statement": "deportation-priority",

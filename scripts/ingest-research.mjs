@@ -35,8 +35,8 @@ const host = (u) => {
 };
 
 // Research notes say when a date is approximate; record that so pages never show a placeholder as a real date.
-function dateBasis(note = '') {
-  const n = note.toLowerCase();
+function dateBasis(note) {
+  const n = (note ?? '').toLowerCase();
   if (/access(ed)? date|date (shown|given) is the (page|research)|dated to (the )?(page )?access|research access|page access/.test(n)) return 'accessed';
   if (/only (the )?year|year only|year is known|placeholder|month\/day unknown|month and day|month\/year estimated|year-only|cycle on ballotpedia/.test(n)) return 'year';
   if (/approximate date|date is approximate|approximately dated|estimated|first of the month/.test(n)) return 'month';

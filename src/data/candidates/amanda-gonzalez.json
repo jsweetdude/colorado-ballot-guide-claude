@@ -204,5 +204,15 @@
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "The Colorado Sun's Oct. 7, 2026 candidate guide directly asked Gonzalez about Amendment 84 and confirmed she declines to take official positions on ballot measures; mail-ballot-id is coded from her own words in that answer rather than from party or general inference. No statement found naming Amendment 85 or 86 specifically, so plain-language-ballots and redistricting-commission are left unsourced (unknown). Two 'decision' record items sourced to her own campaign site (voter-roll purge defense, Jeffco election-administration record) are self-reported and not independently verified against a news outlet in this session -- a reviewer should check these before publishing. Second pass 2026-10-14: checked the Denver Post's Oct. 3, 2026 SoS candidate Q&A and Robert Tann's Oct. 4, 2026 Denver Post article on the race; added one record item (the 2024 jail voting-access law) from the latter. Both sources reinforce her existing keep-mail-voting and challenge-federal-policies positions and do not address plain-language-ballots or redistricting-commission, so no new positions were added."
+  "research_notes": "The Colorado Sun's Oct. 7, 2026 candidate guide directly asked Gonzalez about Amendment 84 and confirmed she declines to take official positions on ballot measures; mail-ballot-id is coded from her own words in that answer rather than from party or general inference. No statement found naming Amendment 85 or 86 specifically, so plain-language-ballots and redistricting-commission are left unsourced (unknown). Two 'decision' record items sourced to her own campaign site (voter-roll purge defense, Jeffco election-administration record) are self-reported and not independently verified against a news outlet in this session -- a reviewer should check these before publishing. Second pass 2026-10-14: checked the Denver Post's Oct. 3, 2026 SoS candidate Q&A and Robert Tann's Oct. 4, 2026 Denver Post article on the race; added one record item (the 2024 jail voting-access law) from the latter. Both sources reinforce her existing keep-mail-voting and challenge-federal-policies positions and do not address plain-language-ballots or redistricting-commission, so no new positions were added.",
+  "verification": {
+    "checked": "2026-10-14",
+    "positions_verified": 3,
+    "positions_unverifiable": 0,
+    "detail": {
+      "keep-mail-voting": "found",
+      "mail-ballot-id": "found",
+      "challenge-federal-policies": "found"
+    }
+  }
 }

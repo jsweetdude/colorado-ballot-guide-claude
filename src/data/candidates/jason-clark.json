@@ -40,7 +40,7 @@
       "source_title": "Jason Ray Clark (Colorado) - Ballotpedia (Candidate Connection survey)",
       "date": "2025-01-01",
       "quote": "Nix Colorado’s 5% state income tax.",
-      "note": "From his 2025 Candidate Connection survey response for Governor of Colorado; exact date not given, month/year estimated. Eliminating the income tax goes further than capping it at 4.4%, but is in the same direction, so coded as strongly agreeing with a rate cap.",
+      "note": "Eliminating the income tax goes further than capping it at 4.4%, but is in the same direction, so coded as strongly agreeing with a rate cap.",
       "date_basis": "year"
     },
     {
@@ -51,7 +51,7 @@
       "source_title": "Jason Ray Clark (Colorado) - Ballotpedia (Candidate Connection survey)",
       "date": "2025-01-01",
       "quote": "Nix Colorado’s 5% state income tax.",
-      "note": "Calling for eliminating the state income tax outright is incompatible with taxing higher incomes at higher rates; coded as strongly disagreeing with a graduated income tax. Exact date not given, month/year estimated.",
+      "note": "Calling for eliminating the state income tax outright is incompatible with taxing higher incomes at higher rates; coded as strongly disagreeing with a graduated income tax.",
       "date_basis": "year"
     },
     {
@@ -62,8 +62,27 @@
       "source_title": "Jason Ray Clark (Colorado) - Ballotpedia (Candidate Connection survey)",
       "date": "2025-01-01",
       "quote": "Use TABOR to give Coloradans bigger tax refunds.",
-      "note": "From his 2025 Candidate Connection survey response for Governor of Colorado; exact date not given, month/year estimated.",
       "date_basis": "year"
+    },
+    {
+      "statement": "keep-tariffs",
+      "value": 2,
+      "source_type": "direct_statement",
+      "source_url": "https://www.denverpost.com/2026/10/11/colorado-6th-congresional-district-crow-clark/",
+      "source_title": "Reagan Republican suggests voters 'try something different' as he seeks to unseat Rep. Jason Crow",
+      "date": "2026-10-11",
+      "quote": "Clark said he disagrees with President Donald Trump on tariffs, renaming the U.S. Department of Defense the \"Department of War\" and the war in Iran.",
+      "note": "Reported in the third person rather than a direct quotation, but verbatim from the article; no elaboration given on tariffs specifically, so coded as disagree with qualifications."
+    },
+    {
+      "statement": "deportation-priority",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://www.denverpost.com/2026/10/11/colorado-6th-congresional-district-crow-clark/",
+      "source_title": "Reagan Republican suggests voters 'try something different' as he seeks to unseat Rep. Jason Crow",
+      "date": "2026-10-11",
+      "quote": "I do think we could do a better job and it has been reckless. But we have to have the facilities, and I support the guys out there doing it.",
+      "note": "Inferred, coded no stronger than 4: he says ICE has been 'reckless' at times but voices clear support for the Aurora detention facility and immigration agents' work overall, which is a closely related but not identical position to whether deportation should be a top federal priority."
     }
   ],
   "endorsements": [],
@@ -88,21 +107,33 @@
       "accessed": "2026-10-14"
     },
     {
+      "title": "Colorado U.S. House District 6 candidate Q&A",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-6-candidate-qa/",
+      "accessed": "2026-10-14"
+    },
+    {
+      "title": "Reagan Republican suggests voters 'try something different' as he seeks to unseat Rep. Jason Crow",
+      "url": "https://www.denverpost.com/2026/10/11/colorado-6th-congresional-district-crow-clark/",
+      "accessed": "2026-10-14"
+    },
+    {
       "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H6CO06165/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Clark's 2026 U.S. House Candidate Connection survey response was very brief (three key messages: Affordability, Jobs, Crime; policy passion: limited government), with no specifics on abortion, guns, immigration, energy, or other statements. Used his more detailed 2025 Candidate Connection survey from his concurrent run for Governor of Colorado, where available, since it is his own words on the same underlying positions; dates are estimated to the first of the survey year since Ballotpedia does not give exact dates. His survey response also describes a legal dispute with the Colorado Attorney General's office over his securities license; this is his own account and was not independently corroborated, so it was left out of the summary. No campaign finance activity reported for this race as of the page's last update ($0). No official campaign website specific to the U.S. House race was found; the site used appears to be his repurposed gubernatorial campaign site. WebSearch budget was exhausted mid-research, limiting further lead-finding for this candidate.",
+  "research_notes": "Clark's 2026 U.S. House Candidate Connection survey response was very brief (three key messages: Affordability, Jobs, Crime; policy passion: limited government), with no specifics on abortion, guns, immigration, energy, or other statements. Used his more detailed 2025 Candidate Connection survey from his concurrent run for Governor of Colorado, where available, since it is his own words on the same underlying positions; dates are estimated to the first of the survey year since Ballotpedia does not give exact dates. His survey response also describes a legal dispute with the Colorado Attorney General's office over his securities license; this is his own account and was not independently corroborated, so it was left out of the summary. No campaign finance activity reported for this race as of the page's last update ($0). No official campaign website specific to the U.S. House race was found; the site used appears to be his repurposed gubernatorial campaign site. WebSearch budget was exhausted mid-research, limiting further lead-finding for this candidate. Second pass 2026-10-14: his Denver Post CD6 candidate Q&A answered every question with only \"Limited Government,\" unusable for coding; a separate Denver Post profile published 2026-10-11 had more specific material and supplied keep-tariffs and deportation-priority.",
   "verification": {
     "checked": "2026-10-14",
-    "positions_verified": 3,
-    "positions_unverifiable": 0,
+    "positions_verified": 4,
+    "positions_unverifiable": 1,
     "detail": {
       "income-tax-cap": "found",
       "graduated-income-tax": "found",
-      "keep-tabor-surplus": "found"
+      "keep-tabor-surplus": "found",
+      "keep-tariffs": "found",
+      "deportation-priority": "not-found"
     }
   }
 }

@@ -93,7 +93,6 @@
       "source_title": "Phil Weiser - Ballotpedia (2026 Candidate Connection survey)",
       "date": "2026-01-01",
       "quote": "Defend reproductive rights—including Amendment 79 and against any attacks on our laws protecting the right to choose.",
-      "note": "From his 2026 campaign platform listed on Ballotpedia; year only is known for the survey, so 2026-01-01 is used as a placeholder.",
       "date_basis": "year"
     },
     {
@@ -161,7 +160,7 @@
       "source_title": "Phil Weiser - Ballotpedia (2026 Candidate Connection survey)",
       "date": "2026-01-01",
       "quote": "Protect LGBTQ+ Coloradans —defend access to gender-affirming care, enforce civil rights protections, and confront rising hate.",
-      "note": "He defends gender-affirming care generally but does not address surgery for minors specifically, so per the coding guide this is capped at 2 as inference from a related position."
+      "note": "He defends gender-affirming care generally but does not address surgery for minors specifically, so per the coding guide this is coded no stronger than disagree as inference from a related position."
     },
     {
       "statement": "housing-state-zoning",

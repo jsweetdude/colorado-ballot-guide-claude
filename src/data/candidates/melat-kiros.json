@@ -133,6 +133,16 @@
       "date": "2026-04-24",
       "quote": "We need to pass the Equality Act to protect LGBTQIA+ individuals from discrimination in schools, workplaces, and public life.",
       "note": "Inferred, coded no stronger than 2, from her general opposition to restrictions on gender-affirming care; she does not address surgery or Proposition 135 specifically."
+    },
+    {
+      "statement": "housing-state-zoning",
+      "value": 4,
+      "source_type": "inferred",
+      "source_url": "https://www.coloradopolitics.com/2026/10/02/kiros-blau-peterson-congressional-district-1/",
+      "source_title": "Congressional District 1: Kiros faces Peterson, Blau",
+      "date": "2026-10-02",
+      "quote": "We need Housing First policies, federal dollars for housing production, along with zoning and permitting reform.",
+      "note": "Inferred, coded no stronger than 4: she calls for zoning and permitting reform to build more housing, but as a congressional candidate she addresses this as federal policy rather than naming Colorado's state zoning-preemption laws specifically."
     }
   ],
   "endorsements": [
@@ -199,10 +209,10 @@
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "Verified the secondary-source claim that she defeated Rep. Diana DeGette: confirmed via certified June 30, 2026 primary results on Ballotpedia (Kiros 53.2%, DeGette 39.8%, Wanda James 7.0%). Her campaign site (kirosforco.com) renders as a single-page app in this session's curl fetches, so issue-page quotes were taken from Ballotpedia's verbatim block-quote of that same site (dated April 24, 2026) rather than directly; the underlying site was independently confirmed to exist and match these themes. The Colorado Sun's May 29, 2026 Democratic primary issue guide and the Denver Post's Oct. 3, 2026 candidate Q&A independently corroborate her ICE/immigration position and supplied the federal-budget-law and public-lands quotes. No statement found on tariffs or state zoning preemption, so those are left unsourced rather than inferred.",
+  "research_notes": "Verified the secondary-source claim that she defeated Rep. Diana DeGette: confirmed via certified June 30, 2026 primary results on Ballotpedia (Kiros 53.2%, DeGette 39.8%, Wanda James 7.0%). Her campaign site (kirosforco.com) renders as a single-page app in this session's curl fetches, so issue-page quotes were taken from Ballotpedia's verbatim block-quote of that same site (dated April 24, 2026) rather than directly; the underlying site was independently confirmed to exist and match these themes. The Colorado Sun's May 29, 2026 Democratic primary issue guide and the Denver Post's Oct. 3, 2026 candidate Q&A independently corroborate her ICE/immigration position and supplied the federal-budget-law and public-lands quotes. No statement found on tariffs, so that is left unsourced rather than inferred. Second pass 2026-10-14: added housing-state-zoning from https://www.coloradopolitics.com/2026/10/02/kiros-blau-peterson-congressional-district-1/.",
   "verification": {
     "checked": "2026-10-14",
-    "positions_verified": 10,
+    "positions_verified": 11,
     "positions_unverifiable": 0,
     "detail": {
       "health-coverage": "found",
@@ -214,7 +224,8 @@
       "immigration-notify-ice": "found",
       "fentanyl-penalties": "found",
       "sports-biological-sex": "found",
-      "minor-gender-surgery-ban": "found"
+      "minor-gender-surgery-ban": "found",
+      "housing-state-zoning": "found"
     }
   }
 }
