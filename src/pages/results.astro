@@ -175,7 +175,7 @@ const payload = JSON.stringify({ ...data, senateUp: geo.state_senate_on_ballot_2
       if (rankedRows.length) {
         html += `<div class="pc-table-wrap"><table class="pc-table results-table">
           <caption>Ranked by match with your answers. Not a recommendation.</caption>
-          <thead><tr><th scope="col">Candidate</th><th scope="col">Match</th><th scope="col">Confidence</th><th scope="col">Based on</th></tr></thead><tbody>`;
+          <thead><tr><th scope="col">Candidate</th><th scope="col">Match</th><th scope="col">Confidence</th></tr></thead><tbody>`;
         for (const c of rankedRows) {
           // With a single ranked candidate there is nothing to compare, so do not call it a top match.
           const label = rankedRows.length === 1 ? 'Only ranked candidate' : c.tie ? 'Tied top match' : 'Top match';
@@ -183,8 +183,7 @@ const payload = JSON.stringify({ ...data, senateUp: geo.state_senate_on_ballot_2
           html += `<tr>
             <th scope="row">${who(c.id)}${top}</th>
             <td><span class="pct">${c.percent}%</span><span class="match-bar" aria-hidden="true"><span style="--value:${c.percent}%"></span></span></td>
-            <td><span class="pc-badge conf-${c.confidence}">${c.confidence}</span></td>
-            <td><span class="small">based on ${c.overlap} of ${c.answered} questions</span>${coverageMeter(c.overlap, c.answered)}</td>
+            <td><span class="pc-badge conf-${c.confidence}">${c.confidence}</span><span class="small based-on">based on ${c.overlap} of ${c.answered} questions</span>${coverageMeter(c.overlap, c.answered)}</td>
           </tr>`;
         }
         html += `</tbody></table></div>`;

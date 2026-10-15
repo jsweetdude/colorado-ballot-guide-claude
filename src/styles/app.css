@@ -135,6 +135,12 @@ fieldset.plain > legend { padding: 0; margin-bottom: 16px; }
 .results-table td, .results-table th { vertical-align: top; }
 .results-table .cand-name { font-weight: 600; }
 .results-table .pct { font-weight: 700; font-size: 17px; white-space: nowrap; }
+.results-table .based-on { display: block; margin-top: 6px; }
+.results-table .coverage { margin-top: 4px; }
+@media (max-width: 520px) {
+  .results-table th, .results-table td { padding: 9px 8px; }
+  .results-table .match-bar { max-width: 64px; }
+}
 .results-table caption { text-align: left; padding: 0 0 8px; font-size: var(--pc-fs-small); color: var(--pc-muted); }
 .unranked { display: grid; gap: 8px; }
 .unranked ul { list-style: none; padding: 0 !important; display: grid; gap: 6px; }

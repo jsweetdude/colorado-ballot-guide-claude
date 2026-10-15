@@ -51,3 +51,20 @@ test('works at 360px wide with no horizontal scroll', async ({ page }) => {
     expect(overflow, `${path} overflows by ${overflow}px`).toBeLessThanOrEqual(0);
   }
 });
+
+test.describe('phone width', () => {
+  test.use({ viewport: { width: 360, height: 800 } });
+  for (const path of ['/', '/interview/', '/results/', '/candidates/phil-weiser/']) {
+    test(`axe at 360px: ${path}`, async ({ page }) => {
+      await page.addInitScript(() => {
+        localStorage.setItem('cbg.ballot.v1', JSON.stringify({ cd: 3, sd: null, hd: null, county: 'Mesa', source: 'manual' }));
+        localStorage.setItem('cbg.answers.v1', JSON.stringify({ 'abortion-legal': { value: 2, importance: 'high' }, 'keep-tariffs': { value: 4, importance: 'normal' }, 'health-coverage': { value: 2, importance: 'normal' }, 'federal-budget-law': { value: 4, importance: 'normal' } }));
+      });
+      await page.goto(path);
+      await page.waitForLoadState('networkidle');
+      const results = await new AxeBuilder({ page }).withTags(['wcag2a', 'wcag2aa', 'wcag21a', 'wcag21aa', 'wcag22aa']).analyze();
+      const summary = results.violations.map((v) => `${v.id} (${v.impact}): ${v.nodes.length} node(s), e.g. ${v.nodes[0]?.target.join(' ')}`);
+      expect(summary, summary.join('\n')).toEqual([]);
+    });
+  }
+});
