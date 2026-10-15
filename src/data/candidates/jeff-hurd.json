@@ -139,13 +139,13 @@
     },
     {
       "statement": "health-coverage",
-      "value": 2,
-      "source_type": "direct_statement",
-      "source_url": "https://www.aspentimes.com/opinion/meet-candidates-colorado-3rd-congressional-district-hurd-romero/",
-      "source_title": "Q&A: Meet the candidates running for Colorado's 3rd Congressional District",
-      "date": "2026-10-07",
-      "quote": "I support requiring able-bodied adults covered by Medicaid expansion to work, attend school, volunteer or participate in other qualifying activities, while protecting people who cannot reasonably meet those requirements.",
-      "note": "Said this while also calling Medicaid \"essential to healthcare in rural Colorado\" and noting exemptions for vulnerable groups."
+      "value": 3,
+      "source_type": "questionnaire",
+      "source_url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-3-candidate-qa/",
+      "source_title": "Colorado U.S. House District 3 candidate Q&A (The Denver Post)",
+      "date": "2026-10-03",
+      "quote": "Rural Coloradans often have fewer health care options and higher costs. I worked across the aisle and voted to extend enhanced premium tax credits while Congress pursues lasting reforms.",
+      "note": "Coded as mixed: he also supports Medicaid work requirements for able-bodied adults (Aspen Times Q&A, October 7, 2026) and voted for H.R. 1, which reduced Medicaid spending."
     },
     {
       "statement": "abortion-legal",
@@ -243,10 +243,15 @@
       "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H4CO03357/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado U.S. House District 3 candidate Q&A (The Denver Post)",
+      "url": "https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-3-candidate-qa/",
+      "accessed": "2026-10-14"
     }
   ],
   "last_checked": "2026-10-14",
-  "research_notes": "No sourceable statement found for Hurd on stricter gun laws, state-level Colorado ballot measures (income tax, TABOR, natural gas right, zoning, mail-ballot ID, plain-language ballots, redistricting commission, mail voting, minor gender-surgery ban, fentanyl/child-trafficking penalties, hunting right, immigration-notify-ICE) or clean-energy-shift; left uncoded rather than inferred from party or committee role. Gigafact's politiquote page (an aggregator) was fetched to double-check an older abortion quote attributed to a Sept. 30, 2024 debate video but was not independently verified against primary video; it is cited only as supporting context in a note, not as the basis for a scored position. congress.gov and govtrack.us (cited heavily in Ballotpedia's footnotes) are blocked to automated fetching per protocol. Second pass 2026-10-14: added clean-energy-shift from the Colorado Sun's Oct. 8, 2026 CD3 issue guide. The Denver Post's Oct. 3, 2026 CD3 candidate Q&A separately quotes Hurd saying he \"worked across the aisle and voted to extend enhanced premium tax credits,\" which a reviewer may want to weigh against the existing health-coverage position (coded 2, from an Oct. 7, 2026 Aspen Times Medicaid-work-requirements answer); left the existing position unchanged per protocol.",
+  "research_notes": "No sourceable statement found for Hurd on stricter gun laws, state-level Colorado ballot measures (income tax, TABOR, natural gas right, zoning, mail-ballot ID, plain-language ballots, redistricting commission, mail voting, minor gender-surgery ban, fentanyl/child-trafficking penalties, hunting right, immigration-notify-ICE) or clean-energy-shift; left uncoded rather than inferred from party or committee role. Gigafact's politiquote page (an aggregator) was fetched to double-check an older abortion quote attributed to a Sept. 30, 2024 debate video but was not independently verified against primary video; it is cited only as supporting context in a note, not as the basis for a scored position. congress.gov and govtrack.us (cited heavily in Ballotpedia's footnotes) are blocked to automated fetching per protocol. Second pass 2026-10-14: added clean-energy-shift from the Colorado Sun's Oct. 8, 2026 CD3 issue guide. The Denver Post's Oct. 3, 2026 CD3 candidate Q&A separately quotes Hurd saying he \"worked across the aisle and voted to extend enhanced premium tax credits,\" which a reviewer may want to weigh against the existing health-coverage position (coded 2, from an Oct. 7, 2026 Aspen Times Medicaid-work-requirements answer); left the existing position unchanged per protocol. Build review 2026-10-14: health-coverage recoded to 3 (mixed) from the Denver Post quote, with the Aspen Times work-requirements answer noted.",
   "verification": {
     "checked": "2026-10-14",
     "positions_verified": 8,

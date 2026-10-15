@@ -32,6 +32,7 @@ check(racesSchema, races, 'races.json');
 const roster = new Map();
 for (const race of races?.races ?? []) {
   if (race.scope === 'congressional' && !race.district) fail('races.json', `${race.id} needs a district`);
+  for (const id of race.statements ?? []) if (!statementIds.has(id)) fail('races.json', `${race.id} lists unknown statement ${id}`);
   for (const c of race.candidates) {
     if (roster.has(c.id)) fail('races.json', `candidate ${c.id} listed twice`);
     roster.set(c.id, { race: race.id, ...c });

@@ -146,10 +146,14 @@ export function confidenceFor(m: CandidateMatch, margin: number | null): Confide
  * Ranks a race. Rankable candidates are sorted by percent (ties keep ballot
  * order). Margin is the distance to the nearest ranked neighbor, so a close
  * race lowers confidence for both candidates. Unranked candidates follow in
- * ballot order with rank and confidence null.
+ * ballot order with rank and confidence null. When `relevant` is given, only
+ * those statements count (used for attorney general, secretary of state and
+ * treasurer, whose duties touch a subset of the interview).
  */
-export function rankRace(answers: Answers, candidates: MatchCandidate[]): RankedCandidate[] {
-  const matches = candidates.map((c, i) => ({ m: matchCandidate(answers, c), order: i }));
+export function rankRace(answers: Answers, candidates: MatchCandidate[], relevant?: string[]): RankedCandidate[] {
+  // For offices whose work touches only some statements, match on those alone.
+  const scoped = relevant ? Object.fromEntries(Object.entries(answers).filter(([id]) => relevant.includes(id))) : answers;
+  const matches = candidates.map((c, i) => ({ m: matchCandidate(scoped, c), order: i }));
   const ranked = matches
     .filter((x) => x.m.rankable)
     .sort((a, b) => (b.m.percent ?? 0) - (a.m.percent ?? 0) || a.order - b.order);

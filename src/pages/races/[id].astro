@@ -10,6 +10,9 @@ export function getStaticPaths() {
 const { race } = Astro.props as { race: Race };
 const cands = candidatesFor(race);
 const total = statements.length;
+const relevant = race.statements ? new Set(race.statements) : null;
+const countFor = (c: (typeof cands)[number]) => (relevant ? c.positions.filter((p) => relevant.has(p.statement)).length : c.positions.length);
+const base = relevant ? relevant.size : total;
 ---
 <Base title={race.office} nav="races" description={`${race.office}: every candidate on the 2026 Colorado ballot, with sourced profiles.`}>
   <section class="page-head" aria-labelledby="h1">
@@ -24,7 +27,7 @@ const total = statements.length;
     <div class="legend" aria-hidden="true"><span><i class="sw-known"></i>Statements with a sourced position</span><span><i class="sw-unknown"></i>No known position</span></div>
     <div class="pc-table-wrap pc-card">
       <table class="pc-table">
-        <caption class="visually-hidden">Candidates for {race.office}, with how many of the {total} interview statements have a sourced position</caption>
+        <caption class="visually-hidden">Candidates for {race.office}, with how many of the {base} statements used for this office have a sourced position</caption>
         <thead><tr><th scope="col">Candidate</th><th scope="col">Party</th><th scope="col">Known positions</th></tr></thead>
         <tbody>
           {cands.map((c) => (
@@ -32,14 +35,15 @@ const total = statements.length;
               <th scope="row"><a href={`/candidates/${c.id}/`}>{c.name}</a>{c.running_mate && <span class="small muted"> with {c.running_mate.name}</span>}{c.incumbent && <span class="small muted"> · Incumbent</span>}</th>
               <td>{partyShort(c.party)}</td>
               <td>
-                <span class="small">{c.positions.length} of {total}</span>
-                <span class="coverage" aria-hidden="true"><span class="known" style={`width:${Math.round((c.positions.length / total) * 100)}%`}></span><span class="unknown"></span></span>
+                <span class="small">{countFor(c)} of {base}</span>
+                <span class="coverage" aria-hidden="true"><span class="known" style={`width:${Math.round((countFor(c) / base) * 100)}%`}></span><span class="unknown"></span></span>
               </td>
             </tr>
           ))}
         </tbody>
       </table>
     </div>
+    {relevant && <p class="small">Matching for this office uses only the {base} interview statements that bear on its work: {statements.filter((s) => relevant.has(s.id)).map((s) => `“${s.text}”`).join(' ')}</p>}
     <p class="small muted">Take the <a href="/interview/">interview</a> to see how each candidate lines up with your views. Candidate list last checked {formatDate('2026-10-14')} against the <a href={LINKS.sosCandidates}>Secretary of State's certified list</a>.</p>
   </section>
 </Base>

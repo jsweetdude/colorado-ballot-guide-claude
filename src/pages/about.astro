@@ -32,6 +32,14 @@ weight = {IMPORTANCE_WEIGHT.low} for low, {IMPORTANCE_WEIGHT.normal} for normal,
     <p>“Based on N of M questions” means the candidate has a known position on N of the M statements you answered. Statements where the candidate's position is unknown do not count for or against them.</p>
     <p>A candidate is ranked only if they have a known position on at least a third of the statements you answered (and at least {CONFIDENCE_RULES.rankableMinimum}). Others are listed under “not enough known to rank.” A high match with a candidate who has said little is not a strong signal, so the guide does not pretend it is.</p>
 
+    <h2 id="offices">Offices matched on fewer statements</h2>
+    <p>The attorney general, secretary of state and treasurer do narrower jobs than a governor or a member of Congress, and candidates for them rarely speak to every statement. Their matches use only the statements that bear on each office's work; everything above applies within that set, including the one-third rule.</p>
+    <ul>
+      {races.filter((r) => r.statements).map((r) => (
+        <li><strong>{r.office}:</strong> {r.statements!.map((id) => statements.find((s) => s.id === id)!.text).join(' · ')}</li>
+      ))}
+    </ul>
+
     <h2 id="confidence">How confidence works</h2>
     <p>Confidence says how much weight to put on a match. It uses three things:</p>
     <ul>

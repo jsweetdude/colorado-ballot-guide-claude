@@ -78,6 +78,7 @@ export interface Race {
   district?: number;
   tier: 'A' | 'B';
   about: string;
+  statements?: string[];
   candidates: RosterEntry[];
 }
 
@@ -121,6 +122,7 @@ export function clientData() {
       scope: r.scope,
       district: r.district ?? null,
       tier: r.tier,
+      statements: r.statements ?? null,
       candidates: candidatesFor(r).map((c) => ({
         id: c.id,
         name: c.name,

@@ -219,3 +219,22 @@ describe('share links', () => {
     expect(decodeShare('v=2&a=5n', ['s1'])).toBeNull();
   });
 });
+
+describe('office-specific statements', () => {
+  it('matches only on the statements relevant to the office', () => {
+    const answers: Answers = {
+      s1: { value: 5, importance: 'normal' },
+      s2: { value: 5, importance: 'normal' },
+      s3: { value: 1, importance: 'normal' },
+      s4: { value: 1, importance: 'normal' },
+    };
+    const c: MatchCandidate = { id: 'a', positions: [pos('s1', 5), pos('s2', 5), pos('s3', 5)] };
+    const all = rankRace(answers, [c]);
+    const scoped = rankRace(answers, [c], ['s1', 's2']);
+    expect(all[0].answered).toBe(4);
+    expect(all[0].percent).toBe(67);
+    expect(scoped[0].answered).toBe(2);
+    expect(scoped[0].percent).toBe(100);
+    expect(scoped[0].rankable).toBe(true);
+  });
+});

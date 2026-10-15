@@ -94,7 +94,7 @@ const payload = JSON.stringify({ ...data, senateUp: geo.state_senate_on_ballot_2
   import { LIKERT_LABEL } from '../lib/labels';
 
   interface ClientRace {
-    id: string; office: string; short: string; scope: string; district: number | null; tier: string;
+    id: string; office: string; short: string; scope: string; district: number | null; tier: string; statements: string[] | null;
     candidates: (MatchCandidate & { name: string; party: string; incumbent: boolean; runningMate: string | null })[];
   }
   const data = JSON.parse(document.getElementById('cbg-data')!.textContent!) as {
@@ -157,7 +157,7 @@ const payload = JSON.stringify({ ...data, senateUp: geo.state_senate_on_ballot_2
   };
 
   function raceHtml(r: ClientRace): string {
-    const ranked = rankRace(answers, r.candidates);
+    const ranked = rankRace(answers, r.candidates, r.statements ?? undefined);
     const byId = new Map(r.candidates.map((c) => [c.id, c]));
     const rankedRows = ranked.filter((c) => c.rank != null);
     const unranked = ranked.filter((c) => c.rank == null);
@@ -168,7 +168,7 @@ const payload = JSON.stringify({ ...data, senateUp: geo.state_senate_on_ballot_2
     };
     let html = `<section class="race-section" id="race-${r.id}" aria-labelledby="race-${r.id}-h">
       <div class="race-head"><h3 id="race-${r.id}-h">${esc(r.office)}</h3><a class="small" href="/races/${r.id}/">Race details and all candidates</a></div>
-      <div class="pc-card">`;
+      <div class="pc-card">${r.statements ? `<p class="small muted">Matched only on the ${r.statements.length} statements that bear on this office's work. <a href="/about/#offices">Which ones</a>.</p>` : ''}`;
     if (answered === 0) {
       html += `<ul class="stack-sm">${r.candidates.map((c) => `<li>${who(c.id)}</li>`).join('')}</ul>`;
     } else {

@@ -54,6 +54,8 @@ export const racesSchema = z
           district: z.number().int().min(1).max(8).optional(),
           tier: z.enum(['A', 'B']),
           about: z.string(),
+          /** Statements that bear on this office; matching uses only these. Absent means all. */
+          statements: z.array(z.string()).optional(),
           candidates: z.array(rosterCandidate).min(1),
         })
         .strict(),

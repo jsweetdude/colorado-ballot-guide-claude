@@ -31,7 +31,7 @@ const issueUrl = `${SITE.issues}/new?title=${encodeURIComponent(`Error on ${c.na
 const verified = c.verification?.detail ?? {};
 const axes = ['economic', 'social', 'governance'] as const;
 const federal = c.race === 'us-senate' || c.race.startsWith('us-house');
-const matchData = JSON.stringify({ id: c.id, positions: c.positions.map((p) => ({ statement: p.statement, value: p.value, source_type: p.source_type })) });
+const matchData = JSON.stringify({ id: c.id, relevant: race.statements ?? null, positions: c.positions.map((p) => ({ statement: p.statement, value: p.value, source_type: p.source_type })) });
 ---
 <Base title={c.name} nav="races" description={`${c.name}, ${partyShort(c.party)} candidate for ${race.office}: background, record and sourced positions.`}>
   <section class="page-head" aria-labelledby="h1">
@@ -103,7 +103,7 @@ const matchData = JSON.stringify({ id: c.id, positions: c.positions.map((p) => (
   <section class="stack" aria-labelledby="pos-h">
     <div class="stack-sm">
       <h2 id="pos-h">Positions on the interview statements</h2>
-      <p class="small">Known on <strong>{known} of {statements.length}</strong> statements. Every position links to its source and date. Positions marked <em>Inferred</em> are reasoned from a closely related statement, not stated outright, and count less toward confidence.</p>
+      <p class="small">Known on <strong>{known} of {statements.length}</strong> statements.{race.statements && <> For this office, matching uses only the {race.statements.length} statements that bear on its work (<a href="/about/#offices">which ones</a>); the others are shown for reference.</>} Every position links to its source and date. Positions marked <em>Inferred</em> are reasoned from a closely related statement, not stated outright, and count less toward confidence.</p>
       <div class="legend" aria-hidden="true"><span><i class="sw-unknown"></i>No known position</span></div>
     </div>
     {axes.map((axis) => (
@@ -188,12 +188,13 @@ const matchData = JSON.stringify({ id: c.id, positions: c.positions.map((p) => (
       el.hidden = false;
       el.style.display = 'block';
     }
-    const m = matchCandidate(answers, cand);
+    const scoped = cand.relevant ? Object.fromEntries(Object.entries(answers).filter(([id]) => cand.relevant.includes(id))) : answers;
+    const m = matchCandidate(scoped, cand);
     const box = document.getElementById('you-match')!;
     document.getElementById('you-line')!.textContent =
       m.percent == null
         ? `None of this candidate's known positions are on statements you answered.`
-        : `${m.percent}% match, based on ${m.overlap} of the ${m.answered} statements you answered. Your answer is shown under each statement below.`;
+        : `${m.percent}% match, based on ${m.overlap} of the ${m.answered} ${cand.relevant ? 'statements you answered that bear on this office' : 'statements you answered'}. Your answer is shown under each statement below.`;
     box.hidden = false;
   }
 </script>

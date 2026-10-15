@@ -130,6 +130,17 @@
       "scope": "statewide",
       "tier": "A",
       "about": "Colorado's chief legal officer, elected statewide for a four-year term. Attorney General Phil Weiser is term-limited.",
+      "statements": [
+        "immigration-notify-ice",
+        "deportation-priority",
+        "fentanyl-penalties",
+        "child-trafficking-life",
+        "stricter-gun-laws",
+        "abortion-legal",
+        "sports-biological-sex",
+        "minor-gender-surgery-ban",
+        "challenge-federal-policies"
+      ],
       "candidates": [
         {
           "id": "michael-allen",
@@ -154,6 +165,13 @@
       "scope": "statewide",
       "tier": "A",
       "about": "Oversees Colorado's elections, business filings and campaign finance reporting. Elected statewide for a four-year term. Secretary of State Jena Griswold is term-limited.",
+      "statements": [
+        "mail-ballot-id",
+        "plain-language-ballots",
+        "redistricting-commission",
+        "keep-mail-voting",
+        "challenge-federal-policies"
+      ],
       "candidates": [
         {
           "id": "amanda-gonzalez",
@@ -199,6 +217,13 @@
       "scope": "statewide",
       "tier": "A",
       "about": "Manages the state's money and investments and runs the unclaimed property program. Elected statewide for a four-year term. Treasurer Dave Young is term-limited.",
+      "statements": [
+        "graduated-income-tax",
+        "income-tax-cap",
+        "keep-tabor-surplus",
+        "conservation-sales-tax",
+        "federal-budget-law"
+      ],
       "candidates": [
         {
           "id": "jeff-bridges",

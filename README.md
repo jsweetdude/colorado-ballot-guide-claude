@@ -56,6 +56,7 @@ Research for the first version followed `scripts/research-protocol.md`; `scripts
 All formulas live in `src/lib/match.ts` and are printed on the About page.
 
 - **Match:** for each statement the visitor answered and the candidate has a known position on, `points = weight × (4 − |steps apart|) ÷ 4`, with weight 0.5, 1 or 2 for low, normal or high importance. Match = points ÷ the maximum possible on those statements.
+- **Offices with narrower jobs:** attorney general, secretary of state and treasurer are matched only on the statements listed for them in `races.json`.
 - **Ranking:** a candidate is ranked if known on at least a third of the statements the visitor answered (and at least 2); others are listed as "not enough known to rank."
 - **Confidence:** High needs coverage ≥ 60%, source quality ≥ 0.85, a margin of ≥ 10 points over the nearest ranked neighbor and ≥ 5 shared statements; Medium needs ≥ a third, ≥ 0.6, ≥ 4 points and ≥ 3; otherwise Low. Votes, bills, questionnaires and direct statements count 1.0 toward quality, interest-group ratings 0.6, inferences 0.3.
 - **Measure lean:** sum of `weight × (answer − 3)` over the statements tied to the measure, sign-flipped where agreeing points to a no vote. Positive leans yes, negative leans no, zero or unanswered is unclear.
