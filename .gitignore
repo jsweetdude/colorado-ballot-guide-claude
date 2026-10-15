@@ -8,3 +8,4 @@ playwright-report/
 # Handoff material from the project brief, kept out of the public history.
 brief/
 .DS_Store
+.vercel
