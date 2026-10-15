@@ -45,3 +45,17 @@ Every choice made in place of asking, with the reason. The brief said not to ask
 30. **Kiln only for the October 26 and November 3 date cards.**
 31. **Hatching marks unknown positions** on profiles and the coverage meters, always with a "No known position" label or legend.
 32. **A "Browse races without the interview" path** so the guide is useful to people who will not take a quiz.
+
+## Made during research and review
+
+33. **When the session's 200-search web budget ran out partway through research, agents found pages by fetching instead:** Google News RSS feeds (titles and outlets only; the outlet's own URL is cited, never the Google redirect) and the news sites' own search pages. Asking to raise the budget was not an option under the brief.
+34. **The Colorado Sun issue guides and the Denver Post candidate Q&As (both October 2026) are treated as questionnaires.** The Sun's text summarizing a candidate's answer is quoted verbatim from the page and attributed to the Sun.
+35. **A candidate's claim about an opponent is never used as the opponent's position.**
+36. **"Undecided" is unknown, not neutral.** Phil Weiser said in June he would listen to both sides before deciding on the hunting amendment; that was removed rather than coded 3.
+37. **Undated sources are shown as undated.** Agents had used January 1 placeholders or the date a page was read. Those positions carry `date_basis` (`year`, `month` or `accessed`) and display as "2026 (exact date not given)" or "undated page, read October 14, 2026", never as a specific day.
+38. **Quotes may skip words only with a visible " ... " or a [bracketed insert].** Two quotes that had been joined across "he said" were rewritten with an ellipsis. Victor Marx's single "Yes" to a three-part Colorado Sun question is shown with the question text so the quote makes sense under each statement.
+39. **A lone ranked candidate is labeled "Only ranked candidate", not "Top match".** With nobody else rankable there is no comparison behind the word "top".
+40. **Christy Peterson's listed website is not linked.** It resolves to a hacked page serving gambling spam.
+41. **Record items must be votes, bills or official decisions.** A Gabe Evans roundtable with a federal official was removed as an event, and press-release wording ("waste, fraud, and abuse", "championed") was rewritten neutrally.
+42. **The quote checker follows embedded graphics** (iframes and the Chalkbeat "side-chain" embeds the Sun uses for its regent and State Board guides), because a reader sees that text on the page. House roll-call quotes are checked against the House Clerk's official XML, since the HTML page loads votes with JavaScript.
+43. **Measure text is checked against the Blue Book itself** (`scripts/verify-measures.mjs`), allowing for page headers that split a paragraph in the PDF. Ballot Issue 7A's fiscal table is flattened into "label: value" lines; its numbers match the printed table.

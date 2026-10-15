@@ -88,7 +88,7 @@ const matchData = JSON.stringify({ id: c.id, positions: c.positions.map((p) => (
           <tbody>
             {c.record.map((r) => (
               <tr>
-                <td class="nowrap">{r.date ? formatDate(r.date) : 'Undated'}</td>
+                <td class="nowrap">{r.date ? (r.date.endsWith('-01-01') ? r.date.slice(0, 4) : formatDate(r.date)) : 'Undated'}</td>
                 <td>{recordKind[r.kind]}</td>
                 <td><strong>{r.title}</strong><br /><span class="small">{r.detail}</span></td>
                 <td><a href={r.source_url}>{host(r.source_url)}</a></td>
