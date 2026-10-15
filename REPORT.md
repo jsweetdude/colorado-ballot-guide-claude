@@ -24,7 +24,7 @@ Built and shipped in one session on October 14, 2026 (Mountain time), and extend
 
 ## Candidates and coverage
 
-As of October 16, 2026, after the gap fill (the October 14 numbers are in the gap-fill section below).
+As of October 16, 2026, after the gap fill and the blind recode (the October 14 numbers are in the gap-fill section below; the recode's effect is under "Blind recode").
 
 | Group | Candidates | Full | Partial | Unknown |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ As of October 16, 2026, after the gap fill (the October 14 numbers are in the ga
 
 "Full" means known on at least a third of the statements used for the candidate's race, so they rank for a visitor who answers everything. "Partial" means at least one known position but fewer. Attorney general, secretary of state and treasurer are measured against their office's statement set (9, 5 and 5 statements); everyone else against all 25. A race is ranked only when at least two candidates are "full" (the fairness rule, below).
 
-**325 sourced positions** in all: questionnaire answers: 83, recorded votes: 33, sponsored bills: 12, direct statements: 146, inferred (labeled as such): 45, interest-group ratings or endorsements: 6.
+**304 sourced positions** in all (325 before the blind recode): questionnaire answers: 79, recorded votes: 31, sponsored bills: 12, direct statements: 132, inferred (labeled as such): 44, interest-group ratings or endorsements: 6.
 
 <details>
 <summary>Every candidate</summary>
@@ -45,18 +45,18 @@ As of October 16, 2026, after the gap fill (the October 14 numbers are in the ga
 |---|---|---|---|---|
 | us-senate | Mark Baisley | Republican | 9 / 25 | full |
 | us-senate | John Hickenlooper | Democratic | 9 / 25 | full |
-| us-senate | Bob Chew | Forward | 6 / 25 | partial |
+| us-senate | Bob Chew | Forward | 5 / 25 | partial |
 | us-senate | Christopher Baum | Approval Voting | 3 / 25 | partial |
 | us-senate | Blake Huber | Libertarian | 2 / 25 | partial |
 | us-senate | Adam Withrow | Unity | 3 / 25 | partial |
-| governor | Victor Marx | Republican | 15 / 25 | full |
+| governor | Victor Marx | Republican | 13 / 25 | full |
 | governor | Phil Weiser | Democratic | 13 / 25 | full |
 | governor | Stephen T. Hamilton | American Constitution | 5 / 25 | partial |
-| governor | Eric Mulder | Libertarian | 5 / 25 | partial |
+| governor | Eric Mulder | Libertarian | 3 / 25 | partial |
 | governor | Jeff Peckman | Unity | 4 / 25 | partial |
-| governor | Erik Underwood | Approval Voting | 7 / 25 | partial |
-| governor | Greg Lopez | Unaffiliated | 14 / 25 | full |
-| attorney-general | Michael J. Allen | Republican | 7 / 9 (12 of 25 overall) | full |
+| governor | Erik Underwood | Approval Voting | 6 / 25 | partial |
+| governor | Greg Lopez | Unaffiliated | 10 / 25 | full |
+| attorney-general | Michael J. Allen | Republican | 7 / 9 (11 of 25 overall) | full |
 | attorney-general | Jena Griswold | Democratic | 5 / 9 (8 of 25 overall) | full |
 | secretary-of-state | Amanda Gonzalez | Democratic | 3 / 5 (3 of 25 overall) | full |
 | secretary-of-state | James Wiley | Republican | 3 / 5 (3 of 25 overall) | full |
@@ -67,36 +67,36 @@ As of October 16, 2026, after the gap fill (the October 14 numbers are in the ga
 | treasurer | Kevin Grantham | Republican | 2 / 5 (3 of 25 overall) | full |
 | treasurer | Jodie Barr | Libertarian | 1 / 5 (1 of 25 overall) | partial |
 | treasurer | Marilee Langner Sturgis | Approval Voting | 0 / 5 (0 of 25 overall) | unknown |
-| us-house-1 | Melat Kiros | Democratic | 11 / 25 | full |
+| us-house-1 | Melat Kiros | Democratic | 9 / 25 | full |
 | us-house-1 | Christy Peterson | Republican | 9 / 25 | full |
 | us-house-1 | Critter Milton | Unity | 0 / 25 | unknown |
 | us-house-1 | Chad Humphrey | Libertarian | 4 / 25 | partial |
 | us-house-1 | Shimon Blau | Unaffiliated | 4 / 25 | partial |
 | us-house-2 | Joe Neguse | Democratic | 10 / 25 | full |
-| us-house-2 | Kelley Anne Dennison | Republican | 6 / 25 | partial |
+| us-house-2 | Kelley Anne Dennison | Republican | 5 / 25 | partial |
 | us-house-2 | Gaylon Kent | Libertarian | 5 / 25 | partial |
 | us-house-3 | Dwayne L. Romero | Democratic | 7 / 25 | partial |
 | us-house-3 | Jeff Hurd | Republican | 9 / 25 | full |
 | us-house-3 | Cory Robertson | Libertarian | 1 / 25 | partial |
 | us-house-3 | Clifton Brown | Unaffiliated | 0 / 25 | unknown |
 | us-house-4 | Lauren Boebert | Republican | 10 / 25 | full |
-| us-house-4 | Eileen Laubacher | Democratic | 4 / 25 | partial |
+| us-house-4 | Eileen Laubacher | Democratic | 3 / 25 | partial |
 | us-house-4 | Douglas Mangeris | Libertarian | 0 / 25 | unknown |
 | us-house-5 | Jeff Crank | Republican | 12 / 25 | full |
 | us-house-5 | Jessica Killin | Democratic | 9 / 25 | full |
-| us-house-5 | Christopher Mitchell | American Constitution | 2 / 25 | partial |
+| us-house-5 | Christopher Mitchell | American Constitution | 1 / 25 | partial |
 | us-house-5 | Mark "Marky Jr" Elworth | Libertarian | 0 / 25 | unknown |
 | us-house-6 | Jason Crow | Democratic | 10 / 25 | full |
 | us-house-6 | Jason Clark | Republican | 5 / 25 | partial |
 | us-house-6 | Patty McMahon | Libertarian | 0 / 25 | unknown |
 | us-house-6 | Meredith Ryan | Unity | 3 / 25 | partial |
 | us-house-6 | Samir Ezzeldin Witta | Unaffiliated | 3 / 25 | partial |
-| us-house-7 | Tim Bennett | Republican | 6 / 25 | partial |
+| us-house-7 | Tim Bennett | Republican | 5 / 25 | partial |
 | us-house-7 | Brittany Pettersen | Democratic | 9 / 25 | full |
 | us-house-7 | Susan Hall | Unity | 0 / 25 | unknown |
 | us-house-7 | Lawrence Kyle Clark | American Constitution | 0 / 25 | unknown |
-| us-house-7 | Dan "Kilo" Sallis | Libertarian | 4 / 25 | partial |
-| us-house-7 | Joe Krzeczkowski | Unaffiliated | 6 / 25 | partial |
+| us-house-7 | Dan "Kilo" Sallis | Libertarian | 3 / 25 | partial |
+| us-house-7 | Joe Krzeczkowski | Unaffiliated | 3 / 25 | partial |
 | us-house-8 | Gabe Evans | Republican | 10 / 25 | full |
 | us-house-8 | Manny Rutinel | Democratic | 9 / 25 | full |
 | us-house-8 | Dave Wood | Libertarian | 2 / 25 | partial |
@@ -196,7 +196,7 @@ The fairness rule (DECISIONS.md item 61) now ranks a race only when at least two
 
 - **Amendment 87 and the October 26 date** were checked against the Blue Book and the Secretary of State's 2026 election calendar. Both were already right in the data and on the landing page (DECISIONS.md items 12 and 14); the landing page card now also says registration continues in person through Election Day.
 - **Campaign finance** was refreshed from the FEC API on October 15. The API had processed third-quarter reports for only five candidates (period ending September 30); 16 federal candidates still show totals through June 30, and 6 have no report on file. The "as of" date on each profile says which.
-- **A blind recode file**, `research/codes-for-blind-review.json`, lists all 325 positions with the coding guide, quote and source but without the 1 to 5 code, for an independent second coding.
+- **A blind recode file**, `research/codes-for-blind-review.json`, lists all 325 positions with the coding guide, quote and source but without the 1 to 5 code, for an independent second coding. Codex coded it the same day; the comparison is the next section.
 - **A campaign email**, `research/campaign-email.md`, carries the 25 statements and the scale for John to send, with the contact addresses found for the priority-1 campaigns.
 - **The theme is pinned to light**, and scrollable tables are keyboard-focusable regions.
 - Tests: 31 unit tests (3 new, for the fairness rule) and 37 Playwright tests pass; the link check found 359 of 365 URLs loading, with the same 3 script-blocked and 3 unreachable pages as before plus the Vote411 and campaign-site pages described above.
@@ -204,9 +204,30 @@ The fairness rule (DECISIONS.md item 61) now ranks a race only when at least two
 ### Not done
 
 - No Vote411 answers for House districts other than CD3.
-- No second coder has run the blind file yet.
 - No campaign has been emailed; John sends the message himself.
 - State candidates' finance totals are still not pulled from TRACER.
+
+### Blind recode
+
+Codex coded all 325 positions from the blind file, seeing the statement, coding guide, quote, note, source type, title and date but not the first-pass value or the party (`research/codes-blind-codex.json`, DECISIONS.md item 67). The comparison and every resolution are in `research/blind-recode-comparison.md`; the rules are DECISIONS.md items 68 to 74; `scripts/apply-review.mjs` applies the result after every ingest.
+
+| Agreement | Count | Rate |
+|---|---|---|
+| Exact, all 325 | 141 | 43.4% |
+| Exact, among the 196 Codex coded | 141 | 71.9% |
+| Within one step, among the 196 Codex coded | 194 | 99.0% |
+| Codex "unknown" | 129 | 39.7% |
+
+One direction reversal (Victor Marx on health coverage: 2 against 4, resolved to 3 as a mixed record). Of the 129 unknowns, 86 were kept: roll-call votes and sponsored bills, whose quote is the member's line or the bill title by the protocol's rule, answers whose question the note identifies, and inferences that name the policy area. Codex coded from the quote text alone and did not read the source title.
+
+| Resolution | Count |
+|---|---|
+| First-pass code kept | 122 |
+| Codex's code taken | 18 |
+| Direction kept, strength or source type corrected | 23 |
+| Position removed | 21 |
+
+In all: 30 codes changed to a different 1 to 5 value, 16 positions retyped as inferred (10 of them with no value change), 21 positions removed (325 to 304), one quote extended to carry its question. Coverage after: 23 candidates over the bar for a full interview, 36 with some positions below it, 15 with none, exactly as before; no candidate crossed the bar in either direction, and the five unranked House races stay unranked (item 66). The largest drops were Greg Lopez (14 to 10), Victor Marx (15 to 13) and Melat Kiros (11 to 9); Kiros and Christy Peterson now sit exactly at the bar in CD1. Seven quotes are flagged for the next source pass because the answer's question lives only in the note, or the quote starts mid-sentence (Escarcega and Wright on the combined NN and 87 question, Baisley on H.R. 1 and on deportation, Marx on Amendment 83, Crow's "I'm a hard no", Kiros on the budget law).
 
 ## Phases and time
 
@@ -227,7 +248,7 @@ Times are Mountain Daylight Time on October 14, 2026, from the session's own log
 
 What was checked by machine, in this session:
 
-- **Quotes:** on October 14, `scripts/verify-sources.mjs` re-fetched every position's source and found the quote on the page for **294 of 295 positions**; on October 16, after the gap fill, **308 of 325** (the rest are listed in the gap-fill section). House roll calls were checked against the House Clerk's official XML, Senate roll calls against senate.gov, and embedded newsroom graphics were followed. One was not confirmed automatically (below).
+- **Quotes:** on October 14, `scripts/verify-sources.mjs` re-fetched every position's source and found the quote on the page for **294 of 295 positions**; on October 16, after the gap fill, **308 of 325** (the rest are listed in the gap-fill section), and after the blind recode **288 of 304** (the 16 not confirmed are the same browser-only and script-blocked pages, one fewer after a removal; Marx's extended quote was re-fetched and found). House roll calls were checked against the House Clerk's official XML, Senate roll calls against senate.gov, and embedded newsroom graphics were followed. One was not confirmed automatically (below).
 - **Measures:** `scripts/verify-measures.mjs` found 196 of 201 Blue Book passages in the measure files word for word in the Blue Book itself. The other 5 are Ballot Issue 7A's fiscal table, flattened into "label: value" lines; every number matches the printed table.
 - **Links:** `scripts/check-links.mjs` fetched all 350 cited URLs: 346 loaded. Two Coloradoan articles answer scripts with a paywall response, one site blocks scripts, and one campaign site (Chad Humphrey's) fails with Node's fetch but loads with curl.
 - **Data:** the Zod schema and cross-file checks run before every build.
@@ -236,7 +257,7 @@ What was checked by machine, in this session:
 
 What is **not** verified:
 
-- **Coding judgments.** Each quote is real, but turning a quote into a 1 to 5 value is a judgment. The research agents coded every position; I reviewed the direction of every major-party position and every minor-party position, and that review corrected one reversed code (Jena Griswold on redistricting), recoded four positions as mixed or for consistency, removed seven inferences that reached too far, and removed seven public-land positions that were really answers about drilling (DECISIONS.md items 45 to 49). There was no independent second coder.
+- **Coding judgments.** Each quote is real, but turning a quote into a 1 to 5 value is a judgment. The research agents coded every position; I reviewed the direction of every major-party position and every minor-party position, and that review corrected one reversed code (Jena Griswold on redistricting), recoded four positions as mixed or for consistency, removed seven inferences that reached too far, and removed seven public-land positions that were really answers about drilling (DECISIONS.md items 45 to 49). A second coder (Codex, blind to the first pass and to party) then coded all 325 positions: 71.9 percent exact and 99.0 percent within one step among the 196 it coded, 129 read as unknown, one direction reversal. Resolving the 184 disagreements changed 30 codes, retyped 16 positions as inferred and removed 21 (DECISIONS.md items 68 to 74; `research/blind-recode-comparison.md`). The resolver was the first-pass build's own model, working from the coding guide, quote and note; no person has reviewed the codes.
 - **Quotes not confirmed automatically:** Blake Huber's immigration answer (from a Coloradoan Q&A that blocks scripts; the research agent read it through a third-party reader and says so in the file). Every other quote was found on its source page.
 - **Self-described records.** A few record items come from campaigns' own sites (for example Amanda Gonzalez's and Michael Allen's accomplishments, Kevin Grantham's tax record) and are labeled as the campaign's claims.
 - **Backgrounds and endorsements** come from Ballotpedia, campaign sites and news coverage and were not cross-checked against a second source. Endorsement lists are not exhaustive.
@@ -257,7 +278,7 @@ What is **not** verified:
 
 ## With another day
 
-1. **A second, independent coding pass** on every position (a different model or a person), with disagreements resolved and logged. This is the single biggest quality gain available.
+1. **A person's pass over the 184 coding disagreements** in `research/blind-recode-comparison.md` (the second model's pass is done), and a re-fetch of the seven quotes flagged there so each carries the question it answers.
 2. **Ask the thin candidates directly.** Send the 25 statements to every campaign, especially treasurer, secretary of state, State Board and regent candidates, and publish their answers as questionnaire sources.
 3. **Refresh campaign finance** from the October 15 FEC reports and add state candidates' totals from TRACER's bulk data.
 4. **Read the blocked sources by hand** (CPR News and Colorado Newsline voter guides, Vote411 answers) and add what they support.
