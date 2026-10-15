@@ -10,7 +10,14 @@ const TODAY = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Denver
 const byFec = new Map();
 for (const office of ['H', 'S']) {
   const url = `https://api.open.fec.gov/v1/candidates/totals/?api_key=${key}&election_year=2026&state=CO&office=${office}&per_page=100`;
-  const r = await fetch(url);
+  // DEMO_KEY is rate-limited; wait and retry on 429 rather than fail.
+  let r;
+  for (let attempt = 1; attempt <= 4; attempt++) {
+    r = await fetch(url);
+    if (r.status !== 429) break;
+    console.error(`FEC ${office}: HTTP 429, waiting before retry ${attempt}`);
+    await new Promise((res) => setTimeout(res, 30000 * attempt));
+  }
   if (!r.ok) throw new Error(`FEC ${office}: HTTP ${r.status}`);
   for (const row of (await r.json()).results) byFec.set(row.candidate_id, row);
 }
