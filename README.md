@@ -68,3 +68,7 @@ See `DECISIONS.md` for every judgment call and `REPORT.md` for coverage, gaps an
 Code: MIT (`LICENSE`). Data in `src/data/`: CC BY 4.0 (`src/data/LICENSE.md`). Blue Book text is a public document of the Colorado Legislative Council Staff.
 
 To report an error, open an issue: https://github.com/jsweetdude/colorado-ballot-guide-claude/issues
+
+## Deploys
+
+Pushes to `main` deploy to production through the Vercel Git integration (connected 2026-10-16).
