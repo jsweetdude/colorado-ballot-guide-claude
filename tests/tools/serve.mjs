@@ -2,7 +2,12 @@
 // preview command daemonizes, which Playwright's webServer cannot manage).
 import { createServer } from 'node:http';
 import { readFile, stat } from 'node:fs/promises';
+import { readFileSync } from 'node:fs';
 import { extname, join, normalize } from 'node:path';
+
+// Send the same security headers production sends (vercel.json), so the browser
+// tests fail on anything the Content Security Policy would block.
+const SECURITY = Object.fromEntries(JSON.parse(readFileSync(new URL('../../vercel.json', import.meta.url), 'utf8')).headers[0].headers.map((h) => [h.key, h.value]));
 
 const root = new URL('../../dist/', import.meta.url).pathname;
 const port = Number(process.env.PORT ?? 47613);
@@ -15,7 +20,7 @@ createServer(async (req, res) => {
   try {
     if ((await stat(path)).isDirectory()) path = join(path, 'index.html');
     const body = await readFile(path);
-    res.writeHead(200, { 'Content-Type': TYPES[extname(path)] ?? 'application/octet-stream' }).end(body);
+    res.writeHead(200, { ...SECURITY, 'Content-Type': TYPES[extname(path)] ?? 'application/octet-stream' }).end(body);
   } catch {
     res.writeHead(404, { 'Content-Type': 'text/plain' }).end('Not found');
   }
