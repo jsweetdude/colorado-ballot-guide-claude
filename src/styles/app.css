@@ -196,5 +196,4 @@ wa-details + wa-details { margin-top: 8px; }
 noscript .pc-callout { margin-block: 8px; }
 @media print {
   .site-header nav, .skip-link, .iv-nav, .no-print { display: none !important; }
-  .pc-textured::before { display: none; }
 }

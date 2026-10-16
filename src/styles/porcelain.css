@@ -11,7 +11,6 @@
      <link rel="stylesheet" href="porcelain.css">   (inline it in claude.ai artifacts)
      <body class="pc">                               Calm voice, the default
      <section data-voice="crisp">                    Crisp voice, for system interfaces
-     <body class="pc pc-textured">                   grain + glaze (pages you visit, never pages you work in)
      <html data-theme="light|dark">                  optional; otherwise follows prefers-color-scheme
 
    Web Awesome 3 components pick up this theme through the bridge in section 4.
@@ -28,7 +27,6 @@
   /* surfaces */
   --pc-bg:            #F4F6FA;  /* page canvas, cool porcelain white */
   --pc-surface:       #FFFFFF;  /* cards, panels, inputs */
-  --pc-glaze:         #F7F9FD;  /* bottom of the card sheen, textured pages only */
   --pc-fill:          #E9EEF6;  /* quiet fills: secondary buttons, hover rows, tracks */
   --pc-fill-strong:   #D3DAE6;  /* pressed fills, switch track */
   --pc-border:        #DCE2EC;  /* decorative dividers and card edges */
@@ -69,14 +67,12 @@
   --pc-overlay:       rgb(12 17 27 / .45);
   --pc-mix-hover:     black 6%;
   --pc-mix-active:    black 12%;
-  --pc-grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.02 0 0 0 0 0.10 0 0 0 0 0.30 1.4 0 0 0 -0.62'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
-  --pc-grain-opacity: .55;
 }
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     color-scheme: dark;
-    --pc-bg:#0C111B; --pc-surface:#141B28; --pc-glaze:#172031; --pc-fill:#1B2433; --pc-fill-strong:#2A3548; --pc-border:#253047; --pc-control-border:#6B7894;
+    --pc-bg:#0C111B; --pc-surface:#141B28; --pc-fill:#1B2433; --pc-fill-strong:#2A3548; --pc-border:#253047; --pc-control-border:#6B7894;
     --pc-text:#E6EBF4; --pc-muted:#93A0B8; --pc-ink:#C9D7F2;
     --pc-cobalt:#7FA6F5; --pc-cobalt-hover:#9DBBFF; --pc-on-cobalt:#0A1430; --pc-link:#9DBBFF; --pc-cobalt-soft:#17243F; --pc-cobalt-mid:#1F3157; --pc-cobalt-line:#34528E; --pc-cobalt-ink:#9DBBFF;
     --pc-kiln:#F29A55; --pc-kiln-soft:#33200F;
@@ -87,13 +83,11 @@
     --pc-hatch:#4F6DAA; --pc-data-tint:#284A8C;
     --pc-shadow: 0 1px 2px rgb(0 0 0 / .35); --pc-shadow-color: rgb(0 0 0 / .45); --pc-overlay: rgb(0 0 0 / .6);
     --pc-mix-hover: white 8%; --pc-mix-active: white 14%;
-    --pc-grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.75 0 0 0 0 0.82 0 0 0 0 1 1.4 0 0 0 -0.62'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
-    --pc-grain-opacity: .35;
   }
 }
 :root[data-theme="dark"] {
   color-scheme: dark;
-  --pc-bg:#0C111B; --pc-surface:#141B28; --pc-glaze:#172031; --pc-fill:#1B2433; --pc-fill-strong:#2A3548; --pc-border:#253047; --pc-control-border:#6B7894;
+  --pc-bg:#0C111B; --pc-surface:#141B28; --pc-fill:#1B2433; --pc-fill-strong:#2A3548; --pc-border:#253047; --pc-control-border:#6B7894;
   --pc-text:#E6EBF4; --pc-muted:#93A0B8; --pc-ink:#C9D7F2;
   --pc-cobalt:#7FA6F5; --pc-cobalt-hover:#9DBBFF; --pc-on-cobalt:#0A1430; --pc-link:#9DBBFF; --pc-cobalt-soft:#17243F; --pc-cobalt-mid:#1F3157; --pc-cobalt-line:#34528E; --pc-cobalt-ink:#9DBBFF;
   --pc-kiln:#F29A55; --pc-kiln-soft:#33200F;
@@ -104,8 +98,6 @@
   --pc-hatch:#4F6DAA; --pc-data-tint:#284A8C;
   --pc-shadow: 0 1px 2px rgb(0 0 0 / .35); --pc-shadow-color: rgb(0 0 0 / .45); --pc-overlay: rgb(0 0 0 / .6);
   --pc-mix-hover: white 8%; --pc-mix-active: white 14%;
-  --pc-grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.75 0 0 0 0 0.82 0 0 0 0 1 1.4 0 0 0 -0.62'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
-  --pc-grain-opacity: .35;
 }
 
 
@@ -554,17 +546,3 @@
 .pc-log .t { color: var(--pc-muted); } .pc-log .ok { color: var(--pc-success); } .pc-log .warn { color: var(--pc-kiln); } .pc-log .err { color: var(--pc-danger); }
 .pc-path { font-family: var(--pc-font-mono); font-size: 0.95em; color: var(--pc-cobalt-ink); text-transform: none; letter-spacing: 0; }
 
-
-/* 7. Texture (opt-in): grain on the canvas, glaze on cards ------------------
-   Grain for pages you visit, not pages you work in. Never in Crisp. */
-
-.pc-textured { position: relative; isolation: isolate; }
-.pc-textured::before {
-  content: ""; position: absolute; inset: 0; z-index: -1; pointer-events: none;
-  background-image: var(--pc-grain); background-size: 200px 200px; opacity: var(--pc-grain-opacity);
-}
-body.pc-textured::before { position: fixed; }
-.pc-textured .pc-card { background: linear-gradient(180deg, var(--pc-surface) 0%, var(--pc-glaze) 100%); }
-[data-voice="crisp"].pc-textured::before { display: none; }
-.pc-textured [data-voice="crisp"] { background: var(--pc-bg); }
-.pc-textured [data-voice="crisp"] .pc-card, [data-voice="crisp"] .pc-textured .pc-card { background: var(--pc-surface); }
