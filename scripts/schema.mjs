@@ -193,6 +193,12 @@ export const explainerSchema = z
   .object({
     id: z.string().regex(/^[a-z0-9-]+$/),
     plain: z.string().min(10),
+    /** Two or three sentences on what the evidence adds up to; every claim drawn from sourced lines in the panel. */
+    short_version: explainerItem,
+    /** How the statement connects to the ballot: what an answer does and does not commit the visitor to. */
+    connection: z.object({ text: z.string().min(10), sources: z.array(explainerSource) }).strict(),
+    /** One concrete case, with numbers from the sources. */
+    example: z.object({ text: z.string().min(10), sources: z.array(explainerSource) }).strict(),
     agree_means: z.string().min(10),
     disagree_means: z.string().min(10),
     now: z.array(explainerItem).min(1),

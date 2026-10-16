@@ -1,8 +1,113 @@
 {
   "id": "fentanyl-penalties",
   "plain": "Proposition 132 would make any possession of fentanyl a felony. It would also require 8 to 32 years in prison for making, selling or sharing any amount.",
+  "short_version": {
+    "text": "Proposition 132 would make possessing any amount of fentanyl a felony and require 8 to 32 years in prison for distributing any amount. Fentanyl deaths in Colorado rose again in 2025. Research doubts that longer sentences deter drug crime, and state costs would reach about $68 million a year by year five.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "The measure also makes possession of any amount of fentanyl a felony. However, if a person possesses less than one gram and successfully completes court-ordered drug rehabilitation treatment, the felony charge may be reduced to a misdemeanor."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "Fentanyl has become the leading cause of drug overdose deaths in both Colorado and the United States"
+      },
+      {
+        "url": "https://nij.ojp.gov/topics/articles/five-things-about-deterrence",
+        "title": "Five Things About Deterrence (National Institute of Justice)",
+        "date": "2016-06-05",
+        "quote": "Prison is an important option for incapacitating and punishing those who commit crimes, but the data show long prison sentences do little to deter people from committing future crimes."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "By year five, total state spending is estimated to increase by $68.2 million."
+      }
+    ]
+  },
+  "connection": {
+    "text": "Disagreeing keeps the 2022 law, under which possessing more than 1 gram is a felony and the most serious dealing already carries 8 to 32 years. Fentanyl stays illegal either way.",
+    "sources": [
+      {
+        "url": "https://www.coloradopolitics.com/2026/10/08/panel-debates-effects-increased-fentanyl-penalties-will-have-on-state-4/",
+        "title": "DU Panel Debates Colorado Fentanyl Penalties Measure (Colorado Politics)",
+        "date": "2026-10-08",
+        "quote": "In 2022, legislators, under public pressure following several high-profile overdose deaths, passed a law making it a felony to possess more than 1 gram of any substance containing fentanyl, carfentanil, benzimidazole opiate or analogs of those substances."
+      },
+      {
+        "url": "https://www.coloradopolitics.com/2026/10/08/panel-debates-effects-increased-fentanyl-penalties-will-have-on-state-4/",
+        "title": "DU Panel Debates Colorado Fentanyl Penalties Measure (Colorado Politics)",
+        "date": "2026-10-08",
+        "quote": "Under 1 gram, possession of those substances is a misdemeanor."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "The most serious fentanyl-related drug crimes mandate a minimum prison sentence of 8 years up to a maximum of 32 years."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "A “substance” includes the total weight of any mixture containing fentanyl rather than the amount of fentanyl itself."
+      }
+    ]
+  },
   "agree_means": "Yes makes possessing any amount a felony and requires 8 to 32 years for distributing any amount. It also ends some options to reduce penalties, such as \"Good Samaritan\" reductions in distribution cases.",
   "disagree_means": "No keeps current law: possessing under 1 gram stays a misdemeanor, prison for distribution depends on the amount, and judges keep options to reduce penalties.",
+  "example": {
+    "text": "Someone caught with half a gram of a fentanyl mixture faces a misdemeanor today. Under Proposition 132 it would be a felony, which could be reduced to a misdemeanor after court-ordered treatment.",
+    "sources": [
+      {
+        "url": "https://www.coloradopolitics.com/2026/10/08/panel-debates-effects-increased-fentanyl-penalties-will-have-on-state-4/",
+        "title": "DU Panel Debates Colorado Fentanyl Penalties Measure (Colorado Politics)",
+        "date": "2026-10-08",
+        "quote": "In 2022, legislators, under public pressure following several high-profile overdose deaths, passed a law making it a felony to possess more than 1 gram of any substance containing fentanyl, carfentanil, benzimidazole opiate or analogs of those substances."
+      },
+      {
+        "url": "https://www.coloradopolitics.com/2026/10/08/panel-debates-effects-increased-fentanyl-penalties-will-have-on-state-4/",
+        "title": "DU Panel Debates Colorado Fentanyl Penalties Measure (Colorado Politics)",
+        "date": "2026-10-08",
+        "quote": "Under 1 gram, possession of those substances is a misdemeanor."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "The most serious fentanyl-related drug crimes mandate a minimum prison sentence of 8 years up to a maximum of 32 years."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "A “substance” includes the total weight of any mixture containing fentanyl rather than the amount of fentanyl itself."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "The measure also makes possession of any amount of fentanyl a felony. However, if a person possesses less than one gram and successfully completes court-ordered drug rehabilitation treatment, the felony charge may be reduced to a misdemeanor."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "For those convicted of distributing any amount of fentanyl, the measure requires a prison sentence of between 8 and 32 years."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "Finally, judges may not consider mitigating factors, such as whether an offender reasonably believed the substance did not contain fentanyl."
+      }
+    ]
+  },
   "now": [
     {
       "text": "Since a 2022 law, possessing more than 1 gram of a fentanyl mixture is a felony; under 1 gram it is a misdemeanor. The most serious distribution crimes already carry a mandatory 8 to 32 years. Weight counts the whole mixture, not pure fentanyl.",

@@ -1,8 +1,95 @@
 {
   "id": "mail-ballot-id",
   "plain": "Colorado now checks mail ballots by comparing the signature on the return envelope to the one on file. Amendment 84 would also require an ID number on the envelope.",
+  "short_version": {
+    "text": "Colorado checks mail ballots by signature today and did not count 1.4 percent of returned mail ballots in 2024. Amendment 84 adds an ID number. In Texas, a similar rule sent rejections up sharply at first, and they fell after envelopes improved. No one has estimated the effect in Colorado.",
+    "sources": [
+      {
+        "url": "https://www.eac.gov/sites/default/files/2025-07/2024_EAVS_Report_508.pdf",
+        "title": "2024 Election Administration and Voting Survey Comprehensive Report (U.S. Election Assistance Commission)",
+        "date": "2025-06-30",
+        "quote": "Colorado [4] 42,751 1.4% 434 317,337 10.6% 65,629 2.2%"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+        "date": "2026-10-16",
+        "quote": "This new verification process created by the measure is in addition to the current signature verification process for mail ballots.",
+        "date_basis": "accessed"
+      },
+      {
+        "url": "https://www.cbsnews.com/news/texas-election-officials-rejected-one-out-of-eight-mail-ballots-cast-in-primary",
+        "title": "Texas election officials rejected one out of eight mail ballots cast in primary (CBS News)",
+        "date": "2022-04-06",
+        "quote": "24,636 mail-in ballots were rejected out of 198,947 that were returned. That's a rejection rate of 12.4%."
+      },
+      {
+        "url": "https://www.votebeat.org/texas/2025/05/28/mail-voting-decline-under-senate-bill-1-election-law-id-requirement/",
+        "title": "Study links Texas ID rules in SB1 to changing voting patterns (Votebeat)",
+        "date": "2025-05-28",
+        "quote": "The county had over 7,000 mail-in ballots, and over 700 were rejected due to the new ID requirements, he said."
+      },
+      {
+        "url": "https://www.cbsnews.com/news/texas-election-officials-rejected-one-out-of-eight-mail-ballots-cast-in-primary",
+        "title": "Texas election officials rejected one out of eight mail ballots cast in primary (CBS News)",
+        "date": "2022-04-06",
+        "quote": "Texas has among the strictest requirements in the nation for voting by mail."
+      }
+    ]
+  },
+  "connection": {
+    "text": "Disagreeing keeps signature checks alone. Either way, every active voter still gets a mail ballot.",
+    "sources": [
+      {
+        "url": "https://coloradonewsline.com/2024/09/05/voting-basics-how-ballot-signature-verification-works/",
+        "title": "Voting basics: How ballot signature verification works (Colorado Newsline)",
+        "date": "2024-09-05",
+        "quote": "A ballot will be rejected if a team of two election judges from different political parties agree that a voter’s signature on their ballot doesn’t match the one elections officials have on file, or if the signature is missing altogether.",
+        "via": "browser"
+      },
+      {
+        "url": "https://coloradosos.gov/pubs/elections/FAQs/rejectedBallots.html",
+        "title": "Rejected Ballots FAQs (Colorado Secretary of State)",
+        "date": "2026-10-16",
+        "quote": "Colorado law requires county clerks to mail you a letter explaining why your ballot was rejected, and the steps you need to take to resolve or “cure” the problems so that your ballot will be counted.",
+        "date_basis": "accessed"
+      }
+    ]
+  },
   "agree_means": "Every mail voter would write the last four digits of a Social Security number, or a Colorado driver's license or ID number, on the envelope. A ballot with a missing or unmatched number would not count until the voter fixed it.",
   "disagree_means": "Signature checks stay as the only test for mail ballots, with the current letter-and-fix process for problems.",
+  "example": {
+    "text": "You would write a number on your return envelope: the last four digits of your Social Security number, or your Colorado driver's license or ID card number. If it's missing or wrong, the county contacts you, and you have until eight days after Election Day to fix it.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+        "date": "2026-10-16",
+        "quote": "This new verification process created by the measure is in addition to the current signature verification process for mail ballots.",
+        "date_basis": "accessed"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+        "date": "2026-10-16",
+        "quote": "If a voter’s identification information is missing or cannot be matched to the state voter registration database, the county election office must contact the voter to tell them how to correct the discrepancy.",
+        "date_basis": "accessed"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+        "date": "2026-10-16",
+        "quote": "the ballot will not be counted unless the voter takes steps within eight days of election day to confirm their identify",
+        "date_basis": "accessed"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "include the last four digits of their social security number or their Colorado driver’s license or identification card number on the outside of their mail ballot"
+      }
+    ]
+  },
   "now": [
     {
       "text": "Election judges compare each signature to the one on file. A ballot is rejected only if two judges from different parties agree it is missing or does not match. The voter gets a letter and eight days after Election Day to fix it.",

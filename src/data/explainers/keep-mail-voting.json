@@ -1,8 +1,93 @@
 {
   "id": "keep-mail-voting",
   "plain": "Should Colorado keep mailing a ballot to every active voter, with drop boxes and in-person voting centers, largely as it does now?",
+  "short_version": {
+    "text": "Colorado has mailed every active voter a ballot since 2013. In 2024, 92 percent voted by mail and turnout was high, and the state says its post-election audits have never found a voting-system error. A study of the early years found lower costs. The pressure now comes from federal mail-ballot rules and from proposals like Amendment 84 to add checks.",
+    "sources": [
+      {
+        "url": "https://www.pew.org/en/research-and-analysis/issue-briefs/2016/03/colorado-voting-reforms-early-results",
+        "title": "Colorado Voting Reforms: Early Results (The Pew Charitable Trusts)",
+        "date": "2016-03-22",
+        "quote": "Requiring that mail ballots be sent to all registered voters while still accommodating in-person voting before and on Election Day.",
+        "via": "browser"
+      },
+      {
+        "url": "https://coloradosos.gov/pubs/newsRoom/pressReleases/2024/PR20241206Election.html",
+        "title": "News Release: Secretary of State certifies the 2024 General Election (Colorado Secretary of State)",
+        "date": "2024-12-06",
+        "quote": "Returning a mail ballot was the preferred method for voters with 92.2% of voters choosing to cast their mail ballot during the 2024 General Election"
+      },
+      {
+        "url": "https://www.coloradopolitics.com/2026/10/02/identification-voting-ballot-colorado-amendment-84/",
+        "title": "Amendment 84 | ID requirements for mail ballots (Colorado Politics)",
+        "date": "2026-10-02",
+        "quote": "Colorado also requires identification for in-person voting, while first-time mail voters must provide a copy of an approved identification document."
+      },
+      {
+        "url": "https://www.pew.org/en/research-and-analysis/issue-briefs/2016/03/colorado-voting-reforms-early-results",
+        "title": "Colorado Voting Reforms: Early Results (The Pew Charitable Trusts)",
+        "date": "2016-03-22",
+        "quote": "spent about $9.56 per vote in the 2014 general election, compared with nearly $16 in 2008",
+        "via": "browser"
+      },
+      {
+        "url": "https://www.votebeat.org/national/2026/09/15/trump-mail-voting-executive-order-supreme-court-decision-2026-election/",
+        "title": "Supreme Court blocks Trump's proposed mail ballot restrictions for 2026 election (Votebeat)",
+        "date": "2026-09-15",
+        "quote": "Trump’s order directed the U.S. Postal Service to set up a new system that would allow the agency to block delivery of mail ballots to voters not on a list presubmitted by state election officials."
+      }
+    ]
+  },
+  "connection": {
+    "text": "Colorado's system rests on a 2013 state law, and the secretary of state oversees elections. Amendment 84 on this ballot would keep mail voting but add an ID number.",
+    "sources": [
+      {
+        "url": "https://www.pew.org/en/research-and-analysis/issue-briefs/2016/03/colorado-voting-reforms-early-results",
+        "title": "Colorado Voting Reforms: Early Results (The Pew Charitable Trusts)",
+        "date": "2016-03-22",
+        "quote": "Requiring that mail ballots be sent to all registered voters while still accommodating in-person voting before and on Election Day.",
+        "via": "browser"
+      },
+      {
+        "url": "https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260914SCOTUS.html",
+        "title": "Victory for Voters: Supreme Court Determines Postal Service May Not Enact Changes ahead of 2026 General Election (Colorado Secretary of State)",
+        "date": "2026-09-14",
+        "quote": "County Clerks are required to send ballots to all voters between October 2 and October 9, 2026. Ballot drop boxes will be available statewide beginning October 12, 2026, and voter centers will be open statewide beginning October 19, 2026."
+      },
+      {
+        "url": "https://coloradosos.gov/pubs/newsRoom/pressReleases/2024/PR20241122Audit.html",
+        "title": "News Release: 2024 post-election audit complete (Colorado Secretary of State)",
+        "date": "2024-11-22",
+        "quote": "Colorado's multilayered security approach ensures that each election is fair, accurate and secure, and that every Colorado voter has their voice heard"
+      },
+      {
+        "url": "https://www.coloradopolitics.com/2026/10/02/identification-voting-ballot-colorado-amendment-84/",
+        "title": "Amendment 84 | ID requirements for mail ballots (Colorado Politics)",
+        "date": "2026-10-02",
+        "quote": "Supporters of Initiative No. 362 argue that requiring additional identifying information would strengthen election security and help prevent fraudulent ballots."
+      }
+    ]
+  },
   "agree_means": "Agreeing keeps universal mail ballots, drop boxes, voting centers and the post-election audit, with room for smaller fixes.",
   "disagree_means": "Disagreeing means a major change, such as ending automatic mail ballots, requiring in-person voting or counting by hand. That would take new laws, polling places and workers.",
+  "example": {
+    "text": "You can mail your ballot back, put it in a drop box, or vote in person at a vote center; this year drop boxes opened October 12 and vote centers October 19.",
+    "sources": [
+      {
+        "url": "https://www.pew.org/en/research-and-analysis/issue-briefs/2016/03/colorado-voting-reforms-early-results",
+        "title": "Colorado Voting Reforms: Early Results (The Pew Charitable Trusts)",
+        "date": "2016-03-22",
+        "quote": "Requiring that mail ballots be sent to all registered voters while still accommodating in-person voting before and on Election Day.",
+        "via": "browser"
+      },
+      {
+        "url": "https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260914SCOTUS.html",
+        "title": "Victory for Voters: Supreme Court Determines Postal Service May Not Enact Changes ahead of 2026 General Election (Colorado Secretary of State)",
+        "date": "2026-09-14",
+        "quote": "County Clerks are required to send ballots to all voters between October 2 and October 9, 2026. Ballot drop boxes will be available statewide beginning October 12, 2026, and voter centers will be open statewide beginning October 19, 2026."
+      }
+    ]
+  },
   "now": [
     {
       "text": "A 2013 state law sends a mail ballot to every active voter. Voters can mail it back, use a drop box or vote at a voting center. This year ballots had to go out October 2 to 9; drop boxes open October 12 and centers October 19.",

@@ -248,3 +248,12 @@ wa-dialog.explainer::part(title) { font-size: 20px; font-weight: 600; color: var
 .landing-steps p { margin: 0; color: var(--pc-muted); max-width: 62ch; }
 .step-number { flex: none; width: 32px; height: 32px; border-radius: 50%; border: 1px solid var(--pc-border); display: grid; place-items: center; font-size: 14px; color: var(--pc-muted); }
 @media (max-width: 899px) { .hero-copy h1 br, .landing-band h2 br { display: none; } }
+
+/* Explainer: the short version, the ballot connection and the measure yes/no lines */
+.explainer-short { padding: 12px 14px; border-radius: 10px; background: var(--pc-cobalt-soft, var(--pc-fill)); border: 1px solid var(--pc-cobalt-line, var(--pc-border)); }
+.explainer-short h3 { margin-bottom: 4px; }
+.explainer-ballot { display: grid; gap: 8px; padding: 12px 14px; border-radius: 10px; border: 1px solid var(--pc-border); }
+.explainer-ballot h3 { margin-bottom: 0; }
+.explainer-measures { margin: 0; padding-left: 1.1em; display: grid; gap: 8px; }
+.explainer-yesno { display: grid; gap: 4px; margin-top: 4px; font-size: var(--pc-fs-small); color: var(--pc-muted); }
+.explainer-body--inline { gap: 20px; }

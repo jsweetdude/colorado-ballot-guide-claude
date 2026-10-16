@@ -1,8 +1,71 @@
 {
   "id": "challenge-federal-policies",
   "plain": "Should Colorado's state government keep going to court to challenge the federal administration's policies?",
+  "short_version": {
+    "text": "Colorado's attorney general has filed or joined 82 lawsuits against the current federal administration, and in most cases decided so far courts at least temporarily blocked the policy. The governor's office says the suits saved more than $868 million; critics see politics and cost. Even the Republican nominee for attorney general says he would keep many of the cases.",
+    "sources": [
+      {
+        "url": "https://www.denvergazette.com/2026/09/14/green-card-applications-colorado-lawsuit-trump-rule/",
+        "title": "Colorado AG Phil Weiser files 82nd lawsuit against Trump administration over public charge rule (Denver Gazette)",
+        "date": "2026-09-14",
+        "quote": "It is the 82nd lawsuit filed by his office against the Trump administration."
+      },
+      {
+        "url": "https://coloradosun.com/2025/08/04/colorado-attorney-general-phil-weiser-lawsuits-trump/",
+        "title": "Colorado attorney general lawsuits against Trump tracker (The Colorado Sun)",
+        "date": "2026-06-17",
+        "quote": "courts have partially or fully blocked Trump administration policies from taking effect, at least temporarily, in 36 cases, left the policies in place for now in eight cases, and are still considering 22 cases."
+      },
+      {
+        "url": "https://www.coloradopolitics.com/2025/06/17/colorado-tracks-federal-funds-at-risk-of-cuts-by-trump-administration-c847bc80-501b-47a8-827c-b35371314d0c",
+        "title": "Colorado tracks federal funds at risk of cuts by Trump administration (Colorado Politics)",
+        "date": "2025-06-17",
+        "quote": "The 2025-26 state budget shows that Colorado anticipates $14 billion in federal funds, with $7.8 billion allocated to cover Medicaid costs."
+      },
+      {
+        "url": "https://coloradosun.com/2026/10/06/michael-allen-jena-griswold-colorado-attorney-general-election-voter-guide/",
+        "title": "Michael Allen and Jena Griswold on the issues in the attorney general race (The Colorado Sun)",
+        "date": "2026-10-06",
+        "quote": "I would guess that there’s a big chunk of those that we would continue and maybe some that we wouldn’t continue"
+      }
+    ]
+  },
+  "connection": {
+    "text": "The attorney general's office files these suits, so this bears most directly on the attorney general's race.",
+    "sources": [
+      {
+        "url": "https://www.denvergazette.com/2026/09/14/green-card-applications-colorado-lawsuit-trump-rule/",
+        "title": "Colorado AG Phil Weiser files 82nd lawsuit against Trump administration over public charge rule (Denver Gazette)",
+        "date": "2026-09-14",
+        "quote": "It is the 82nd lawsuit filed by his office against the Trump administration."
+      },
+      {
+        "url": "https://coloradosun.com/2025/08/04/colorado-attorney-general-phil-weiser-lawsuits-trump/",
+        "title": "Colorado attorney general lawsuits against Trump tracker (The Colorado Sun)",
+        "date": "2026-06-17",
+        "quote": "The 66 cases Weiser has brought so far eclipse the 11 he filed against Trump during the Republican’s first presidency."
+      },
+      {
+        "url": "https://coloradosun.com/2025/08/04/colorado-attorney-general-phil-weiser-lawsuits-trump/",
+        "title": "Colorado attorney general lawsuits against Trump tracker (The Colorado Sun)",
+        "date": "2026-06-17",
+        "quote": "Weiser, a Democrat running for governor in 2026, joined other state attorneys general or governors on all of the cases."
+      }
+    ]
+  },
   "agree_means": "Agreeing backs the attorney general's lawsuits and pledges to continue them, including the cost and the chance of losing some cases.",
   "disagree_means": "Disagreeing means calling the lawsuits political or wasteful, or choosing to work with the administration instead of suing it.",
+  "example": {
+    "text": "In February 2026 Colorado sued over the cancellation of $8 billion in energy and infrastructure awards, more than $600 million of it for Colorado projects.",
+    "sources": [
+      {
+        "url": "https://www.kkco11news.com/2026/02/19/colorado-challenges-trump-administrations-600m-energy-funding-cuts",
+        "title": "Colorado challenges Trump administration’s $600M energy funding cuts (KKCO 11 News)",
+        "date": "2026-02-19",
+        "quote": "cancel $8 billion in energy and infrastructure funding nationwide, including more than $600 million in Colorado projects."
+      }
+    ]
+  },
   "now": [
     {
       "text": "Attorney General Phil Weiser's office says it has filed or joined 82 lawsuits against the administration since January 2025. He filed 11 during Trump's first term. Weiser joined other states on every case in a Colorado Sun review.",

@@ -18,9 +18,9 @@ let found = 0, missing = 0, unreachable = 0, browser = 0;
 const misses = [], blocked = [], browserRead = [];
 for (const f of files) {
   const e = JSON.parse(readFileSync(join(dir, f), 'utf8'));
-  const sections = ['now', 'stakes', 'case_for', 'case_against', 'unknowns'];
+  const sections = ['short_version', 'connection', 'example', 'now', 'stakes', 'case_for', 'case_against', 'unknowns'];
   for (const sec of sections)
-    for (const [i, item] of (e[sec] ?? []).entries())
+    for (const [i, item] of (Array.isArray(e[sec]) ? e[sec] : e[sec] ? [e[sec]] : []).entries())
       for (const s of item.sources ?? []) {
         const where = `${e.id} / ${sec}[${i}]`;
         const page = await pageText(s.url);

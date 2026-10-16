@@ -1,8 +1,114 @@
 {
   "id": "keep-tariffs",
   "plain": "Should the federal government keep broad tariffs, which are taxes on goods imported into the United States? The rules changed several times in 2025 and 2026.",
+  "short_version": {
+    "text": "Tariffs are taxes paid by importers, and most of the cost has landed on U.S. buyers, about $1,100 a household a year by one estimate. Factory jobs fell rather than rose from April 2025 to February 2026, and courts struck down part of the tariffs. Supporters say they pressure trading partners and raise revenue.",
+    "sources": [
+      {
+        "url": "https://www.everycrsreport.com/files/2026-10-08_R49481_ab4c7edd9ff7686b08fe8599738ceea629983ebf.html",
+        "title": "Active Presidential Tariff Actions in 2026: Fact Sheet (Congressional Research Service)",
+        "date": "2026-10-08",
+        "quote": "Following the Supreme Court's ruling on February 20, 2026, invalidating the Trump Administration's use of the International Emergency Economic Powers Act (IEEPA) to impose certain tariffs, President Trump has used a combination of other trade authorities to impose tariffs."
+      },
+      {
+        "url": "https://budgetlab.yale.edu/research/state-us-tariffs-april-8-2026",
+        "title": "The State of U.S. Tariffs (Yale Budget Lab)",
+        "date": "2026-08-24",
+        "quote": "We estimate the ultimate consumer price impact of current-law tariff policy to be about 0.7%."
+      },
+      {
+        "url": "https://www.hppr.org/npr-news/2026-04-02/have-trumps-tariffs-worked-this-is-where-things-stand-a-year-after-liberation-day",
+        "title": "Have Trump's tariffs worked? This is where things stand a year after 'Liberation Day' (NPR, via High Plains Public Radio)",
+        "date": "2026-04-02",
+        "quote": "Taxing imports was supposed to give a boost to U.S. manufacturers."
+      },
+      {
+        "url": "https://www.ustr.gov/about/policy-offices/press-office/fact-sheets/2026/july/fact-sheet-ustr-section-301-action-response-failure-60-economies-ban-imports-produced-forced-labor",
+        "title": "Fact Sheet: USTR Section 301 Action in Response to the Failure of 60 Economies to Ban Imports Produced with Forced Labor (Office of the U.S. Trade Representative)",
+        "date": "2026-10-16",
+        "date_basis": "accessed",
+        "quote": "To date, 10 trading partners have agreed to enact such a ban in their Agreements on Reciprocal Trade"
+      }
+    ]
+  },
+  "connection": {
+    "text": "Tariffs come from the president acting under laws Congress passed, and the Supreme Court ruled in February 2026 that one of those laws did not allow them. Congress can change those laws, so this bears most on your U.S. Senate and House races.",
+    "sources": [
+      {
+        "url": "https://www.everycrsreport.com/files/2026-10-08_R49481_ab4c7edd9ff7686b08fe8599738ceea629983ebf.html",
+        "title": "Active Presidential Tariff Actions in 2026: Fact Sheet (Congressional Research Service)",
+        "date": "2026-10-08",
+        "quote": "Following the Supreme Court's ruling on February 20, 2026, invalidating the Trump Administration's use of the International Emergency Economic Powers Act (IEEPA) to impose certain tariffs, President Trump has used a combination of other trade authorities to impose tariffs."
+      },
+      {
+        "url": "https://www.everycrsreport.com/files/2026-10-08_R49481_ab4c7edd9ff7686b08fe8599738ceea629983ebf.html",
+        "title": "Active Presidential Tariff Actions in 2026: Fact Sheet (Congressional Research Service)",
+        "date": "2026-10-08",
+        "quote": "On July 23, 2026, President Trump imposed tariff rates of 10% or 12.5% on 60 economies"
+      },
+      {
+        "url": "https://www.everycrsreport.com/files/2026-10-08_R49481_ab4c7edd9ff7686b08fe8599738ceea629983ebf.html",
+        "title": "Active Presidential Tariff Actions in 2026: Fact Sheet (Congressional Research Service)",
+        "date": "2026-10-08",
+        "quote": "BIS is also in the process of conducting other Section 232 investigations to determine whether to levy further duties on specific goods for national security purposes."
+      },
+      {
+        "url": "https://www.piie.com/blogs/realtime-economics/2026/who-pays-tariffs-insights-recent-research",
+        "title": "Who pays for tariffs? Insights from recent research (Peterson Institute for International Economics)",
+        "date": "2026-08-03",
+        "quote": "Another recent study finds that US importers bear the full burden of paying the tariffs."
+      }
+    ]
+  },
   "agree_means": "Supports keeping the broad import taxes the president has imposed since 2025, accepting higher prices on some goods in return for trade leverage, revenue and support for U.S. industry.",
   "disagree_means": "Opposes broad tariffs and wants them ended or narrowed, accepting less trade leverage and less federal revenue in return for lower prices and less trade uncertainty.",
+  "example": {
+    "text": "A Larimer County dairy farmer told Sen. Hickenlooper that corn and wheat prices were down because of tariffs. A shopper pays more for imported goods: about $1,100 a year per household, by the Yale Budget Lab's estimate.",
+    "sources": [
+      {
+        "url": "https://www.colorado.gov/governor/news/governor-polis-releases-new-report-detailing-how-trumps-tariff-taxes-are-squeezing-colorado",
+        "title": "Governor Polis Releases New Report Detailing How Trump’s Tariff Taxes Are Squeezing Colorado Businesses, Driving Economic Uncertainty, and Threatening Jobs (Colorado Governor's Office)",
+        "date": "2025-11-20",
+        "quote": "80% of agricultural respondents anticipate future negative impacts from tariffs, including pricing increases, sourcing difficulties, and delivery delays."
+      },
+      {
+        "url": "https://www.coloradopolitics.com/2026/01/21/colorado-farmers-warn-u-s-sen-john-hickenlooper-tariffs-and-research-cuts-endanger-agriculture/",
+        "title": "Colorado farmers warn U.S. Sen. John Hickenlooper tariffs and research cuts endanger agriculture (Colorado Politics)",
+        "date": "2026-01-21",
+        "quote": "On the export side, corn and wheat prices are down because of tariffs."
+      },
+      {
+        "url": "https://budgetlab.yale.edu/research/state-us-tariffs-april-8-2026",
+        "title": "The State of U.S. Tariffs (Yale Budget Lab)",
+        "date": "2026-08-24",
+        "quote": "We estimate the ultimate consumer price impact of current-law tariff policy to be about 0.7%."
+      },
+      {
+        "url": "https://budgetlab.yale.edu/research/state-us-tariffs-april-8-2026",
+        "title": "The State of U.S. Tariffs (Yale Budget Lab)",
+        "date": "2026-08-24",
+        "quote": "Estimated household costs due to tariffs total about $1,100 annually under current law."
+      },
+      {
+        "url": "https://www.piie.com/blogs/realtime-economics/2026/who-pays-tariffs-insights-recent-research",
+        "title": "Who pays for tariffs? Insights from recent research (Peterson Institute for International Economics)",
+        "date": "2026-08-03",
+        "quote": "US buyers of imports—US consumers and firms together—bore about 90 percent of the tariff burden in 2025."
+      },
+      {
+        "url": "https://www.piie.com/blogs/realtime-economics/2026/who-pays-tariffs-insights-recent-research",
+        "title": "Who pays for tariffs? Insights from recent research (Peterson Institute for International Economics)",
+        "date": "2026-08-03",
+        "quote": "finds that pass-through to consumer prices is complete about seven months after implementation"
+      },
+      {
+        "url": "https://www.piie.com/blogs/realtime-economics/2026/who-pays-tariffs-insights-recent-research",
+        "title": "Who pays for tariffs? Insights from recent research (Peterson Institute for International Economics)",
+        "date": "2026-08-03",
+        "quote": "with a cumulative effect on the consumer price index (CPI) of about 0.8 percentage points by early 2026"
+      }
+    ]
+  },
   "now": [
     {
       "text": "Tariffs are taxes paid by importers. In February 2026 the Supreme Court ruled the president could not use an emergency-powers law to impose them. The administration turned to other laws. Since July, imports from 60 economies face a 10% or 12.5% tariff, with exceptions. Specific goods face separate national-security tariffs.",

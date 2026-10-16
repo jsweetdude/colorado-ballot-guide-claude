@@ -1,8 +1,118 @@
 {
   "id": "abortion-legal",
   "plain": "Should abortion be legal in all or most cases? In Colorado it is legal today with few limits, and the right is now in the state constitution.",
+  "short_version": {
+    "text": "Abortion is legal in Colorado at any stage, and since 2024 that right is in the state constitution, so changing it would take another statewide vote. About 30 percent of abortions in Colorado in 2023 were for out-of-state patients. The open questions are federal: rules for the abortion pill and Medicaid funding.",
+    "sources": [
+      {
+        "url": "https://coloradosun.com/2024/10/01/amendment-79-explained-colorado-abortion/",
+        "title": "Colorado Amendment 79 explained: Adding abortion access to constitution (The Colorado Sun)",
+        "date": "2024-10-01",
+        "quote": "Under current Colorado law, abortion is legal in the state at any time during a pregnancy. Amendment 79 wouldn’t affect that."
+      },
+      {
+        "url": "https://www.cpr.org/2024/02/06/record-number-out-of-state-abortion-patients-colorado/",
+        "title": "Out-of-state patients keep coming to Colorado in record numbers as abortion remains a political fight in 2024 (CPR News)",
+        "date": "2024-02-06",
+        "quote": "In 2023, about 4,200 patients came to Colorado from out of state for the procedure.",
+        "via": "browser"
+      },
+      {
+        "url": "https://coloradosun.com/2024/10/01/amendment-79-explained-colorado-abortion/",
+        "title": "Colorado Amendment 79 explained: Adding abortion access to constitution (The Colorado Sun)",
+        "date": "2024-10-01",
+        "quote": "If passed, Amendment 79 would prevent the legislature from adopting any abortion restrictions. Only stripping Amendment 79 from the constitution, a tall task, would make that possible."
+      },
+      {
+        "url": "https://www.pewresearch.org/politics/2026/03/12/majority-of-americans-continue-to-say-abortion-should-be-legal-in-all-or-most-cases/",
+        "title": "Majority of Americans continue to say abortion should be legal in all or most cases (Pew Research Center)",
+        "date": "2026-03-12",
+        "quote": "Now, with a patchwork of differing state laws in effect, perceptions of abortion access vary by where people live."
+      }
+    ]
+  },
+  "connection": {
+    "text": "Colorado's protections can change only by amending the constitution again. National rules, such as on the abortion pill or a federal law, come from Congress and federal agencies, so this also bears on your U.S. Senate and House races.",
+    "sources": [
+      {
+        "url": "https://coloradosun.com/2024/10/01/amendment-79-explained-colorado-abortion/",
+        "title": "Colorado Amendment 79 explained: Adding abortion access to constitution (The Colorado Sun)",
+        "date": "2024-10-01",
+        "quote": "If passed, Amendment 79 would prevent the legislature from adopting any abortion restrictions. Only stripping Amendment 79 from the constitution, a tall task, would make that possible."
+      },
+      {
+        "url": "https://leg.colorado.gov/sites/default/files/images/2023-2024_89vbb.pdf",
+        "title": "2024 Blue Book: Amendment 79, Constitutional Right to Abortion (Colorado Legislative Council Staff)",
+        "date": "2024-09-05",
+        "quote": "Colorado’s constitution limits the ability of lawmakers to pass policies preventing"
+      },
+      {
+        "url": "https://leg.colorado.gov/sites/default/files/images/2023-2024_89vbb.pdf",
+        "title": "2024 Blue Book: Amendment 79, Constitutional Right to Abortion (Colorado Legislative Council Staff)",
+        "date": "2024-09-05",
+        "quote": "abortions later in pregnancies, establishing parental notification laws, or creating"
+      },
+      {
+        "url": "https://www.pewresearch.org/politics/2026/03/12/majority-of-americans-continue-to-say-abortion-should-be-legal-in-all-or-most-cases/",
+        "title": "Majority of Americans continue to say abortion should be legal in all or most cases (Pew Research Center)",
+        "date": "2026-03-12",
+        "quote": "Now, with a patchwork of differing state laws in effect, perceptions of abortion access vary by where people live."
+      },
+      {
+        "url": "https://www.pewresearch.org/politics/2026/03/12/majority-of-americans-continue-to-say-abortion-should-be-legal-in-all-or-most-cases/",
+        "title": "Majority of Americans continue to say abortion should be legal in all or most cases (Pew Research Center)",
+        "date": "2026-03-12",
+        "quote": "A 60% majority of U.S. adults say abortion should be legal in all or most cases."
+      },
+      {
+        "url": "https://abcnews.com/Politics/wireStory/fda-review-abortion-pill-continue-year-137085064",
+        "title": "FDA says its review of abortion pill will continue into next year (Associated Press, via ABC News)",
+        "date": "2026-10-07",
+        "quote": "A report on the findings is expected “no later than March 2027,” after which the agency will decide whether to impose new restrictions or other changes on the drug's use."
+      }
+    ]
+  },
   "agree_means": "Supports keeping abortion legal and widely available, as Colorado law and Amendment 79 do, and opposes new state or federal bans or limits.",
   "disagree_means": "Supports bans or new limits on abortion. In Colorado, new limits would first require changing the state constitution.",
+  "example": {
+    "text": "A patient from Texas can travel to Colorado for an abortion today; about 2,800 did in 2023. Whether the abortion pill stays as available depends on a federal review now under way.",
+    "sources": [
+      {
+        "url": "https://www.cpr.org/2024/02/06/record-number-out-of-state-abortion-patients-colorado/",
+        "title": "Out-of-state patients keep coming to Colorado in record numbers as abortion remains a political fight in 2024 (CPR News)",
+        "date": "2024-02-06",
+        "quote": "In 2023, about 4,200 patients came to Colorado from out of state for the procedure.",
+        "via": "browser"
+      },
+      {
+        "url": "https://www.cpr.org/2024/02/06/record-number-out-of-state-abortion-patients-colorado/",
+        "title": "Out-of-state patients keep coming to Colorado in record numbers as abortion remains a political fight in 2024 (CPR News)",
+        "date": "2024-02-06",
+        "quote": "About 2,800 patients came from Texas.",
+        "via": "browser"
+      },
+      {
+        "url": "https://www.guttmacher.org/node/300728/printable/print",
+        "title": "States Without Total Abortion Bans See Declines in Clinician-Provided Abortions and Out-of-State Patients (Guttmacher Institute)",
+        "date": "2026-10-16",
+        "date_basis": "accessed",
+        "quote": "Kansas and Colorado—other major destinations for out-of-state patients—also saw declines in out-of-state travel during this period."
+      },
+      {
+        "url": "https://www.cpr.org/2024/02/06/record-number-out-of-state-abortion-patients-colorado/",
+        "title": "Out-of-state patients keep coming to Colorado in record numbers as abortion remains a political fight in 2024 (CPR News)",
+        "date": "2024-02-06",
+        "quote": "the Guttmacher Institute, a research and policy group that advocates for sexual and reproductive health and rights.",
+        "via": "browser"
+      },
+      {
+        "url": "https://abcnews.com/Politics/wireStory/fda-review-abortion-pill-continue-year-137085064",
+        "title": "FDA says its review of abortion pill will continue into next year (Associated Press, via ABC News)",
+        "date": "2026-10-07",
+        "quote": "The FDA said in its filing that it expects to complete a safety study of the pill by mid-December this year."
+      }
+    ]
+  },
   "now": [
     {
       "text": "Colorado has no limit on how late in pregnancy an abortion can happen. A 2022 state law protected the right. In 2024 voters approved Amendment 79, which put it in the state constitution and repealed a 1984 ban on public funding. A 2003 law still requires notice to a parent 48 hours before a minor's abortion.",

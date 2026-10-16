@@ -1,8 +1,95 @@
 {
   "id": "conservation-sales-tax",
   "plain": "Colorado already charges state sales tax on sporting goods such as bikes, camping gear, boats and fishing equipment. Proposition 137 would send part of that money, about $175 million a year, to conservation, wildfire and outdoor programs.",
+  "short_version": {
+    "text": "Proposition 137 raises no tax and no price. It sets aside about $175 million a year of sales tax already collected on sporting goods for wildfire, watershed, parks and outdoor programs. The cost falls on TABOR refunds in years when there are refunds, and on other state programs in years when there aren't.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "The measure applies to most sporting goods categories and does not change the price of sporting goods or the amount of tax collected."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "The measure is expected to eliminate six-tier sales tax TABOR refunds in at least the 2027-28 budget year, by between $26 and $83 per single filer and between $52 and $166 per joint filer, with the actual amount dependent on income level."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "The measure is estimated to direct about $175 million per year towards the identified conservation purposes, which would be in addition to the approximately $114 million that those efforts currently receive."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "In years where state revenue collections are below the TABOR limit, the measure will reduce state money available for other uses (the three largest of which are health care, education, and human services)"
+      }
+    ]
+  },
+  "connection": {
+    "text": "The money now goes into the general budget. If Proposition NN also passes, Proposition 137 shrinks what the state keeps under NN.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "The measure applies to most sporting goods categories and does not change the price of sporting goods or the amount of tax collected."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "Under this measure, the dedicated sales tax revenue would be exempt from the TABOR limit."
+      },
+      {
+        "url": "https://commonsenseinstituteus.org/wp-content/uploads/2026/09/CSI-Report-CO-Prop-137.pdf",
+        "title": "Proposition 137: Sporting Goods Sales Tax Revenue for Conservation (Common Sense Institute)",
+        "date": "2026-09-03",
+        "quote": "Colorado’s existing sales tax system does not separately track sporting goods transactions at the point of collection, so the statute directs Legislative Council Staff to estimate the relevant revenue using an indirect, Census-based methodology"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "Proposition 137 will reduce the amount of money the state actually keeps and spends under Proposition NN, if both measures pass."
+      }
+    ]
+  },
   "agree_means": "Agreeing means voting yes on Proposition 137. Prices and tax rates stay the same, about $175 million a year goes to land, wildfire and outdoor programs, and TABOR refunds shrink in years when refunds are paid.",
   "disagree_means": "Disagreeing means voting no. The sales tax money stays in the general budget, where lawmakers spend it each year or the state refunds it under TABOR.",
+  "example": {
+    "text": "Someone buying a bike or a tent pays the same price and tax either way. What changes is how much state sales tax goes to conservation and wildfire work: about $175 million a year, set by a formula, since the state doesn't track sporting-goods sales separately.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "The measure applies to most sporting goods categories and does not change the price of sporting goods or the amount of tax collected."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "Under this measure, the dedicated sales tax revenue would be exempt from the TABOR limit."
+      },
+      {
+        "url": "https://commonsenseinstituteus.org/wp-content/uploads/2026/09/CSI-Report-CO-Prop-137.pdf",
+        "title": "Proposition 137: Sporting Goods Sales Tax Revenue for Conservation (Common Sense Institute)",
+        "date": "2026-09-03",
+        "quote": "Colorado’s existing sales tax system does not separately track sporting goods transactions at the point of collection, so the statute directs Legislative Council Staff to estimate the relevant revenue using an indirect, Census-based methodology"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "Proposition 137 will reduce the amount of money the state actually keeps and spends under Proposition NN, if both measures pass."
+      }
+    ]
+  },
   "now": [
     {
       "text": "Sporting-goods sales tax now goes into the general budget and counts toward TABOR, the state revenue cap above which extra money is refunded. Proposition 137 would not change prices or the tax collected.",

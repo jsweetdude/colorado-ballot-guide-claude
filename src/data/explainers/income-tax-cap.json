@@ -1,8 +1,65 @@
 {
   "id": "income-tax-cap",
   "plain": "Proposition 136 would write Colorado’s current 4.4 percent income tax rate into state law as a maximum, starting in 2027. It does not change anyone’s rate today.",
+  "short_version": {
+    "text": "By itself, Proposition 136 changes no one's taxes: it writes today's 4.4 percent rate into state law as a ceiling, and the Blue Book finds no fiscal impact. Its real effect is on Amendment 87, the graduated tax. If both pass, a court may have to decide what survives.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "This results in no change to state or local government revenue or spending."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "However, if both measures are approved by voters, the exact outcome is unclear."
+      }
+    ]
+  },
+  "connection": {
+    "text": "Raising an income tax rate already takes a vote of the people, so the cap matters mostly this year, as Amendment 87's rival. It is an ordinary law, not a constitutional change, so it could be changed later.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "The Colorado Constitution already requires that any tax rate increases be approved by voters."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "The state legislature or a citizen initiative may reduce the state income tax rate."
+      },
+      {
+        "url": "https://taxfoundation.org/blog/colorado-income-tax-amendment-87-proposition-136/",
+        "title": "Colorado Income Tax | Amendment 87 & Proposition 136 (Tax Foundation)",
+        "date": "2026-10-02",
+        "quote": "Voters could later repeal it with another simple-majority vote, and the legislature can amend statutes, so it imposes no new restriction on the legislature’s ability to raise income tax rates beyond the political constraint of adopting something contrary to a prior vote of the people."
+      }
+    ]
+  },
   "agree_means": "Agreeing means voting for Proposition 136. Rates stay at 4.4 percent for everyone, and the higher rates on top earners in Amendment 87 would be blocked or put in legal doubt.",
   "disagree_means": "Disagreeing means voting against Proposition 136. The rate stays 4.4 percent for now, but no cap is added to state law, and higher rates for some taxpayers stay possible.",
+  "example": {
+    "text": "A married couple with about $100,000 of taxable income owes $4,400 at 4.4 percent. Proposition 136 would keep that rate as a ceiling in state law.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "A married couple earning $130,000 in income per year may have about $100,000 in taxable income and owe $4,400 in taxes annually."
+      },
+      {
+        "url": "https://commonsenseinstituteus.org/wp-content/uploads/2026/08/CSI-Report-CO-Initiative-232.pdf",
+        "title": "Colorado Initiative 232: Income Tax Rate Cap (Common Sense Institute)",
+        "date": "2026-08-03",
+        "quote": "In 2022, voters approved Proposition 121, bringing the rate down to its current level of 4.4%."
+      }
+    ]
+  },
   "now": [
     {
       "text": "Colorado’s flat rate is 4.4 percent. A married couple with $130,000 of income may have about $100,000 taxable and owe $4,400. Voters set the 4.4 percent rate in 2022.",

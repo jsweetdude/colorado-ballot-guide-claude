@@ -1,8 +1,102 @@
 {
   "id": "child-trafficking-life",
   "plain": "Proposition 133 would make life in prison without parole the required sentence for child sex trafficking. It would also add buying sex with a minor to what counts as child sex trafficking.",
+  "short_version": {
+    "text": "Proposition 133 would make child sex trafficking punishable only by life without parole, instead of 8 to 48 years, and remove judges' discretion. Few cases reach court each year; about a third of trafficking cases end in a trafficking conviction, and most of the rest in a conviction on another charge. State costs would begin in about 14 years.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "keeps the existing felony criminal penalties for child sex trafficking with a sentencing range of 8 to 48 years ... in prison plus a mandatory parole period."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "Proposition 133 increases the penalty for child sex trafficking to life in prison without the possibility of parole, and removes judicial discretion in sentencing."
+      },
+      {
+        "url": "https://dcj.colorado.gov/sites/g/files/lrnvjt1441/files/documents/2025%20CHTC%20Annual%20Report_SECTION%202%20-%20Data%20Collection.pdf",
+        "title": "2025 Colorado Human Trafficking Council Annual Report, Section 2: Data Collection (Colorado Division of Criminal Justice)",
+        "date": "2025-12-19",
+        "quote": "Sex Trafficking - Minor 21 46 21"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "Costs for the measure are estimated to begin in about 14 years. Initial costs are estimated at $180,000 in budget year 2041-42, and grow by that amount for several years thereafter."
+      }
+    ]
+  },
+  "connection": {
+    "text": "Disagreeing keeps today's sentence of 8 to 48 years plus mandatory parole. Child sex trafficking stays a serious felony either way.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "keeps the existing felony criminal penalties for child sex trafficking with a sentencing range of 8 to 48 years ... in prison plus a mandatory parole period."
+      },
+      {
+        "url": "https://www.coloradopolitics.com/2026/10/02/trafficking-minors-penalties-colorado-proposition-133/",
+        "title": "Proposition 133: Penalties for human trafficking of minors (Colorado Politics)",
+        "date": "2026-10-02",
+        "quote": "The measure would increase the penalty for child sex trafficking from the current sentencing range for a Class 2 felony to life in prison without parole"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "8 to 48 years in prison and mandatory 5 years parole"
+      }
+    ]
+  },
   "agree_means": "Yes makes life without parole mandatory for anyone convicted of child sex trafficking, buyers and sellers alike, and takes away the judge's choice of sentence.",
   "disagree_means": "No keeps the current sentence of 8 to 48 years in prison plus a mandatory parole period, set by a judge within that range.",
+  "example": {
+    "text": "Colorado courts handled 46 cases of minor sex trafficking in 2023. Under Proposition 133, a conviction on that charge would mean life without parole; today a judge picks a term between 8 and 48 years.",
+    "sources": [
+      {
+        "url": "https://dcj.colorado.gov/sites/g/files/lrnvjt1441/files/documents/2025%20CHTC%20Annual%20Report_SECTION%202%20-%20Data%20Collection.pdf",
+        "title": "2025 Colorado Human Trafficking Council Annual Report, Section 2: Data Collection (Colorado Division of Criminal Justice)",
+        "date": "2025-12-19",
+        "quote": "Sex Trafficking - Minor 21 46 21"
+      },
+      {
+        "url": "https://dcj.colorado.gov/sites/g/files/lrnvjt1441/files/documents/2025%20CHTC%20Annual%20Report_SECTION%202%20-%20Data%20Collection.pdf",
+        "title": "2025 Colorado Human Trafficking Council Annual Report, Section 2: Data Collection (Colorado Division of Criminal Justice)",
+        "date": "2025-12-19",
+        "quote": "As seen in Figure 28, cases are often not convicted of human trafficking.",
+        "via": "chart read by the editor"
+      },
+      {
+        "url": "https://commonsenseinstituteus.org/colorado/research/crime-and-public-safety/human-trafficking-in-colorado-2025-update/",
+        "title": "Human Trafficking in Colorado: 2025 Update (Common Sense Institute, a free-market think tank)",
+        "date": "2026-02-09",
+        "quote": "There were 48 human trafficking victims in 2025 under the age of 18."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "keeps the existing felony criminal penalties for child sex trafficking with a sentencing range of 8 to 48 years ... in prison plus a mandatory parole period."
+      },
+      {
+        "url": "https://www.coloradopolitics.com/2026/10/02/trafficking-minors-penalties-colorado-proposition-133/",
+        "title": "Proposition 133: Penalties for human trafficking of minors (Colorado Politics)",
+        "date": "2026-10-02",
+        "quote": "The measure would increase the penalty for child sex trafficking from the current sentencing range for a Class 2 felony to life in prison without parole"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "8 to 48 years in prison and mandatory 5 years parole"
+      }
+    ]
+  },
   "now": [
     {
       "text": "Child sex trafficking is now a class 2 felony. The sentence is 8 to 48 years in prison plus five years of mandatory parole.",

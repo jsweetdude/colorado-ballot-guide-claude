@@ -1,16 +1,27 @@
 ---
 import Base from '../../layouts/Base.astro';
 import MeasureBody from '../../components/MeasureBody.astro';
+import ExplainerBody from '../../components/ExplainerBody.astro';
 import { measures, localMeasures, type Measure } from '../../lib/data';
+
+// The "More info" explainer written for this measure's interview statement, if any.
+const explainerModules = import.meta.glob<any>('../../data/explainers/*.json', { eager: true, import: 'default' });
 
 export function getStaticPaths() {
   return [...measures, ...localMeasures].map((measure) => ({ params: { id: measure.id }, props: { measure } }));
 }
 const { measure } = Astro.props as { measure: Measure };
+const explainer = Object.values(explainerModules).find((e) => e.measure === measure.id);
 ---
 <Base title={`${measure.label}: ${measure.title}`} nav="measures" description={measure.yes_means || measure.title}>
   <p class="eyebrow"><a href="/measures/">All measures</a></p>
   <MeasureBody measure={measure} level={2} linkToPage={false} />
+  {explainer && (
+    <section class="pc-card stack" aria-labelledby="context-h">
+      <h2 id="context-h">Background and what's at stake</h2>
+      <ExplainerBody e={explainer} inline />
+    </section>
+  )}
   {measure.sources.length > 0 && (
     <section class="pc-card stack-sm" aria-labelledby="src-h">
       <h2 id="src-h">Where this came from</h2>

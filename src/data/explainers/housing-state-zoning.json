@@ -1,8 +1,121 @@
 {
   "id": "housing-state-zoning",
   "plain": "This asks whether the state should be able to override local zoning to allow more housing. Colorado did so in 2024 with laws on backyard homes, housing near transit, parking and who can share a home.",
+  "short_version": {
+    "text": "Colorado already overrode local zoning in 2024 to allow backyard homes and denser housing near transit. Prices and rents are high and easing only slightly. Zoning is one cost among several, and it isn't yet clear how much housing the new laws will add. The trade-off is more homes against local control.",
+    "sources": [
+      {
+        "url": "https://dlg.colorado.gov/accessory-dwelling-units",
+        "title": "Accessory Dwelling Units, HB24-1152 (Colorado Department of Local Affairs)",
+        "date": "2026-10-16",
+        "quote": "Generally, by June 30, 2025, Subject Jurisdictions must allow one Accessory Dwelling Unit (ADU) where Single-Unit Detached Dwellings are allowed in addition to other requirements and standards.",
+        "date_basis": "accessed",
+        "via": "browser"
+      },
+      {
+        "url": "https://coloradosun.com/2026/10/14/housing-affordability-median-prices-colorado/",
+        "title": "Housing is slightly more affordable in Colorado, a report shows (The Colorado Sun)",
+        "date": "2026-10-14",
+        "quote": "Overall median sales prices statewide dropped to $540,000 last month, down 1.6% from a year ago."
+      },
+      {
+        "url": "https://coloradosun.com/2024/05/08/colorado-land-use-bills-legislature-2024/",
+        "title": "The six major Colorado land-use bills passed by Democrats in the legislature and aimed at housing affordability (The Colorado Sun)",
+        "date": "2024-05-08",
+        "quote": "A Pew Charitable Trusts study found that apartment construction boomed and rents grew more slowly in Minneapolis than in the rest of Minnesota after the city adopted a series of land use reforms, including increasing how much housing could be built along transit corridors."
+      },
+      {
+        "url": "https://coloradosun.com/2025/07/15/colorado-housing-affordability-crisis-united-way-report/",
+        "title": "Colorado’s housing crisis won’t be fixed by zoning alone (The Colorado Sun)",
+        "date": "2025-07-15",
+        "quote": "Building material costs were labeled a challenge by 97% of those surveyed; 91% pointed to the cost and supply of labor."
+      },
+      {
+        "url": "https://coloradosun.com/2024/05/08/colorado-land-use-bills-legislature-2024/",
+        "title": "The six major Colorado land-use bills passed by Democrats in the legislature and aimed at housing affordability (The Colorado Sun)",
+        "date": "2024-05-08",
+        "quote": "The governor hasn’t yet signed the bill, which was panned by Republicans and some Democrats as usurping local control."
+      }
+    ]
+  },
+  "connection": {
+    "text": "Zoning overrides come from state law, as the 2024 laws did; no statewide measure on this ballot addresses them. The races your answer counts toward are listed below.",
+    "sources": [
+      {
+        "url": "https://dlg.colorado.gov/accessory-dwelling-units",
+        "title": "Accessory Dwelling Units, HB24-1152 (Colorado Department of Local Affairs)",
+        "date": "2026-10-16",
+        "quote": "Generally, by June 30, 2025, Subject Jurisdictions must allow one Accessory Dwelling Unit (ADU) where Single-Unit Detached Dwellings are allowed in addition to other requirements and standards.",
+        "date_basis": "accessed",
+        "via": "browser"
+      },
+      {
+        "url": "https://dlg.colorado.gov/transit-oriented-communities",
+        "title": "Transit-Oriented Communities, HB24-1313 (Colorado Department of Local Affairs)",
+        "date": "2026-10-16",
+        "quote": "the following 32 jurisdictions are Transit-Oriented Communities based on the criteria listed above",
+        "date_basis": "accessed",
+        "via": "browser"
+      },
+      {
+        "url": "https://dlg.colorado.gov/transit-oriented-communities",
+        "title": "Transit-Oriented Communities, HB24-1313 (Colorado Department of Local Affairs)",
+        "date": "2026-10-16",
+        "quote": "December 31, 2027 State law requires meeting the Housing Opportunity Goal by this date, DOLA gives notice of any non-compliance",
+        "date_basis": "accessed",
+        "via": "browser"
+      },
+      {
+        "url": "https://coloradosun.com/2024/05/08/colorado-land-use-bills-legislature-2024/",
+        "title": "The six major Colorado land-use bills passed by Democrats in the legislature and aimed at housing affordability (The Colorado Sun)",
+        "date": "2024-05-08",
+        "quote": "But starting July 1, local governments will no longer be able to impose those rules under House Bill 1007, which was signed into law in April by the governor."
+      }
+    ]
+  },
   "agree_means": "Agreeing supports state laws that override local zoning to allow more housing, like Colorado’s 2024 laws on backyard homes, density near transit and occupancy limits.",
   "disagree_means": "Disagreeing leaves zoning decisions to cities and counties and opposes the 2024 state laws.",
+  "example": {
+    "text": "In a city covered by the 2024 laws, a homeowner can now add a backyard home that local rules may have banned. Residents who wanted larger-lot neighborhoods lose some say over that.",
+    "sources": [
+      {
+        "url": "https://dlg.colorado.gov/accessory-dwelling-units",
+        "title": "Accessory Dwelling Units, HB24-1152 (Colorado Department of Local Affairs)",
+        "date": "2026-10-16",
+        "quote": "Generally, by June 30, 2025, Subject Jurisdictions must allow one Accessory Dwelling Unit (ADU) where Single-Unit Detached Dwellings are allowed in addition to other requirements and standards.",
+        "date_basis": "accessed",
+        "via": "browser"
+      },
+      {
+        "url": "https://dlg.colorado.gov/transit-oriented-communities",
+        "title": "Transit-Oriented Communities, HB24-1313 (Colorado Department of Local Affairs)",
+        "date": "2026-10-16",
+        "quote": "the following 32 jurisdictions are Transit-Oriented Communities based on the criteria listed above",
+        "date_basis": "accessed",
+        "via": "browser"
+      },
+      {
+        "url": "https://dlg.colorado.gov/transit-oriented-communities",
+        "title": "Transit-Oriented Communities, HB24-1313 (Colorado Department of Local Affairs)",
+        "date": "2026-10-16",
+        "quote": "December 31, 2027 State law requires meeting the Housing Opportunity Goal by this date, DOLA gives notice of any non-compliance",
+        "date_basis": "accessed",
+        "via": "browser"
+      },
+      {
+        "url": "https://coloradosun.com/2024/05/08/colorado-land-use-bills-legislature-2024/",
+        "title": "The six major Colorado land-use bills passed by Democrats in the legislature and aimed at housing affordability (The Colorado Sun)",
+        "date": "2024-05-08",
+        "quote": "But starting July 1, local governments will no longer be able to impose those rules under House Bill 1007, which was signed into law in April by the governor."
+      },
+      {
+        "url": "https://coloradosun.com/2026/05/05/colorado-lawmakers-abandon-smaller-lots-housing-hb-1114-hb-1308/",
+        "title": "Colorado state lawmakers abandon efforts to legalize smaller lots for single-family homes (The Colorado Sun)",
+        "date": "2026-05-05",
+        "quote": "Let them design their areas the way they want to."
+      }
+    ]
+  },
   "now": [
     {
       "text": "The 2024 laws require many cities to allow backyard homes (ADUs), more homes near transit, and end limits on unrelated roommates. Thirty-two local governments must zone for more housing near transit by December 31, 2027.",

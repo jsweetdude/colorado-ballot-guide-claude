@@ -1,8 +1,105 @@
 {
   "id": "minor-gender-surgery-ban",
   "plain": "Proposition 135 would ban surgery on anyone under 18 meant to change sex characteristics in response to the minor's sense of sex or gender. It would also bar government money and insurance from paying for it.",
+  "short_version": {
+    "text": "Proposition 135 bans gender-transition surgery for minors. It is rare, about 2 per 100,000 teens in a 2019 study, and Colorado's three large children's surgical providers say they don't perform it on transgender patients under 18. Medical groups differ on a legal ban. It doesn't cover hormones or puberty blockers, but its wording could reach some other surgeries.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "for every 100,000 youths aged 15 to 17, an estimated 2.1 youths who identified as transgender or gender diverse had at least one gender-affirming surgery."
+      },
+      {
+        "url": "https://news.wttw.com/2026/02/05/plastic-surgeons-group-calls-delaying-gender-affirming-surgery-until-age-19",
+        "title": "Plastic Surgeons Group Calls for Delaying Gender-Affirming Surgery Until Age 19 (Associated Press via WTTW)",
+        "date": "2026-02-05",
+        "quote": "The nation’s largest professional organization for plastic surgeons recommended that gender-affirming surgeries be delayed until patients turn 19",
+        "via": "browser"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "The measure may also limit other surgeries for minors, including non-transgender minors, if the treatment is interpreted as being in response to the minor’s sex or gender perception."
+      },
+      {
+        "url": "https://www.cpr.org/2026/05/18/colorado-supreme-court-trans-youth-gender-affirming-care/",
+        "title": "Colorado Supreme Court rules in favor of families seeking gender-affirming care, orders Children's Hospital Colorado to resume it (CPR News)",
+        "date": "2026-05-18",
+        "quote": "The lawsuit was filed by several transgender patients and their families earlier this year after Children’s Hospital Colorado stopped writing new prescriptions for hormones and puberty blockers to transgender youth.",
+        "via": "browser"
+      }
+    ]
+  },
+  "connection": {
+    "text": "The vote covers surgery only. Hormones and puberty blockers, the subject of a separate court case, are not part of it. Disagreeing keeps current Colorado law, which lets insurance pay for these surgeries.",
+    "sources": [
+      {
+        "url": "https://www.cpr.org/2026/05/18/colorado-supreme-court-trans-youth-gender-affirming-care/",
+        "title": "Colorado Supreme Court rules in favor of families seeking gender-affirming care, orders Children's Hospital Colorado to resume it (CPR News)",
+        "date": "2026-05-18",
+        "quote": "The lawsuit was filed by several transgender patients and their families earlier this year after Children’s Hospital Colorado stopped writing new prescriptions for hormones and puberty blockers to transgender youth.",
+        "via": "browser"
+      },
+      {
+        "url": "https://www.cpr.org/2026/05/18/colorado-supreme-court-trans-youth-gender-affirming-care/",
+        "title": "Colorado Supreme Court rules in favor of families seeking gender-affirming care, orders Children's Hospital Colorado to resume it (CPR News)",
+        "date": "2026-05-18",
+        "quote": "The decision sends the case back to a lower court and recommends an injunction to require the hospital to resume the care.",
+        "via": "browser"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "The measure does not list specific surgical procedures that are prohibited; instead, the prohibition is based on the reason that a surgery is performed on a minor."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "Proposition 135 allows male circumcision and treatments for medically verifiable disorders of sex development or acquired physical or chemical abnormalities."
+      }
+    ]
+  },
   "agree_means": "Yes bans these surgeries for minors and stops Medicaid, government funds and private insurance from paying for them. Non-surgical care, such as counseling, is not restricted.",
   "disagree_means": "No keeps current Colorado law, which allows these surgeries for minors and lets public and private insurance pay for them.",
+  "example": {
+    "text": "Under Proposition 135, a doctor could not perform chest surgery on a 16-year-old as part of a gender transition, and insurance could not pay for it. Colorado's large children's surgical providers say they do not do it now.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "The measure does not list specific surgical procedures that are prohibited; instead, the prohibition is based on the reason that a surgery is performed on a minor."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "Proposition 135 allows male circumcision and treatments for medically verifiable disorders of sex development or acquired physical or chemical abnormalities."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "for every 100,000 youths aged 15 to 17, an estimated 2.1 youths who identified as transgender or gender diverse had at least one gender-affirming surgery."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "Researchers found no cases of gender-affirming surgeries being performed on youths aged 12 and younger."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "report that they do not perform gender- or sex-based surgeries on transgender patients under 18 years of age."
+      }
+    ]
+  },
   "now": [
     {
       "text": "Prop 135 bans surgery on minors to alter biological sex characteristics in response to a minor's perception of sex or gender. It lists no procedures; the ban depends on the reason for surgery. Circumcision and treatment of medically verifiable disorders of sex development are allowed.",

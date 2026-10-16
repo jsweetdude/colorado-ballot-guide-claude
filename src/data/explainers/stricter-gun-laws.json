@@ -1,8 +1,127 @@
 {
   "id": "stricter-gun-laws",
   "plain": "Should gun laws be stricter than they are now? Colorado added a permit-and-training rule for many semiautomatic guns on August 1, 2026.",
+  "short_version": {
+    "text": "Colorado already has a three-day wait, a minimum buying age of 21, red-flag orders and, since August 2026, a permit and training rule for many semiautomatic guns. Most gun deaths in Colorado are suicides. Research supports some laws, such as background checks and waiting periods, more than others, and the new permit rule faces a court challenge.",
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/hb23-1219",
+        "title": "HB23-1219 Firearms waiting period, bill summary (Colorado General Assembly)",
+        "date": "2026-10-16",
+        "date_basis": "accessed",
+        "quote": "The waiting period is the later in time of 3 days after the initiation of a required background check of the purchaser or when the purchase is approved following any background check."
+      },
+      {
+        "url": "https://leg.colorado.gov/bills/sb25-003",
+        "title": "SB25-003 Firearms bill summary (Colorado General Assembly)",
+        "date": "2026-10-16",
+        "date_basis": "accessed",
+        "quote": "The act prohibits knowingly manufacturing, distributing, transferring, selling, or purchasing a specified semiautomatic firearm on or after August 1, 2026"
+      },
+      {
+        "url": "https://publichealth.jhu.edu/center-for-gun-violence-solutions/data/state-gun-violence-data/colorado",
+        "title": "State Data: Colorado (Johns Hopkins Center for Gun Violence Solutions)",
+        "date": "2026-10-16",
+        "date_basis": "accessed",
+        "quote": "961 Gun Deaths in Colorado",
+        "via": "browser"
+      },
+      {
+        "url": "https://www.rand.org/research/gun-policy/analysis/background-checks.html",
+        "title": "The Effects of Background Checks (RAND Gun Policy in America)",
+        "date": "2026-01-29",
+        "quote": "There is moderate evidence that background checks decrease total homicides and firearm homicides."
+      },
+      {
+        "url": "https://gazette.com/2025/09/02/shooting-association-sues-colorado-over-new-gun-control-law/",
+        "title": "Shooting association sues Colorado over new gun control law (The Gazette, from The Center Square)",
+        "date": "2025-09-02",
+        "quote": "The suit argues the new law puts in place an onerous permit-to-purchase scheme."
+      }
+    ]
+  },
+  "connection": {
+    "text": "State gun laws come from the legislature; SB25-003, the newest, took effect August 1, 2026, with Gov. Polis's support. Federal gun laws come from Congress, and the Supreme Court is deciding cases that could limit both.",
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/sb25-003",
+        "title": "SB25-003 Firearms bill summary (Colorado General Assembly)",
+        "date": "2026-10-16",
+        "date_basis": "accessed",
+        "quote": "The act prohibits knowingly manufacturing, distributing, transferring, selling, or purchasing a specified semiautomatic firearm on or after August 1, 2026"
+      },
+      {
+        "url": "https://leg.colorado.gov/bills/sb25-003",
+        "title": "SB25-003 Firearms bill summary (Colorado General Assembly)",
+        "date": "2026-10-16",
+        "date_basis": "accessed",
+        "quote": "In order to enroll in a basic or extended firearms safety course, a person must hold a valid firearms safety course eligibility card (firearms course card) issued by a sheriff."
+      },
+      {
+        "url": "https://gazette.com/2026/07/28/colorados-new-firearms-law-leads-to-run-on-gun-shops-1/",
+        "title": "Colorado's new firearms law leads to run on gun shops (The Gazette)",
+        "date": "2026-07-29",
+        "quote": "Applicants also must pay a mandatory fee of $52 to Colorado Parks and Wildlife."
+      },
+      {
+        "url": "https://gazette.com/2026/07/28/colorados-new-firearms-law-leads-to-run-on-gun-shops-1/",
+        "title": "Colorado's new firearms law leads to run on gun shops (The Gazette)",
+        "date": "2026-07-29",
+        "quote": "completion of a firearm safety training course of either four or 12 hours."
+      },
+      {
+        "url": "https://www.yahoo.com/news/governor-signs-bill-requiring-training-223357697.html",
+        "title": "Governor signs bill requiring training for semiautomatic guns, banning rapid-fire conversion devices (KDVR, via Yahoo News)",
+        "date": "2025-04-10",
+        "quote": "Polis said the measure would help push Colorado toward its goal of becoming one of the top 10 safest states."
+      },
+      {
+        "url": "https://www.yahoo.com/news/governor-signs-bill-requiring-training-223357697.html",
+        "title": "Governor signs bill requiring training for semiautomatic guns, banning rapid-fire conversion devices (KDVR, via Yahoo News)",
+        "date": "2025-04-10",
+        "quote": "I really think this bill will make Colorado communities safer and prevent both accidents as well as reducing violence"
+      },
+      {
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cod.246985/gov.uscourts.cod.246985.79.0.pdf",
+        "title": "Joint Motion to Set Briefing Schedule, Del Toro v. Polis, No. 1:25-cv-02725 (U.S. District Court for the District of Colorado)",
+        "date": "2026-08-10",
+        "quote": "Plaintiffs intend to file a motion under Fed. R. Civ. P. 65, challenging"
+      }
+    ]
+  },
   "agree_means": "Supports more gun restrictions, such as Colorado's SB25-003 permit rule, wider background checks or bans on certain guns.",
   "disagree_means": "Opposes new restrictions or wants to loosen current ones, saying existing laws are enough or that new limits burden lawful owners.",
+  "example": {
+    "text": "Someone buying a covered semiautomatic rifle in Colorado now needs a sheriff-issued eligibility card, a background check and a 4- or 12-hour safety course, plus a $52 state fee.",
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/sb25-003",
+        "title": "SB25-003 Firearms bill summary (Colorado General Assembly)",
+        "date": "2026-10-16",
+        "date_basis": "accessed",
+        "quote": "The act prohibits knowingly manufacturing, distributing, transferring, selling, or purchasing a specified semiautomatic firearm on or after August 1, 2026"
+      },
+      {
+        "url": "https://leg.colorado.gov/bills/sb25-003",
+        "title": "SB25-003 Firearms bill summary (Colorado General Assembly)",
+        "date": "2026-10-16",
+        "date_basis": "accessed",
+        "quote": "In order to enroll in a basic or extended firearms safety course, a person must hold a valid firearms safety course eligibility card (firearms course card) issued by a sheriff."
+      },
+      {
+        "url": "https://gazette.com/2026/07/28/colorados-new-firearms-law-leads-to-run-on-gun-shops-1/",
+        "title": "Colorado's new firearms law leads to run on gun shops (The Gazette)",
+        "date": "2026-07-29",
+        "quote": "Applicants also must pay a mandatory fee of $52 to Colorado Parks and Wildlife."
+      },
+      {
+        "url": "https://gazette.com/2026/07/28/colorados-new-firearms-law-leads-to-run-on-gun-shops-1/",
+        "title": "Colorado's new firearms law leads to run on gun shops (The Gazette)",
+        "date": "2026-07-29",
+        "quote": "completion of a firearm safety training course of either four or 12 hours."
+      }
+    ]
+  },
   "now": [
     {
       "text": "Colorado law already has a three-day wait to take delivery of a gun. The minimum age to buy a gun is 21 (since August 2023). Red flag orders, in place since 2020, let a court temporarily remove guns from someone judged a serious risk.",

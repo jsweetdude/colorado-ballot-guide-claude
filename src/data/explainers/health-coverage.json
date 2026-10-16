@@ -1,8 +1,114 @@
 {
   "id": "health-coverage",
   "plain": "Should government take more steps to make sure everyone has health insurance, even if taxpayers pay more? In practice that means federal premium tax credits, Medicaid and state help.",
+  "short_version": {
+    "text": "The enhanced federal premium credits ended in 2025, and about 225,000 Coloradans saw 2026 premiums roughly double. Medicaid work rules start in 2027. Making the credits permanent would cost taxpayers about $350 billion over ten years; not doing it means more people paying more or going uninsured.",
+    "sources": [
+      {
+        "url": "https://news.ballotpedia.org/2026/01/12/house-passes-three-year-extension-of-expanded-aca-subsidies/",
+        "title": "House passes three-year extension of expanded ACA subsidies (Ballotpedia News)",
+        "date": "2026-01-12",
+        "quote": "Seventeen Republicans joined Democrats to pass the measure 230–196."
+      },
+      {
+        "url": "https://doi.colorado.gov/news-releases-consumer-advisories/congressional-inaction-leads-to-an-average-doubling-of-health",
+        "title": "Congressional Inaction Leads to An Average Doubling of Health Insurance Costs for 225,000 Hardworking Coloradans (Colorado Division of Insurance)",
+        "date": "2025-10-27",
+        "quote": "will see a statewide approximate net average premium increase of 101%, meaning a doubling of their premium costs."
+      },
+      {
+        "url": "https://www.cbo.gov/publication/61734",
+        "title": "The Estimated Effects of Enacting Selected Health Coverage Policies on the Federal Budget and on the Number of People With Health Insurance (Congressional Budget Office)",
+        "date": "2025-09-18",
+        "quote": "increasing the deficit by $350 billion from 2026 to 2035 and the number of people with health insurance by 3.8 million in 2035",
+        "via": "browser"
+      },
+      {
+        "url": "https://coloradosun.com/2025/11/19/colorado-health-insurance-uninsured-rate-2/",
+        "title": "Rate of Coloradans without health insurance holds steady in 2025 (The Colorado Sun)",
+        "date": "2025-11-19",
+        "quote": "Enrollment has increased since then to about 1.2 million people as of October."
+      }
+    ]
+  },
+  "connection": {
+    "text": "The premium credits and the Medicaid rules are federal, set by Congress, so this bears most on your U.S. Senate and House races. The state pays its share of Medicaid, which drives this year's state budget.",
+    "sources": [
+      {
+        "url": "https://news.ballotpedia.org/2026/01/12/house-passes-three-year-extension-of-expanded-aca-subsidies/",
+        "title": "House passes three-year extension of expanded ACA subsidies (Ballotpedia News)",
+        "date": "2026-01-12",
+        "quote": "Seventeen Republicans joined Democrats to pass the measure 230–196."
+      },
+      {
+        "url": "https://news.ballotpedia.org/2026/01/12/house-passes-three-year-extension-of-expanded-aca-subsidies/",
+        "title": "House passes three-year extension of expanded ACA subsidies (Ballotpedia News)",
+        "date": "2026-01-12",
+        "quote": "The ePTC expired on Dec. 31, 2025, returning eligibility and premium contribution rules to their original ACA structure."
+      },
+      {
+        "url": "https://content.govdelivery.com/accounts/CODORA/bulletins/42c0779",
+        "title": "Division of Insurance Announces Final ACA Health Insurance Premium Increases for Plan Year 2027 (Colorado Division of Insurance)",
+        "date": "2026-09-22",
+        "quote": "Congress still needs to restore the subsidies that millions of Americans relied on to afford their health insurance"
+      },
+      {
+        "url": "https://www.coloradopolitics.com/2026/04/06/colorado-legislators-propose-46-8-billion-budget-driven-by-medicaid-costs/",
+        "title": "Colorado legislators propose $46.8 billion budget, driven by Medicaid costs (Colorado Politics)",
+        "date": "2026-04-06",
+        "quote": "The proposed spending for the Department of Health Care Policy and Financing, which manages Medicaid, stands at $19.2 billion, with $5.75 billion in general fund support."
+      },
+      {
+        "url": "https://www.coloradopolitics.com/2026/04/06/colorado-legislators-propose-46-8-billion-budget-driven-by-medicaid-costs/",
+        "title": "Colorado legislators propose $46.8 billion budget, driven by Medicaid costs (Colorado Politics)",
+        "date": "2026-04-06",
+        "quote": "The increase is driven by Medicaid costs, which forced the Joint Budget Committee to make cuts elsewhere."
+      },
+      {
+        "url": "https://www.coloradopolitics.com/2026/04/06/colorado-legislators-propose-46-8-billion-budget-driven-by-medicaid-costs/",
+        "title": "Colorado legislators propose $46.8 billion budget, driven by Medicaid costs (Colorado Politics)",
+        "date": "2026-04-06",
+        "quote": "The single biggest cost driver is $1.5 billion more for Medicaid, including $351 million more in general fund dollars."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/images/07.30.25_exec_committee_h.r._1_presentation_-_hcpf.pdf",
+        "title": "H.R. 1 Provisions Impacting Colorado Medicaid (Colorado Department of Health Care Policy and Financing, presentation to legislative leaders)",
+        "date": "2025-07-30",
+        "quote": "377K CO adults could face mid-year coverage loss"
+      }
+    ]
+  },
   "agree_means": "Supports keeping or expanding public help with coverage, such as restoring the enhanced ACA premium credits and protecting Medicaid, and accepts higher public spending.",
   "disagree_means": "Prefers less public spending on coverage, such as limits on federal subsidies and Medicaid or more reliance on private markets, and accepts that fewer people may be covered.",
+  "example": {
+    "text": "A Denver-area family of four earning about $128,000 lost all of its premium help in 2026 and faced about $14,000 more a year.",
+    "sources": [
+      {
+        "url": "https://doi.colorado.gov/news-releases-consumer-advisories/congressional-inaction-leads-to-an-average-doubling-of-health",
+        "title": "Congressional Inaction Leads to An Average Doubling of Health Insurance Costs for 225,000 Hardworking Coloradans (Colorado Division of Insurance)",
+        "date": "2025-10-27",
+        "quote": "will see a statewide approximate net average premium increase of 101%, meaning a doubling of their premium costs."
+      },
+      {
+        "url": "https://www.kunc.org/news/2025-10-28/health-insurance-premiums-for-225-000-coloradans-are-about-to-double",
+        "title": "Health insurance premiums for 225,000 Coloradans are about to double (KUNC, from CPR News)",
+        "date": "2025-10-28",
+        "quote": "A family of four with an annual income of about $128,000 will no longer qualify for any financial assistance if the tax credits are not extended."
+      },
+      {
+        "url": "https://www.kunc.org/news/2025-10-28/health-insurance-premiums-for-225-000-coloradans-are-about-to-double",
+        "title": "Health insurance premiums for 225,000 Coloradans are about to double (KUNC, from CPR News)",
+        "date": "2025-10-28",
+        "quote": "They can expect health insurance premiums to increase by about $14,000 a year for a standard “silver” plan if they live in the Denver metro area"
+      },
+      {
+        "url": "https://content.govdelivery.com/accounts/CODORA/bulletins/42c0779",
+        "title": "Division of Insurance Announces Final ACA Health Insurance Premium Increases for Plan Year 2027 (Colorado Division of Insurance)",
+        "date": "2026-09-22",
+        "quote": "Premiums in Colorado will increase, on average, 10% in the individual market"
+      }
+    ]
+  },
   "now": [
     {
       "text": "About 5.9% of Coloradans had no health insurance in 2025, up from a record-low 4.6% in 2023. The Colorado Health Institute, which runs the survey, says that change is not statistically significant. Medicaid covered 21% of Coloradans, down from 30%.",

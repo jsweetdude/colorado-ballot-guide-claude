@@ -1,8 +1,71 @@
 {
   "id": "keep-tabor-surplus",
   "plain": "TABOR, a 1992 state constitutional limit, makes Colorado refund tax money collected above a cap. Proposition NN would let the state keep that extra money, up to a higher cap, for schools and children’s programs.",
+  "short_version": {
+    "text": "Proposition NN trades refunds for school money. For the next two years, refunds would drop to zero; for a single filer with $50,000 to $100,000 of income that is about $21 to $68 a year. Schools and children's programs would get about $240 million a year each at first, and possibly far more later.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "$50,000 $21 $42 $0 $39 $58 $0"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "In the first ten years, this revenue must be spent on K-12 education and programs that support children."
+      }
+    ]
+  },
+  "connection": {
+    "text": "NN is about what happens to money the state collects above its TABOR limit: refund it, or keep it for schools and children's programs. Later refunds are unknown and could be zero in some years or over $1,000 per taxpayer in others.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "The limit is equal to the prior year’s limit, adjusted for inflation plus population growth."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "If the amount of revenue the state collects in any year is above the TABOR limit, the excess amount must be refunded to taxpayers."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "The impact of Proposition NN on TABOR refunds will vary significantly across different years, such that it could have no impact on TABOR refunds in some years and reduce them by over $1,000 per taxpayer in other years."
+      }
+    ]
+  },
   "agree_means": "Agreeing means voting yes on Proposition NN. TABOR refunds would stop for at least two years and likely several more, and the money would go to K-12 schools and children’s programs.",
   "disagree_means": "Disagreeing means voting no. Refunds continue under current law whenever revenue tops the cap, and the state balances its budget without this money.",
+  "example": {
+    "text": "A single filer with $100,000 of income would give up refunds of about $28 in 2027 and $68 in 2028. At $500,000 the loss is about $65, then $276.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "$50,000 $21 $42 $0 $39 $58 $0"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "$500,000 $65 $130 $0 $276 $352 $0"
+      },
+      {
+        "url": "https://www.postindependent.com/news/colorado-tabor-system-voters-increase-school-funding/",
+        "title": "Proposition NN puts Colorado’s TABOR system before voters again to increase school funding. Here’s what’s at stake. (Post Independent)",
+        "date": "2026-10-02",
+        "quote": "For a single filer making $100,000, that would translate to a refund reduction of $28 in 2027 and $68 in 2028, or a reduction of $56 in 2027 and $96 in 2028 for joint filers."
+      }
+    ]
+  },
   "now": [
     {
       "text": "The TABOR limit grows each year with inflation plus population. Revenue above the limit must be refunded, unless voters say the state may keep it.",

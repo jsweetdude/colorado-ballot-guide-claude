@@ -1,8 +1,101 @@
 {
   "id": "graduated-income-tax",
   "plain": "Colorado now taxes the taxable income of people and businesses at one rate, 4.4 percent. Amendment 87 would switch to six brackets, with lower rates on the first $100,000 and higher rates above $500,000.",
+  "short_version": {
+    "text": "Amendment 87 would trim state income tax for most filers, by up to $325 a year below $500,000 of taxable income, and raise it for higher earners. It would bring in about $2 billion a year for schools, health care and child care. Whether high earners would leave is disputed: a free-market group models losses, while other research finds millionaires rarely move.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "For individuals and businesses with taxable incomes of less than $500,000, the measure decreases the amount of income taxes owed, up to a maximum reduction of $325 per taxpayer."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "increase the amount of income tax owed by taxpayers with Colorado taxable income of $510,834 and above."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "By replacing the state flat income tax with a graduated income tax, the measure increases revenue from income taxes by an estimated $958.4 million in budget year 2026-27, $1.972 billion in budget year 2027-28"
+      },
+      {
+        "url": "https://commonsenseinstituteus.org/research/13-outcomes-how-amendment-87-would-affect-colorados-economy-residents/",
+        "title": "13 Outcomes: How Amendment 87 Would Affect Colorado’s Economy & Residents (Common Sense Institute)",
+        "date": "2026-10-05",
+        "quote": "In the top three individual-income brackets after 10 years, the state would lose 800 residents who, together, earn more than $2.3 billion annually."
+      }
+    ]
+  },
+  "connection": {
+    "text": "This statement stands in for Amendment 87 and its rival, Proposition 136. Your answer is not a vote. If both measures pass, the Blue Book says the outcome is unclear, and the legislature or a court would decide.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "However, if both measures are approved by voters, the exact outcome is unclear."
+      }
+    ]
+  },
   "agree_means": "Agreeing means backing Amendment 87. Most filers pay a little less, people with taxable income over $500,000 pay more, and about $2 billion a year goes to schools, health care and child care.",
   "disagree_means": "Disagreeing means keeping the flat 4.4 percent rate. No one’s state income tax changes, and the state does not collect the extra money.",
+  "example": {
+    "text": "Someone with $125,000 of taxable income would pay about $325 less a year. Someone with $2 million would pay about $55,925 more.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "For individuals and businesses with taxable incomes of less than $500,000, the measure decreases the amount of income taxes owed, up to a maximum reduction of $325 per taxpayer."
+      },
+      {
+        "url": "https://www.coloradopolitics.com/2026/10/08/panel-discusses-tax-overhaul-measures-colorado-voters-face-in-november-4/",
+        "title": "Panel discusses tax measures facing Colorado voters (Colorado Politics)",
+        "date": "2026-10-08",
+        "quote": "Those earning $25,000, for example, would see their tax liability shrink by $175."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "The total tax owed under the measure would be $5,175, or $325 less than the $5,500 they would owe under current law."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "$14,999 or less 579,309 -$638,951 -$1"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "$100,000 to $149,999 408,912 -$115,554,178 -$283"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+        "date": "2026-09-10",
+        "quote": "increase the amount of income tax owed by taxpayers with Colorado taxable income of $510,834 and above."
+      },
+      {
+        "url": "https://www.coloradopolitics.com/2026/10/08/panel-discusses-tax-overhaul-measures-colorado-voters-face-in-november-4/",
+        "title": "Panel discusses tax measures facing Colorado voters (Colorado Politics)",
+        "date": "2026-10-08",
+        "quote": "At the $550,000 threshold, a taxpayer would pay $25,375 — $1,175 more."
+      },
+      {
+        "url": "https://www.coloradopolitics.com/2026/10/08/panel-discusses-tax-overhaul-measures-colorado-voters-face-in-november-4/",
+        "title": "Panel discusses tax measures facing Colorado voters (Colorado Politics)",
+        "date": "2026-10-08",
+        "quote": "the amount owed by taxpayers who earn $2 million would jump from to $143,925 from $88,000 — exactly $55,925 more."
+      }
+    ]
+  },
   "now": [
     {
       "text": "Colorado has taxed income at one flat rate since 1987, now 4.4 percent. It is one of 15 states with a flat income tax.",

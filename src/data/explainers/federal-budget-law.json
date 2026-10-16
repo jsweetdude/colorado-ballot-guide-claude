@@ -1,8 +1,110 @@
 {
   "id": "federal-budget-law",
   "plain": "The One Big Beautiful Bill Act (H.R. 1, Public Law 119-21) was signed July 4, 2025. It extended and added federal tax cuts and cut spending on Medicaid and food assistance. The question is whether passing it was right.",
+  "short_version": {
+    "text": "The 2025 law cut taxes for most households, with the largest dollar gains at the top, and cut Medicaid and food aid. Counting both, the Congressional Budget Office estimates the poorest tenth of households lose about $1,214 a year while the top tenth gain $13,622. In Colorado it also opened a state budget gap of hundreds of millions of dollars.",
+    "sources": [
+      {
+        "url": "https://www.cbsnews.com/news/big-beautiful-bill-tax-cuts-by-income-group/",
+        "title": "Here’s your potential tax cut in 2026 from the One Big Beautiful Bill Act (CBS News)",
+        "date": "2025-07-18",
+        "quote": "On average, taxpayers will save about $2,900 per household in 2026, according to the analysis from the Tax Policy Center, a nonpartisan think tank focused on taxes."
+      },
+      {
+        "url": "https://www.cbo.gov/interactive/2025-reconciliation-act",
+        "title": "How the 2025 Reconciliation Act (Public Law 119-21) Will Affect the Distribution of Resources Available to Households (Congressional Budget Office)",
+        "date": "2025-08-11",
+        "quote": "Annual average change per household (2025 dollars) -1,214 -392 23 379 797 1,211 1,673 2,213 3,208 13,622 2,105",
+        "via": "browser"
+      },
+      {
+        "url": "https://coloradosun.com/2025/08/14/colorado-special-session-explained-budget-obbba/",
+        "title": "Colorado’s nearly $1 billion budget deficit explained (The Colorado Sun)",
+        "date": "2025-08-14",
+        "quote": "Colorado is one of four states that use federal taxable income to determine how much people pay in state taxes, and that have what’s known as “rolling conformity” with the federal tax code."
+      }
+    ]
+  },
+  "connection": {
+    "text": "Congress passed this law, so it bears on your U.S. Senate and House races. Colorado's delegation split by party: Reps. Evans, Hurd, Boebert and Crank backed it; Sens. Bennet and Hickenlooper and Reps. DeGette, Neguse, Crow and Pettersen opposed it.",
+    "sources": [
+      {
+        "url": "https://www.colorado.gov/governor/news/colorado-takes-action-address-budget-hole-created-trump-and-colorado-congressional-republicans",
+        "title": "Colorado Takes Action to Address Budget Hole … (Office of Gov. Jared Polis)",
+        "date": "2025-08-26",
+        "quote": "H.R. 1, which was backed by Congressman Evans, Congressman Hurd, Congresswoman Boebert and Congressman Crank and opposed by Senator Bennet, Senator Hickenlooper, Congresswoman DeGette, Congressman Neguse, Congressman Crow and Congresswoman Pettersen."
+      }
+    ]
+  },
   "agree_means": "Agreeing means backing the law’s lower federal taxes and its new rules for Medicaid and food assistance, and accepting its cost to the deficit.",
   "disagree_means": "Disagreeing means opposing it over its deficit cost, its Medicaid and food-assistance changes, or its hit to Colorado’s budget.",
+  "example": {
+    "text": "A worker who earns tips or overtime gets a new federal deduction. A Colorado adult covered by Medicaid expansion must show 80 hours a month of work or school starting in 2027.",
+    "sources": [
+      {
+        "url": "https://www.everycrsreport.com/reports/R48611.html",
+        "title": "Tax Provisions in P.L. 119-21, the FY2025 Reconciliation Law (Congressional Research Service)",
+        "date": "2025-07-29",
+        "quote": "This provision makes permanent the TCJA's increase to the standard deduction and permanently raises it further, to $15,750 for single filers, $23,625 for head of household filers, and $31,500 for married joint filers in 2025."
+      },
+      {
+        "url": "https://www.everycrsreport.com/reports/R48611.html",
+        "title": "Tax Provisions in P.L. 119-21, the FY2025 Reconciliation Law (Congressional Research Service)",
+        "date": "2025-07-29",
+        "quote": "permanently raises the maximum credit to $2,200 per child (adjusted for inflation)."
+      },
+      {
+        "url": "https://www.everycrsreport.com/reports/R48611.html",
+        "title": "Tax Provisions in P.L. 119-21, the FY2025 Reconciliation Law (Congressional Research Service)",
+        "date": "2025-07-29",
+        "quote": "This provision creates a new income tax deduction of up to $25,000 for qualified tip income"
+      },
+      {
+        "url": "https://www.cbo.gov/publication/61570",
+        "title": "Estimated Budgetary Effects of Public Law 119-21 … Relative to CBO’s January 2025 Baseline (Congressional Budget Office)",
+        "date": "2025-07-21",
+        "quote": "CBO estimates that Public Law 119-21 will result in a net increase in the unified budget deficit totaling $3.4 trillion over the 2025-2034 period",
+        "via": "browser"
+      },
+      {
+        "url": "https://www.kff.org/medicaid/issue-brief/health-provisions-in-the-2025-federal-budget-reconciliation-law/",
+        "title": "Health Provisions in the 2025 Federal Budget Reconciliation Law (KFF)",
+        "date": "2025-08-22",
+        "quote": "Requires states to condition Medicaid eligibility for individuals ages 19-64 applying for coverage or enrolled through the ACA expansion group (or a waiver) on working or participating in qualifying activities for at least 80 hours per month or attending school at least half-time."
+      },
+      {
+        "url": "https://www.kff.org/medicaid/issue-brief/health-provisions-in-the-2025-federal-budget-reconciliation-law/",
+        "title": "Health Provisions in the 2025 Federal Budget Reconciliation Law (KFF)",
+        "date": "2025-08-22",
+        "quote": "Requires states to conduct eligibility redeterminations every 6 months for Medicaid expansion adults."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/images/07.30.25_exec_committee_h.r._1_presentation_-_hcpf.pdf",
+        "title": "H.R. 1 Provisions Impacting Colorado Medicaid (Colorado Dept. of Health Care Policy and Financing)",
+        "date": "2025-07-30",
+        "quote": "6 month renewals       January 2027        377,000 members"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/images/07.30.25_exec_committee_h.r._1_presentation_-_hcpf.pdf",
+        "title": "H.R. 1 Provisions Impacting Colorado Medicaid (Colorado Dept. of Health Care Policy and Financing)",
+        "date": "2025-07-30",
+        "quote": "(estimated >150K by Mannat)"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/images/07.30.25_exec_committee_h.r._1_presentation_-_hcpf.pdf",
+        "title": "H.R. 1 Provisions Impacting Colorado Medicaid (Colorado Dept. of Health Care Policy and Financing)",
+        "date": "2025-07-30",
+        "quote": "-$2.5B federal funds impact when fully implemented"
+      },
+      {
+        "url": "https://www.cbo.gov/publication/61837",
+        "title": "Public Law 119-21 … Title VII, Subtitle B, Health, Chapter 1, Medicaid (Congressional Budget Office)",
+        "date": "2025-10-28",
+        "quote": "CBO estimates that the combined effects of the provisions in the chapter will increase the number of people without health insurance by 7.5 million in 2034.",
+        "via": "browser"
+      }
+    ]
+  },
   "now": [
     {
       "text": "The law made the 2017 tax cuts permanent and added more. The standard deduction for joint filers is $31,500 and the child tax credit is $2,200. It added deductions for tips and overtime. The Congressional Budget Office (CBO) says it adds $3.4 trillion to deficits over 2025 to 2034, against its January 2025 baseline.",

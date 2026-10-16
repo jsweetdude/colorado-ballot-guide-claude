@@ -1,8 +1,88 @@
 {
   "id": "plain-language-ballots",
   "plain": "Should every ballot question, state and local, be written at an eighth-grade reading level or lower? The rule would go in the Colorado Constitution.",
+  "short_version": {
+    "text": "Amendment 85 would require every state and local ballot question to be written at an eighth-grade reading level. Colorado's titles score as hard to read. The disputed part is what it would undo: it could knock out rules that make tax measures spell out their effects, and it doesn't say who judges reading level.",
+    "sources": [
+      {
+        "url": "https://news.ballotpedia.org/?p=33336",
+        "title": "Ballotpedia exclusive - our 2023 readability report on ballot measures (Ballotpedia News)",
+        "date": "2023-10-23",
+        "quote": "The average ballot title grade for all measures in a single state ranged from 12 in New York and Ohio to 35 in Colorado."
+      },
+      {
+        "url": "https://news.ballotpedia.org/2026/07/23/signatures-submitted-for-colorado-initiative-requiring-ballot-questions-at-an-eighth-grade-reading-level-and-limiting-conflicting-language-requirements/",
+        "title": "Signatures submitted for Colorado initiative requiring ballot questions at an eighth-grade reading level (Ballotpedia News)",
+        "date": "2026-07-23",
+        "quote": "Initiative 234 would not necessarily conflict with existing ballot title requirements, such as those established by Proposition GG, HB21-1321, and HB26-1320, provided that the required information could be presented in plain language at no higher than an eighth-grade reading level."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+        "date": "2026-10-16",
+        "quote": "The measure does not define plain language or designate who will determine if ballot titles meet the standard.",
+        "date_basis": "accessed"
+      }
+    ]
+  },
+  "connection": {
+    "text": "Disagreeing keeps today's rules: the Title Board's plain-language standard, a 2026 law adding an accessible-language duty, and the required tax-effect wording.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+        "date": "2026-10-16",
+        "quote": "The board must write titles in plain language, that are understandable by the widest possible audience, and that avoid legal, technical, or specialized terminology, when possible.",
+        "date_basis": "accessed"
+      },
+      {
+        "url": "https://leg.colorado.gov/bills/HB26-1320",
+        "title": "HB26-1320 Accessible Language Statutory Ballot Title Requirements (Colorado General Assembly)",
+        "date": "2026-10-16",
+        "quote": "The act adds a requirement that the title board write a ballot title using accessible language, which means plain language that is understood by the widest possible audience.",
+        "date_basis": "accessed"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+        "date": "2026-10-16",
+        "quote": "For citizen initiatives that reduce tax collections, the title must include an estimate of potential state spending reductions and how reduced revenue might impact the three largest areas of government spending.",
+        "date_basis": "accessed"
+      },
+      {
+        "url": "https://news.ballotpedia.org/2026/07/23/signatures-submitted-for-colorado-initiative-requiring-ballot-questions-at-an-eighth-grade-reading-level-and-limiting-conflicting-language-requirements/",
+        "title": "Signatures submitted for Colorado initiative requiring ballot questions at an eighth-grade reading level (Ballotpedia News)",
+        "date": "2026-07-23",
+        "quote": "As of 2026, Colorado state law requires ballot titles to include fiscal impact summaries for initiatives that affect income taxes, specifying how the change would affect different income brackets."
+      }
+    ]
+  },
   "agree_means": "Agreeing writes an eighth-grade ceiling into the constitution. It also bars state laws from requiring citizen-initiative titles to carry wording that conflicts with plain language.",
   "disagree_means": "Disagreeing keeps current law: titles must be in plain language, but no reading grade is set.",
+  "example": {
+    "text": "Amendment 79 in 2024 scored at grade 32 by one formula. Under Amendment 85, a title like that would have to meet an eighth-grade level, but the measure doesn't name the formula.",
+    "sources": [
+      {
+        "url": "https://news.ballotpedia.org/?p=33336",
+        "title": "Ballotpedia exclusive - our 2023 readability report on ballot measures (Ballotpedia News)",
+        "date": "2023-10-23",
+        "quote": "The average ballot title grade for all measures in a single state ranged from 12 in New York and Ohio to 35 in Colorado."
+      },
+      {
+        "url": "https://ballotpedia.org/Ballot_measure_readability_scores,_2024",
+        "title": "Ballot measure readability scores, 2024 (Ballotpedia)",
+        "date": "2026-10-16",
+        "quote": "The average title score for ballot initiatives was 15, ranging from a score of eight for Washington Initiative 2124 to 32 for Colorado Amendment 79.",
+        "date_basis": "accessed"
+      },
+      {
+        "url": "https://news.ballotpedia.org/?p=33336",
+        "title": "Ballotpedia exclusive - our 2023 readability report on ballot measures (Ballotpedia News)",
+        "date": "2023-10-23",
+        "quote": "Other factors, such as the complexity of an idea in a text, are not reflected in readability scores."
+      }
+    ]
+  },
   "now": [
     {
       "text": "A state Title Board writes titles for citizen initiatives. The law says plain language, \"understandable by the widest possible audience,\" avoiding legal terms when possible. The legislature writes titles for measures it refers. A 2026 law, HB26-1320, adds an \"accessible language\" duty.",

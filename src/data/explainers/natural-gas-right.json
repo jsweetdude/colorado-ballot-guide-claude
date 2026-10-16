@@ -1,8 +1,123 @@
 {
   "id": "natural-gas-right",
   "plain": "Amendment 82 would add to Colorado’s constitution a right to buy natural gas for cooking or heating, and a right for utilities to sell it. Buying and selling gas is already legal today.",
+  "short_version": {
+    "text": "Gas is legal and for sale today, and no Colorado elected body has banned gas stoves or heaters in homes. Amendment 82 would make buying and selling gas a constitutional right, which could block future state and local limits, such as rules steering new buildings to electric heat. Burning gas in buildings adds to Colorado's climate pollution. Whether switching saves a household money depends on the home, and the main bill comparison comes from the gas industry.",
+    "sources": [
+      {
+        "url": "https://www.governing.com/policy/colorado-voters-will-decide-whether-natural-gas-is-a-constitutional-right",
+        "title": "Colorado Voters Will Decide Whether Natural Gas Is a Constitutional Right (The Denver Post, via Governing)",
+        "date": "2026-10-12",
+        "quote": "So far, no elected body in Colorado has banned gas stoves or natural gas heaters in homes. Both are sold in stores across Colorado."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+        "date": "2026-09-10",
+        "quote": "(1) Consumers have the right to purchase natural gas for cooking or heating in homes or businesses throughout the state."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/images/lcs/house_bill_21-1238_greenhouse_gas_report.pdf",
+        "title": "HB 21-1238 Greenhouse Gas Emissions Report (Legislative Council Staff)",
+        "date": "2021-04-07",
+        "quote": "natural gas used by residential, commercial, and industrial users (i.e., the building fuel use sector) emitted around 28 million metric tons of carbon dioxide equivalent"
+      },
+      {
+        "url": "https://www.aga.org/wp-content/uploads/2026/09/Colorado-Residential-Energy-Cost-Analysis-8.18.26.pdf",
+        "title": "Residential Energy Cost Analysis for Greater Colorado Region (American Gas Association, a gas industry trade group)",
+        "date": "2026-10-16",
+        "quote": "Electricity costs 4.3 times as much as natural gas on an energy-equivalent basis in Colorado.",
+        "date_basis": "accessed"
+      }
+    ]
+  },
+  "connection": {
+    "text": "Disagreeing does not ban gas or make anyone replace a stove or furnace: gas stays legal either way. The vote is about whether to put gas access in the constitution, where only voters can change it, and which, the Blue Book says, may limit state and local rules.",
+    "sources": [
+      {
+        "url": "https://www.governing.com/policy/colorado-voters-will-decide-whether-natural-gas-is-a-constitutional-right",
+        "title": "Colorado Voters Will Decide Whether Natural Gas Is a Constitutional Right (The Denver Post, via Governing)",
+        "date": "2026-10-12",
+        "quote": "So far, no elected body in Colorado has banned gas stoves or natural gas heaters in homes. Both are sold in stores across Colorado."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+        "date": "2026-09-10",
+        "quote": "Several municipalities in Colorado have restricted the installation of natural gas appliances in new construction or certain renovation projects."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+        "date": "2026-09-10",
+        "quote": "requiring that new residential buildings use electricity for heating, hot water heaters, and other appliances."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+        "date": "2026-09-10",
+        "quote": "it may limit the ability for state or local governments to enforce existing or future regulations related to natural gas."
+      },
+      {
+        "url": "https://insideclimatenews.org/news/13072026/colorado-right-to-natural-gas-amendment/",
+        "title": "Colorado Voters Will Decide Whether a ‘Right to Natural Gas’ is Added to the State Constitution (Inside Climate News)",
+        "date": "2026-07-13",
+        "quote": "The broad language of the measure—only 60 words in total—makes it difficult to predict how state agencies would implement it if it passes",
+        "via": "browser"
+      }
+    ]
+  },
   "agree_means": "Agreeing writes a right to buy and sell natural gas for homes and businesses into the constitution. That could limit state or local rules that restrict gas.",
   "disagree_means": "Disagreeing keeps current law. Gas stays legal and for sale, and the state and cities keep their power to write or change gas rules.",
+  "example": {
+    "text": "Crested Butte requires new homes to use electricity for heat. Under Amendment 82, a rule like that could be challenged as conflicting with the new right.",
+    "sources": [
+      {
+        "url": "https://www.governing.com/policy/colorado-voters-will-decide-whether-natural-gas-is-a-constitutional-right",
+        "title": "Colorado Voters Will Decide Whether Natural Gas Is a Constitutional Right (The Denver Post, via Governing)",
+        "date": "2026-10-12",
+        "quote": "So far, no elected body in Colorado has banned gas stoves or natural gas heaters in homes. Both are sold in stores across Colorado."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+        "date": "2026-09-10",
+        "quote": "Several municipalities in Colorado have restricted the installation of natural gas appliances in new construction or certain renovation projects."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+        "date": "2026-09-10",
+        "quote": "requiring that new residential buildings use electricity for heating, hot water heaters, and other appliances."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+        "date": "2026-09-10",
+        "quote": "(1) Consumers have the right to purchase natural gas for cooking or heating in homes or businesses throughout the state."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+        "date": "2026-09-10",
+        "quote": "(2) Distributors and utilities have the right to sell natural gas for homes or businesses."
+      },
+      {
+        "url": "https://insideclimatenews.org/news/13072026/colorado-right-to-natural-gas-amendment/",
+        "title": "Colorado Voters Will Decide Whether a ‘Right to Natural Gas’ is Added to the State Constitution (Inside Climate News)",
+        "date": "2026-07-13",
+        "quote": "Colorado’s ballot measure is also unique in its breadth: the language contains no caveats, explanations or provisions for public safety.",
+        "via": "browser"
+      },
+      {
+        "url": "https://www.denver7.com/news/local-news/amendment-82-would-give-coloradans-a-constitutional-right-to-natural-gas",
+        "title": "Amendment 82 would give Coloradans a constitutional right to natural gas (Denver7)",
+        "date": "2026-10-16",
+        "quote": "Once something's in the Constitution, then it basically trumps state statutes, any state agency regulations, any local government control,",
+        "date_basis": "accessed"
+      }
+    ]
+  },
   "now": [
     {
       "text": "About 7 in 10 Colorado households heat mainly with natural gas and about 1 in 4 with electricity. The Denver Gazette put the number of gas-heated households at 1.9 million.",

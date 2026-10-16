@@ -1,0 +1,153 @@
+---
+// The content of a "More info" explainer: the short version, how the statement
+// connects to the ballot, what agreeing and disagreeing mean, a concrete
+// example, where things stand, what is at stake by area, each side's case, what
+// is uncertain, and numbered links to every source. Used inside the interview's
+// dialog (Explainer.astro) and inline on measure pages (`inline`).
+import { measureLabel } from '../lib/labels';
+import { formatDate } from '../lib/site';
+import { measureById, races, statementById } from '../lib/data';
+
+interface Src { url: string; title: string; date: string | null; date_basis?: string; quote: string; via?: string }
+interface Item { text: string; sources: Src[]; area?: string }
+export interface ExplainerData {
+  id: string;
+  plain: string;
+  short_version: Item;
+  connection: Item;
+  example: Item;
+  agree_means: string;
+  disagree_means: string;
+  now: Item[];
+  stakes: (Item & { area: string })[];
+  case_for: Item[];
+  case_against: Item[];
+  unknowns: Item[];
+  measure: string | null;
+  last_checked: string;
+}
+interface Props { e: ExplainerData; inline?: boolean }
+const { e, inline = false } = Astro.props;
+
+// Number sources in the order a reader meets them.
+const order: Src[] = [];
+const num = (s: Src) => {
+  let i = order.findIndex((x) => x.url === s.url);
+  if (i < 0) {
+    order.push(s);
+    i = order.length - 1;
+  }
+  return i + 1;
+};
+[e.short_version, e.connection, e.example, ...e.now, ...e.stakes, ...e.case_for, ...e.case_against, ...e.unknowns].forEach((it) => it.sources.forEach(num));
+const refs = (it: Item) => [...new Set(it.sources.map(num))];
+const areas = [...new Set(e.stakes.map((s) => s.area))];
+const when = (s: Src) => {
+  if (!s.date) return '';
+  if (s.date_basis === 'year') return s.date.slice(0, 4);
+  if (s.date_basis === 'accessed') return `undated, read ${formatDate(s.date)}`;
+  return formatDate(s.date);
+};
+
+// Measures this statement feeds, with the Blue Book's own yes and no lines.
+const statement = statementById.get(e.id)!;
+const tied = statement.measures.map((m) => ({ ...m, measure: measureById.get(m.id)! })).filter((m) => m.measure);
+
+// Races where this answer counts toward the visitor's matches (from races.json).
+const groupName = (id: string, short: string) =>
+  id.startsWith('us-house') ? 'U.S. House (every district)' : id.startsWith('state-board') ? 'State Board of Education' : id.startsWith('cu-regent') ? 'CU Board of Regents' : short;
+const countsIn = [...new Set(races.filter((r) => !r.statements || r.statements.includes(e.id)).map((r) => groupName(r.id, r.short)))];
+const forHead = e.measure ? 'Supporters say' : 'The case for';
+const againstHead = e.measure ? 'Opponents say' : 'The case against';
+---
+<div class:list={['explainer-body', { 'explainer-body--inline': inline }]}>
+  {!inline && <p class="explainer-plain">{e.plain}</p>}
+
+  <section class="explainer-short" aria-label="The short version">
+    <h3>The short version</h3>
+    <p>{e.short_version.text} <span class="refs">{refs(e.short_version).map((n) => <a class="ref" href={order[n - 1].url} target="_blank" rel="noopener noreferrer" aria-label={`Source ${n}: ${order[n - 1].title} (opens in a new tab)`}>[{n}]</a>)}</span></p>
+  </section>
+
+  <section class="explainer-ballot">
+    <h3>How this connects to your ballot</h3>
+    {inline && tied.filter((m) => m.id === e.measure).map((m) => <p>In the interview, this measure goes with the statement “{statement.text}” Agreeing with it points toward a <strong>{m.agree_means}</strong> vote.</p>)}
+    <p>{e.connection.text} {e.connection.sources.length > 0 && <span class="refs">{refs(e.connection).map((n) => <a class="ref" href={order[n - 1].url} target="_blank" rel="noopener noreferrer" aria-label={`Source ${n}: ${order[n - 1].title} (opens in a new tab)`}>[{n}]</a>)}</span>}</p>
+    {!inline && tied.length > 0 && (
+      <ul class="explainer-measures">
+        {tied.map((m) => (
+          <li>
+            <a href={`/measures/${m.id}/`} target="_blank" rel="noopener"><strong>{measureLabel(m.id)}</strong><span class="visually-hidden"> (opens in a new tab)</span></a>: agreeing with this statement points toward a <strong>{m.agree_means}</strong> vote.
+            <span class="explainer-yesno"><span>{m.measure.yes_means}</span> <span>{m.measure.no_means}</span></span>
+          </li>
+        ))}
+      </ul>
+    )}
+    {!inline && tied.length > 0 && <p class="small muted">Your answer is not a vote. It shapes which way your answers lean on {tied.length > 1 ? 'these measures' : 'this measure'} and your candidate matches.</p>}
+    <p class="small muted">Your answer counts toward your matches in: {countsIn.join(', ')}.</p>
+  </section>
+
+  {!inline && (
+    <div class="explainer-pair">
+      <section><h3>If you agree</h3><p>{e.agree_means}</p></section>
+      <section><h3>If you disagree</h3><p>{e.disagree_means}</p></section>
+    </div>
+  )}
+
+  <section>
+    <h3>A concrete example</h3>
+    <p>{e.example.text} {e.example.sources.length > 0 && <span class="refs">{refs(e.example).map((n) => <a class="ref" href={order[n - 1].url} target="_blank" rel="noopener noreferrer" aria-label={`Source ${n}: ${order[n - 1].title} (opens in a new tab)`}>[{n}]</a>)}</span>}</p>
+  </section>
+
+  <section>
+    <h3>Where things stand</h3>
+    <ul class="explainer-list">
+      {e.now.map((it) => <li>{it.text} <span class="refs">{refs(it).map((n) => <a class="ref" href={order[n - 1].url} target="_blank" rel="noopener noreferrer" aria-label={`Source ${n}: ${order[n - 1].title} (opens in a new tab)`}>[{n}]</a>)}</span></li>)}
+    </ul>
+  </section>
+
+  <section>
+    <h3>What's at stake</h3>
+    {areas.map((a) => (
+      <div class="stake">
+        <h4>{a}</h4>
+        <ul class="explainer-list">
+          {e.stakes.filter((s) => s.area === a).map((it) => <li>{it.text} <span class="refs">{refs(it).map((n) => <a class="ref" href={order[n - 1].url} target="_blank" rel="noopener noreferrer" aria-label={`Source ${n}: ${order[n - 1].title} (opens in a new tab)`}>[{n}]</a>)}</span></li>)}
+        </ul>
+      </div>
+    ))}
+  </section>
+
+  <div class="explainer-pair">
+    <section>
+      <h3>{forHead}</h3>
+      <ul class="explainer-list">
+        {e.case_for.map((it) => <li>{it.text} <span class="refs">{refs(it).map((n) => <a class="ref" href={order[n - 1].url} target="_blank" rel="noopener noreferrer" aria-label={`Source ${n}: ${order[n - 1].title} (opens in a new tab)`}>[{n}]</a>)}</span></li>)}
+      </ul>
+    </section>
+    <section>
+      <h3>{againstHead}</h3>
+      <ul class="explainer-list">
+        {e.case_against.map((it) => <li>{it.text} <span class="refs">{refs(it).map((n) => <a class="ref" href={order[n - 1].url} target="_blank" rel="noopener noreferrer" aria-label={`Source ${n}: ${order[n - 1].title} (opens in a new tab)`}>[{n}]</a>)}</span></li>)}
+      </ul>
+    </section>
+  </div>
+
+  {e.unknowns.length > 0 && (
+    <section>
+      <h3>Still uncertain</h3>
+      <ul class="explainer-list explainer-list--unknowns">
+        {e.unknowns.map((it) => <li>{it.text} {it.sources.length > 0 && <span class="refs">{refs(it).map((n) => <a class="ref" href={order[n - 1].url} target="_blank" rel="noopener noreferrer" aria-label={`Source ${n}: ${order[n - 1].title} (opens in a new tab)`}>[{n}]</a>)}</span>}</li>)}
+      </ul>
+    </section>
+  )}
+
+  <section class="explainer-sources">
+    <h3>Sources</h3>
+    <ol>
+      {order.map((s) => (
+        <li><a href={s.url} target="_blank" rel="noopener noreferrer">{s.title}<span class="visually-hidden"> (opens in a new tab)</span></a>{when(s) && <span class="muted"> · {when(s)}</span>}</li>
+      ))}
+    </ol>
+    <p class="small muted">Every line above links to the page it comes from. Checked {formatDate(e.last_checked)}. This is background, not a recommendation: agreeing and disagreeing are both reasonable answers.</p>
+  </section>
+</div>

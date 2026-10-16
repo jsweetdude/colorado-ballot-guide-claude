@@ -1,8 +1,117 @@
 {
   "id": "public-lands",
   "plain": "This asks whether federal public lands should stay federally owned instead of being sold or handed to states or private owners. They include national forests and Bureau of Land Management (BLM) land.",
+  "short_version": {
+    "text": "About 36 percent of Colorado is federal land, and it underpins an $18.1 billion outdoor economy plus ranching and energy leasing. A 2025 plan to sell some Western federal land failed in Congress, but advocates expect it back. Keeping land federal does not stop drilling: 2 million Colorado acres were leased at the end of 2025.",
+    "sources": [
+      {
+        "url": "https://revenuedata.onrr.gov/explore/?location=NF%2CNA%2CCO&dataType=Revenue&period=Calendar+Year&mapLevel=State&offshoreRegions=false&year=2025",
+        "title": "Natural Resources Revenue Data: Colorado (Office of Natural Resources Revenue, U.S. Department of the Interior)",
+        "date": "2026-10-16",
+        "quote": "Colorado USA 36.2% federal land",
+        "date_basis": "accessed",
+        "via": "browser"
+      },
+      {
+        "url": "https://coloradosun.com/2025/06/24/gop-plan-to-sell-more-than-3200-square-miles-of-federal-lands-is-found-to-violate-senate-rules/",
+        "title": "GOP plan to sell more than 3,200 square miles of federal lands is found to violate Senate rules (The Colorado Sun, via the Associated Press)",
+        "date": "2025-06-24",
+        "quote": "A plan to sell more than 3,200 square miles of federal lands has been ruled out of Republicans’ big tax and spending cut bill after the Senate parliamentarian determined the proposal by Senate Energy Chairman Mike Lee would violate the chamber’s rules."
+      },
+      {
+        "url": "https://apps.bea.gov/regional/outdoor-recreation/pdf/Colorado2024.pdf",
+        "title": "Outdoor Recreation Economic Statistics, Colorado 2024 (Bureau of Economic Analysis)",
+        "date": "2026-10-16",
+        "quote": "$18.1 billion 3.3% 137,762 jobs 4.5% $9.4 billion",
+        "date_basis": "accessed"
+      },
+      {
+        "url": "https://coloradosun.com/2026/09/08/blm-oil-gas-lease-sales-colorado/",
+        "title": "Colorado faces a federal oil and gas leasing fire sale (The Colorado Sun)",
+        "date": "2026-09-08",
+        "quote": "At the end of 2025, the BLM had 2 million acres of federal land in Colorado leased for drilling, with 73% of that acreage actively generating oil or gas, according to the agency."
+      }
+    ]
+  },
+  "connection": {
+    "text": "Selling federal land takes Congress or federal agencies acting under laws Congress wrote. The 2025 plan came from a U.S. senator, so this answer bears most on your U.S. Senate and House races.",
+    "sources": [
+      {
+        "url": "https://coloradosun.com/2025/06/24/gop-plan-to-sell-more-than-3200-square-miles-of-federal-lands-is-found-to-violate-senate-rules/",
+        "title": "GOP plan to sell more than 3,200 square miles of federal lands is found to violate Senate rules (The Colorado Sun, via the Associated Press)",
+        "date": "2025-06-24",
+        "quote": "A plan to sell more than 3,200 square miles of federal lands has been ruled out of Republicans’ big tax and spending cut bill after the Senate parliamentarian determined the proposal by Senate Energy Chairman Mike Lee would violate the chamber’s rules."
+      },
+      {
+        "url": "https://coloradosun.com/2025/08/11/public-lands-advocacy/",
+        "title": "After defeating plan to sell public land, coalition of Colorado advocates keeps up the fight (The Colorado Sun)",
+        "date": "2025-08-11",
+        "quote": "The overwhelming cascade of opposition killed Lee’s plan."
+      },
+      {
+        "url": "https://coloradosun.com/2025/08/11/public-lands-advocacy/",
+        "title": "After defeating plan to sell public land, coalition of Colorado advocates keeps up the fight (The Colorado Sun)",
+        "date": "2025-08-11",
+        "quote": "The land sale may return but the more immediate threat is a decline in staffing and funding for public lands that could limit public access and agency work to protect ecosystems."
+      },
+      {
+        "url": "https://coloradosun.com/2025/08/11/public-lands-advocacy/",
+        "title": "After defeating plan to sell public land, coalition of Colorado advocates keeps up the fight (The Colorado Sun)",
+        "date": "2025-08-11",
+        "quote": "The Federal Land Policy and Management Act of 1976 created specific policies around land disposal and allowed sales if it “serve(s) important public objectives, such as community expansion and economic development.”"
+      },
+      {
+        "url": "https://coloradosun.com/2025/08/11/public-lands-advocacy/",
+        "title": "After defeating plan to sell public land, coalition of Colorado advocates keeps up the fight (The Colorado Sun)",
+        "date": "2025-08-11",
+        "quote": "The Convey Act, first proposed in 2023 and signed into law in January, allowed the BLM to transfer about 31 acres of federally managed land to Mesa County for development in Clifton."
+      },
+      {
+        "url": "https://coloradosun.com/2025/08/11/public-lands-advocacy/",
+        "title": "After defeating plan to sell public land, coalition of Colorado advocates keeps up the fight (The Colorado Sun)",
+        "date": "2025-08-11",
+        "quote": "Map app OnX and the Theodore Roosevelt Conservation Partnership last week unveiled a new map showing 6.1 million acres of the BLM’s 245 million surface acres identified by the agency for potential sale in 17 Western states."
+      }
+    ]
+  },
   "agree_means": "Agreeing means keeping federal land in federal hands and opposing sales or transfers.",
   "disagree_means": "Disagreeing means backing the sale or transfer of some federal land to states, local governments or private owners, for example for housing or local management.",
+  "example": {
+    "text": "The revised 2025 plan would have let the government sell some Bureau of Land Management land within 5 miles of towns. That land could become private and taxable; critics say people would lose places to hunt, fish and camp.",
+    "sources": [
+      {
+        "url": "https://coloradosun.com/2025/06/24/gop-plan-to-sell-more-than-3200-square-miles-of-federal-lands-is-found-to-violate-senate-rules/",
+        "title": "GOP plan to sell more than 3,200 square miles of federal lands is found to violate Senate rules (The Colorado Sun, via the Associated Press)",
+        "date": "2025-06-24",
+        "quote": "Housing prices are crushing families and keeping young Americans from living where they grew up. We need to change that,"
+      },
+      {
+        "url": "https://coloradosun.com/2025/06/24/gop-plan-to-sell-more-than-3200-square-miles-of-federal-lands-is-found-to-violate-senate-rules/",
+        "title": "GOP plan to sell more than 3,200 square miles of federal lands is found to violate Senate rules (The Colorado Sun, via the Associated Press)",
+        "date": "2025-06-24",
+        "quote": "adding that a revised plan would remove all U.S. Forest Service land from possible sale. Sales of sites controlled by the U.S. Bureau of Land Management would be significantly reduced, Lee said, so that only land within 5 miles of population centers could be sold."
+      },
+      {
+        "url": "https://coloradosun.com/2025/06/24/gop-plan-to-sell-more-than-3200-square-miles-of-federal-lands-is-found-to-violate-senate-rules/",
+        "title": "GOP plan to sell more than 3,200 square miles of federal lands is found to violate Senate rules (The Colorado Sun, via the Associated Press)",
+        "date": "2025-06-24",
+        "quote": "New Mexico Sen. Martin Heinrich, the ranking Democrat on the energy committee, said Lee’s plan would exclude Americans from places where they fish, hunt and camp."
+      },
+      {
+        "url": "https://coloradosun.com/2025/06/24/gop-plan-to-sell-more-than-3200-square-miles-of-federal-lands-is-found-to-violate-senate-rules/",
+        "title": "GOP plan to sell more than 3,200 square miles of federal lands is found to violate Senate rules (The Colorado Sun, via the Associated Press)",
+        "date": "2025-06-24",
+        "quote": "I don’t think it’s clear that we would even get substantial housing as a result of this,"
+      },
+      {
+        "url": "https://www.doi.gov/pilt",
+        "title": "Payments in Lieu of Taxes (U.S. Department of the Interior)",
+        "date": "2026-10-16",
+        "quote": "Payments in Lieu of Taxes (PILT) are Federal payments that help local governments offset losses in property taxes due to the existence of nontaxable Federal lands within their boundaries.",
+        "date_basis": "accessed"
+      }
+    ]
+  },
   "now": [
     {
       "text": "The federal government holds about 36 percent of Colorado, around 24 million acres. The BLM alone manages 8.3 million surface acres and more than 27 million acres of mineral rights.",

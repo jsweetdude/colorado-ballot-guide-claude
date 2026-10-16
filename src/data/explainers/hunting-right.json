@@ -1,8 +1,95 @@
 {
   "id": "hunting-right",
   "plain": "Amendment 83 would write a right to hunt and fish into the Colorado Constitution. Hunting and fishing are already legal and regulated today.",
+  "short_version": {
+    "text": "Hunting and fishing are already legal, and Amendment 83 changes nothing right away. It would make them a constitutional right and the preferred way to manage wildlife, which could let courts strike down future limits. What \"traditional methods\" means is undefined.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+        "date": "2026-09-10",
+        "quote": "The measure results in no immediate change to existing state law or regulations. Hunting and fishing will continue to be allowed under existing state and federal law and regulations."
+      },
+      {
+        "url": "https://coloradosun.com/2026/10/01/amendment-83-explained-colorado-right-hunt-fish/",
+        "title": "Amendment 83: Colorado voters will decide whether to place right to hunt and fish in state constitution (The Colorado Sun)",
+        "date": "2026-10-01",
+        "quote": "Opponents of Amendment 83 say it explicitly protects “traditional methods” of hunting, without defining what “traditional methods” means."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+        "date": "2026-09-10",
+        "quote": "it promotes one method of managing wildlife above others."
+      }
+    ]
+  },
+  "connection": {
+    "text": "Disagreeing does not restrict hunting or fishing; both stay legal and regulated by Colorado Parks and Wildlife either way. The question is whether to make them a constitutional right that courts would weigh limits against.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+        "date": "2026-09-10",
+        "quote": "The measure results in no immediate change to existing state law or regulations. Hunting and fishing will continue to be allowed under existing state and federal law and regulations."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+        "date": "2026-09-10",
+        "quote": "Colorado Parks and Wildlife (CPW) is the state agency responsible for fish and wildlife management in Colorado and administers regulations for hunting and fishing, as adopted by the CPW Commission, a citizen board appointed by the Governor."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+        "date": "2026-09-10",
+        "quote": "it could lead to changes depending on how courts interpret the language of the measure when reviewing existing or future policies."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+        "date": "2026-09-10",
+        "quote": "The right applies to traditional hunting and fishing methods. It does not apply to species that are not typically hunted or fished (nongame species), endangered species, or any species that is illegal to hunt under federal law."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+        "date": "2026-09-10",
+        "quote": "This measure does not change existing laws related to trespassing on private property."
+      }
+    ]
+  },
   "agree_means": "Agreeing adds a constitutional right to hunt, fish and take wildlife by traditional methods, and names hunting and fishing the preferred way to manage wildlife. The state could still regulate for science, safety or future hunting.",
   "disagree_means": "Disagreeing keeps hunting and fishing legal under current state and federal law. The legislature and the Parks and Wildlife Commission keep their current freedom to change the rules.",
+  "example": {
+    "text": "Colorado voters earlier approved limits on leghold traps and bear baiting. Opponents fear a hunter could challenge those limits as banning a \"traditional method\"; a supporter says Parks and Wildlife's rules would not change.",
+    "sources": [
+      {
+        "url": "https://coloradosun.com/2026/10/01/amendment-83-explained-colorado-right-hunt-fish/",
+        "title": "Amendment 83: Colorado voters will decide whether to place right to hunt and fish in state constitution (The Colorado Sun)",
+        "date": "2026-10-01",
+        "quote": "Opponents of Amendment 83 say it explicitly protects “traditional methods” of hunting, without defining what “traditional methods” means."
+      },
+      {
+        "url": "https://coloradosun.com/2026/10/01/amendment-83-explained-colorado-right-hunt-fish/",
+        "title": "Amendment 83: Colorado voters will decide whether to place right to hunt and fish in state constitution (The Colorado Sun)",
+        "date": "2026-10-01",
+        "quote": "crafted to overturn the will of Colorado voters who banned some cruel practices decades ago."
+      },
+      {
+        "url": "https://coloradosun.com/2026/10/01/amendment-83-explained-colorado-right-hunt-fish/",
+        "title": "Amendment 83: Colorado voters will decide whether to place right to hunt and fish in state constitution (The Colorado Sun)",
+        "date": "2026-10-01",
+        "quote": "These included the use of steel-jawed leghold traps, wildlife killing contests and hunting bears through baiting, with hounds or in the spring when cubs are vulnerable to the loss of their mother."
+      },
+      {
+        "url": "https://coloradosun.com/2026/10/01/amendment-83-explained-colorado-right-hunt-fish/",
+        "title": "Amendment 83: Colorado voters will decide whether to place right to hunt and fish in state constitution (The Colorado Sun)",
+        "date": "2026-10-01",
+        "quote": "Amendment 83 would not change methods CPW already uses to manage wildlife including bag limits, hunting seasons and method-of-take regulations"
+      }
+    ]
+  },
   "now": [
     {
       "text": "Hunting and fishing are legal now. Colorado Parks and Wildlife (CPW) runs them under rules set by a Governor-appointed commission. The Blue Book says the amendment changes nothing right away, but courts could shape how it applies later.",

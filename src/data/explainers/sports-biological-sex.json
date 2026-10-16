@@ -1,8 +1,101 @@
 {
   "id": "sports-biological-sex",
   "plain": "Should students play on school teams that match their sex at birth rather than their gender identity? Proposition 134 on the November ballot would make that the rule at every school and college in Colorado.",
+  "short_version": {
+    "text": "Proposition 134 would set one statewide rule: school teams from elementary school through college divided by biological sex, plus open teams. Nobody tracks how many transgender athletes would be affected. The argument is fairness and safety for girls against inclusion, privacy and how sex would be checked.",
+    "sources": [
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-11",
+        "quote": "Under the measure, students must compete on teams that match their biological sex or on a coeducational team."
+      },
+      {
+        "url": "https://coloradosun.com/2026/10/01/proposition-134-explaine-colorado-transgender-kids-sports/",
+        "title": "Proposition 134 explained: Banning transgender kids in Colorado from gendered sports (The Colorado Sun)",
+        "date": "2026-10-01",
+        "quote": "The high school sports association does not track how many transgender athletes are playing sports in Colorado."
+      },
+      {
+        "url": "https://coloradosun.com/2026/10/01/proposition-134-explaine-colorado-transgender-kids-sports/",
+        "title": "Proposition 134 explained: Banning transgender kids in Colorado from gendered sports (The Colorado Sun)",
+        "date": "2026-10-01",
+        "quote": "Students already are required to turn in a form signed by their doctor in order to play sports, which could be used in the future to verify a child’s biological sex, she said."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-11",
+        "quote": "Regardless of one’s gender identity, genetic differences between biological males and biological females can affect physical strength, stature, lung capacity, muscle tone, and growth."
+      }
+    ]
+  },
+  "connection": {
+    "text": "Disagreeing keeps today's rules, where schools, districts and the state athletic association decide, and some districts already bar transgender girls from girls' teams. Agreeing makes one rule for every school.",
+    "sources": [
+      {
+        "url": "https://coloradosun.com/2026/10/01/proposition-134-explaine-colorado-transgender-kids-sports/",
+        "title": "Proposition 134 explained: Banning transgender kids in Colorado from gendered sports (The Colorado Sun)",
+        "date": "2026-10-01",
+        "quote": "Transgender athletes have a right to play, but the school’s evaluation determines whether they can play with the team that matches their gender identity."
+      },
+      {
+        "url": "https://www.denverpost.com/2026/08/31/colorado-transgender-athlete-lawsuit-dismissed/",
+        "title": "Judge dismisses Colorado districts’ lawsuit over transgender athletes (The Denver Post, from Chalkbeat Colorado)",
+        "date": "2026-08-31",
+        "quote": "Some Colorado districts allow transgender students to play on teams that match their gender identity, some prohibit it, and some decide on a case-by-case basis."
+      },
+      {
+        "url": "https://www.denverpost.com/2025/12/08/chsaa-colorado-transgender-athlete-lawsuit/",
+        "title": "CHSAA settles Colorado transgender athlete lawsuit; case continues with state (The Denver Post, from Chalkbeat Colorado)",
+        "date": "2025-12-08",
+        "quote": "The group governing high school sports in Colorado has agreed not to sanction schools or teams from eight conservative-leaning school districts and charter schools for policies on transgender student athletes under a settlement agreement finalized last week."
+      }
+    ]
+  },
   "agree_means": "A yes vote on Proposition 134 requires every school team to be male, female or open to all, set by biological sex. Transgender students would play on open teams or on the team for their sex at birth.",
   "disagree_means": "A no vote leaves schools, districts and athletic associations to set their own rules under current state and federal law. Policies would keep varying by district.",
+  "example": {
+    "text": "Today a transgender girl at one high school may play on the girls' team after a school review, while a district next door bars her. Under Proposition 134, she could play only on an open team or the team for her sex at birth.",
+    "sources": [
+      {
+        "url": "https://coloradosun.com/2026/10/01/proposition-134-explaine-colorado-transgender-kids-sports/",
+        "title": "Proposition 134 explained: Banning transgender kids in Colorado from gendered sports (The Colorado Sun)",
+        "date": "2026-10-01",
+        "quote": "Transgender athletes have a right to play, but the school’s evaluation determines whether they can play with the team that matches their gender identity."
+      },
+      {
+        "url": "https://www.denverpost.com/2026/08/31/colorado-transgender-athlete-lawsuit-dismissed/",
+        "title": "Judge dismisses Colorado districts’ lawsuit over transgender athletes (The Denver Post, from Chalkbeat Colorado)",
+        "date": "2026-08-31",
+        "quote": "Some Colorado districts allow transgender students to play on teams that match their gender identity, some prohibit it, and some decide on a case-by-case basis."
+      },
+      {
+        "url": "https://www.denverpost.com/2025/12/08/chsaa-colorado-transgender-athlete-lawsuit/",
+        "title": "CHSAA settles Colorado transgender athlete lawsuit; case continues with state (The Denver Post, from Chalkbeat Colorado)",
+        "date": "2025-12-08",
+        "quote": "The group governing high school sports in Colorado has agreed not to sanction schools or teams from eight conservative-leaning school districts and charter schools for policies on transgender student athletes under a settlement agreement finalized last week."
+      },
+      {
+        "url": "https://coloradosun.com/2026/10/01/proposition-134-explaine-colorado-transgender-kids-sports/",
+        "title": "Proposition 134 explained: Banning transgender kids in Colorado from gendered sports (The Colorado Sun)",
+        "date": "2026-10-01",
+        "quote": "The ballot measure would end that evaluation process, instead requiring that transgender athletes play on teams that match the sex they were assigned at birth."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-11",
+        "quote": "extracurricular activities that align with their gender identity, even if their gender identity is different"
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+        "date": "2026-09-11",
+        "quote": "It is unclear at this time how the measure will impact current state law."
+      }
+    ]
+  },
   "now": [
     {
       "text": "Proposition 134 would make every team from elementary school through college male, female or open to all, based on biological sex. It sets no way to check sex, so each school decides. It changes state law, not the constitution.",

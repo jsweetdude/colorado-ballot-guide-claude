@@ -1,8 +1,89 @@
 {
   "id": "redistricting-commission",
   "plain": "Should Colorado's congressional map change only through its independent commission, even when other states redraw their maps between censuses?",
+  "short_version": {
+    "text": "Colorado's independent commission draws its congressional map once a decade. After Texas, California and others redrew mid-decade, Colorado groups tried too, and the state Supreme Court struck those measures down. Amendment 86 would route any mid-decade redraw through the commission and the court and bar maps that favor a party. Opponents say it would keep Colorado from answering other states.",
+    "sources": [
+      {
+        "url": "https://ballotpedia.org/Colorado_Amendment_Y,_Independent_Commission_for_Congressional_Redistricting_Amendment_(2018)",
+        "title": "Colorado Amendment Y, Independent Commission for Congressional Redistricting Amendment (2018) (Ballotpedia)",
+        "date": "2026-10-16",
+        "quote": "The final 12-member commission will have 4 Democrats, 4 Republicans, and 4 unaffiliated members",
+        "date_basis": "accessed"
+      },
+      {
+        "url": "https://www.ncsl.org/redistricting-and-census/changing-the-maps-tracking-mid-decade-redistricting",
+        "title": "Changing the Maps: Tracking Mid-Decade Redistricting (National Conference of State Legislatures)",
+        "date": "2026-10-16",
+        "quote": "Since summer 2025, 10 states have changed their congressional maps: Alabama, California, Florida, Louisiana, Missouri, North Carolina, Ohio, Tennessee, Texas and Utah.",
+        "date_basis": "accessed"
+      },
+      {
+        "url": "https://www.coloradopolitics.com/2026/06/29/colorado-supreme-court-redistricting-plans-for-2028-election-cannot-proceed-under-state-constitution/",
+        "title": "Colorado Supreme Court: Redistricting plans for 2028 election cannot proceed under state constitution (Colorado Politics)",
+        "date": "2026-06-29",
+        "quote": "adopt maps for the 2028 and 2030 elections — either favoring Democrats by 7-1 or favoring Republicans by 5-3."
+      },
+      {
+        "url": "https://www.coloradopolitics.com/2026/10/02/redistricting-fight-colorado-amendment-86/",
+        "title": "Amendment 86: Redrawing political maps in 'off cycles' (Colorado Politics)",
+        "date": "2026-10-02",
+        "quote": "The commission would have to hold at least three public hearings before approving any off-cycle map, and the map would have to use population data from the most recent census or another permitted data source."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+        "date": "2026-10-16",
+        "quote": "this measure creates an unnecessary constitutional barrier",
+        "date_basis": "accessed"
+      }
+    ]
+  },
+  "connection": {
+    "text": "Disagreeing does not redraw any map: the 2021 map stays until the next scheduled redraw or a future change. The vote is about how hard a mid-decade change would be.",
+    "sources": [
+      {
+        "url": "https://ballotpedia.org/Colorado_Amendment_Y,_Independent_Commission_for_Congressional_Redistricting_Amendment_(2018)",
+        "title": "Colorado Amendment Y, Independent Commission for Congressional Redistricting Amendment (2018) (Ballotpedia)",
+        "date": "2026-10-16",
+        "quote": "The final 12-member commission will have 4 Democrats, 4 Republicans, and 4 unaffiliated members",
+        "date_basis": "accessed"
+      },
+      {
+        "url": "https://ballotpedia.org/Colorado_Amendment_Y,_Independent_Commission_for_Congressional_Redistricting_Amendment_(2018)",
+        "title": "Colorado Amendment Y, Independent Commission for Congressional Redistricting Amendment (2018) (Ballotpedia)",
+        "date": "2026-10-16",
+        "quote": "The final map requires the approval of eight of the 12 members, including at least 2 members that are not affiliated with any political party. It also requires approval by the Colorado Supreme Court.",
+        "date_basis": "accessed"
+      },
+      {
+        "url": "https://www.coloradopolitics.com/2026/10/02/redistricting-fight-colorado-amendment-86/",
+        "title": "Amendment 86: Redrawing political maps in 'off cycles' (Colorado Politics)",
+        "date": "2026-10-02",
+        "quote": "The current districts were approved in 2021 and the next regular redistricting is scheduled for 2031."
+      }
+    ]
+  },
   "agree_means": "Agreeing backs Amendment 86. A mid-decade map would need the commission's approval, three public hearings and Colorado Supreme Court approval, and could not be drawn to favor a party.",
   "disagree_means": "Disagreeing adds no special rule for mid-decade changes. Colorado's map could still change through another constitutional amendment, which needs 55% of the vote.",
+  "example": {
+    "text": "If another state redraws to gain seats, Colorado could respond only through its commission, after three public hearings and Supreme Court approval, and not with a map drawn to help a party.",
+    "sources": [
+      {
+        "url": "https://www.coloradopolitics.com/2026/10/02/redistricting-fight-colorado-amendment-86/",
+        "title": "Amendment 86: Redrawing political maps in 'off cycles' (Colorado Politics)",
+        "date": "2026-10-02",
+        "quote": "The commission would have to hold at least three public hearings before approving any off-cycle map, and the map would have to use population data from the most recent census or another permitted data source."
+      },
+      {
+        "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+        "date": "2026-10-16",
+        "quote": "The measure also prohibits off-cycle changes to congressional districts that intentionally favor a political party or unnecessarily divide communities of interest.",
+        "date_basis": "accessed"
+      }
+    ]
+  },
   "now": [
     {
       "text": "Since 2018 a 12-member independent commission has drawn Colorado's congressional map once a decade. It has four Democrats, four Republicans and four unaffiliated members. A final map needs eight votes, including two unaffiliated, and Supreme Court approval. The current map dates from 2021; the next is due in 2031.",

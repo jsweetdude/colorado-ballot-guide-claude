@@ -1,8 +1,91 @@
 {
   "id": "deportation-priority",
   "plain": "Should deporting people who live in the U.S. without legal status be one of the federal government's top priorities?",
+  "short_version": {
+    "text": "Congress has sharply raised enforcement money, $170.7 billion in 2025 and $69.5 billion more in 2026, and detention reached about 65,800 people in July 2026, most with no criminal conviction. The Penn Wharton Budget Model projects slower economic growth from large-scale removal. Supporters point to removing people who commit crimes and to wage gains for some workers.",
+    "sources": [
+      {
+        "url": "https://www.americanimmigrationcouncil.org/fact-sheet/big-beautiful-bill-immigration-border-security/",
+        "title": "What’s in the Big Beautiful Bill? Immigration and Border Security Unpacked (American Immigration Council)",
+        "date": "2025-07-14",
+        "quote": "H.R. 1 provides $170.7 billion in additional funding for immigration- and border enforcement-related activities to the Department of Homeland Security (DHS)"
+      },
+      {
+        "url": "https://tracreports.org/reports/767/",
+        "title": "Taking Stock: Trump Administration Record on Detention and Removals (TRAC)",
+        "date": "2025-11-24",
+        "quote": "leaving a total of 234,211 removals occurring after President Trump assumed office."
+      },
+      {
+        "url": "https://tracreports.org/immigration/quickfacts/",
+        "title": "Immigration Detention Quick Facts (TRAC)",
+        "date": "2026-10-16",
+        "quote": "46,436 out of 65,765—or 70.6% held in ICE detention have no criminal conviction according to data current as of July 11, 2026.",
+        "date_basis": "accessed",
+        "via": "browser"
+      },
+      {
+        "url": "https://budgetmodel.wharton.upenn.edu/p/2025-07-25-mass-deportation-of-unauthorized-immigrants-fiscal-and-economic-effects/",
+        "title": "Mass Deportation of Unauthorized Immigrants: Fiscal and Economic Effects (Penn Wharton Budget Model)",
+        "date": "2025-07-25",
+        "quote": "A 4-year policy where 10 percent of unauthorized immigrants are removed annually over four years"
+      },
+      {
+        "url": "https://budgetmodel.wharton.upenn.edu/p/2025-07-25-mass-deportation-of-unauthorized-immigrants-fiscal-and-economic-effects/",
+        "title": "Mass Deportation of Unauthorized Immigrants: Fiscal and Economic Effects (Penn Wharton Budget Model)",
+        "date": "2025-07-25",
+        "quote": "But wages for authorized (including US-born) low-skilled workers can increase."
+      }
+    ]
+  },
+  "connection": {
+    "text": "Immigration enforcement is federal and funded by Congress, so this bears on your U.S. Senate and House races. Amendment 81, a separate statement, is the state-level question about local cooperation.",
+    "sources": [
+      {
+        "url": "https://www.americanimmigrationcouncil.org/fact-sheet/big-beautiful-bill-immigration-border-security/",
+        "title": "What’s in the Big Beautiful Bill? Immigration and Border Security Unpacked (American Immigration Council)",
+        "date": "2025-07-14",
+        "quote": "H.R. 1 provides $170.7 billion in additional funding for immigration- and border enforcement-related activities to the Department of Homeland Security (DHS)"
+      },
+      {
+        "url": "https://www.americanimmigrationcouncil.org/fact-sheet/whats-in-the-secure-america-act/",
+        "title": "What’s in the Secure America Act? (American Immigration Council)",
+        "date": "2026-06-10",
+        "quote": "The bill gives ICE and CBP a total of $69.5 billion dollars until September 30, 2029"
+      },
+      {
+        "url": "https://www.americanimmigrationcouncil.org/fact-sheet/whats-in-the-secure-america-act/",
+        "title": "What’s in the Secure America Act? (American Immigration Council)",
+        "date": "2026-06-10",
+        "quote": "Under the Secure America Act, ICE will receive $38.5 billion—nearly four times its annual FY 2025 budget."
+      }
+    ]
+  },
   "agree_means": "Agreeing backs more federal enforcement, detention and funding for deportations, along with the costs and trade-offs below.",
   "disagree_means": "Disagreeing puts other goals first, such as a path to legal status, or opposes the scale or methods of current enforcement.",
+  "example": {
+    "text": "In Colorado this shows up at the Aurora detention center, with 1,532 beds, and at a new Hudson site under a July 2026 federal contract worth up to $528.6 million.",
+    "sources": [
+      {
+        "url": "https://www.coloradopolitics.com/2026/07/13/529m-ice-contract-will-nearly-double-colorados-immigrant-detention-capacity-to-2720-beds/",
+        "title": "$529M ICE contract will nearly double Colorado’s immigrant detention capacity to 2,720 beds (Colorado Politics)",
+        "date": "2026-07-13",
+        "quote": "The Geo Group also runs the Aurora Contract Detention Facility, which has a capacity of 1,532 detainees. The Hudson detention center will boost the capacity in Colorado to a total of 2,720 beds."
+      },
+      {
+        "url": "https://www.coloradopolitics.com/2026/07/13/529m-ice-contract-will-nearly-double-colorados-immigrant-detention-capacity-to-2720-beds/",
+        "title": "$529M ICE contract will nearly double Colorado’s immigrant detention capacity to 2,720 beds (Colorado Politics)",
+        "date": "2026-07-13",
+        "quote": "The deal is worth up to $528.6 million, federal contracting records show."
+      },
+      {
+        "url": "https://tracreports.org/reports/776/",
+        "title": "Removal Orders Jump While Immigration Court Closures Top 100,000 in June 2026 (TRAC)",
+        "date": "2026-07-21",
+        "quote": "These involved the courts in Massachusetts (up 79%), New Jersey (up 66%), Pennsylvania (up 66%), Texas (up 66%) and Colorado (up 60%)."
+      }
+    ]
+  },
   "now": [
     {
       "text": "Congress has added large sums. A 2025 law provides $170.7 billion for immigration and border enforcement. A June 2026 law, the Secure America Act, adds $69.5 billion through 2029, $38.5 billion of it for ICE. These figures are from the American Immigration Council, a pro-immigration research and advocacy group.",
