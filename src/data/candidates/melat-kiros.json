@@ -72,7 +72,7 @@
       "source_url": "https://coloradosun.com/2026/05/29/diana-degette-melat-kiros-wanda-james-colorado-primary-election-issue-guide/",
       "source_title": "Colorado's 1st Congressional District Democratic primary issue guide",
       "date": "2026-05-29",
-      "quote": "the ultra wealthy and corporations. We are desperately in need of those dollars to uplift the working class, and so I would not vote to keep those.",
+      "quote": "Would you vote to continue the tax cuts passed by the Republican-led Congress and President Donald Trump when they expire in 2029? [Melat Kiros:] “Absolutely not,” she said. The cuts have served “the ultra wealthy and corporations. We are desperately in need of those dollars to uplift the working class, and so I would not vote to keep those.”",
       "note": "Answering 'Absolutely not' to whether she would vote to continue the tax cuts in the One Big Beautiful Bill Act when they expire in 2029."
     },
     {
@@ -197,8 +197,8 @@
   "last_checked": "2026-10-15",
   "research_notes": "Verified the secondary-source claim that she defeated Rep. Diana DeGette: confirmed via certified June 30, 2026 primary results on Ballotpedia (Kiros 53.2%, DeGette 39.8%, Wanda James 7.0%). Her campaign site (kirosforco.com) renders as a single-page app in this session's curl fetches, so issue-page quotes were taken from Ballotpedia's verbatim block-quote of that same site (dated April 24, 2026) rather than directly; the underlying site was independently confirmed to exist and match these themes. The Colorado Sun's May 29, 2026 Democratic primary issue guide and the Denver Post's Oct. 3, 2026 candidate Q&A independently corroborate her ICE/immigration position and supplied the federal-budget-law and public-lands quotes. No statement found on tariffs, so that is left unsourced rather than inferred. Second pass 2026-10-14: added housing-state-zoning from https://www.coloradopolitics.com/2026/10/02/kiros-blau-peterson-congressional-district-1/. Gap fill 2026-10-15: Added her gun-policy position from the campaign's priorities document, found by comparing with the sibling build and confirmed by fetching the PDF.",
   "verification": {
-    "checked": "2026-10-15",
-    "positions_verified": 11,
+    "checked": "2026-10-16",
+    "positions_verified": 9,
     "positions_unverifiable": 0,
     "detail": {
       "health-coverage": "found",
@@ -207,9 +207,7 @@
       "federal-budget-law": "found",
       "deportation-priority": "found",
       "immigration-notify-ice": "found",
-      "fentanyl-penalties": "found",
       "sports-biological-sex": "found",
-      "minor-gender-surgery-ban": "found",
       "housing-state-zoning": "found",
       "stricter-gun-laws": "found"
     }
