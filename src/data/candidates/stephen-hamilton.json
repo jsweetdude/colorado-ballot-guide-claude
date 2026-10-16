@@ -77,7 +77,15 @@
     }
   ],
   "endorsements": [],
-  "finance": null,
+  "finance": {
+    "raised": 0,
+    "spent": 0,
+    "cash_on_hand": 0,
+    "as_of": "2026-10-14",
+    "source_url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=61862",
+    "source_name": "Colorado Secretary of State (TRACER)",
+    "note": "Totals for the 2026 election cycle through October 14, 2026, from the campaign's report to the Colorado Secretary of State. The campaign filed its reports in advance, showing no activity."
+  },
   "sources": [
     {
       "title": "Stephen Hamilton - Ballotpedia",
@@ -103,9 +111,14 @@
       "title": "Colorado Governor candidate Q&A - The Denver Post",
       "url": "https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado TRACER campaign finance: candidate detail",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=61862",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-16",
   "research_notes": "No campaign website, prior offices, or 2026-specific news coverage could be found for Hamilton; he did not answer any question on his iVoterGuide questionnaire. The only substantive material located is a rambling 2024 Ballotpedia Candidate Connection survey response (note: Ballotpedia lists it as his 2024 submission, though he is the certified 2026 governor candidate); most of its content does not state a clear, codeable position on any of the 25 statements, so this profile is thin by necessity rather than by shortcut. A reviewer should double-check whether a more recent statement from him exists before publication. Second pass 2026-10-14: added health-coverage, immigration-notify-ice, clean-energy-shift from https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/, the Denver Post's 2026 governor candidate Q&A, which he did answer.",
   "verification": {
     "checked": "2026-10-15",

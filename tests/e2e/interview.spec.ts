@@ -10,7 +10,7 @@ test('a visitor finds their districts, completes the interview and sees results'
   );
 
   await page.goto('/');
-  await page.getByRole('link', { name: 'Start', exact: true }).click();
+  await page.getByRole('link', { name: 'Start with your ballot' }).click();
   await expect(page.getByRole('heading', { level: 1, name: 'Find your ballot' })).toBeVisible();
   await page.getByLabel('Street address, city and ZIP code').fill('200 E Colfax Ave, Denver, CO 80203');
   await page.getByRole('button', { name: 'Look up my districts' }).click();

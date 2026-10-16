@@ -145,7 +145,15 @@
       "source_url": "https://www.amandaforcolorado.com/endorsements"
     }
   ],
-  "finance": null,
+  "finance": {
+    "raised": 395376,
+    "spent": 241479,
+    "cash_on_hand": 153897,
+    "as_of": "2026-09-30",
+    "source_url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?OrgID=47949&Type=CO",
+    "source_name": "Colorado Secretary of State (TRACER)",
+    "note": "Totals for the 2026 election cycle through September 30, 2026, from the campaign's report to the Colorado Secretary of State. Donated goods and services worth $6,921 are listed separately and not counted as money raised."
+  },
   "sources": [
     {
       "title": "Amanda Gonzalez (Colorado) - Ballotpedia",
@@ -201,9 +209,14 @@
       "title": "amandaforcolorado.com",
       "url": "https://www.amandaforcolorado.com/",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado TRACER campaign finance: candidate detail",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?OrgID=47949&Type=CO",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-16",
   "research_notes": "The Colorado Sun's Oct. 7, 2026 candidate guide directly asked Gonzalez about Amendment 84 and confirmed she declines to take official positions on ballot measures; mail-ballot-id is coded from her own words in that answer rather than from party or general inference. No statement found naming Amendment 85 or 86 specifically, so plain-language-ballots and redistricting-commission are left unsourced (unknown). Two 'decision' record items sourced to her own campaign site (voter-roll purge defense, Jeffco election-administration record) are self-reported and not independently verified against a news outlet in this session -- a reviewer should check these before publishing. Second pass 2026-10-14: checked the Denver Post's Oct. 3, 2026 SoS candidate Q&A and Robert Tann's Oct. 4, 2026 Denver Post article on the race; added one record item (the 2024 jail voting-access law) from the latter. Both sources reinforce her existing keep-mail-voting and challenge-federal-policies positions and do not address plain-language-ballots or redistricting-commission, so no new positions were added.",
   "verification": {
     "checked": "2026-10-15",

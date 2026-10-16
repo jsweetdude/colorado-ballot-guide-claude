@@ -162,13 +162,13 @@
     }
   ],
   "finance": {
-    "raised": 3143744,
-    "spent": 1551102,
-    "cash_on_hand": 1592642,
-    "as_of": "2026-06-30",
+    "raised": 4968409,
+    "spent": 4265934,
+    "cash_on_hand": 702475,
+    "as_of": "2026-09-30",
     "source_url": "https://www.fec.gov/data/candidate/H6CO05324/?cycle=2026&election_full=true",
     "source_name": "Federal Election Commission",
-    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-06-30)."
+    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-09-30)."
   },
   "sources": [
     {

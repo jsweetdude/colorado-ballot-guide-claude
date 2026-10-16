@@ -245,6 +245,19 @@ How it was made: five research agents gathered sources from one written brief (`
 
 Known gaps, each stated inside the explainer it affects: Colorado's building-emissions share comes from 2015 and 2020 estimates because the 2025 state inventory sits in a viewer scripts cannot read; the gas-versus-electric bill comparison rests on the gas industry's trade group plus national lab work, and says so; no independent jobs estimate was found for Proposition 137; the latest out-of-state abortion count is 2023; deportation figures come from a live federal-data dashboard that will change.
 
+## Borrowed from the Codex build, October 16, 2026
+
+After comparing the two builds, John picked what to bring over (DECISIONS.md items 83 to 88). Every fact taken from the Codex build was re-opened at its source and re-quoted before it went in.
+
+- **Landing page:** Codex's layout, a headline with the election dates in a card beside it, above the fold, with this guide's own content.
+- **Security headers:** a Content Security Policy and related headers in `vercel.json`. A browser test checks every page type for violations.
+- **Explainers:** each of the 25 now opens with "The short version," then "How this connects to your ballot" (with the Blue Book's yes and no lines and the races an answer counts toward), and adds "A concrete example." Nothing was removed. The explainers also appear on measure pages.
+- **Records:** 32 vote, bill and decision items, 29 new and 3 replacing looser ones.
+- **Campaign finance:** TRACER totals for 14 statewide state candidates and a "no committee registered" note for the other 4, with a plain explanation of what the numbers mean and every candidate in the race side by side. Federal totals refreshed from the FEC the same day.
+- **Left out:** Codex's "compare on one issue" view, at John's choice for now.
+
+Checks: 31 unit tests and 49 browser and accessibility tests pass, including the new security test on every page type. Of 624 cited links, 594 load, 27 block scripts and were read in a browser, and 3 are broken older candidate links (two paywalled Coloradoan stories and James Wiley's removed endorsements page).
+
 ## Phases and time
 
 Times are Mountain Daylight Time on October 14, 2026, from the session's own log and the commit history. Research ran in parallel with the build, so phases overlap.

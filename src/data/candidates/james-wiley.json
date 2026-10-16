@@ -81,7 +81,15 @@
       "source_url": "https://wileyforcolorado.com/endorsements"
     }
   ],
-  "finance": null,
+  "finance": {
+    "raised": 75248,
+    "spent": 85806,
+    "cash_on_hand": -10558,
+    "as_of": "2026-10-14",
+    "source_url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?OrgID=50453&Type=CO",
+    "source_name": "Colorado Secretary of State (TRACER)",
+    "note": "Totals for the 2026 election cycle through October 14, 2026, from the campaign's report to the Colorado Secretary of State. The balance is negative: the campaign has spent more than it raised."
+  },
   "sources": [
     {
       "title": "James Wiley - Ballotpedia",
@@ -122,9 +130,14 @@
       "title": "Colorado's top secretary of state candidates want to depoliticize the office. But their approaches differ widely.",
       "url": "https://www.denverpost.com/2026/10/04/colorado-secretary-of-state-race-election-voting/",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado TRACER campaign finance: candidate detail",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?OrgID=50453&Type=CO",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-16",
   "research_notes": "No statement found naming Amendment 85 or 86 specifically, so plain-language-ballots and redistricting-commission are left unsourced. Record is empty because he has never held elected office; his election-integrity lawsuits and advocacy (Tina Peters support, Dominion litigation, Union of Ballot Counters) are activist work, not official decisions, and are summarized in experience/summary instead. Second pass 2026-10-14: the Denver Post's Oct. 3, 2026 SoS candidate Q&A states 'James Wiley and Amanda Campbell did not return the questionnaire.' Robert Tann's Oct. 4, 2026 Denver Post article has him calling for a reversal of mail voting and hand-counted ballots (reinforcing his existing keep-mail-voting position) and opposing federal 'usurp' of state election administration (reinforcing challenge-federal-policies), but neither source addresses plain-language-ballots or redistricting-commission. No new positions were added.",
   "verification": {
     "checked": "2026-10-15",

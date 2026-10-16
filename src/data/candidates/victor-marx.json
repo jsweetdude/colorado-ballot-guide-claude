@@ -180,13 +180,13 @@
     }
   ],
   "finance": {
-    "raised": 1660000,
-    "spent": null,
-    "cash_on_hand": null,
-    "as_of": "2026-04-30",
-    "source_url": "https://coloradotimesrecorder.com/2026/05/republican-governor-hopefuls-pitch-mass-deportations-jail-threats/78866/",
-    "source_name": "Colorado Times Recorder",
-    "note": "Reported raised in the reporting period through April 2026; campaign said total fundraising since entering the race was approaching $2.3 million. The same article reported irregularities a conservative commentator (Ross Kaminsky) found in Marx's TRACER donor filings, including donor names listed with inconsistent cities/occupations, which a reviewer may want to weigh when assessing this figure."
+    "raised": 4107262,
+    "spent": 3969656,
+    "cash_on_hand": 242844,
+    "as_of": "2026-09-30",
+    "source_url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=66840",
+    "source_name": "Colorado Secretary of State (TRACER)",
+    "note": "Totals for the 2026 election cycle through September 30, 2026, from the campaign's report to the Colorado Secretary of State. Donated goods and services worth $8,655 are listed separately and not counted as money raised. The state database notes that this campaign's balances were manually adjusted."
   },
   "sources": [
     {
@@ -248,9 +248,14 @@
       "title": "victor2026.com",
       "url": "https://www.victor2026.com",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado TRACER campaign finance: candidate detail",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=66840",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-16",
   "research_notes": "Marx has never held elected office, so record is empty. No fetched source was found addressing keep-tabor-surplus (Proposition NN) by name, conservation-sales-tax (Proposition 137), public-lands (federal land sales), keep-tariffs, federal-budget-law (OBBBA), deportation-priority as distinct from state/ICE cooperation, challenge-federal-policies, plain-language-ballots, or redistricting-commission; these are left out of positions. The TRACER donor-filing irregularities reported by Colorado Times Recorder (flagged in the finance note) are worth double-checking against the Secretary of State's corrected filing before using the fundraising figure prominently. Second pass 2026-10-14: added health-coverage from https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/.",
   "verification": {
     "checked": "2026-10-16",

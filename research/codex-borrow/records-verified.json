@@ -1,0 +1,443 @@
+[
+  {
+    "candidate": "amanda-gonzalez",
+    "verdict": "drop",
+    "reason": "Not a record item: a job description plus advocacy history. CPR page (read in the browser) says only that she has \"advocated for statewide election reforms that include automatic voter registration and the creation of the state's independent redistricting commission\"; no vote, bill or dated decision.",
+    "via": "browser"
+  },
+  {
+    "candidate": "amanda-gonzalez",
+    "verdict": "drop",
+    "reason": "Jeffco's own news page (opened) describes an ongoing office service (Pocketalk translation devices, nearly 100 languages), with no dated decision and no statement that she decided it. Operational detail from the county's promotional post, not a vote, sponsored bill or official decision."
+  },
+  {
+    "candidate": "brittany-pettersen",
+    "verdict": "add",
+    "reason": "Her House office's release (opened) says she was one of four representatives who introduced the bill. Lead sponsor and bill number are not on the page, so the item says \"one of four\"; confirm on Congress.gov if a bill number is wanted.",
+    "record": {
+      "kind": "sponsored_bill",
+      "title": "Medicaid Primary Care Improvement Act",
+      "date": "2025-02-11",
+      "detail": "One of four House members who introduced the bill (with Reps. Crenshaw, Schrier and Smucker). It would clarify that state Medicaid programs may use direct primary care arrangements with a flat monthly fee, and would direct HHS to issue guidance to states.",
+      "source_url": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=1035"
+    },
+    "quote": "U.S. Representatives Brittany Pettersen (CO-07), Dan Crenshaw (TX-02), Kim Schrier (WA-08), and Lloyd Smucker (PA-11) introduced the Medicaid Primary Care Improvement Act"
+  },
+  {
+    "candidate": "brittany-pettersen",
+    "verdict": "add",
+    "reason": "Verified in the House Clerk roll call (XML and human page): Pettersen recorded Yea. Bill text confirmed in the Congressional Record (CREC-2026-01-08, H.R. 1834 Sec. 1, \"Extension of enhanced premium tax credit\", through 2028).",
+    "record": {
+      "kind": "recorded_vote",
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "date": "2026-01-08",
+      "detail": "Voted Yea. The bill extends the enhanced premium tax credit under Internal Revenue Code section 36B through 2028; it passed the House 230-196.",
+      "source_url": "https://clerk.house.gov/Votes/202611"
+    },
+    "quote": "Pettersen Pettersen Democratic Colorado CO Yea"
+  },
+  {
+    "candidate": "brittany-pettersen",
+    "verdict": "add",
+    "reason": "GovInfo page for H.R. 12 as introduced (opened) lists Pettersen in the \"for herself, ...\" sponsor line and in the Cosponsors field, so original cosponsor is confirmed. Introduced in House June 24, 2025; sponsor is Rep. Judy Chu (CA).",
+    "record": {
+      "kind": "sponsored_bill",
+      "title": "H.R. 12, Women's Health Protection Act of 2025",
+      "date": "2025-06-24",
+      "detail": "Original cosponsor. The bill's official title: “To protect a person’s ability to determine whether to continue or end a pregnancy, and to protect a health care provider’s ability to provide abortion services.”",
+      "source_url": "https://www.govinfo.gov/app/details/BILLS-119hr12ih"
+    },
+    "quote": "Scott H. Peters (CA); Brittany Pettersen (CO); Chellie Pingree (ME)"
+  },
+  {
+    "candidate": "gabe-evans",
+    "verdict": "add",
+    "reason": "GovInfo page for H.R. 1679 as introduced (opened) lists Evans as sponsor and Robin L. Kelly as cosponsor, introduced Feb. 27, 2025. \"Led\" in the sibling text is replaced by \"sponsor\". House passage on June 23, 2025 comes only from his office's press release (opened); no Clerk roll call was found for that date, so the item attributes it to his office.",
+    "record": {
+      "kind": "sponsored_bill",
+      "title": "H.R. 1679, Global Investment in American Jobs Act of 2025",
+      "date": "2025-02-27",
+      "detail": "Sponsor, with Rep. Robin Kelly (D-IL) as cosponsor. The bill directs the Secretary of Commerce to conduct an interagency review of, and report to Congress on, ways to increase U.S. competitiveness in attracting foreign direct investment. His office reports the House passed the bill on June 23, 2025.",
+      "source_url": "https://www.govinfo.gov/app/details/BILLS-119hr1679ih"
+    },
+    "quote": "Mr. Evans of Colorado (for himself and Ms. Kelly of Illinois) introduced the following bill; which was referred to the Committee on Energy and Commerce"
+  },
+  {
+    "candidate": "gabe-evans",
+    "verdict": "add",
+    "reason": "Colorado General Assembly vote page (opened): House third reading, 04/14/2024, Evans No (37 Yes, 24 No, 4 excused). Legislator page confirms Rep. Gabe Evans (R, District 48) served in the 2024 session; he is the only Evans on the vote. Bill page shows the bill was signed 05/13/2024.",
+    "record": {
+      "kind": "recorded_vote",
+      "title": "HB24-1313, Housing in Transit-Oriented Communities, House third reading",
+      "date": "2024-04-14",
+      "detail": "Voted No. The bill passed the House 37-24 (4 excused) and was signed into law May 13, 2024.",
+      "source_url": "https://leg.colorado.gov/bill_votes/12372"
+    },
+    "quote": "Epps Yes Evans No Frizell No Froelich Yes"
+  },
+  {
+    "candidate": "gabe-evans",
+    "verdict": "add",
+    "reason": "Verified in the House Clerk roll call (XML and human page): Evans recorded Nay. Bill text confirmed in the Congressional Record (CREC-2026-01-08, H.R. 1834 Sec. 1, \"Extension of enhanced premium tax credit\", through 2028).",
+    "record": {
+      "kind": "recorded_vote",
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "date": "2026-01-08",
+      "detail": "Voted Nay. The bill extends the enhanced premium tax credit under Internal Revenue Code section 36B through 2028; it passed the House 230-196.",
+      "source_url": "https://clerk.house.gov/Votes/202611"
+    },
+    "quote": "Evans (CO) Evans (CO) Republican Colorado CO Nay"
+  },
+  {
+    "candidate": "greg-lopez",
+    "verdict": "drop",
+    "reason": "Background (offices held), not a vote, bill or decision; belongs in experience, which his file already covers. The cited Colorado Newsline page is blocked to automated fetching and was not needed."
+  },
+  {
+    "candidate": "greg-lopez",
+    "verdict": "add",
+    "reason": "Clerk XML for 2024 roll 345 (opened) shows Lopez Aye on H R 8281, \"Safeguard American Voter Eligibility Act\", On Passage, Passed, 221-198, 10-Jul-2024. Human page matches. Not already in his record.",
+    "record": {
+      "kind": "recorded_vote",
+      "title": "H.R. 8281, Safeguard American Voter Eligibility Act, passage",
+      "date": "2024-07-10",
+      "detail": "Voted Aye. The bill passed the House 221-198.",
+      "source_url": "https://clerk.house.gov/Votes/2024345"
+    },
+    "quote": "Lopez Lopez Republican Colorado CO Aye"
+  },
+  {
+    "candidate": "jason-crow",
+    "verdict": "add",
+    "reason": "His House office's release (opened) says he introduced the bill on June 10, 2025 and that Rep. Brian Fitzpatrick joined him. Bill number is not on the page.",
+    "record": {
+      "kind": "sponsored_bill",
+      "title": "Healthcare Cybersecurity Act",
+      "date": "2025-06-10",
+      "detail": "Introduced with Rep. Brian Fitzpatrick (R-PA). The bill would require the Cybersecurity and Infrastructure Security Agency and the Department of Health and Human Services to collaborate on cybersecurity in the health care and public health sectors, with a liaison between the two agencies and a risk study.",
+      "source_url": "https://crow.house.gov/media/press-releases/congressman-crow-introduces-bipartisan-bill-to-protect-americans-private-data-from-cyberattacks"
+    },
+    "quote": "Today, Congressman Jason Crow (D-CO-06) introduced new bipartisan legislation to better protect Americans’ private medical data from cyberattackers."
+  },
+  {
+    "candidate": "jason-crow",
+    "verdict": "add",
+    "reason": "Verified in the House Clerk roll call (XML and human page): Crow recorded Yea. Bill text confirmed in the Congressional Record (CREC-2026-01-08, H.R. 1834 Sec. 1, \"Extension of enhanced premium tax credit\", through 2028).",
+    "record": {
+      "kind": "recorded_vote",
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "date": "2026-01-08",
+      "detail": "Voted Yea. The bill extends the enhanced premium tax credit under Internal Revenue Code section 36B through 2028; it passed the House 230-196.",
+      "source_url": "https://clerk.house.gov/Votes/202611"
+    },
+    "quote": "Crow Crow Democratic Colorado CO Yea"
+  },
+  {
+    "candidate": "jason-crow",
+    "verdict": "add",
+    "reason": "GovInfo page for H.R. 12 as introduced (opened) lists Crow in the \"for herself, ...\" sponsor line and in the Cosponsors field, so original cosponsor is confirmed. Introduced in House June 24, 2025; sponsor is Rep. Judy Chu (CA).",
+    "record": {
+      "kind": "sponsored_bill",
+      "title": "H.R. 12, Women's Health Protection Act of 2025",
+      "date": "2025-06-24",
+      "detail": "Original cosponsor. The bill's official title: “To protect a person’s ability to determine whether to continue or end a pregnancy, and to protect a health care provider’s ability to provide abortion services.”",
+      "source_url": "https://www.govinfo.gov/app/details/BILLS-119hr12ih"
+    },
+    "quote": "Jasmine Crockett (TX); Jason Crow (CO); Sharice Davids (KS)"
+  },
+  {
+    "candidate": "jeff-bridges",
+    "verdict": "add",
+    "reason": "Colorado bill page (opened): Senate prime sponsors are Sen. J. Amabile and Sen. J. Bridges (House prime sponsors Reps. K. Brown and R. Taggart); status Became Law, Governor Signed 05/29/2026. \"Prime sponsor\" in the sibling text is one of two Senate prime sponsors. Rutinel is a listed House co-sponsor of the same bill.",
+    "record": {
+      "kind": "sponsored_bill",
+      "title": "SB26-187, Establishing Commission on Medicaid",
+      "date": "2026-05-01",
+      "detail": "One of two Senate prime sponsors (with Sen. J. Amabile). Creates a commission to study Medicaid and develop recommendations on new federal Medicaid policy changes taking effect in 2026 through 2028. Signed by the governor May 29, 2026.",
+      "source_url": "https://leg.colorado.gov/bills/sb26-187"
+    },
+    "quote": "Prime Sponsor Sen. J. Amabile | Sen. J. Bridges Rep. K. Brown | Rep. R. Taggart"
+  },
+  {
+    "candidate": "jeff-bridges",
+    "verdict": "drop",
+    "reason": "Duplicate of his existing record item for SB26-135, which already gives prime sponsorship and the Senate 23-12 passage. For reference, the vote page (opened) shows Bridges Yes on the 05/12/2026 Senate repass vote after House amendments, 23-12, at https://leg.colorado.gov/bill_votes/29870."
+  },
+  {
+    "candidate": "jeff-crank",
+    "verdict": "add",
+    "reason": "His House office's release (opened): Crank, along with Rep. Jason Crow, introduced the bill on Sept. 8, 2025. Same bill is a lead for Crow's file (not in the input).",
+    "record": {
+      "kind": "sponsored_bill",
+      "title": "Quad Space Act",
+      "date": "2025-09-08",
+      "detail": "Introduced with Rep. Jason Crow (D-CO). The bill directs the Secretary of Defense to lead discussions with Australia, India and Japan on cooperation on space best practices, space situational awareness and space industrial policy.",
+      "source_url": "https://crank.house.gov/media/press-releases/reps-crank-crow-introduce-bill-increase-international-collaboration-space"
+    },
+    "quote": "Today, Representative Jeff Crank (CO-05), along with Representative Jason Crow (CO-06) introduced the Quad Space Act."
+  },
+  {
+    "candidate": "jeff-crank",
+    "verdict": "add",
+    "reason": "Verified in the House Clerk roll call (XML and human page): Crank recorded Nay. Bill text confirmed in the Congressional Record (CREC-2026-01-08, H.R. 1834 Sec. 1, \"Extension of enhanced premium tax credit\", through 2028).",
+    "record": {
+      "kind": "recorded_vote",
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "date": "2026-01-08",
+      "detail": "Voted Nay. The bill extends the enhanced premium tax credit under Internal Revenue Code section 36B through 2028; it passed the House 230-196.",
+      "source_url": "https://clerk.house.gov/Votes/202611"
+    },
+    "quote": "Crank Crank Republican Colorado CO Nay"
+  },
+  {
+    "candidate": "jeff-hurd",
+    "verdict": "add",
+    "reason": "His House office's release (opened) says he introduced the bill on March 10, 2025. Wording on the page is promotional (\"unlock\", \"locked up\"); the item uses only the mechanical description. Bill number is not on the page.",
+    "record": {
+      "kind": "sponsored_bill",
+      "title": "Productive Public Lands Act",
+      "date": "2025-03-10",
+      "detail": "Introduced the bill, which would require the Bureau of Land Management to reissue nine resource management plans that his release describes as Biden-era plans.",
+      "source_url": "https://hurd.house.gov/media/press-releases/hurd-introduces-productive-public-lands-act"
+    },
+    "quote": "Congressman Jeff Hurd (CO-03) introduces the Productive Public Lands Act to unlock resource development on some of our most productive lands."
+  },
+  {
+    "candidate": "jeff-hurd",
+    "verdict": "add",
+    "reason": "Verified in the House Clerk roll call (XML and human page): Hurd recorded Yea. Bill text confirmed in the Congressional Record (CREC-2026-01-08, H.R. 1834 Sec. 1, \"Extension of enhanced premium tax credit\", through 2028).",
+    "record": {
+      "kind": "recorded_vote",
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "date": "2026-01-08",
+      "detail": "Voted Yea. The bill extends the enhanced premium tax credit under Internal Revenue Code section 36B through 2028; it passed the House 230-196.",
+      "source_url": "https://clerk.house.gov/Votes/202611"
+    },
+    "quote": "Hurd (CO) Hurd (CO) Republican Colorado CO Yea"
+  },
+  {
+    "candidate": "jena-griswold",
+    "verdict": "add",
+    "reason": "Rewritten from the sibling text. The CPR page (opened in the browser) has only her own statement (\"I was sued by Trump's DOJ because I refused to hand over Colorado's sensitive voter data\"), so the item is built on KKTV (opened), which reports her office's refusal and the DOJ suit announced Thursday, Dec. 11, 2025; Colorado Newsline via Route Fifty (opened) also reports \"her refusal to hand over unredacted voter registration information\". The Tina Peters half of the sibling text duplicates her existing item and was left out. Outcome of the suit not checked.",
+    "record": {
+      "kind": "decision",
+      "title": "Declined U.S. Department of Justice request for unredacted voter registration list",
+      "date": "2025-12-11",
+      "detail": "As Secretary of State, her office said it would not hand over Coloradans' sensitive voting information in response to a U.S. Department of Justice request for the unredacted statewide voter registration list. The department announced a lawsuit against her over the request on Dec. 11, 2025.",
+      "source_url": "https://kktv.com/2025/12/12/doj-sues-colorado-secretary-state-failure-release-state-voter-information"
+    },
+    "quote": "“We will not hand over Coloradans’ sensitive voting information to Donald Trump. He does not have a legal right to the information."
+  },
+  {
+    "candidate": "jena-griswold",
+    "verdict": "add",
+    "reason": "Mesa County District Court order, case 2022CV30007 (opened; 36 pages, pdftotext): petitioners were Griswold in her official capacity and a Mesa County elector; order dated May 10, 2022 enters an injunction against Peters and Deputy Clerk Knisley and confirms Brandi Bantz as designated election official through the 2022 election cycle. OVERLAPS her existing item \"Blocked Mesa County Clerk Tina Peters from overseeing county elections\" (Wikipedia source, date 2021-01-01, wording \"in 2021 and 2022\"); the order covers the 2022 election cycle only. Recommend replacing the existing item with this one rather than keeping both.",
+    "record": {
+      "kind": "decision",
+      "title": "Petition to bar Tina Peters from administering Mesa County's 2022 elections",
+      "date": "2022-05-10",
+      "detail": "As Secretary of State, she was a petitioner in a Mesa County District Court case seeking to keep Clerk Tina Peters from serving as designated election official for the 2022 elections. On May 10, 2022 the court enjoined Peters and Deputy Clerk Belinda Knisley from that role and confirmed Brandi Bantz as designated election official for the 2022 election cycle.",
+      "source_url": "https://www.courthousenews.com/wp-content/uploads/2022/05/Order-in-Griswold-v-Peters.pdf"
+    },
+    "quote": "An injunction is entered prohibiting Peters and Knisley from performing as the Designated Election Official for Mesa County.",
+    "supersedes": "Blocked Mesa County Clerk Tina Peters from overseeing county elections"
+  },
+  {
+    "candidate": "joe-neguse",
+    "verdict": "add",
+    "reason": "His House office's release (opened), dated July 23, 2026: he and Sen. Ben Ray Luján introduced the bill. Bill number is not on the page.",
+    "record": {
+      "kind": "sponsored_bill",
+      "title": "Local Input Act",
+      "date": "2026-07-23",
+      "detail": "Introduced with Sen. Ben Ray Luján (D-NM). The bill would restore the Interior Department's discretion to consider public comments and defer nominated parcels in oil and gas lease sales on federal public lands.",
+      "source_url": "https://neguse.house.gov/media/press-releases/congressman-neguse-senator-lujan-introduce-local-input-act"
+    },
+    "quote": "Today, Colorado Congressman Joe Neguse, Ranking Member of the Federal Lands Subcommittee, and New Mexico Senator Ben Ray Luján introduced the Local Input Act."
+  },
+  {
+    "candidate": "joe-neguse",
+    "verdict": "add",
+    "reason": "Verified in the House Clerk roll call (XML and human page): Neguse recorded Yea. Bill text confirmed in the Congressional Record (CREC-2026-01-08, H.R. 1834 Sec. 1, \"Extension of enhanced premium tax credit\", through 2028).",
+    "record": {
+      "kind": "recorded_vote",
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "date": "2026-01-08",
+      "detail": "Voted Yea. The bill extends the enhanced premium tax credit under Internal Revenue Code section 36B through 2028; it passed the House 230-196.",
+      "source_url": "https://clerk.house.gov/Votes/202611"
+    },
+    "quote": "Neguse Neguse Democratic Colorado CO Yea"
+  },
+  {
+    "candidate": "joe-neguse",
+    "verdict": "add",
+    "reason": "GovInfo page for H.R. 12 as introduced (opened) lists Neguse in the \"for herself, ...\" sponsor line and in the Cosponsors field, so original cosponsor is confirmed. Introduced in House June 24, 2025; sponsor is Rep. Judy Chu (CA).",
+    "record": {
+      "kind": "sponsored_bill",
+      "title": "H.R. 12, Women's Health Protection Act of 2025",
+      "date": "2025-06-24",
+      "detail": "Original cosponsor. The bill's official title: “To protect a person’s ability to determine whether to continue or end a pregnancy, and to protect a health care provider’s ability to provide abortion services.”",
+      "source_url": "https://www.govinfo.gov/app/details/BILLS-119hr12ih"
+    },
+    "quote": "Linda T. Sanchez (CA); Joe Neguse (CO); Maxine Waters (CA)"
+  },
+  {
+    "candidate": "john-hickenlooper",
+    "verdict": "add",
+    "reason": "Senate roll call 242 (opened): Hickenlooper (D-CO), Yea; motion to concur in the House amendment to S. 2938 with an amendment, agreed to 65-33, June 23, 2022. Senate page gives the measure title \"An act to make our communities safer\"; GovInfo (opened) shows S. 2938 became Public Law 117-159, \"Bipartisan Safer Communities Act\", approved June 25, 2022.",
+    "record": {
+      "kind": "recorded_vote",
+      "title": "S. 2938, Bipartisan Safer Communities Act, motion to concur in House amendment with an amendment",
+      "date": "2022-06-23",
+      "detail": "Voted Yea. The motion was agreed to 65-33. The bill became Public Law 117-159 on June 25, 2022.",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00242.htm"
+    },
+    "quote": "Hickenlooper (D-CO), Yea"
+  },
+  {
+    "candidate": "kevin-grantham",
+    "verdict": "add",
+    "reason": "Colorado bill page (opened): prime sponsors are Sens. S. Fenberg and K. Grantham and Reps. C. Duran and P. Neville, so Grantham was one of four prime sponsors, not the sole one. Summary describes a 12-member independent congressional redistricting commission to take effect if approved at the Nov. 6, 2018 general election; Senate vote 35-0 (04/30/2018), House 65-0 (05/07/2018). The page does not give the election result, so the item does not.",
+    "record": {
+      "kind": "sponsored_bill",
+      "title": "SCR18-004, Congressional Redistricting (independent commission)",
+      "date": "2018-04-18",
+      "detail": "One of four prime sponsors (Sens. Fenberg and Grantham, Reps. Duran and Neville). The concurrent resolution proposed moving the duty to draw congressional districts from the General Assembly to a 12-member independent commission, subject to voter approval at the Nov. 6, 2018 general election. It passed the Senate 35-0 and the House 65-0.",
+      "source_url": "https://www.leg.colorado.gov/bills/scr18-004"
+    },
+    "quote": "Prime Sponsor Sen. S. Fenberg | Sen. K. Grantham Rep. C. Duran | Rep. P. Neville"
+  },
+  {
+    "candidate": "lauren-boebert",
+    "verdict": "add",
+    "reason": "GovInfo page for H.R. 3095 as introduced (opened): sponsor Lauren Boebert, introduced April 30, 2025; original cosponsors include Pettersen, Crow and Evans (leads for those files). Committee advancement on May 21, 2025 comes only from her office's release (opened), so the item attributes it to her office. Press-release wording (\"successfully passed\") not used.",
+    "record": {
+      "kind": "sponsored_bill",
+      "title": "H.R. 3095, unique ZIP Codes for certain communities",
+      "date": "2025-04-30",
+      "detail": "Sponsor. The bill directs the U.S. Postal Service to designate single, unique ZIP Codes for certain communities. Her office reports it advanced through the House Oversight and Government Reform Committee on May 21, 2025.",
+      "source_url": "https://www.govinfo.gov/app/details/BILLS-119hr3095ih"
+    },
+    "quote": "Ms. Boebert (for herself, Mrs. Kim, Ms. Pettersen, Mr. Crow, Mr. Evans of Colorado"
+  },
+  {
+    "candidate": "lauren-boebert",
+    "verdict": "add",
+    "reason": "Verified in the House Clerk roll call (XML and human page): Boebert recorded Nay. Bill text confirmed in the Congressional Record (CREC-2026-01-08, H.R. 1834 Sec. 1, \"Extension of enhanced premium tax credit\", through 2028).",
+    "record": {
+      "kind": "recorded_vote",
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "date": "2026-01-08",
+      "detail": "Voted Nay. The bill extends the enhanced premium tax credit under Internal Revenue Code section 36B through 2028; it passed the House 230-196.",
+      "source_url": "https://clerk.house.gov/Votes/202611"
+    },
+    "quote": "Boebert Boebert Republican Colorado CO Nay"
+  },
+  {
+    "candidate": "manny-rutinel",
+    "verdict": "add",
+    "reason": "Colorado bill page (opened): sole prime sponsor Rep. M. Rutinel; status Lost; last action 05/13/2025 House Appropriations \"Lay Over Unamended\". Sibling description (\"state and regional coordination\") replaced with the bill's own summary.",
+    "record": {
+      "kind": "sponsored_bill",
+      "title": "HB25-1032, Improving Infrastructure to Reduce Homelessness",
+      "date": "2025-01-08",
+      "detail": "Prime sponsor. The bill would have created a Colorado interagency council on homelessness within the governor's office. The General Assembly lists its status as lost; the last action was a layover in House Appropriations on May 13, 2025.",
+      "source_url": "https://www.leg.colorado.gov/bills/hb25-1032"
+    },
+    "quote": "Prime Sponsors Representative Manny Rutinel"
+  },
+  {
+    "candidate": "manny-rutinel",
+    "verdict": "add",
+    "reason": "Colorado General Assembly vote page (opened): House third reading, 04/14/2024, Rutinel Yes (37 Yes, 24 No, 4 excused). Bill page (opened) also lists Rutinel as a House co-sponsor of HB24-1313, which could be a separate sponsored_bill item. Signed 05/13/2024.",
+    "record": {
+      "kind": "recorded_vote",
+      "title": "HB24-1313, Housing in Transit-Oriented Communities, House third reading",
+      "date": "2024-04-14",
+      "detail": "Voted Yes. The bill passed the House 37-24 (4 excused) and was signed into law May 13, 2024.",
+      "source_url": "https://leg.colorado.gov/bill_votes/12372"
+    },
+    "quote": "Ricks Yes Rutinel Yes Sirota Yes Snyder Yes"
+  },
+  {
+    "candidate": "mark-baisley",
+    "verdict": "add",
+    "reason": "Colorado bill page (opened): House prime sponsors Reps. D. Johnson and M. Lukens; Senate prime sponsors Sens. M. Baisley and W. Lindstedt; introduced in Senate 03/17/2026; Governor Signed 05/05/2026; status Became Law. He is one of two Senate prime sponsors, not the only prime sponsor.",
+    "record": {
+      "kind": "sponsored_bill",
+      "title": "HB26-1238, Designating Emergency Medical Services as Essential Services",
+      "date": "2026-03-17",
+      "detail": "One of two Senate prime sponsors (with Sen. W. Lindstedt). The act declares emergency medical services, including ambulance and air ambulance services, an essential service. Signed by the governor May 5, 2026.",
+      "source_url": "https://leg.colorado.gov/bills/hb26-1238"
+    },
+    "quote": "Prime Sponsor Rep. D. Johnson | Rep. M. Lukens Sen. M. Baisley | Sen. W. Lindstedt"
+  },
+  {
+    "candidate": "mark-baisley",
+    "verdict": "add",
+    "reason": "Colorado bill page (opened): House prime sponsors Reps. A. Paschal and C. Richardson; Senate prime sponsor Sen. M. Baisley; status Lost; last action 04/29/2026 House Second Reading laid over to 05/14/2026. Sibling text said only \"layover\"; the page's status field says Lost.",
+    "record": {
+      "kind": "sponsored_bill",
+      "title": "HB26-1080, County Mail Ballot Signature Verification Requirements",
+      "date": "2026-02-02",
+      "detail": "Senate prime sponsor (House prime sponsors were Reps. Paschal and Richardson). As introduced, the bill would require a county clerk to use a team of bipartisan election judges, rather than a single judge, to verify mail ballot signatures. The General Assembly lists its status as lost; the last action was a House second-reading layover on April 29, 2026.",
+      "source_url": "https://leg.colorado.gov/bills/hb26-1080"
+    },
+    "quote": "Prime Sponsor Rep. A. Paschal | Rep. C. Richardson Sen. M. Baisley"
+  },
+  {
+    "candidate": "mark-baisley",
+    "verdict": "add",
+    "reason": "Colorado bill page (opened): House prime sponsors Reps. B. Bradley and M. Brooks; Senate prime sponsors Sens. M. Baisley and L. Zamora Wilson; House Judiciary \"Postpone Indefinitely\" 02/17/2026; status Lost. He is one of two Senate prime sponsors. Bill summary: repeals various state firearms laws.",
+    "record": {
+      "kind": "sponsored_bill",
+      "title": "HB26-1021, Second Amendment Protection Act",
+      "date": "2026-01-14",
+      "detail": "One of two Senate prime sponsors (with Sen. L. Zamora Wilson). The bill would repeal various Colorado laws on firearms and other weapons. The House Judiciary Committee postponed it indefinitely on Feb. 17, 2026.",
+      "source_url": "https://leg.colorado.gov/bills/hb26-1021"
+    },
+    "quote": "Prime Sponsor Rep. B. Bradley | Rep. M. Brooks Sen. M. Baisley | Sen. L. Zamora Wilson"
+  },
+  {
+    "candidate": "mark-baisley",
+    "verdict": "add",
+    "reason": "Colorado Senate vote page (opened): \"Voted on House amendments Repass 05/12/2026 01:19:36 AM\", 23 Yes, 12 No, Baisley No. The sibling label \"final repassage\" is the page's Repass motion on House amendments. Not in his existing record; Bridges's existing SB26-135 item gives the opposing sponsor-side record.",
+    "record": {
+      "kind": "recorded_vote",
+      "title": "SB26-135, State Public K-12 Education Funding, Senate repass after House amendments",
+      "date": "2026-05-12",
+      "detail": "Voted No. The Senate passed the bill 23-12 on the repass vote after House amendments.",
+      "source_url": "https://leg.colorado.gov/bill_votes/29870"
+    },
+    "quote": "Votes by Senate member Amabile Yes Baisley No Ball Yes"
+  },
+  {
+    "candidate": "phil-weiser",
+    "verdict": "add",
+    "reason": "CPR page (403 to curl; read in the built-in browser): \"The Colorado Attorney General's office said since January 2025, Weiser has filed or joined 82 lawsuits against the Trump administration.\" Only the lawsuit count is used; the consumer-fraud and opioid line in the sibling text is a general phrase on the page with no specific action. UPDATES his existing item (title reused, \"more than 60\", Ballotpedia, 2026-01-01): replace it rather than keep both, since the two counts conflict.",
+    "record": {
+      "kind": "decision",
+      "title": "Lawsuits against the second Trump administration",
+      "date": "2026-09-25",
+      "detail": "CPR News reports that the Colorado Attorney General's office said that since January 2025 he has filed or joined 82 lawsuits against the Trump administration.",
+      "source_url": "https://www.cpr.org/2026/09/25/vg-2026-phil-weiser-voter-guide/"
+    },
+    "quote": "The Colorado Attorney General’s office said since January 2025, Weiser has filed or joined 82 lawsuits against the Trump administration.",
+    "supersedes": "Lawsuits against the second Trump administration",
+    "via": "browser"
+  },
+  {
+    "candidate": "phil-weiser",
+    "verdict": "add",
+    "reason": "Attorney General's own page (opened): \"After a yearlong investigation, Attorney General Weiser filed a lawsuit in state court on February 14, 2024 to block the proposed merger.\" OVERLAPS his existing item \"Opposition to King Soopers/Albertsons-Kroger merger\" (Colorado Politics, 2026-10-02, \"helped stop\"), which is vaguer and secondary; this is the dated primary-source version. Recommend replacing the existing item. The competition reasoning on the page is the office's own assertion and is labeled as such.",
+    "record": {
+      "kind": "decision",
+      "title": "State antitrust lawsuit to block the Kroger-Albertsons merger",
+      "date": "2024-02-14",
+      "detail": "As attorney general, filed a state-court lawsuit on Feb. 14, 2024 to block the proposed Kroger-Albertsons merger. His office said the merger would eliminate head-to-head competition between the two companies.",
+      "source_url": "https://coag.gov/grocerymerger/"
+    },
+    "quote": "After a yearlong investigation, Attorney General Weiser filed a lawsuit in state court on February 14, 2024 to block the proposed merger.",
+    "supersedes": "Opposition to King Soopers/Albertsons-Kroger merger"
+  }
+]

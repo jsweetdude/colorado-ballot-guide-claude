@@ -29,7 +29,15 @@
   "record": [],
   "positions": [],
   "endorsements": [],
-  "finance": null,
+  "finance": {
+    "raised": null,
+    "spent": null,
+    "cash_on_hand": null,
+    "as_of": "2026-10-16",
+    "source_url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=67552",
+    "source_name": "Colorado Secretary of State (TRACER)",
+    "note": "No campaign committee is registered with the Colorado Secretary of State as of October 16, 2026, so there are no totals to report."
+  },
   "sources": [
     {
       "title": "Amanda Campbell (Colorado) - Ballotpedia",
@@ -50,8 +58,13 @@
       "title": "Colorado Secretary of State candidate Q&A",
       "url": "https://www.denverpost.com/2026/10/03/colorado-secretary-of-state-candidate-qa/",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado TRACER campaign finance: candidate detail",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=67552",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-16",
   "research_notes": "Campbell did not respond to the Colorado Politics 2026 candidate questionnaire ('American Constitution Party candidate Amanda Campbell did not respond') or the Denver Post's separate 2026 candidate Q&A ('James Wiley and Amanda Campbell did not return the questionnaire'), and has not completed a Ballotpedia Candidate Connection survey in 2020, 2022 or 2026. No 2026 campaign website was found (The Ballot Brief notes none existed as of September 8, 2026). Her only own-words statement I could fetch is from her 2022 campaign website, a general statement about constitutional government that does not map clearly to any of the 25 statements, so no positions were coded for her -- all are correctly left unknown rather than inferred from party or old material. A reviewer should re-check for a current website or interview closer to the election. Second pass 2026-10-14: re-searched news coverage and Google News for additional Amanda Campbell material; found nothing beyond what was already sourced (she did not respond to the Denver Post's Oct. 3, 2026 or Colorado Politics' Oct. 2, 2026 questionnaires). No new positions were added."
 }

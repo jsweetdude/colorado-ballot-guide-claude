@@ -44,7 +44,15 @@
     }
   ],
   "endorsements": [],
-  "finance": null,
+  "finance": {
+    "raised": 44185,
+    "spent": 18796,
+    "cash_on_hand": 25389,
+    "as_of": "2026-09-30",
+    "source_url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=68423",
+    "source_name": "Colorado Secretary of State (TRACER)",
+    "note": "Totals for the 2026 election cycle through September 30, 2026, from the campaign's report to the Colorado Secretary of State. Donated goods and services worth $3,930 are listed separately and not counted as money raised."
+  },
   "sources": [
     {
       "title": "Celeste Landry - Ballotpedia",
@@ -70,9 +78,14 @@
       "title": "celeste4sos.com",
       "url": "https://www.celeste4sos.com/",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado TRACER campaign finance: candidate detail",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=68423",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-16",
   "research_notes": "No endorsements found on a fetched page. Her questionnaire answer criticizing federal CISA changes under the Trump administration was close to challenge-federal-policies but was about election-security coordination specifically, not a general stance on suing the administration, so it was left unsourced rather than stretched. Mail-ballot-id, plain-language-ballots and redistricting-commission are unsourced; her Ballotpedia survey (submitted February 23, 2026) and campaign focus on proportional/ranked voting methods rather than these specific measures. Second pass 2026-10-14: fetched her campaign site's Priorities page (celeste4sos.com/priorities), which details her support for proportional and ranked/approval voting methods and paper-ballot audits; it reinforces keep-mail-voting but does not address Amendment 85's plain-language requirement, Amendment 86's redistricting commission, or lawsuits against the federal administration specifically enough to code without stretching. No new positions were added.",
   "verification": {
     "checked": "2026-10-15",

@@ -68,6 +68,13 @@
       "date": "2024-09-26",
       "detail": "Voted Nay on the government funding bill, which passed 341-82 and was signed into law.",
       "source_url": "https://ballotpedia.org/Greg_Lopez"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 8281, Safeguard American Voter Eligibility Act, passage",
+      "date": "2024-07-10",
+      "detail": "Voted Aye. The bill passed the House 221-198.",
+      "source_url": "https://clerk.house.gov/Votes/2024345"
     }
   ],
   "positions": [
@@ -170,7 +177,15 @@
     }
   ],
   "endorsements": [],
-  "finance": null,
+  "finance": {
+    "raised": 118782,
+    "spent": 167677,
+    "cash_on_hand": 16265,
+    "as_of": "2026-09-30",
+    "source_url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=63109",
+    "source_name": "Colorado Secretary of State (TRACER)",
+    "note": "Totals for the 2026 election cycle through September 30, 2026, from the campaign's report to the Colorado Secretary of State. Donated goods and services worth $10,017 are listed separately and not counted as money raised. Loans of $65,160 are not counted as money raised but are included in cash on hand."
+  },
   "sources": [
     {
       "title": "Greg Lopez - Ballotpedia",
@@ -236,9 +251,19 @@
       "title": "greglopez.co",
       "url": "https://www.greglopez.co",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "H.R. 8281, Safeguard American Voter Eligibility Act, passage",
+      "url": "https://clerk.house.gov/Votes/2024345",
+      "accessed": "2026-10-16"
+    },
+    {
+      "title": "Colorado TRACER campaign finance: candidate detail",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=63109",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-16",
   "research_notes": "Verified via Ballotpedia and Wikipedia that Lopez served a six-month special-election term in the U.S. House (Colorado's 4th District, July 2024-January 2025, completing Ken Buck's term) as the assignment asked; his only three recorded House votes do not map to any of the 25 statements, so they appear only in record, confirmed directly against clerk.house.gov roll-call XML. His greglopez.co/issues page is undated beyond a 2025 copyright footer, so every quote drawn from it uses 2025-01-01 as a placeholder date; a reviewer may want to check whether the page has been updated since he left the Republican Party in January 2026. No fetched source addressed public-lands, keep-tariffs, federal-budget-law, deportation-priority, mail-ballot-id, plain-language-ballots, redistricting-commission, keep-mail-voting, challenge-federal-policies, conservation-sales-tax, or fentanyl-penalties, so those are left out of positions. Could not confirm the specific endorsement referenced in a 'Colorado GOP secretary resigns after endorsing Greg Lopez for governor' headline (Denver Gazette) because the exact article URL could not be located without a working web search in the time available; flagging for a follow-up search. Second pass 2026-10-14: added health-coverage from https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/.",
   "verification": {
     "checked": "2026-10-15",

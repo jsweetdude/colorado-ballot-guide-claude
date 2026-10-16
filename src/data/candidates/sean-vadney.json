@@ -55,7 +55,15 @@
     }
   ],
   "endorsements": [],
-  "finance": null,
+  "finance": {
+    "raised": 50,
+    "spent": 160,
+    "cash_on_hand": -110,
+    "as_of": "2026-09-30",
+    "source_url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=67609",
+    "source_name": "Colorado Secretary of State (TRACER)",
+    "note": "Totals for the 2026 election cycle through September 30, 2026, from the campaign's report to the Colorado Secretary of State. The balance is negative: the campaign has spent more than it raised."
+  },
   "sources": [
     {
       "title": "Sean Vadney - Ballotpedia",
@@ -86,9 +94,14 @@
       "title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
       "url": "https://www.vote411.org/ballot",
       "accessed": "2026-10-15"
+    },
+    {
+      "title": "Colorado TRACER campaign finance: candidate detail",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=67609",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-15",
+  "last_checked": "2026-10-16",
   "research_notes": "No endorsements found on a fetched page. His Ballotpedia Candidate Connection survey (submitted May 1, 2026) and the Denver Post's Oct. 3, 2026 candidate Q&A (which corroborates his keep-mail-voting position) do not address mail-ballot ID, plain-language ballots or redistricting, so those statements are left unsourced rather than inferred. Second pass 2026-10-14: fetched his campaign site (seanvadneyforsos.org), which repeats the same two-plank platform (election security, business filings) as his Ballotpedia survey and does not mention mail-ballot ID, plain-language ballots, redistricting, or lawsuits against the federal administration. No new positions were added. Gap fill 2026-10-15: Added an inferred voter-ID position from his Vote411 answer.",
   "verification": {
     "checked": "2026-10-15",

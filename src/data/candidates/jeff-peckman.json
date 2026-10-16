@@ -78,7 +78,15 @@
     }
   ],
   "endorsements": [],
-  "finance": null,
+  "finance": {
+    "raised": null,
+    "spent": null,
+    "cash_on_hand": null,
+    "as_of": "2026-10-16",
+    "source_url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=67539",
+    "source_name": "Colorado Secretary of State (TRACER)",
+    "note": "No campaign committee is registered with the Colorado Secretary of State as of October 16, 2026, so there are no totals to report."
+  },
   "sources": [
     {
       "title": "Jeff Peckman - Ballotpedia",
@@ -104,9 +112,14 @@
       "title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
       "url": "https://www.vote411.org/ballot",
       "accessed": "2026-10-15"
+    },
+    {
+      "title": "Colorado TRACER campaign finance: candidate detail",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=67539",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-15",
+  "last_checked": "2026-10-16",
   "research_notes": "Peckman's Ballotpedia 2026 Candidate Connection survey and his campaign site are built around a personal framework of 'coherence principles,' novel energy and emissions technology, and UFO/UAP disclosure rather than conventional policy positions; his platform discusses reducing emissions and government spending in ways that do not map cleanly onto the 25 statements' agree/disagree framing without stretching the text (e.g., he criticizes EV subsidies and 'milking' climate change for votes while also pitching his own emissions-reduction technology, which cuts in different directions on clean-energy-shift). No endorsements beyond a single crowd-sourced 'Sway' voting-group listing were found. Given the ambiguity, most positions are left uncoded rather than force-fitting a value; a reviewer with more time may find clearer material in his full 'Solutions Blueprint' document linked from his site. Second pass 2026-10-14: added immigration-notify-ice from https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/, which he did answer. Gap fill 2026-10-15: Added three positions from his Vote411 answers.",
   "verification": {
     "checked": "2026-10-15",

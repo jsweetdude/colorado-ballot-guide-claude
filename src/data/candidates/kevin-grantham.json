@@ -40,6 +40,13 @@
       "date": "2011-01-01",
       "detail": "His campaign site says that 'as State Senator, [he] stopped multiple attempts at billion-dollar tax hikes' and that as Senate President he 'passed balanced budgets without increasing taxes' (self-reported by his own campaign; no specific bill cited).",
       "source_url": "https://www.kevingrantham.com/about"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "SCR18-004, Congressional Redistricting (independent commission)",
+      "date": "2018-04-18",
+      "detail": "One of four prime sponsors (Sens. Fenberg and Grantham, Reps. Duran and Neville). The concurrent resolution proposed moving the duty to draw congressional districts from the General Assembly to a 12-member independent commission, subject to voter approval at the Nov. 6, 2018 general election. It passed the Senate 35-0 and the House 65-0.",
+      "source_url": "https://www.leg.colorado.gov/bills/scr18-004"
     }
   ],
   "positions": [
@@ -75,7 +82,15 @@
     }
   ],
   "endorsements": [],
-  "finance": null,
+  "finance": {
+    "raised": 141316,
+    "spent": 65334,
+    "cash_on_hand": 75982,
+    "as_of": "2026-09-30",
+    "source_url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?OrgID=51076&Type=CO",
+    "source_name": "Colorado Secretary of State (TRACER)",
+    "note": "Totals for the 2026 election cycle through September 30, 2026, from the campaign's report to the Colorado Secretary of State. Donated goods and services worth $3,028 are listed separately and not counted as money raised."
+  },
   "sources": [
     {
       "title": "Jeff Bridges, Kevin Grantham: Colorado treasurer issue guide",
@@ -116,9 +131,19 @@
       "title": "Colorado Treasurer: Republican Kevin J. Grantham (CPR News voter guide interview)",
       "url": "https://www.cpr.org/2026/09/25/vg-2026-kevin-j-grantham-voter-guide/",
       "accessed": "2026-10-15"
+    },
+    {
+      "title": "SCR18-004, Congressional Redistricting (independent commission)",
+      "url": "https://www.leg.colorado.gov/bills/scr18-004",
+      "accessed": "2026-10-16"
+    },
+    {
+      "title": "Colorado TRACER campaign finance: candidate detail",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?OrgID=51076&Type=CO",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-15",
+  "last_checked": "2026-10-16",
   "research_notes": "Thin on sourced positions relative to the full-profile target: despite searching, could not find a Grantham statement specifically on Amendment 87 (graduated income tax) or Proposition 136 (income-tax cap), even though the assignment flagged these as expected topics — his on-record tax comments addressed TABOR/Proposition NN generally, not the income-tax measures by name. Also found nothing on guns, abortion, immigration, hunting rights, or other social-axis statements; as a two-term county commissioner and former state senator who left the legislature in 2019 (before most of the 2025-2026 bills tied to these statements), there may genuinely be little recent record to find, but this is a gap worth a second pass. His Colorado General Assembly legislator page (https://leg.colorado.gov/legislators/kevin-grantham) lists 584 sponsored bills/memorials/resolutions across many pages, mostly ceremonial; not fully reviewed due to volume and low apparent yield on page 1. No campaign finance total found in a fetched source, so finance is left null. Second pass 2026-10-14: checked the Denver Post's Oct. 3, 2026 treasurer candidate Q&A (covers only unclaimed property and PERA, not tax policy) and the Colorado Sun's Amendment 87 and Proposition 136 explainers, neither of which quotes Grantham on state income tax rates; both measures are citizen/advocacy-group initiatives with no legislative referral vote to check. graduated-income-tax and income-tax-cap remain unsourced; no new positions were added. Gap fill 2026-10-15: Added an inferred position on the income-tax cap from the 2018 rate-cut bill he sponsored. The CPR News interview (Sept. 25, 2026), the Colorado Sun treasurer guide, the Denver Post Q&A and his campaign site were read; none mention Amendment 87, Proposition 136, Proposition 137 or the 2025 federal budget law. Gap fill 2026-10-15: Added his CPR News answer on tariffs, found by comparing with the sibling build and confirmed in a browser.",
   "verification": {
     "checked": "2026-10-15",

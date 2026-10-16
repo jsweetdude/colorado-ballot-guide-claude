@@ -54,6 +54,13 @@
       "date": "2018-01-01",
       "detail": "Bridges says in a 2026 interview that he voted no on Senate Bill 200, which cut PERA pension benefits and raised contributions, because he wanted the state to take a larger role in repaying money it had previously taken from PERA during a budget crisis (self-described; exact vote date not given in the source).",
       "source_url": "https://coloradosun.com/2026/10/05/jeff-bridges-kevin-grantham-colorado-treasurer-issue-guide/"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "SB26-187, Establishing Commission on Medicaid",
+      "date": "2026-05-01",
+      "detail": "One of two Senate prime sponsors (with Sen. J. Amabile). Creates a commission to study Medicaid and develop recommendations on new federal Medicaid policy changes taking effect in 2026 through 2028. Signed by the governor May 29, 2026.",
+      "source_url": "https://leg.colorado.gov/bills/sb26-187"
     }
   ],
   "positions": [
@@ -119,7 +126,15 @@
     }
   ],
   "endorsements": [],
-  "finance": null,
+  "finance": {
+    "raised": 468368,
+    "spent": 234110,
+    "cash_on_hand": 234258,
+    "as_of": "2026-09-30",
+    "source_url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=63373",
+    "source_name": "Colorado Secretary of State (TRACER)",
+    "note": "Totals for the 2026 election cycle through September 30, 2026, from the campaign's report to the Colorado Secretary of State. Donated goods and services worth $22,861 are listed separately and not counted as money raised."
+  },
   "sources": [
     {
       "title": "Jeff Bridges, Kevin Grantham: Colorado treasurer issue guide",
@@ -185,9 +200,19 @@
       "title": "Colorado Treasurer: Democrat Jeff Bridges (CPR News voter guide interview)",
       "url": "https://www.cpr.org/2026/09/25/vg-2026-jeff-bridges-voter-guide/",
       "accessed": "2026-10-15"
+    },
+    {
+      "title": "SB26-187, Establishing Commission on Medicaid",
+      "url": "https://leg.colorado.gov/bills/sb26-187",
+      "accessed": "2026-10-16"
+    },
+    {
+      "title": "Colorado TRACER campaign finance: candidate detail",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=63373",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-15",
+  "last_checked": "2026-10-16",
   "research_notes": "Could not find a Bridges statement specifically naming Amendment 87 (graduated income tax) or Proposition 136 (income-tax cap) despite searching news coverage and his campaign/legislative pages, even though the assignment flagged these as expected topics for treasurer candidates — his TABOR-related comments all referenced Proposition NN specifically, not the two income-tax measures. Left as unknown rather than inferred. No positions found on hunting rights, immigration, sports/gender measures, or federal tariffs — plausibly outside the scope of a treasurer campaign, but flagged as unconfirmed gaps. No campaign finance total found in a fetched source, so finance is left null per protocol. Second pass 2026-10-14: checked the Denver Post's Oct. 3, 2026 treasurer candidate Q&A (covers only unclaimed property and PERA, not tax policy) and the Colorado Sun's Amendment 87 and Proposition 136 explainers, neither of which quotes Bridges on state income tax rates; both measures are citizen/advocacy-group initiatives with no legislative referral vote to check. graduated-income-tax and income-tax-cap remain unsourced; no new positions were added. Gap fill 2026-10-15: Added his May 2025 statement on the federal budget bill from the House Democrats' joint release. Still nothing found from him on Amendment 87, Proposition 136 or Proposition 137 (searched the Colorado Sun treasurer guide, the Denver Post treasurer Q&A, the CPR News interview and the Colorado Politics profile). Gap fill 2026-10-15: Added his CPR News answer on tariffs, found by comparing with the sibling build and confirmed in a browser.",
   "verification": {
     "checked": "2026-10-15",

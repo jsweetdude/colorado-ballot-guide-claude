@@ -13,6 +13,9 @@ const total = statements.length;
 const relevant = race.statements ? new Set(race.statements) : null;
 const countFor = (c: (typeof cands)[number]) => (relevant ? c.positions.filter((p) => relevant.has(p.statement)).length : c.positions.length);
 const base = relevant ? relevant.size : total;
+const money = (n: number | null | undefined) => (n == null ? null : n.toLocaleString('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 }));
+const raisedCell = (c: (typeof cands)[number]) =>
+  c.finance && c.finance.raised != null && !(c.finance.raised === 0 && c.finance.cash_on_hand == null) ? `${money(c.finance.raised)}` : null;
 ---
 <Base title={race.office} nav="races" description={`${race.office}: every candidate on the 2026 Colorado ballot, with sourced profiles.`}>
   <section class="page-head" aria-labelledby="h1">
@@ -27,8 +30,8 @@ const base = relevant ? relevant.size : total;
     <div class="legend" aria-hidden="true"><span><i class="sw-known"></i>Statements with a sourced position</span><span><i class="sw-unknown"></i>No known position</span></div>
     <div class="pc-table-wrap pc-card">
       <table class="pc-table">
-        <caption class="visually-hidden">Candidates for {race.office}, with how many of the {base} statements used for this office have a sourced position</caption>
-        <thead><tr><th scope="col">Candidate</th><th scope="col">Party</th><th scope="col">Known positions</th></tr></thead>
+        <caption class="visually-hidden">Candidates for {race.office}, with how many of the {base} statements used for this office have a sourced position, and money raised as of the latest report found</caption>
+        <thead><tr><th scope="col">Candidate</th><th scope="col">Party</th><th scope="col">Known positions</th><th scope="col">Raised</th></tr></thead>
         <tbody>
           {cands.map((c) => (
             <tr>
@@ -38,6 +41,7 @@ const base = relevant ? relevant.size : total;
                 <span class="small">{countFor(c)} of {base}</span>
                 <span class="coverage" aria-hidden="true"><span class="known" style={`width:${Math.round((countFor(c) / base) * 100)}%`}></span><span class="unknown"></span></span>
               </td>
+              <td>{raisedCell(c) ? <><span>{raisedCell(c)}</span><div class="small muted">to {formatDate(c.finance!.as_of)}</div></> : <span class="small muted">None reported</span>}</td>
             </tr>
           ))}
         </tbody>

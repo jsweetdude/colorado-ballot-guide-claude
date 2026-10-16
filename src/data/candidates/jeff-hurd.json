@@ -84,6 +84,20 @@
       "date": "2026-10-07",
       "detail": "According to Hurd, he introduced legislation transferring the federally owned Crystal Reservoir and surrounding acreage to the City of Ouray to let the community restore a local water resource.",
       "source_url": "https://www.aspentimes.com/opinion/meet-candidates-colorado-3rd-congressional-district-hurd-romero/"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "Productive Public Lands Act",
+      "date": "2025-03-10",
+      "detail": "Introduced the bill, which would require the Bureau of Land Management to reissue nine resource management plans that his release describes as Biden-era plans.",
+      "source_url": "https://hurd.house.gov/media/press-releases/hurd-introduces-productive-public-lands-act"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "date": "2026-01-08",
+      "detail": "Voted Yea. The bill extends the enhanced premium tax credit under Internal Revenue Code section 36B through 2028; it passed the House 230-196.",
+      "source_url": "https://clerk.house.gov/Votes/202611"
     }
   ],
   "positions": [
@@ -263,9 +277,19 @@
       "title": "Reaction from Grand Valley elected officials on gun rights bill (WesternSlopeNow, via Yahoo News)",
       "url": "https://www.yahoo.com/news/reaction-grand-valley-elected-officials-214755385.html",
       "accessed": "2026-10-15"
+    },
+    {
+      "title": "Productive Public Lands Act",
+      "url": "https://hurd.house.gov/media/press-releases/hurd-introduces-productive-public-lands-act",
+      "accessed": "2026-10-16"
+    },
+    {
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "url": "https://clerk.house.gov/Votes/202611",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-15",
+  "last_checked": "2026-10-16",
   "research_notes": "No sourceable statement found for Hurd on stricter gun laws, state-level Colorado ballot measures (income tax, TABOR, natural gas right, zoning, mail-ballot ID, plain-language ballots, redistricting commission, mail voting, minor gender-surgery ban, fentanyl/child-trafficking penalties, hunting right, immigration-notify-ICE) or clean-energy-shift; left uncoded rather than inferred from party or committee role. Gigafact's politiquote page (an aggregator) was fetched to double-check an older abortion quote attributed to a Sept. 30, 2024 debate video but was not independently verified against primary video; it is cited only as supporting context in a note, not as the basis for a scored position. congress.gov and govtrack.us (cited heavily in Ballotpedia's footnotes) are blocked to automated fetching per protocol. Second pass 2026-10-14: added clean-energy-shift from the Colorado Sun's Oct. 8, 2026 CD3 issue guide. The Denver Post's Oct. 3, 2026 CD3 candidate Q&A separately quotes Hurd saying he \"worked across the aisle and voted to extend enhanced premium tax credits,\" which a reviewer may want to weigh against the existing health-coverage position (coded 2, from an Oct. 7, 2026 Aspen Times Medicaid-work-requirements answer); left the existing position unchanged per protocol. Build review 2026-10-14: health-coverage recoded to 3 (mixed) from the Denver Post quote, with the Aspen Times work-requirements answer noted. Gap fill 2026-10-15: Added his April 2025 statement opposing SB25-003. The Denver Post Q&A, the Colorado Sun CD3 guide, the Colorado Newsline CD3 page and his campaign issues page were read again; none address the state ballot measures that remain unknown.",
   "verification": {
     "checked": "2026-10-15",

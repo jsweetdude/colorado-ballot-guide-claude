@@ -73,7 +73,15 @@
     }
   ],
   "endorsements": [],
-  "finance": null,
+  "finance": {
+    "raised": 4185,
+    "spent": 2839,
+    "cash_on_hand": 1346,
+    "as_of": "2026-09-30",
+    "source_url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=67652",
+    "source_name": "Colorado Secretary of State (TRACER)",
+    "note": "Totals for the 2026 election cycle through September 30, 2026, from the campaign's report to the Colorado Secretary of State."
+  },
   "sources": [
     {
       "title": "Eric Mulder - Ballotpedia",
@@ -99,9 +107,14 @@
       "title": "Vote411 personalized ballot, League of Women Voters Education Fund (candidate answers shown after entering a Colorado address)",
       "url": "https://www.vote411.org/ballot",
       "accessed": "2026-10-15"
+    },
+    {
+      "title": "Colorado TRACER campaign finance: candidate detail",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=67652",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-15",
+  "last_checked": "2026-10-16",
   "research_notes": "Mulder's 2026 campaign site is mostly a placeholder/signup page with no issues content reachable by automated fetch; his Libertarian Party press release (lpcolorado.org) was blocked by a bot-detection challenge page. His Ballotpedia 2026 Candidate Connection survey gave three key messages (keeping state sales tax revenue local during emergencies, limiting government surveillance/privacy, and energy diversity) but only the energy answer maps clearly to one of the 25 statements. A separate 2024 Ballotpedia survey response exists from a different race (an Aurora-area state legislative campaign, not governor) and was not used here to avoid conflating offices. No endorsements beyond crowd-sourced 'Sway' voting-group listings were found. Second pass 2026-10-14: added health-coverage, immigration-notify-ice from https://www.denverpost.com/2026/10/03/colorado-governor-candidate-qa/, which he did answer. Gap fill 2026-10-15: Added an inferred housing position from his Vote411 answer.",
   "verification": {
     "checked": "2026-10-15",

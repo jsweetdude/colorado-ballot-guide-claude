@@ -257,3 +257,8 @@ wa-dialog.explainer::part(title) { font-size: 20px; font-weight: 600; color: var
 .explainer-measures { margin: 0; padding-left: 1.1em; display: grid; gap: 8px; }
 .explainer-yesno { display: grid; gap: 4px; margin-top: 4px; font-size: var(--pc-fs-small); color: var(--pc-muted); }
 .explainer-body--inline { gap: 20px; }
+
+/* Campaign finance comparison on candidate pages */
+.finance-table td, .finance-table th { white-space: nowrap; }
+.finance-table th[scope="row"] { white-space: normal; }
+.finance-table tr.is-self th, .finance-table tr.is-self td { background: var(--pc-fill); font-weight: 600; }

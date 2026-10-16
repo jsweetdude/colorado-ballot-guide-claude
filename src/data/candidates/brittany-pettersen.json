@@ -98,6 +98,27 @@
       "date": "2025-01-01",
       "detail": "Co-sponsored after the birth of her second son; the proposal led to a high-profile dispute with Speaker Mike Johnson. Exact introduction date not given by the source (only 'last year' relative to the October 2026 article).",
       "source_url": "https://www.denverpost.com/2026/10/12/colorado-7th-congressional-district-brittany-pettersen/"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "Medicaid Primary Care Improvement Act",
+      "date": "2025-02-11",
+      "detail": "One of four House members who introduced the bill (with Reps. Crenshaw, Schrier and Smucker). It would clarify that state Medicaid programs may use direct primary care arrangements with a flat monthly fee, and would direct HHS to issue guidance to states.",
+      "source_url": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=1035"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "date": "2026-01-08",
+      "detail": "Voted Yea. The bill extends the enhanced premium tax credit under Internal Revenue Code section 36B through 2028; it passed the House 230-196.",
+      "source_url": "https://clerk.house.gov/Votes/202611"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "H.R. 12, Women's Health Protection Act of 2025",
+      "date": "2025-06-24",
+      "detail": "Original cosponsor. The bill's official title: “To protect a person’s ability to determine whether to continue or end a pregnancy, and to protect a health care provider’s ability to provide abortion services.”",
+      "source_url": "https://www.govinfo.gov/app/details/BILLS-119hr12ih"
     }
   ],
   "positions": [
@@ -208,13 +229,13 @@
     }
   ],
   "finance": {
-    "raised": 1866765,
-    "spent": 1322310,
-    "cash_on_hand": 1105388,
-    "as_of": "2026-06-30",
+    "raised": 2216223,
+    "spent": 1583684,
+    "cash_on_hand": 1193472,
+    "as_of": "2026-09-30",
     "source_url": "https://www.fec.gov/data/candidate/H8CO07045/?cycle=2026&election_full=true",
     "source_name": "Federal Election Commission",
-    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-06-30)."
+    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-09-30)."
   },
   "sources": [
     {
@@ -306,9 +327,24 @@
       "title": "HB22-1326, Fentanyl Accountability And Prevention (Colorado General Assembly)",
       "url": "https://leg.colorado.gov/bills/hb22-1326",
       "accessed": "2026-10-15"
+    },
+    {
+      "title": "Medicaid Primary Care Improvement Act",
+      "url": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=1035",
+      "accessed": "2026-10-16"
+    },
+    {
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "url": "https://clerk.house.gov/Votes/202611",
+      "accessed": "2026-10-16"
+    },
+    {
+      "title": "H.R. 12, Women's Health Protection Act of 2025",
+      "url": "https://www.govinfo.gov/app/details/BILLS-119hr12ih",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-15",
+  "last_checked": "2026-10-16",
   "research_notes": "S.5 (Laken Riley Act, 1/22/2025) and H.R. 28 (Protection of Women and Girls in Sports Act, 1/14/2025) both show Pettersen as Not Voting on clerk.house.gov; Wikipedia's 'proxy voting' section explains she had just given birth to her second son and the House had not given her a proxy-voting accommodation, so no position could be sourced from either vote despite both being named in the assignment. No House floor vote occurred on the 2025 BLM land-sale amendment; it was stripped by the Rules Committee before reaching the floor, so public-lands is sourced from news coverage of a joint Democratic statement rather than a vote (clean-energy-shift, a related but distinct statement about oil/gas leasing and drilling, is instead sourced from her answer in the Denver Post's 2026 candidate Q&A, which also covers deportation-priority). No sourced position found for: graduated-income-tax, income-tax-cap, keep-tabor-surplus, conservation-sales-tax, natural-gas-right, housing-state-zoning, sports-biological-sex, minor-gender-surgery-ban, immigration-notify-ice, fentanyl-penalties, child-trafficking-life, hunting-right, mail-ballot-id, plain-language-ballots, redistricting-commission, keep-mail-voting, challenge-federal-policies (reviewer should double check these, especially redistricting-commission given a 2026 Colorado Sun story on a Democratic-aligned mid-decade redistricting push affecting her own district, where no individual Pettersen quote could be found). The abortion-legal quote from brittanypettersen.com/issues comes from an undated page whose content reads as 2022-cycle; reviewer should check whether a more current statement exists. The Denver Post/Daily Camera 2026 candidate Q&A (same article, two URLs) is the single best source for this race: it directly quotes Pettersen and Sallis (the only two who returned the questionnaire) and confirms Tim Bennett, Susan Hall, Lawrence Kyle Clark, and Joe Krzeczkowski did not. The WebSearch tool hit its session budget partway through research; the coordinator's tip to use Google News RSS (news.google.com/rss/search) and outlet site-search pages (coloradosun.com/?s=, denverpost.com/?s=) recovered good sources afterward, including this Q&A. Second pass 2026-10-14: re-read the Denver Post Q&A in full and checked the Colorado Sun's election-guide hub (coloradosun.com/2026/09/29/colorado-election-guide-2026/) and its linked ballot-measure explainers for any CD-7 candidate quotes; none mention Pettersen or Sallis by name, and no Colorado Sun CD-7 candidate guide exists (confirmed via coloradosun.com/?s= site search), so no new positions were added. Gap fill 2026-10-15: Added a mixed position on fentanyl penalties from the 2022 law she sponsored in the state Senate. The Denver Post CD7 Q&A was read again; it covers tariffs, public lands and immigration, all already coded.",
   "verification": {
     "checked": "2026-10-15",

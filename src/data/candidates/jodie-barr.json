@@ -36,7 +36,15 @@
     }
   ],
   "endorsements": [],
-  "finance": null,
+  "finance": {
+    "raised": null,
+    "spent": null,
+    "cash_on_hand": null,
+    "as_of": "2026-10-16",
+    "source_url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=68436",
+    "source_name": "Colorado Secretary of State (TRACER)",
+    "note": "No campaign committee is registered with the Colorado Secretary of State as of October 16, 2026, so there are no totals to report."
+  },
   "sources": [
     {
       "title": "State Treasurer | Grantham, Bridges, Barr seek top financial position",
@@ -57,9 +65,14 @@
       "title": "Colorado State Treasurer candidate Q&A",
       "url": "https://www.denverpost.com/2026/10/03/colorado-state-treasurer-candidate-qa/",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado TRACER campaign finance: candidate detail",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=68436",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-16",
   "research_notes": "No campaign website found (The Ballot Brief confirms none was found as of Sept. 8, 2026). Barr has not completed Ballotpedia's Candidate Connection survey. Her only substantive media coverage found is the Oct. 2, 2026 Colorado Politics joint candidate questionnaire, which covered unclaimed-property and PERA questions that don't map to any of the 25 tracked statements; only her TABOR-related answer was codeable. No positions found on any social-axis statement (abortion, guns, immigration, etc.) — plausible given she has never held office and has a limited campaign footprint, but not exhaustively confirmed beyond the sources above given the short-profile effort budget. Second pass 2026-10-14: the Denver Post's Oct. 3, 2026 treasurer candidate Q&A states 'Marilee Langner Sturgis and Jodie Barr did not return the questionnaire,' confirming the gap already noted; the Colorado Sun's Amendment 87 and Proposition 136 explainers also do not name her. No new positions were added.",
   "verification": {
     "checked": "2026-10-15",

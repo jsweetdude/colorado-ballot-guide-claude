@@ -204,7 +204,15 @@
       "source_url": "https://michaelallenforcolorado.com/endorsements/"
     }
   ],
-  "finance": null,
+  "finance": {
+    "raised": 444015,
+    "spent": 346499,
+    "cash_on_hand": 97516,
+    "as_of": "2026-09-30",
+    "source_url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=66520",
+    "source_name": "Colorado Secretary of State (TRACER)",
+    "note": "Totals for the 2026 election cycle through September 30, 2026, from the campaign's report to the Colorado Secretary of State. Donated goods and services worth $15,501 are listed separately and not counted as money raised. The state database notes that this campaign's balances were manually adjusted."
+  },
   "sources": [
     {
       "title": "Griswold, Allen vie to become next attorney general",
@@ -260,9 +268,14 @@
       "title": "Jena Griswold and Michael Allen clash over experience, Trump in Colorado attorney general debate",
       "url": "https://www.denverpost.com/2026/10/14/attorney-general-debate-jena-griswold-michael-allen/",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado TRACER campaign finance: candidate detail",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=66520",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-16",
   "research_notes": "A Colorado Sun / Noticias Univision debate between Allen and Griswold was scheduled for 6:30pm MDT on Oct. 14, 2026 (the day this research was done); no recap was available yet, so worth checking for a post-debate article before publishing. Could not source Allen's position on child-trafficking sentencing (Prop 133), public lands, federal tariffs/budget law, or state tax measures (Amendment 87/Prop 136/Prop NN) despite searching — these are less central to an AG race but left unknown rather than guessed. An opinion column (coloradopolitics.com, 'Michael Allen can't be trusted on ICE,' Oct. 2, 2026) attributes a quote to Allen from a radio interview praising an ICE officer's conduct in a fatal shooting; this was not used to code any position because it is reported secondhand through a hostile opinion piece rather than a neutral source — flagged for a reviewer to independently verify if needed. The domain michaelforag.com, which appears in some search results as a Michael Allen gun-issues page, actually resolves to a lapsed site for a different candidate (Michael Dougherty) and was not used. Second pass 2026-10-14: checked the same two Denver Post sources above plus Allen's full campaign-site issues text. The debate recap has him proposing state grand juries against 'multijurisdictional organized criminal rings engaged in fentanyl distribution and human trafficking,' but that describes an investigative tool, not Proposition 133's life-without-parole sentence for child sex trafficking specifically, so child-trafficking-life was left unsourced rather than stretched into an inference. No new positions were added.",
   "verification": {
     "checked": "2026-10-15",

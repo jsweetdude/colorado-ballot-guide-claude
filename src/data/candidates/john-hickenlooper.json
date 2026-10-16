@@ -77,6 +77,13 @@
       "date": "2025-04-05",
       "detail": "Authored and voted Yea on his own amendment to prevent using proceeds from federal public-land sales to reduce the deficit; the amendment was rejected 48-51.",
       "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00181.htm"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "S. 2938, Bipartisan Safer Communities Act, motion to concur in House amendment with an amendment",
+      "date": "2022-06-23",
+      "detail": "Voted Yea. The motion was agreed to 65-33. The bill became Public Law 117-159 on June 25, 2022.",
+      "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00242.htm"
     }
   ],
   "positions": [
@@ -211,13 +218,13 @@
     }
   ],
   "finance": {
-    "raised": 10285376,
-    "spent": 9843589,
-    "cash_on_hand": 2083870,
-    "as_of": "2026-06-30",
+    "raised": 11491919,
+    "spent": 10797306,
+    "cash_on_hand": 2336696,
+    "as_of": "2026-09-30",
     "source_url": "https://www.fec.gov/data/candidate/S0CO00575/?cycle=2026&election_full=true",
     "source_name": "Federal Election Commission",
-    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-06-30)."
+    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-09-30)."
   },
   "sources": [
     {
@@ -294,9 +301,14 @@
       "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/S0CO00575/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "S. 2938, Bipartisan Safer Communities Act, motion to concur in House amendment with an amendment",
+      "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00242.htm",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-16",
   "research_notes": "Hickenlooper had not completed Ballotpedia's 2026 Candidate Connection survey as of this research. No sourced statement was found addressing most 2026 Colorado ballot measures (Amendments 81-87, Propositions NN and 132-137), housing-state-zoning, or immigration-notify-ice specifically, so those are left unknown rather than inferred from general rhetoric. Where both an official recorded vote/sponsored amendment and looser campaign-site language existed for the same statement (keep-tariffs, deportation-priority), the recorded vote was used per the protocol's source-strength ranking, which yields a value of 2 rather than the more extreme value his campaign rhetoric alone might suggest; a reviewer may want to weigh the stronger direct-statement language too. Campaign-site quotes (hickenlooper.com/issues/) are undated on the page itself; dated here as of the 2026-10-14 access date. Second pass 2026-10-14: checked the Denver Post's Oct. 3, 2026 Senate candidate Q&A and the Colorado Sun's Oct. 11, 2026 debate recap; both reinforce statements already sourced above (federal-budget-law, keep-tariffs, clean-energy-shift, public-lands, deportation-priority) without adding a new one, and neither addresses housing-state-zoning, immigration-notify-ice, or the outstanding ballot measures, so no positions were added.",
   "verification": {
     "checked": "2026-10-15",

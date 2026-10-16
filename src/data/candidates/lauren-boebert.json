@@ -80,6 +80,20 @@
       "date": "2025-05-22",
       "detail": "Her bill streamlining oil and gas permitting was included in the One Big Beautiful Bill Act.",
       "source_url": "https://boebert.house.gov/media/press-releases/rep-lauren-boebert-secures-wins-one-big-beautiful-bill-passage"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "H.R. 3095, unique ZIP Codes for certain communities",
+      "date": "2025-04-30",
+      "detail": "Sponsor. The bill directs the U.S. Postal Service to designate single, unique ZIP Codes for certain communities. Her office reports it advanced through the House Oversight and Government Reform Committee on May 21, 2025.",
+      "source_url": "https://www.govinfo.gov/app/details/BILLS-119hr3095ih"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "date": "2026-01-08",
+      "detail": "Voted Nay. The bill extends the enhanced premium tax credit under Internal Revenue Code section 36B through 2028; it passed the House 230-196.",
+      "source_url": "https://clerk.house.gov/Votes/202611"
     }
   ],
   "positions": [
@@ -251,9 +265,19 @@
       "title": "Pro-Life and Family Values (Rep. Lauren Boebert, official House site)",
       "url": "https://boebert.house.gov/issues/pro-life-and-family-values",
       "accessed": "2026-10-15"
+    },
+    {
+      "title": "H.R. 3095, unique ZIP Codes for certain communities",
+      "url": "https://www.govinfo.gov/app/details/BILLS-119hr3095ih",
+      "accessed": "2026-10-16"
+    },
+    {
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "url": "https://clerk.house.gov/Votes/202611",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-15",
+  "last_checked": "2026-10-16",
   "research_notes": "Boebert's campaign did not respond to the Colorado Politics 2026 voter guide questionnaire, so no current first-person answers from that outlet were available. Could not find a committee-level roll call confirming or denying how Boebert voted on the May 2025 House Natural Resources Committee markup amendment (Amodei/Maloy) to mandate sale of public lands in Nevada and Utah; opposing-campaign material (Jessica Killin's website, as quoted on Ballotpedia) claims she and Rep. Jeff Crank both voted for it, but this is an opponent's characterization in an unrelated race, not a verified roll call, so no public-lands position was coded for her. A reviewer may want to track down the Natural Resources Committee's official markup roll call record to confirm. The abortion quote is dated only to the 2020 campaign cycle on Ballotpedia; no more specific date was available. Gap fill 2026-10-15: Added her official-site statement on gender-transition surgery for minors, found by comparing with the sibling build and confirmed by fetching the page.",
   "verification": {
     "checked": "2026-10-15",

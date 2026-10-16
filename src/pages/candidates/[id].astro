@@ -1,6 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { candidates, raceById, statements, type Candidate } from '../../lib/data';
+import { candidates, candidatesFor, raceById, statements, type Candidate } from '../../lib/data';
 import { SOURCE_LABEL } from '../../lib/match';
 import { LIKERT_LABEL, partyShort, AXIS_LABEL } from '../../lib/labels';
 import { formatDate, SITE } from '../../lib/site';
@@ -31,6 +31,9 @@ const issueUrl = `${SITE.issues}/new?title=${encodeURIComponent(`Error on ${c.na
 const verified = c.verification?.detail ?? {};
 const axes = ['economic', 'social', 'governance'] as const;
 const federal = c.race === 'us-senate' || c.race.startsWith('us-house');
+// Everyone in the same race, for the finance comparison.
+const rivals = candidatesFor(race);
+const hasMoney = (x: Candidate) => !!x.finance && x.finance.raised != null && !(x.finance.raised === 0 && x.finance.cash_on_hand == null);
 const matchData = JSON.stringify({ id: c.id, relevant: race.statements ?? null, positions: c.positions.map((p) => ({ statement: p.statement, value: p.value, source_type: p.source_type })) });
 ---
 <Base title={c.name} nav="races" description={`${c.name}, ${partyShort(c.party)} candidate for ${race.office}: background, record and sourced positions.`}>
@@ -146,7 +149,7 @@ const matchData = JSON.stringify({ id: c.id, relevant: race.statements ?? null, 
 
   <section class="pc-card stack-sm" aria-labelledby="fin-h">
     <h2 id="fin-h">Campaign finance</h2>
-    {c.finance && c.finance.raised === 0 && c.finance.cash_on_hand == null ? (
+    {c.finance && (c.finance.raised == null || (c.finance.raised === 0 && c.finance.cash_on_hand == null)) ? (
       <p class="muted">{c.finance.note} <a href={c.finance.source_url}>{c.finance.source_name}</a>.</p>
     ) : c.finance ? (
       <>
@@ -159,6 +162,27 @@ const matchData = JSON.stringify({ id: c.id, relevant: race.statements ?? null, 
       </>
     ) : (
       <p class="muted">No totals found. {federal ? <>Search the <a href="https://www.fec.gov/data/candidates/?state=CO&election_year=2026">Federal Election Commission</a>.</> : <>Search <a href="https://tracer.sos.colorado.gov/PublicSite/homepage.aspx">Colorado TRACER</a>, the state's campaign finance database.</>}</p>
+    )}
+    <p class="small"><strong>What these numbers mean.</strong> Raised is the money given to the campaign this election cycle. Spent is what it has paid out. Cash on hand is what it had left on the report date for the final weeks. The totals show how much financial support a campaign has drawn and how much it can still spend; they say nothing about who is right on the issues. Spending by outside groups is reported separately and is not included here.</p>
+    {rivals.length > 1 && rivals.some(hasMoney) && (
+      <div class="pc-table-wrap" tabindex="0" role="region" aria-label="Campaign finance for every candidate in this race">
+        <table class="pc-table finance-table">
+          <caption>Everyone in this race, in ballot order. Report dates differ, so compare with care.</caption>
+          <thead><tr><th scope="col">Candidate</th><th scope="col">Raised</th><th scope="col">Spent</th><th scope="col">Cash on hand</th><th scope="col">As of</th></tr></thead>
+          <tbody>
+            {rivals.map((x) => (
+              <tr class:list={{ 'is-self': x.id === c.id }}>
+                <th scope="row">{x.id === c.id ? <>{x.name}<span class="visually-hidden"> (this candidate)</span></> : <a href={`/candidates/${x.id}/`}>{x.name}</a>}<div class="small muted">{partyShort(x.party)}</div></th>
+                {hasMoney(x) ? (
+                  <><td>{money(x.finance!.raised)}</td><td>{money(x.finance!.spent)}</td><td>{money(x.finance!.cash_on_hand)}</td><td class="small">{formatDate(x.finance!.as_of)}</td></>
+                ) : (
+                  <td colspan="4" class="small muted">{x.finance?.raised == null && x.finance ? 'No campaign committee registered' : x.finance ? 'No report on file' : 'No totals found'}</td>
+                )}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
     )}
   </section>
 

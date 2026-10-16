@@ -29,10 +29,10 @@
   "record": [
     {
       "kind": "decision",
-      "title": "Blocked Mesa County Clerk Tina Peters from overseeing county elections",
-      "date": "2021-01-01",
-      "detail": "Filed suit that prevented Tina Peters from being able to oversee elections in Mesa County in 2021 and 2022, after Peters attempted to interfere with the 2020 presidential election process (exact date not given on the fetched page; Wikipedia states this covered 2021 and 2022).",
-      "source_url": "https://en.wikipedia.org/wiki/Jena_Griswold"
+      "title": "Petition to bar Tina Peters from administering Mesa County's 2022 elections",
+      "date": "2022-05-10",
+      "detail": "As Secretary of State, she was a petitioner in a Mesa County District Court case seeking to keep Clerk Tina Peters from serving as designated election official for the 2022 elections. On May 10, 2022 the court enjoined Peters and Deputy Clerk Belinda Knisley from that role and confirmed Brandi Bantz as designated election official for the 2022 election cycle.",
+      "source_url": "https://www.courthousenews.com/wp-content/uploads/2022/05/Order-in-Griswold-v-Peters.pdf"
     },
     {
       "kind": "decision",
@@ -54,6 +54,13 @@
       "date": "2024-04-09",
       "detail": "A Republican-sponsored resolution to impeach Griswold, citing her comments ahead of the Trump v. Anderson Supreme Court case, failed in the Colorado House Judiciary Committee on April 9, 2024, after being introduced April 4, 2024.",
       "source_url": "https://en.wikipedia.org/wiki/Jena_Griswold"
+    },
+    {
+      "kind": "decision",
+      "title": "Declined U.S. Department of Justice request for unredacted voter registration list",
+      "date": "2025-12-11",
+      "detail": "As Secretary of State, her office said it would not hand over Coloradans' sensitive voting information in response to a U.S. Department of Justice request for the unredacted statewide voter registration list. The department announced a lawsuit against her over the request on Dec. 11, 2025.",
+      "source_url": "https://kktv.com/2025/12/12/doj-sues-colorado-secretary-state-failure-release-state-voter-information"
     }
   ],
   "positions": [
@@ -153,7 +160,15 @@
       "source_url": "https://www.jenaforcolorado.com/news/emilys-list-30-colorado-leaders-and-organizations-endorse-griswold-for-attorney-general"
     }
   ],
-  "finance": null,
+  "finance": {
+    "raised": 2637415,
+    "spent": 2144102,
+    "cash_on_hand": 493313,
+    "as_of": "2026-09-30",
+    "source_url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=62866&Type=CA",
+    "source_name": "Colorado Secretary of State (TRACER)",
+    "note": "Totals for the 2026 election cycle through September 30, 2026, from the campaign's report to the Colorado Secretary of State. Donated goods and services worth $28,717 are listed separately and not counted as money raised."
+  },
   "sources": [
     {
       "title": "Griswold, Allen vie to become next attorney general",
@@ -209,9 +224,24 @@
       "title": "jenaforcolorado.com",
       "url": "https://www.jenaforcolorado.com",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Declined U.S. Department of Justice request for unredacted voter registration list",
+      "url": "https://kktv.com/2025/12/12/doj-sues-colorado-secretary-state-failure-release-state-voter-information",
+      "accessed": "2026-10-16"
+    },
+    {
+      "title": "Petition to bar Tina Peters from administering Mesa County's 2022 elections",
+      "url": "https://www.courthousenews.com/wp-content/uploads/2022/05/Order-in-Griswold-v-Peters.pdf",
+      "accessed": "2026-10-16"
+    },
+    {
+      "title": "Colorado TRACER campaign finance: candidate detail",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=62866&Type=CA",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-16",
   "research_notes": "A Colorado Sun / Noticias Univision debate between Griswold and Allen was scheduled for 6:30pm MDT on Oct. 14, 2026 (the day this research was done); no recap or transcript was available yet at research time, so it is not reflected here — worth checking for a post-debate article before publishing. Amendment 81 is called 'Proposition 81' in a September 2026 Colorado Politics article and 'Amendment 81' in October 2026 pieces; this may reflect its reclassification before certification — worth double-checking the final ballot designation. Could not source Griswold positions on fentanyl penalties (Prop 132), child trafficking sentencing (Prop 133), hunting rights (Amendment 83), transgender-related measures (Props 134/135), mail-ballot ID (Amendment 84), plain-language ballots (Amendment 85), or federal tax/tariff/public-lands questions despite searching; left as unknown rather than inferred from party. The jenaforcolorado.com campaign site is a single-page JavaScript app, so only the 'About' and 'Issues' landing text could be retrieved (no dated sub-pages). Second pass 2026-10-14: checked the Denver Post's Oct. 3, 2026 AG candidate Q&A and Robert Tann's Oct. 14, 2026 Denver Post recap of the Griswold-Allen debate; both reinforce her existing challenge-federal-policies and stricter-gun-laws positions (she said at the debate she wants a stricter assault weapons ban than SB25-003) but do not address fentanyl penalties, child-trafficking sentencing, or any other uncoded statement, so no new positions were added.",
   "verification": {
     "checked": "2026-10-15",

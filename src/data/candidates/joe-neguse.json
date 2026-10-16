@@ -84,6 +84,27 @@
       "date": "2025-06-25",
       "detail": "Issued a joint statement with Rep. Hurd after the Senate parliamentarian removed public-lands-sale provisions from the reconciliation bill, after the two worked to strip a related land-sale amendment from the House-passed text.",
       "source_url": "https://hurd.house.gov/media/press-releases/colorado-representatives-jeff-hurd-and-joe-neguse-statement-removal-public"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "Local Input Act",
+      "date": "2026-07-23",
+      "detail": "Introduced with Sen. Ben Ray Luján (D-NM). The bill would restore the Interior Department's discretion to consider public comments and defer nominated parcels in oil and gas lease sales on federal public lands.",
+      "source_url": "https://neguse.house.gov/media/press-releases/congressman-neguse-senator-lujan-introduce-local-input-act"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "date": "2026-01-08",
+      "detail": "Voted Yea. The bill extends the enhanced premium tax credit under Internal Revenue Code section 36B through 2028; it passed the House 230-196.",
+      "source_url": "https://clerk.house.gov/Votes/202611"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "H.R. 12, Women's Health Protection Act of 2025",
+      "date": "2025-06-24",
+      "detail": "Original cosponsor. The bill's official title: “To protect a person’s ability to determine whether to continue or end a pregnancy, and to protect a health care provider’s ability to provide abortion services.”",
+      "source_url": "https://www.govinfo.gov/app/details/BILLS-119hr12ih"
     }
   ],
   "positions": [
@@ -201,13 +222,13 @@
     }
   ],
   "finance": {
-    "raised": 2742281,
-    "spent": 1640260,
-    "cash_on_hand": 3092918,
-    "as_of": "2026-06-30",
+    "raised": 3268169,
+    "spent": 2038811,
+    "cash_on_hand": 3220255,
+    "as_of": "2026-09-30",
     "source_url": "https://www.fec.gov/data/candidate/H8CO02160/?cycle=2026&election_full=true",
     "source_name": "Federal Election Commission",
-    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-06-30)."
+    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-09-30)."
   },
   "sources": [
     {
@@ -269,9 +290,24 @@
       "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H8CO02160/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Local Input Act",
+      "url": "https://neguse.house.gov/media/press-releases/congressman-neguse-senator-lujan-introduce-local-input-act",
+      "accessed": "2026-10-16"
+    },
+    {
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "url": "https://clerk.house.gov/Votes/202611",
+      "accessed": "2026-10-16"
+    },
+    {
+      "title": "H.R. 12, Women's Health Protection Act of 2025",
+      "url": "https://www.govinfo.gov/app/details/BILLS-119hr12ih",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-16",
   "research_notes": "Most Colorado-specific ballot-measure statements (graduated income tax, TABOR surplus, conservation sales tax, natural gas right, zoning preemption, mail-ballot ID, plain-language ballots, redistricting commission, mail voting, minor gender-surgery ban, child-trafficking penalties, hunting right, immigration-notify-ICE) returned no sourceable statement from Neguse as a federal officeholder and are left uncoded rather than inferred from party or general ideology. Exact calendar dates for his positions on Proposition 132 and Amendment 79 are not stated on the fetched Ballotpedia page; flagged in each record's note. congress.gov and govtrack.us, which Ballotpedia cites for several roll-call numbers, are blocked to automated fetching per protocol, so roll-call numbers for additional historical votes (e.g., Assault Weapons Ban of 2022 exact date) could not be independently confirmed beyond what Ballotpedia's own page states; the gun-law record date is flagged as the bill's enactment date rather than a confirmed floor-vote date. Second pass 2026-10-14: added health-coverage from the Denver Post's Oct. 3, 2026 CD2 candidate Q&A.",
   "verification": {
     "checked": "2026-10-15",

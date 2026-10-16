@@ -99,7 +99,15 @@
     }
   ],
   "endorsements": [],
-  "finance": null,
+  "finance": {
+    "raised": 2298,
+    "spent": 0,
+    "cash_on_hand": 2298,
+    "as_of": "2026-10-14",
+    "source_url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=67557",
+    "source_name": "Colorado Secretary of State (TRACER)",
+    "note": "Totals for the 2026 election cycle through October 14, 2026, from the campaign's report to the Colorado Secretary of State. Donated goods and services worth $4,500 are listed separately and not counted as money raised."
+  },
   "sources": [
     {
       "title": "Erik Underwood - Ballotpedia",
@@ -155,9 +163,14 @@
       "title": "erikunderwood.com",
       "url": "https://erikunderwood.com",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Colorado TRACER campaign finance: candidate detail",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=67557",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-16",
   "research_notes": "Underwood has not completed Ballotpedia's 2026 Candidate Connection survey, but his own campaign site has an unusually detailed set of issue pages for a short-profile candidate, which is why more positions were coded here than the 20-40 minute guideline might otherwise produce; effort was capped once a reasonable set was found rather than mining every page on the site. His campaign's 'Endorsements' page is lorem-ipsum placeholder text with no real content, so endorsements is empty. He ran previously as a Republican (2016, U.S. Senate) and a Democrat (2018, governor); this history is neutral biographical fact from Ballotpedia, not characterization. His current 2026 campaign finance totals were not found; the only figure on Ballotpedia ($22,488 raised) is from a disqualified 2020 Senate primary and is not reported here as current. Second pass 2026-10-14: checked the Denver Post's Oct. 3, 2026 governor candidate Q&A, which he did answer; his Medicaid and ICE-cooperation answers reinforce statements already sourced above (health-coverage, immigration-notify-ice) without adding a new one, so no positions were added.",
   "verification": {
     "checked": "2026-10-15",

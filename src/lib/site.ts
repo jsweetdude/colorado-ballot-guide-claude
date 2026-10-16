@@ -6,8 +6,8 @@ export const SITE = {
   issues: 'https://github.com/jsweetdude/colorado-ballot-guide-claude/issues',
 };
 
-export const DATA_LAST_CHECKED = '2026-10-15';
-export const DATA_LAST_CHECKED_LABEL = 'October 15, 2026';
+export const DATA_LAST_CHECKED = '2026-10-16';
+export const DATA_LAST_CHECKED_LABEL = 'October 16, 2026';
 
 export const DATES = {
   registerBy: { iso: '2026-10-26', label: 'Monday, October 26' },

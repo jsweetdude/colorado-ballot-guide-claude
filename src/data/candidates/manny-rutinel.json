@@ -69,6 +69,20 @@
       "date": "2025-01-01",
       "detail": "Prime sponsor. Created a fund to help finance affordable housing.",
       "source_url": "https://leg.colorado.gov/bills/sb25-006"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "HB25-1032, Improving Infrastructure to Reduce Homelessness",
+      "date": "2025-01-08",
+      "detail": "Prime sponsor. The bill would have created a Colorado interagency council on homelessness within the governor's office. The General Assembly lists its status as lost; the last action was a layover in House Appropriations on May 13, 2025.",
+      "source_url": "https://www.leg.colorado.gov/bills/hb25-1032"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "HB24-1313, Housing in Transit-Oriented Communities, House third reading",
+      "date": "2024-04-14",
+      "detail": "Voted Yes. The bill passed the House 37-24 (4 excused) and was signed into law May 13, 2024.",
+      "source_url": "https://leg.colorado.gov/bill_votes/12372"
     }
   ],
   "positions": [
@@ -262,9 +276,14 @@
       "title": "Colorado General Assembly, HB24-1313 House third-reading floor vote",
       "url": "https://leg.colorado.gov/bill_votes/12372",
       "accessed": "2026-10-15"
+    },
+    {
+      "title": "HB25-1032, Improving Infrastructure to Reduce Homelessness",
+      "url": "https://www.leg.colorado.gov/bills/hb25-1032",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-15",
+  "last_checked": "2026-10-16",
   "research_notes": "Finance is federal and left null per protocol, though Ballotpedia notes he had raised $4.34 million as of June 30, 2026, for reference. On his Ballotpedia page, opponent Gabe Evans' Candidate Connection survey states Rutinel 'voted no on mandating minimum prison sentences for people who traffic and buy child sex slaves' in the state legislature, which would bear on the fentanyl-penalties and child-trafficking-life statements; this claim comes from Evans' campaign, not from Rutinel's own words or a verified vote record, so it was not used to code a position for Rutinel, and a reviewer may want to verify the underlying Colorado bill and vote. No direct statement found on energy/climate policy, or Colorado ballot measures on hunting rights, mail ballot ID, redistricting, or plain-language ballots. WebSearch budget was exhausted mid-research; relied on Ballotpedia, his campaign site, and leg.colorado.gov bill pages via direct fetch. Second pass 2026-10-14: added public-lands from https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-8-candidate-qa/. The companion Colorado Politics profile has him criticizing Evans for 'getting rid of our tax credits' on energy, which is suggestive of support for clean-energy tax credits but too thin and opponent-focused to code against clean-energy-shift, so that statement is left unsourced. Gap fill 2026-10-15: Added his 2024 House vote for HB24-1313 and his Denver Post answer on energy.",
   "verification": {
     "checked": "2026-10-15",

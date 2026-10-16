@@ -70,6 +70,34 @@
       "date": "2024-08-26",
       "detail": "Prime sponsor of a resolution to change how property tax is calculated for special districts; postponed indefinitely in committee.",
       "source_url": "https://leg.colorado.gov/bills/scr24b-002"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "HB26-1238, Designating Emergency Medical Services as Essential Services",
+      "date": "2026-03-17",
+      "detail": "One of two Senate prime sponsors (with Sen. W. Lindstedt). The act declares emergency medical services, including ambulance and air ambulance services, an essential service. Signed by the governor May 5, 2026.",
+      "source_url": "https://leg.colorado.gov/bills/hb26-1238"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "HB26-1080, County Mail Ballot Signature Verification Requirements",
+      "date": "2026-02-02",
+      "detail": "Senate prime sponsor (House prime sponsors were Reps. Paschal and Richardson). As introduced, the bill would require a county clerk to use a team of bipartisan election judges, rather than a single judge, to verify mail ballot signatures. The General Assembly lists its status as lost; the last action was a House second-reading layover on April 29, 2026.",
+      "source_url": "https://leg.colorado.gov/bills/hb26-1080"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "HB26-1021, Second Amendment Protection Act",
+      "date": "2026-01-14",
+      "detail": "One of two Senate prime sponsors (with Sen. L. Zamora Wilson). The bill would repeal various Colorado laws on firearms and other weapons. The House Judiciary Committee postponed it indefinitely on Feb. 17, 2026.",
+      "source_url": "https://leg.colorado.gov/bills/hb26-1021"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "SB26-135, State Public K-12 Education Funding, Senate repass after House amendments",
+      "date": "2026-05-12",
+      "detail": "Voted No. The Senate passed the bill 23-12 on the repass vote after House amendments.",
+      "source_url": "https://leg.colorado.gov/bill_votes/29870"
     }
   ],
   "positions": [
@@ -285,9 +313,29 @@
       "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/S6CO00507/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "HB26-1238, Designating Emergency Medical Services as Essential Services",
+      "url": "https://leg.colorado.gov/bills/hb26-1238",
+      "accessed": "2026-10-16"
+    },
+    {
+      "title": "HB26-1080, County Mail Ballot Signature Verification Requirements",
+      "url": "https://leg.colorado.gov/bills/hb26-1080",
+      "accessed": "2026-10-16"
+    },
+    {
+      "title": "HB26-1021, Second Amendment Protection Act",
+      "url": "https://leg.colorado.gov/bills/hb26-1021",
+      "accessed": "2026-10-16"
+    },
+    {
+      "title": "SB26-135, State Public K-12 Education Funding, Senate repass after House amendments",
+      "url": "https://leg.colorado.gov/bill_votes/29870",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-16",
   "research_notes": "Baisley had not completed Ballotpedia's 2026 Candidate Connection survey. A claim in the research assignment that he serves on the Colorado State Board of Education could not be verified and appears to be incorrect: Ballotpedia and the Colorado General Assembly both identify him only as a sitting Colorado State Senator (District 4) and former state representative; flagging for reviewer to double-check against the assignment's secondary source. No sourced statement was found addressing abortion, graduated-income-tax/income-tax-cap, or several other 2026 Colorado ballot measures despite searching; left unknown rather than inferred from his general small-government rhetoric. The keep-tabor-surplus quote is from 2023 and concerns a different TABOR-refund bill than 2026's Proposition NN, but addresses the same underlying question. Baisley's age is given as 71 and Hickenlooper's as 74 in the Colorado Politics questionnaire (Oct. 2, 2026), for reference. Second pass 2026-10-14: checked the Denver Post's Oct. 3, 2026 Senate candidate Q&A and the Colorado Sun's Oct. 11, 2026 debate recap; both cover statements already sourced above (federal-budget-law, keep-tariffs, health-coverage, deportation-priority, clean-energy-shift, immigration-notify-ice) without adding a new one, and neither addresses abortion, guns beyond what's recorded, or the outstanding ballot measures, so no positions were added.",
   "verification": {
     "checked": "2026-10-16",

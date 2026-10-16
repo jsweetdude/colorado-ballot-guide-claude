@@ -84,6 +84,27 @@
       "date": "2026-10-01",
       "detail": "Would require states to electronically verify certain Medicaid-funded services (non-emergency transport, applied behavior analysis) were provided before payment. Its stated aim is reducing Medicaid fraud.",
       "source_url": "https://gabeevans.house.gov/media/press-releases/congressman-gabe-evans-introduces-stop-medicaid-fraud-act-crack-down-medicaid"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "H.R. 1679, Global Investment in American Jobs Act of 2025",
+      "date": "2025-02-27",
+      "detail": "Sponsor, with Rep. Robin Kelly (D-IL) as cosponsor. The bill directs the Secretary of Commerce to conduct an interagency review of, and report to Congress on, ways to increase U.S. competitiveness in attracting foreign direct investment. His office reports the House passed the bill on June 23, 2025.",
+      "source_url": "https://www.govinfo.gov/app/details/BILLS-119hr1679ih"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "HB24-1313, Housing in Transit-Oriented Communities, House third reading",
+      "date": "2024-04-14",
+      "detail": "Voted No. The bill passed the House 37-24 (4 excused) and was signed into law May 13, 2024.",
+      "source_url": "https://leg.colorado.gov/bill_votes/12372"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "date": "2026-01-08",
+      "detail": "Voted Nay. The bill extends the enhanced premium tax credit under Internal Revenue Code section 36B through 2028; it passed the House 230-196.",
+      "source_url": "https://clerk.house.gov/Votes/202611"
     }
   ],
   "positions": [
@@ -231,13 +252,13 @@
     }
   ],
   "finance": {
-    "raised": 5393673,
-    "spent": 1588203,
-    "cash_on_hand": 3880463,
-    "as_of": "2026-06-30",
+    "raised": 6904664,
+    "spent": 4238247,
+    "cash_on_hand": 2741409,
+    "as_of": "2026-09-30",
     "source_url": "https://www.fec.gov/data/candidate/H4CO08034/?cycle=2026&election_full=true",
     "source_name": "Federal Election Commission",
-    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-06-30)."
+    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-09-30)."
   },
   "sources": [
     {
@@ -324,9 +345,19 @@
       "title": "Colorado General Assembly, HB24-1313 House third-reading floor vote",
       "url": "https://leg.colorado.gov/bill_votes/12372",
       "accessed": "2026-10-15"
+    },
+    {
+      "title": "H.R. 1679, Global Investment in American Jobs Act of 2025",
+      "url": "https://www.govinfo.gov/app/details/BILLS-119hr1679ih",
+      "accessed": "2026-10-16"
+    },
+    {
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "url": "https://clerk.house.gov/Votes/202611",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-15",
+  "last_checked": "2026-10-16",
   "research_notes": "No statement found on abortion, or Colorado ballot measures on hunting rights, mail ballot ID, redistricting, or child sex trafficking penalties; left unknown. The NRA endorsement is a 2026 listing without a specific graded score. WebSearch budget was exhausted mid-research; could not search for his specific position on Amendment 86 (mid-decade redistricting), which could plausibly affect his own district, or for an NRA letter grade; relied on direct fetches of Ballotpedia, his campaign site, and his official House site instead. Second pass 2026-10-14: added public-lands from https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-8-candidate-qa/. Gap fill 2026-10-15: Added his 2024 state House vote against HB24-1313.",
   "verification": {
     "checked": "2026-10-15",

@@ -90,6 +90,20 @@
       "date": "2026-01-01",
       "detail": "Sponsored legislation to expand motorized-vehicle access to public lands; still in subcommittee as of mid-2026.",
       "source_url": "https://pikespeakbulletin.org/?p=20524"
+    },
+    {
+      "kind": "sponsored_bill",
+      "title": "Quad Space Act",
+      "date": "2025-09-08",
+      "detail": "Introduced with Rep. Jason Crow (D-CO). The bill directs the Secretary of Defense to lead discussions with Australia, India and Japan on cooperation on space best practices, space situational awareness and space industrial policy.",
+      "source_url": "https://crank.house.gov/media/press-releases/reps-crank-crow-introduce-bill-increase-international-collaboration-space"
+    },
+    {
+      "kind": "recorded_vote",
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "date": "2026-01-08",
+      "detail": "Voted Nay. The bill extends the enhanced premium tax credit under Internal Revenue Code section 36B through 2028; it passed the House 230-196.",
+      "source_url": "https://clerk.house.gov/Votes/202611"
     }
   ],
   "positions": [
@@ -223,13 +237,13 @@
     }
   ],
   "finance": {
-    "raised": 2177288,
-    "spent": 778793,
-    "cash_on_hand": 1465048,
-    "as_of": "2026-06-30",
+    "raised": 2783883,
+    "spent": 1843019,
+    "cash_on_hand": 1007417,
+    "as_of": "2026-09-30",
     "source_url": "https://www.fec.gov/data/candidate/H6CO05142/?cycle=2026&election_full=true",
     "source_name": "Federal Election Commission",
-    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-06-30)."
+    "note": "Totals for the 2025-26 election cycle through the latest report the FEC had processed (period ending 2026-09-30)."
   },
   "sources": [
     {
@@ -281,9 +295,19 @@
       "title": "fec.gov",
       "url": "https://www.fec.gov/data/candidate/H6CO05142/?cycle=2026&election_full=true",
       "accessed": "2026-10-14"
+    },
+    {
+      "title": "Quad Space Act",
+      "url": "https://crank.house.gov/media/press-releases/reps-crank-crow-introduce-bill-increase-international-collaboration-space",
+      "accessed": "2026-10-16"
+    },
+    {
+      "title": "H.R. 1834, Breaking the Gridlock Act (extension of enhanced ACA premium tax credits), passage",
+      "url": "https://clerk.house.gov/Votes/202611",
+      "accessed": "2026-10-16"
     }
   ],
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-16",
   "research_notes": "Crank's public-lands record is contradictory: he voted for the May 2025 committee amendment to mandate public land sales and against the competing amendment to block sales, but separately told Colorado Public Radio in June 2025 that he opposed selling public lands. Per protocol, the recorded votes (strongest source type) were used for the coded position; a reviewer may want to note the contradiction in the published guide. Could not verify the Pikes Peak Bulletin's committee-vote claims against an official Natural Resources Committee roll call document (committee markup votes are not posted on clerk.house.gov); treated the outlet's direct reporting as reliable per protocol's allowance for local news coverage. Second pass 2026-10-14: added health-coverage, clean-energy-shift and challenge-federal-policies from the Colorado Sun's Oct. 7, 2026 CD5 issue guide, and immigration-notify-ice from the Denver Post's Oct. 3, 2026 CD5 candidate Q&A. Build review 2026-10-14: removed an inferred fentanyl-penalties position based on a border-security quote, which does not address sentencing.",
   "verification": {
     "checked": "2026-10-15",
