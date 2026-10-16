@@ -1,0 +1,297 @@
+{
+  "id": "deportation-priority",
+  "plain": "Should deporting people who live in the U.S. without legal status be one of the federal government's top priorities?",
+  "agree_means": "Agreeing backs more federal enforcement, detention and funding for deportations, along with the costs and trade-offs below.",
+  "disagree_means": "Disagreeing puts other goals first, such as a path to legal status, or opposes the scale or methods of current enforcement.",
+  "now": [
+    {
+      "text": "Congress has added large sums. A 2025 law provides $170.7 billion for immigration and border enforcement. A June 2026 law, the Secure America Act, adds $69.5 billion through 2029, $38.5 billion of it for ICE. These figures are from the American Immigration Council, a pro-immigration research and advocacy group.",
+      "sources": [
+        {
+          "url": "https://www.americanimmigrationcouncil.org/fact-sheet/big-beautiful-bill-immigration-border-security/",
+          "title": "What’s in the Big Beautiful Bill? Immigration and Border Security Unpacked (American Immigration Council)",
+          "date": "2025-07-14",
+          "quote": "H.R. 1 provides $170.7 billion in additional funding for immigration- and border enforcement-related activities to the Department of Homeland Security (DHS)"
+        },
+        {
+          "url": "https://www.americanimmigrationcouncil.org/fact-sheet/whats-in-the-secure-america-act/",
+          "title": "What’s in the Secure America Act? (American Immigration Council)",
+          "date": "2026-06-10",
+          "quote": "The bill gives ICE and CBP a total of $69.5 billion dollars until September 30, 2029"
+        },
+        {
+          "url": "https://www.americanimmigrationcouncil.org/fact-sheet/whats-in-the-secure-america-act/",
+          "title": "What’s in the Secure America Act? (American Immigration Council)",
+          "date": "2026-06-10",
+          "quote": "Under the Secure America Act, ICE will receive $38.5 billion—nearly four times its annual FY 2025 budget."
+        }
+      ]
+    },
+    {
+      "text": "TRAC, a nonpartisan nonprofit data project, reports ICE removed 234,211 people from January 26 to September 20, 2025. ICE held 65,765 people in detention on July 11, 2026.",
+      "sources": [
+        {
+          "url": "https://tracreports.org/reports/767/",
+          "title": "Taking Stock: Trump Administration Record on Detention and Removals (TRAC)",
+          "date": "2025-11-24",
+          "quote": "leaving a total of 234,211 removals occurring after President Trump assumed office."
+        },
+        {
+          "url": "https://tracreports.org/immigration/quickfacts/",
+          "title": "Immigration Detention Quick Facts (TRAC)",
+          "date": "2026-10-16",
+          "quote": "Immigration and Customs Enforcement held 65,765 in ICE detention according to data current as of July 11, 2026.",
+          "date_basis": "accessed",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "text": "Pew estimated Colorado had more than 200,000 unauthorized immigrants in 2023, up from 160,000 in 2021. Pew says national growth came mostly from people with temporary protections, such as parolees and asylum seekers.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2025/08/26/colorados-unauthorized-immigrant-population-jumps-by-40000-in-2-years-pew-reports/",
+          "title": "Colorado’s unauthorized immigrant population jumps by 40,000 in 2 years, Pew reports (Colorado Politics)",
+          "date": "2025-08-26",
+          "quote": "Just two years later, that figure had ballooned to more than 200,000, according to the Pew Research Center’s most recent report on the issue."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2025/08/26/colorados-unauthorized-immigrant-population-jumps-by-40000-in-2-years-pew-reports/",
+          "title": "Colorado’s unauthorized immigrant population jumps by 40,000 in 2 years, Pew reports (Colorado Politics)",
+          "date": "2025-08-26",
+          "quote": "The increase from 2021 to 2023 was driven primarily by growth in the number of unauthorized immigrants who were living in the U.S. with some protections from deportation"
+        }
+      ]
+    },
+    {
+      "text": "In Pew's April 2026 survey, 52% said the administration is doing too much on deportations, 31% about the right amount and 15% too little.",
+      "sources": [
+        {
+          "url": "https://www.pewresearch.org/short-reads/2026/05/04/about-half-of-americans-continue-to-say-trump-administration-is-doing-too-much-on-deportations/",
+          "title": "About half of Americans continue to say Trump administration is doing ‘too much’ on deportations (Pew Research Center)",
+          "date": "2026-05-04",
+          "quote": "About half of U.S. adults (52%) say the Trump administration is doing too much to deport immigrants who are living in the country illegally"
+        },
+        {
+          "url": "https://www.pewresearch.org/short-reads/2026/05/04/about-half-of-americans-continue-to-say-trump-administration-is-doing-too-much-on-deportations/",
+          "title": "About half of Americans continue to say Trump administration is doing ‘too much’ on deportations (Pew Research Center)",
+          "date": "2026-05-04",
+          "quote": "However, slightly more Americans now say the administration is doing too little to deport immigrants who are living in the country illegally (15% now vs. 10% in October)."
+        },
+        {
+          "url": "https://www.pewresearch.org/short-reads/2026/05/04/about-half-of-americans-continue-to-say-trump-administration-is-doing-too-much-on-deportations/",
+          "title": "About half of Americans continue to say Trump administration is doing ‘too much’ on deportations (Pew Research Center)",
+          "date": "2026-05-04",
+          "quote": "Meanwhile, the share of U.S. adults who say the administration is doing about the right amount when it comes to deportations has fallen steadily, from 47% in February 2025 to 31% today."
+        }
+      ]
+    }
+  ],
+  "stakes": [
+    {
+      "area": "Your money",
+      "text": "The Penn Wharton Budget Model estimates permanent deportation would cost an extra $900 billion over 10 years. That is on top of about $170 billion already allocated in 2025.",
+      "sources": [
+        {
+          "url": "https://budgetmodel.wharton.upenn.edu/p/2025-07-25-mass-deportation-of-unauthorized-immigrants-fiscal-and-economic-effects/",
+          "title": "Mass Deportation of Unauthorized Immigrants: Fiscal and Economic Effects (Penn Wharton Budget Model)",
+          "date": "2025-07-25",
+          "quote": "Even with new funds provided in the 2025 OBBBA, we estimate that permanent deportation would cost an additional $900 billion over the first 10 years."
+        },
+        {
+          "url": "https://budgetmodel.wharton.upenn.edu/p/2025-07-25-mass-deportation-of-unauthorized-immigrants-fiscal-and-economic-effects/",
+          "title": "Mass Deportation of Unauthorized Immigrants: Fiscal and Economic Effects (Penn Wharton Budget Model)",
+          "date": "2025-07-25",
+          "quote": "these primary deficits include new required outlays that are in addition to the monies (about $170 billion) already allocated in the 2025 OBBBA for border security, interior enforcement, and deportation."
+        }
+      ]
+    },
+    {
+      "area": "The economy",
+      "text": "In Penn Wharton's model, removing 10% of unauthorized immigrants a year cuts GDP by 1.0% (four years) or 3.3% (ten years) by 2034. CBO has lowered its 2025-2029 net immigration forecast and says without immigration the U.S. population would start shrinking in 2030.",
+      "sources": [
+        {
+          "url": "https://budgetmodel.wharton.upenn.edu/p/2025-07-25-mass-deportation-of-unauthorized-immigrants-fiscal-and-economic-effects/",
+          "title": "Mass Deportation of Unauthorized Immigrants: Fiscal and Economic Effects (Penn Wharton Budget Model)",
+          "date": "2025-07-25",
+          "quote": "A 4-year policy where 10 percent of unauthorized immigrants are removed annually over four years"
+        },
+        {
+          "url": "https://budgetmodel.wharton.upenn.edu/p/2025-07-25-mass-deportation-of-unauthorized-immigrants-fiscal-and-economic-effects/",
+          "title": "Mass Deportation of Unauthorized Immigrants: Fiscal and Economic Effects (Penn Wharton Budget Model)",
+          "date": "2025-07-25",
+          "quote": "By 2034, the 4-year policy reduces GDP by 1.0 percent; the 10-year policy reduces it by 3.3 percent."
+        },
+        {
+          "url": "https://www.cbo.gov/publication/61879",
+          "title": "The Demographic Outlook: 2026 to 2056 (Congressional Budget Office)",
+          "date": "2026-01-07",
+          "quote": "CBO has also reduced its projections of net immigration from 2025 to 2029 because of administrative actions taken by the current Administration, enactment of the 2025 reconciliation act (Public Law 119-21), and updates to past population data.",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.cbo.gov/publication/61879",
+          "title": "The Demographic Outlook: 2026 to 2056 (Congressional Budget Office)",
+          "date": "2026-01-07",
+          "quote": "Without immigration, the population would begin to shrink in 2030.",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "area": "The economy",
+      "text": "About 13% of Colorado construction workers lack legal status, per the American Immigration Council. A 2014 Pew estimate put unauthorized workers at 4.9% of all Colorado workers. Legislative Council says studies find small or undetectable effects of immigration on native-born wages.",
+      "sources": [
+        {
+          "url": "https://www.kunc.org/podcast/inthenoco/2025-03-10/how-immigration-sweeps-could-take-a-toll-on-colorados-construction-industry",
+          "title": "How immigration sweeps could take a toll on Colorado’s construction industry (KUNC)",
+          "date": "2025-03-10",
+          "quote": "An estimated 13 percent of the construction workforce in Colorado is made up of immigrants without legal status, according to the American Immigration Council."
+        },
+        {
+          "url": "https://gazette.com/?p=1168754",
+          "title": "Undocumented immigrant workers number 140,000 in Colorado, Pew estimates (The Gazette)",
+          "date": "2016-11-03",
+          "quote": "In 2014, about 140,000 illegal immigrants were active in the Colorado labor force, accounting for 4.9 percent of the state’s 2.86 million workers — in line with the national ratio."
+        },
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/the_impact_of_migrants_on_state_and_local_government_resources-accessible.pdf",
+          "title": "The Impact of Immigrants on State and Local Government Resources (Colorado Legislative Council Staff memo)",
+          "date": "2025-01-20",
+          "quote": "Studies find that these two effects often cancel each other out, and the impact of immigration on native-born employment and wages is typically small or undetectable."
+        }
+      ]
+    },
+    {
+      "area": "Safety",
+      "text": "Most people in ICE detention have no criminal conviction: 70.6% on July 11, 2026, per TRAC. DHS counts differently, saying 70% of ICE arrests are of people charged or convicted of a crime.",
+      "sources": [
+        {
+          "url": "https://tracreports.org/immigration/quickfacts/",
+          "title": "Immigration Detention Quick Facts (TRAC)",
+          "date": "2026-10-16",
+          "quote": "46,436 out of 65,765—or 70.6% held in ICE detention have no criminal conviction according to data current as of July 11, 2026.",
+          "date_basis": "accessed",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.dhs.gov/news/2026/01/27/wowdhsgov-ice-arrests-worst-worst-including-murderers-child-abusers-and-violent",
+          "title": "WOW.DHS.GOV: ICE Arrests Worst of the Worst Including Murderers, Child Abusers, and Violent Assailants (U.S. Department of Homeland Security)",
+          "date": "2026-01-27",
+          "quote": "70% of all ICE arrests are of criminal illegal aliens charged or convicted of a crime in the United States."
+        }
+      ]
+    },
+    {
+      "area": "Public services",
+      "text": "Aurora's detention center has 1,532 beds. A July 2026 federal contract worth up to $528.6 million adds a Hudson site, raising Colorado capacity to 2,720. Removal orders from Colorado's immigration court rose 60% from March to June 2026.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/07/13/529m-ice-contract-will-nearly-double-colorados-immigrant-detention-capacity-to-2720-beds/",
+          "title": "$529M ICE contract will nearly double Colorado’s immigrant detention capacity to 2,720 beds (Colorado Politics)",
+          "date": "2026-07-13",
+          "quote": "The Geo Group also runs the Aurora Contract Detention Facility, which has a capacity of 1,532 detainees. The Hudson detention center will boost the capacity in Colorado to a total of 2,720 beds."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/07/13/529m-ice-contract-will-nearly-double-colorados-immigrant-detention-capacity-to-2720-beds/",
+          "title": "$529M ICE contract will nearly double Colorado’s immigrant detention capacity to 2,720 beds (Colorado Politics)",
+          "date": "2026-07-13",
+          "quote": "The deal is worth up to $528.6 million, federal contracting records show."
+        },
+        {
+          "url": "https://tracreports.org/reports/776/",
+          "title": "Removal Orders Jump While Immigration Court Closures Top 100,000 in June 2026 (TRAC)",
+          "date": "2026-07-21",
+          "quote": "These involved the courts in Massachusetts (up 79%), New Jersey (up 66%), Pennsylvania (up 66%), Texas (up 66%) and Colorado (up 60%)."
+        }
+      ]
+    }
+  ],
+  "case_for": [
+    {
+      "text": "Supporters, including the Department of Homeland Security, say enforcement removes people who commit crimes. DHS says 70% of ICE arrests are of people charged or convicted of a crime.",
+      "sources": [
+        {
+          "url": "https://www.dhs.gov/news/2026/01/27/wowdhsgov-ice-arrests-worst-worst-including-murderers-child-abusers-and-violent",
+          "title": "WOW.DHS.GOV: ICE Arrests Worst of the Worst Including Murderers, Child Abusers, and Violent Assailants (U.S. Department of Homeland Security)",
+          "date": "2026-01-27",
+          "quote": "70% of all ICE arrests are of criminal illegal aliens charged or convicted of a crime in the United States."
+        }
+      ]
+    },
+    {
+      "text": "Supporters can also point to wages. The Penn Wharton model finds pay for authorized low-skilled workers, including U.S.-born workers, can rise 5.0% by 2034 in its ten-year scenario.",
+      "sources": [
+        {
+          "url": "https://budgetmodel.wharton.upenn.edu/p/2025-07-25-mass-deportation-of-unauthorized-immigrants-fiscal-and-economic-effects/",
+          "title": "Mass Deportation of Unauthorized Immigrants: Fiscal and Economic Effects (Penn Wharton Budget Model)",
+          "date": "2025-07-25",
+          "quote": "But wages for authorized (including US-born) low-skilled workers can increase."
+        },
+        {
+          "url": "https://budgetmodel.wharton.upenn.edu/p/2025-07-25-mass-deportation-of-unauthorized-immigrants-fiscal-and-economic-effects/",
+          "title": "Mass Deportation of Unauthorized Immigrants: Fiscal and Economic Effects (Penn Wharton Budget Model)",
+          "date": "2025-07-25",
+          "quote": "Under the 10-year policy, their wages increase by 5.0 percent by 2034 and mostly persist thereafter."
+        }
+      ]
+    }
+  ],
+  "case_against": [
+    {
+      "text": "Opponents say enforcement reaches well beyond people with criminal records. TRAC found that 97% of the growth in ICE detention between September 21 and November 16, 2025 was people with no criminal history.",
+      "sources": [
+        {
+          "url": "https://tracreports.org/reports/767/",
+          "title": "Taking Stock: Trump Administration Record on Detention and Removals (TRAC)",
+          "date": "2025-11-24",
+          "quote": "Of these 5,373, there was a net increase of 5,209 more individuals with no criminal history – some 97 percent of the total net increase."
+        }
+      ]
+    },
+    {
+      "text": "Opponents also cite conditions. The ACLU of Colorado called the Hudson facility \"a profound betrayal of Colorado's values.\" Advocacy groups allege poor care at Aurora, which DHS calls false.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/07/13/529m-ice-contract-will-nearly-double-colorados-immigrant-detention-capacity-to-2720-beds/",
+          "title": "$529M ICE contract will nearly double Colorado’s immigrant detention capacity to 2,720 beds (Colorado Politics)",
+          "date": "2026-07-13",
+          "quote": "The ACLU of Colorado criticized the move to use the Hudson facility, calling it “a profound betrayal of Colorado’s values.”"
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/07/13/529m-ice-contract-will-nearly-double-colorados-immigrant-detention-capacity-to-2720-beds/",
+          "title": "$529M ICE contract will nearly double Colorado’s immigrant detention capacity to 2,720 beds (Colorado Politics)",
+          "date": "2026-07-13",
+          "quote": "Earlier this year, a coalition of advocacy groups alleged detainees at GEO’s Aurora facility faced inadequate medical care, poor living conditions and insufficient food."
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "No study has modeled the effect on Colorado's economy alone. Legislative Council says the national studies it reviewed have not included a Colorado analysis.",
+      "sources": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/the_impact_of_migrants_on_state_and_local_government_resources-accessible.pdf",
+          "title": "The Impact of Immigrants on State and Local Government Resources (Colorado Legislative Council Staff memo)",
+          "date": "2025-01-20",
+          "quote": "these studies have not yet included an intrastate analysis of Colorado."
+        }
+      ]
+    },
+    {
+      "text": "How much will be spent, and how fast, is open. The 2026 law does not require DHS to spend any of the money in a given year.",
+      "sources": [
+        {
+          "url": "https://www.americanimmigrationcouncil.org/fact-sheet/whats-in-the-secure-america-act/",
+          "title": "What’s in the Secure America Act? (American Immigration Council)",
+          "date": "2026-06-10",
+          "quote": "The bill, however, does not require DHS, ICE, or CBP to allocate or spend any of the money in any given year."
+        }
+      ]
+    }
+  ],
+  "measure": null,
+  "last_checked": "2026-10-16",
+  "research_notes": "Claude in Chrome was not connected, so I used the built-in Browser pane (own tab). Read in the browser (each quote re-checked against the rendered page text, all matched): TRAC Immigration Detention Quick Facts (curl returned an empty shell; this is a live dashboard whose numbers will change, so the 65,765 and 70.6% quotes may stop matching after the next ICE data release) and the CBO Demographic Outlook (curl 403). Axios Denver (Sept 8, 2026) on deportation costs to Colorado was paywalled to a teaser, so I did not use it; the Economic Policy Institute per-taxpayer estimate it cites was not verified. I found no current official Colorado figure for undocumented workers as a share of all workers; the 4.9% is a 2014 Pew estimate (published by The Gazette in 2016) and the 13% construction figure is the American Immigration Council's via KUNC (2025). The Migration Policy Institute Colorado page did not load. The American Immigration Council is labeled as pro-immigration; its dollar figures should be spot-checked against the public laws (P.L. 119-21 and the June 2026 Secure America Act), which I did not fetch. 'TRAC, a nonpartisan nonprofit data project' is TRAC's own description on its report page. TRAC removal counts stop at Nov 15, 2025; I found no later official ICE removal total (a RedState item citing 356,389 FY2026 removals was a partisan secondary source, not used). DHS's '70% charged or convicted' and TRAC's 'no conviction' figures measure different groups. Web search budget ran out mid-session."
+}

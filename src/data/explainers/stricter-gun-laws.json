@@ -1,0 +1,334 @@
+{
+  "id": "stricter-gun-laws",
+  "plain": "Should gun laws be stricter than they are now? Colorado added a permit-and-training rule for many semiautomatic guns on August 1, 2026.",
+  "agree_means": "Supports more gun restrictions, such as Colorado's SB25-003 permit rule, wider background checks or bans on certain guns.",
+  "disagree_means": "Opposes new restrictions or wants to loosen current ones, saying existing laws are enough or that new limits burden lawful owners.",
+  "now": [
+    {
+      "text": "Colorado law already has a three-day wait to take delivery of a gun. The minimum age to buy a gun is 21 (since August 2023). Red flag orders, in place since 2020, let a court temporarily remove guns from someone judged a serious risk.",
+      "sources": [
+        {
+          "url": "https://leg.colorado.gov/bills/hb23-1219",
+          "title": "HB23-1219 Firearms waiting period, bill summary (Colorado General Assembly)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "The waiting period is the later in time of 3 days after the initiation of a required background check of the purchaser or when the purchase is approved following any background check."
+        },
+        {
+          "url": "https://leg.colorado.gov/bills/sb23-169",
+          "title": "SB23-169 Increase minimum age to purchase firearms, bill summary (Colorado General Assembly)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "The act increases the age to legally purchase a firearm to 21 years of age or older."
+        },
+        {
+          "url": "https://leg.colorado.gov/bills/hb19-1177",
+          "title": "HB19-1177 Extreme risk protection order, bill summary (Colorado General Assembly)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "The act creates the ability for a family or household member or a law enforcement officer to petition the court for a temporary extreme risk protection order (ERPO) beginning on January 1, 2020."
+        }
+      ]
+    },
+    {
+      "text": "SB25-003 took effect August 1, 2026. Buying certain semiautomatic rifles, shotguns and pistols with detachable magazines now requires a sheriff-issued eligibility card, a background check and a 4- or 12-hour safety course. The state fee is $52.",
+      "sources": [
+        {
+          "url": "https://leg.colorado.gov/bills/sb25-003",
+          "title": "SB25-003 Firearms bill summary (Colorado General Assembly)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "The act prohibits knowingly manufacturing, distributing, transferring, selling, or purchasing a specified semiautomatic firearm on or after August 1, 2026"
+        },
+        {
+          "url": "https://leg.colorado.gov/bills/sb25-003",
+          "title": "SB25-003 Firearms bill summary (Colorado General Assembly)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "In order to enroll in a basic or extended firearms safety course, a person must hold a valid firearms safety course eligibility card (firearms course card) issued by a sheriff."
+        },
+        {
+          "url": "https://gazette.com/2026/07/28/colorados-new-firearms-law-leads-to-run-on-gun-shops-1/",
+          "title": "Colorado's new firearms law leads to run on gun shops (The Gazette)",
+          "date": "2026-07-29",
+          "quote": "Applicants also must pay a mandatory fee of $52 to Colorado Parks and Wildlife."
+        },
+        {
+          "url": "https://gazette.com/2026/07/28/colorados-new-firearms-law-leads-to-run-on-gun-shops-1/",
+          "title": "Colorado's new firearms law leads to run on gun shops (The Gazette)",
+          "date": "2026-07-29",
+          "quote": "completion of a firearm safety training course of either four or 12 hours."
+        }
+      ]
+    },
+    {
+      "text": "Johns Hopkins researchers counted 961 gun deaths in Colorado in 2024. In 2023, about 71% of the state's 1,012 gun deaths were suicides. The gun homicide rate rose 40% from 2015 to 2024.",
+      "sources": [
+        {
+          "url": "https://publichealth.jhu.edu/center-for-gun-violence-solutions/data/state-gun-violence-data/colorado",
+          "title": "State Data: Colorado (Johns Hopkins Center for Gun Violence Solutions)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "961 Gun Deaths in Colorado",
+          "via": "browser"
+        },
+        {
+          "url": "https://coloradosun.com/2025/04/11/are-most-colorado-gun-deaths-ruled-suicides/",
+          "title": "Are most Colorado gun deaths ruled suicides? (The Colorado Sun)",
+          "date": "2025-04-11",
+          "quote": "Roughly 71% of Colorado’s 1,012 firearm deaths in 2023 were the result of suicides, up 4 percentage points from a year earlier, state health data shows."
+        },
+        {
+          "url": "https://publichealth.jhu.edu/center-for-gun-violence-solutions/data/state-gun-violence-data/colorado",
+          "title": "State Data: Colorado (Johns Hopkins Center for Gun Violence Solutions)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "The overall gun homicide rate increased by 40%, and the overall gun suicide rate increased by 14% from 2015 to 2024.",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "text": "A federal lawsuit by the Colorado State Shooting Association says the permit rule violates the Second Amendment. It was still ongoing in August 2026. In June 2026 the Supreme Court struck down a Hawaii carry restriction and agreed to hear a case on whether AR-15 bans are constitutional.",
+      "sources": [
+        {
+          "url": "https://gazette.com/2025/09/02/shooting-association-sues-colorado-over-new-gun-control-law/",
+          "title": "Shooting association sues Colorado over new gun control law (The Gazette, from The Center Square)",
+          "date": "2025-09-02",
+          "quote": "The suit argues the new law puts in place an onerous permit-to-purchase scheme."
+        },
+        {
+          "url": "https://storage.courtlistener.com/recap/gov.uscourts.cod.246985/gov.uscourts.cod.246985.79.0.pdf",
+          "title": "Joint Motion to Set Briefing Schedule, Del Toro v. Polis, No. 1:25-cv-02725 (U.S. District Court for the District of Colorado)",
+          "date": "2026-08-10",
+          "quote": "on Second and Fourteenth Amendment grounds. The lawsuit is ongoing."
+        },
+        {
+          "url": "https://www.scotusblog.com/2026/07/the-courts-big-gun-cases-and-whats-next/",
+          "title": "The court’s big gun cases – and what’s next (SCOTUSblog)",
+          "date": "2026-07-31",
+          "quote": "In a 6-3 decision, the court struck down a Hawaii law that made it illegal for anyone to bring their firearm onto private property open to the public without explicit consent from the property owner."
+        },
+        {
+          "url": "https://www.scotusblog.com/2026/07/the-courts-big-gun-cases-and-whats-next/",
+          "title": "The court’s big gun cases – and what’s next (SCOTUSblog)",
+          "date": "2026-07-31",
+          "quote": "In those cases, the justices will consider whether the Second Amendment protects the right to possess semiautomatic rifles such as AR-15s."
+        }
+      ]
+    }
+  ],
+  "stakes": [
+    {
+      "area": "Safety",
+      "text": "RAND, a nonprofit research group, reviewed the studies in January 2026. It found moderate evidence that background checks decrease homicides and limited evidence that permit rules do. Evidence on training requirements is inconclusive. Bans on high-capacity magazines show limited evidence of fewer mass-shooting deaths.",
+      "sources": [
+        {
+          "url": "https://www.rand.org/research/gun-policy/analysis/background-checks.html",
+          "title": "The Effects of Background Checks (RAND Gun Policy in America)",
+          "date": "2026-01-29",
+          "quote": "There is moderate evidence that background checks decrease total homicides and firearm homicides."
+        },
+        {
+          "url": "https://www.rand.org/research/gun-policy/analysis/license-to-own.html",
+          "title": "The Effects of Licensing and Permitting Requirements (RAND Gun Policy in America)",
+          "date": "2026-01-29",
+          "quote": "There is limited evidence that licensing and permitting requirements decrease total homicides and firearm homicides."
+        },
+        {
+          "url": "https://www.rand.org/research/gun-policy/analysis/firearm-safety-training-requirements.html",
+          "title": "The Effects of Firearm Safety Training Requirements (RAND Gun Policy in America)",
+          "date": "2026-01-29",
+          "quote": "There is inconclusive evidence for how firearm safety training requirements affect violent crime."
+        },
+        {
+          "url": "https://www.rand.org/research/gun-policy/analysis/ban-assault-weapons.html",
+          "title": "The Effects of Bans on the Sale of Assault Weapons and High-Capacity Magazines (RAND Gun Policy in America)",
+          "date": "2026-01-29",
+          "quote": "There is limited evidence that bans on high-capacity magazines decrease mass shootings and fatalities."
+        }
+      ]
+    },
+    {
+      "area": "Health",
+      "text": "Suicide drives Colorado's gun death numbers. RAND finds moderate evidence that waiting periods decrease gun suicides and supportive evidence that a purchase age of 21 lowers youth gun suicides. Evidence on red flag orders and suicide is limited.",
+      "sources": [
+        {
+          "url": "https://www.rand.org/research/gun-policy/analysis/waiting-periods.html",
+          "title": "The Effects of Waiting Periods (RAND Gun Policy in America)",
+          "date": "2026-01-29",
+          "quote": "There is moderate evidence that waiting periods decrease firearm suicides."
+        },
+        {
+          "url": "https://www.rand.org/research/gun-policy/analysis/minimum-age.html",
+          "title": "The Effects of Minimum Age Requirements (RAND Gun Policy in America)",
+          "date": "2026-01-29",
+          "quote": "There is supportive evidence that minimum age requirements for purchasing a firearm decrease firearm suicides among young people."
+        },
+        {
+          "url": "https://www.rand.org/research/gun-policy/analysis/extreme-risk-protection-orders.html",
+          "title": "The Effects of Extreme-Risk Protection Orders (RAND Gun Policy in America)",
+          "date": "2026-01-29",
+          "quote": "There is limited evidence for how extreme-risk protection orders affect suicide."
+        }
+      ]
+    },
+    {
+      "area": "Your money",
+      "text": "Buyers of covered guns pay more. The state fee is $52, sheriffs may add local fees, and one buyer reported a 12-hour course costs $500. Johns Hopkins researchers estimate gun violence cost Coloradans $10.2 billion in 2024.",
+      "sources": [
+        {
+          "url": "https://gazette.com/2026/07/28/colorados-new-firearms-law-leads-to-run-on-gun-shops-1/",
+          "title": "Colorado's new firearms law leads to run on gun shops (The Gazette)",
+          "date": "2026-07-29",
+          "quote": "Local sheriffs also are allowed to add on their own local administrative and background check fees."
+        },
+        {
+          "url": "https://gazette.com/2026/07/28/colorados-new-firearms-law-leads-to-run-on-gun-shops-1/",
+          "title": "Colorado's new firearms law leads to run on gun shops (The Gazette)",
+          "date": "2026-07-29",
+          "quote": "The 12-hour training will cost $500, said Roy L. Bartlette Jr., who has lived in Teller County for 10 years."
+        },
+        {
+          "url": "https://publichealth.jhu.edu/center-for-gun-violence-solutions/data/state-gun-violence-data/colorado",
+          "title": "State Data: Colorado (Johns Hopkins Center for Gun Violence Solutions)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "Gun violence cost Coloradans $10.2 billion in 2024.",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "area": "Rights and freedoms",
+      "text": "Opponents say the permit rule burdens lawful self-defense. SCOTUSblog's analysis of the June 2026 Wolford ruling says it casts doubt on lower-court rulings that treated purchase conditions as outside the Second Amendment. That could affect SB25-003.",
+      "sources": [
+        {
+          "url": "https://gazette.com/2025/09/02/shooting-association-sues-colorado-over-new-gun-control-law/",
+          "title": "Shooting association sues Colorado over new gun control law (The Gazette, from The Center Square)",
+          "date": "2025-09-02",
+          "quote": "The suit argues the new law puts in place an onerous permit-to-purchase scheme."
+        },
+        {
+          "url": "https://www.scotusblog.com/2026/07/the-courts-big-gun-cases-and-whats-next/",
+          "title": "The court’s big gun cases – and what’s next (SCOTUSblog)",
+          "date": "2026-07-31",
+          "quote": "Alito’s language would seem to throw these rulings into doubt."
+        }
+      ]
+    },
+    {
+      "area": "Public services",
+      "text": "County sheriffs run the permit system, and some oppose it. Before the start date, 6,504 background-check applications were waiting, with waits up to nearly three days. The Teller County sheriff urged people to fight the law.",
+      "sources": [
+        {
+          "url": "https://gazette.com/2026/07/28/colorados-new-firearms-law-leads-to-run-on-gun-shops-1/",
+          "title": "Colorado's new firearms law leads to run on gun shops (The Gazette)",
+          "date": "2026-07-29",
+          "quote": "As of midday July 28, 6,504 applications for background checks were waiting to be accepted by the Colorado Bureau of Investigation, with the longest wait for processing being two days, 19 hours and 25 minutes."
+        },
+        {
+          "url": "https://gazette.com/2026/07/28/colorados-new-firearms-law-leads-to-run-on-gun-shops-1/",
+          "title": "Colorado's new firearms law leads to run on gun shops (The Gazette)",
+          "date": "2026-07-29",
+          "quote": "Sheriff Jason Mikesell of Teller County said in a video that he’s advocating for objectors to legally fight the law"
+        }
+      ]
+    }
+  ],
+  "case_for": [
+    {
+      "text": "Gov. Jared Polis, a Democrat, said the law would help make Colorado one of the 10 safest states and would reduce accidents and violence while protecting Second Amendment rights.",
+      "sources": [
+        {
+          "url": "https://www.yahoo.com/news/governor-signs-bill-requiring-training-223357697.html",
+          "title": "Governor signs bill requiring training for semiautomatic guns, banning rapid-fire conversion devices (KDVR, via Yahoo News)",
+          "date": "2025-04-10",
+          "quote": "Polis said the measure would help push Colorado toward its goal of becoming one of the top 10 safest states."
+        },
+        {
+          "url": "https://www.yahoo.com/news/governor-signs-bill-requiring-training-223357697.html",
+          "title": "Governor signs bill requiring training for semiautomatic guns, banning rapid-fire conversion devices (KDVR, via Yahoo News)",
+          "date": "2025-04-10",
+          "quote": "I really think this bill will make Colorado communities safer and prevent both accidents as well as reducing violence"
+        }
+      ]
+    },
+    {
+      "text": "Supporters point to rising gun homicide and suicide rates and to research on specific laws, such as background checks and waiting periods.",
+      "sources": [
+        {
+          "url": "https://publichealth.jhu.edu/center-for-gun-violence-solutions/data/state-gun-violence-data/colorado",
+          "title": "State Data: Colorado (Johns Hopkins Center for Gun Violence Solutions)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "The overall gun homicide rate increased by 40%, and the overall gun suicide rate increased by 14% from 2015 to 2024.",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.rand.org/research/gun-policy/analysis/waiting-periods.html",
+          "title": "The Effects of Waiting Periods (RAND Gun Policy in America)",
+          "date": "2026-01-29",
+          "quote": "There is moderate evidence that waiting periods decrease total homicides."
+        },
+        {
+          "url": "https://www.rand.org/research/gun-policy/analysis/background-checks.html",
+          "title": "The Effects of Background Checks (RAND Gun Policy in America)",
+          "date": "2026-01-29",
+          "quote": "There is moderate evidence that background checks decrease total homicides and firearm homicides."
+        }
+      ]
+    }
+  ],
+  "case_against": [
+    {
+      "text": "The Colorado State Shooting Association is the National Rifle Association's state affiliate. It says Colorado already has background checks and waiting periods, and the new rule adds another hoop for responsible owners while criminals ignore the rules.",
+      "sources": [
+        {
+          "url": "https://gazette.com/2025/09/02/shooting-association-sues-colorado-over-new-gun-control-law/",
+          "title": "Shooting association sues Colorado over new gun control law (The Gazette, from The Center Square)",
+          "date": "2025-09-02",
+          "quote": "Colorado already has background checks. We already have waiting periods. SB25-003 piles on yet another hoop for responsible citizens while criminals ignore the rules."
+        }
+      ]
+    },
+    {
+      "text": "El Paso County Sheriff Joseph Roybal says the law will saddle lawful owners with unnecessary fees and paperwork and calls it unconstitutional.",
+      "sources": [
+        {
+          "url": "https://gazette.com/2026/07/28/colorados-new-firearms-law-leads-to-run-on-gun-shops-1/",
+          "title": "Colorado's new firearms law leads to run on gun shops (The Gazette)",
+          "date": "2026-07-29",
+          "quote": "saddle law-abiding Coloradans with unnecessary fees, bureaucratic hurdles and state-mandated registration for those who want to exercise their constitutional rights"
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "Nobody yet knows whether SB25-003 will reduce deaths. RAND found the evidence on training requirements inconclusive, and the permit rule is only weeks old.",
+      "sources": [
+        {
+          "url": "https://www.rand.org/research/gun-policy/analysis/firearm-safety-training-requirements.html",
+          "title": "The Effects of Firearm Safety Training Requirements (RAND Gun Policy in America)",
+          "date": "2026-01-29",
+          "quote": "There is inconclusive evidence for how firearm safety training requirements affect suicides."
+        }
+      ]
+    },
+    {
+      "text": "The Supreme Court will decide this term whether the Second Amendment protects AR-15-style rifles. In August 2026 the plaintiffs said they would ask a federal court to block Colorado's permit rule. Either could change Colorado's rules.",
+      "sources": [
+        {
+          "url": "https://storage.courtlistener.com/recap/gov.uscourts.cod.246985/gov.uscourts.cod.246985.79.0.pdf",
+          "title": "Joint Motion to Set Briefing Schedule, Del Toro v. Polis, No. 1:25-cv-02725 (U.S. District Court for the District of Colorado)",
+          "date": "2026-08-10",
+          "quote": "Plaintiffs intend to file a motion under Fed. R. Civ. P. 65, challenging"
+        }
+      ]
+    }
+  ],
+  "measure": null,
+  "last_checked": "2026-10-16",
+  "research_notes": "Claude in Chrome was not connected, so the Johns Hopkins Center for Gun Violence Solutions state page (Cloudflare-blocked) was read in the built-in Browser pane; its source carries via: browser. Other pages were fetched directly. Double-check: (1) The Johns Hopkins page also lists 712 gun suicides and 209 gun homicides for 2024 in separate page elements, so those numbers are not quoted; the 71% suicide share is for 2023 (Colorado Sun, using state health data). (2) RAND evidence ratings are from its Jan 29, 2026 update; the RAND gun-policy project has since wound down. The ratings describe studies of laws elsewhere; none test Colorado's SB25-003 yet. (3) The Gazette lawsuit story is a Center Square wire piece; the Aug 10, 2026 court filing (Del Toro v. Polis) shows the case is ongoing and that plaintiffs planned to seek a preliminary injunction; whether a ruling has issued was not checked. (4) Colorado's 2013 background-check and magazine laws, safe-storage and other laws were not sourced and are not described. (5) The $500 course price is one buyer's statement in the Gazette, not an official fee. The state fee ($52) is stated by the Gazette. (6) The SCOTUSblog piece is commentary on Wolford and Hemani; its note that Wolford casts doubt on lower-court rulings is the author's view. (7) The web-search allowance ran out mid-run; some leads (Montezuma County sheriff refusing to issue cards, the Colorado Newsline Aug 4 article) were not fetched and are not used."
+}

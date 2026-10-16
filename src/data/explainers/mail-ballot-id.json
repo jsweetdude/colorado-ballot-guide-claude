@@ -1,0 +1,273 @@
+{
+  "id": "mail-ballot-id",
+  "plain": "Colorado now checks mail ballots by comparing the signature on the return envelope to the one on file. Amendment 84 would also require an ID number on the envelope.",
+  "agree_means": "Every mail voter would write the last four digits of a Social Security number, or a Colorado driver's license or ID number, on the envelope. A ballot with a missing or unmatched number would not count until the voter fixed it.",
+  "disagree_means": "Signature checks stay as the only test for mail ballots, with the current letter-and-fix process for problems.",
+  "now": [
+    {
+      "text": "Election judges compare each signature to the one on file. A ballot is rejected only if two judges from different parties agree it is missing or does not match. The voter gets a letter and eight days after Election Day to fix it.",
+      "sources": [
+        {
+          "url": "https://coloradonewsline.com/2024/09/05/voting-basics-how-ballot-signature-verification-works/",
+          "title": "Voting basics: How ballot signature verification works (Colorado Newsline)",
+          "date": "2024-09-05",
+          "quote": "A ballot will be rejected if a team of two election judges from different political parties agree that a voter’s signature on their ballot doesn’t match the one elections officials have on file, or if the signature is missing altogether.",
+          "via": "browser"
+        },
+        {
+          "url": "https://coloradosos.gov/pubs/elections/FAQs/rejectedBallots.html",
+          "title": "Rejected Ballots FAQs (Colorado Secretary of State)",
+          "date": "2026-10-16",
+          "quote": "Colorado law requires county clerks to mail you a letter explaining why your ballot was rejected, and the steps you need to take to resolve or “cure” the problems so that your ballot will be counted.",
+          "date_basis": "accessed"
+        }
+      ]
+    },
+    {
+      "text": "Of about 3 million mail ballots returned in 2024, a federal survey shows 42,751 (1.4%) were not counted and 65,629 (2.2%) were flagged for fixing. In 2020, 21,838 signature problems went unfixed.",
+      "sources": [
+        {
+          "url": "https://www.eac.gov/sites/default/files/2025-07/2024_EAVS_Report_508.pdf",
+          "title": "2024 Election Administration and Voting Survey Comprehensive Report (U.S. Election Assistance Commission)",
+          "date": "2025-06-30",
+          "quote": "Colorado [4] 42,751 1.4% 434 317,337 10.6% 65,629 2.2%"
+        },
+        {
+          "url": "https://coloradonewsline.com/2024/09/05/voting-basics-how-ballot-signature-verification-works/",
+          "title": "Voting basics: How ballot signature verification works (Colorado Newsline)",
+          "date": "2024-09-05",
+          "quote": "Another 21,838 signature issues were not cured, so those ballots were rejected and not counted in the election results.",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "text": "Amendment 84 adds a number check to the signature check. The number is matched to the state voter database. If it is missing or wrong, the county contacts the voter, who has until the eighth day after Election Day to fix it.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "This new verification process created by the measure is in addition to the current signature verification process for mail ballots.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "If a voter’s identification information is missing or cannot be matched to the state voter registration database, the county election office must contact the voter to tell them how to correct the discrepancy.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "the ballot will not be counted unless the voter takes steps within eight days of election day to confirm their identify",
+          "date_basis": "accessed"
+        }
+      ]
+    }
+  ],
+  "stakes": [
+    {
+      "area": "Your money",
+      "text": "The Legislative Council estimates up to $2.7 million in the first year and $1.2 million a year after, for outreach, printing and staff. The state would repay about 45% of county costs, and business filing fees may rise to cover its share.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "The measure will increase state and local spending by up to $2.7 million in the initial budget year 2026-27, and $1.2 million annually in future years for voter outreach, printing, and election staff to verify voter information.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "About 45 percent of these county costs will be reimbursed by the state government.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "To cover the costs in the Department of State discussed above, business filing fees may need to be raised to cover all or some of the costs of this measure.",
+          "date_basis": "accessed"
+        }
+      ]
+    },
+    {
+      "area": "Elections",
+      "text": "Texas added an ID-number rule in 2021. In its March 2022 primary, 12.4% of returned mail ballots were rejected, versus 0.8% in 2020. A Brennan Center study, which Votebeat calls nonpartisan, found about 90% of voters whose mail ballot or application was rejected did not vote another way.",
+      "sources": [
+        {
+          "url": "https://www.cbsnews.com/news/texas-election-officials-rejected-one-out-of-eight-mail-ballots-cast-in-primary",
+          "title": "Texas election officials rejected one out of eight mail ballots cast in primary (CBS News)",
+          "date": "2022-04-06",
+          "quote": "24,636 mail-in ballots were rejected out of 198,947 that were returned. That's a rejection rate of 12.4%."
+        },
+        {
+          "url": "https://www.cbsnews.com/news/texas-election-officials-rejected-one-out-of-eight-mail-ballots-cast-in-primary",
+          "title": "Texas election officials rejected one out of eight mail ballots cast in primary (CBS News)",
+          "date": "2022-04-06",
+          "quote": "when Texas rejected 8,304 mail ballots out of 982,362 — or 0.8% of those that were cast"
+        },
+        {
+          "url": "https://www.votebeat.org/texas/2025/05/28/mail-voting-decline-under-senate-bill-1-election-law-id-requirement/",
+          "title": "Study links Texas ID rules in SB1 to changing voting patterns (Votebeat)",
+          "date": "2025-05-28",
+          "quote": "roughly 90% of these individuals did not find another way to participate in the 2022 primary."
+        }
+      ]
+    },
+    {
+      "area": "Elections",
+      "text": "In one large Texas county, ID rejections fell from over 700 in the primary to 85 in November after instructions were added to envelopes. Statewide, Texas still rejected 3.5% of returned mail ballots in 2024, versus 1.4% in Colorado.",
+      "sources": [
+        {
+          "url": "https://www.votebeat.org/texas/2025/05/28/mail-voting-decline-under-senate-bill-1-election-law-id-requirement/",
+          "title": "Study links Texas ID rules in SB1 to changing voting patterns (Votebeat)",
+          "date": "2025-05-28",
+          "quote": "The county had over 7,000 mail-in ballots, and over 700 were rejected due to the new ID requirements, he said."
+        },
+        {
+          "url": "https://www.votebeat.org/texas/2025/05/28/mail-voting-decline-under-senate-bill-1-election-law-id-requirement/",
+          "title": "Study links Texas ID rules in SB1 to changing voting patterns (Votebeat)",
+          "date": "2025-05-28",
+          "quote": "In the November general election, Breaux said, the county rejected just 85 ballots for ID requirement issues."
+        },
+        {
+          "url": "https://www.eac.gov/sites/default/files/2025-07/2024_EAVS_Report_508.pdf",
+          "title": "2024 Election Administration and Voting Survey Comprehensive Report (U.S. Election Assistance Commission)",
+          "date": "2025-06-30",
+          "quote": "Texas 14,049 3.5% -- -- -- 23,226 5.8%"
+        }
+      ]
+    },
+    {
+      "area": "Elections",
+      "text": "Georgia replaced signature matching with ID numbers. State data put its May 2022 primary rejections at 2.6%, up from just over 1% in 2020. An early Post count found 1%, down from 4.3% in 2018. In 2024 the rate was 1.7%.",
+      "sources": [
+        {
+          "url": "https://electionlab.mit.edu/sites/default/files/2024-05/5_sb202-MEDSLReport.pdf",
+          "title": "Gauging the Effects of SB 202 on Voting in Georgia (Hood and McKee, MIT Election Data and Science Lab)",
+          "date": "2026-10-16",
+          "quote": "SB 202 altered verification for absentee applications and ballots from signature verification to use of a driver’s license or state ID number.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://www.wabe.org/may-primary-was-the-biggest-test-yet-for-georgias-new-voting-law/",
+          "title": "May primary was the biggest test yet for Georgia's new voting law (WABE)",
+          "date": "2022-06-29",
+          "quote": "More than 2.6 percent of absentee ballots were rejected in May, according to election data from the Georgia Secretary of State. That’s up from just over 1 percent in the June 2020 primary.",
+          "via": "browser"
+        },
+        {
+          "url": "https://electionlawblog.org/2022/rejection-rates-for-absentee-ballots-in-ga-far-lower-than-in-2018-primary-elections/",
+          "title": "Rejection Rates for Absentee Ballots in GA Far Lower than in 2018 Primary Elections (Election Law Blog)",
+          "date": "2022-05-28",
+          "quote": "An analysis by The Post shows the rates went from roughly 4.3 percent to 1 percent.",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.eac.gov/sites/default/files/2025-07/2024_EAVS_Report_508.pdf",
+          "title": "2024 Election Administration and Voting Survey Comprehensive Report (U.S. Election Assistance Commission)",
+          "date": "2025-06-30",
+          "quote": "Georgia [6] 4,761 1.7% 196 -- -- -- --"
+        }
+      ]
+    },
+    {
+      "area": "Safety",
+      "text": "In 2024 a Mesa County mail carrier and a friend were accused of forging stolen ballots. Signature checks caught 12 of 16; three were counted. The case shows both that forged ballots can get through and that signature checks can catch them.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2024/11/07/two-mesa-county-women-arrested-in-alleged-fraudulent-mail-in-ballot-scheme-c639b96a-9d34-11ef-983e-7becd70f42e4",
+          "title": "Two Mesa County women arrested in alleged fraudulent mail-in ballot scheme (Colorado Politics)",
+          "date": "2024-11-07",
+          "quote": "Twelve 12 were caught in the signature verification process, but three have been counted and cannot be reversed"
+        }
+      ]
+    }
+  ],
+  "case_for": [
+    {
+      "text": "Supporters say ID numbers are steadier than a judge's opinion of handwriting, and that most voters already have a card or know their number.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "Government-issued identification documents are more consistent and less subjective than the current signature verification process.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "Most voters already have an eligible identification card, or know their social security number.",
+          "date_basis": "accessed"
+        }
+      ]
+    },
+    {
+      "text": "Supporters argue the extra step would strengthen security and public confidence that ineligible ballots are not counted.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/10/02/identification-voting-ballot-colorado-amendment-84/",
+          "title": "Amendment 84 | ID requirements for mail ballots (Colorado Politics)",
+          "date": "2026-10-02",
+          "quote": "Supporters of Initiative No. 362 argue that requiring additional identifying information would strengthen election security and help prevent fraudulent ballots."
+        }
+      ]
+    }
+  ],
+  "case_against": [
+    {
+      "text": "Opponents say eligible voters could lose their vote over small mistakes. They say some would skip mail voting rather than write a sensitive number on an envelope.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "The measure could result in eligible voters’ ballots not being counted due to minor mistakes when submitting their mail ballot.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "voters who have privacy concerns about providing sensitive information when submitting their ballot or who are unable to produce the required identification will be discouraged from using mail ballots",
+          "date_basis": "accessed"
+        }
+      ]
+    },
+    {
+      "text": "Opponents say the signature system is already secure and the new barrier could cause ballots to be rejected needlessly.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2026/08/26/mail-ballot-id-colorado-initiative/",
+          "title": "Colorado voters will be asked to force people to add ID info to mail ballots (The Colorado Sun)",
+          "date": "2026-08-26",
+          "quote": "Opponents of Initiative 362 say Colorado’s existing system of signature verification on mail ballots is secure and that adding more barriers to voting would make it harder for people to participate in the process"
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "No one has estimated how many Colorado ballots the rule would reject. Texas limits mail voting to certain voters, so its results may not carry over to Colorado, where every active voter gets a ballot.",
+      "sources": [
+        {
+          "url": "https://www.cbsnews.com/news/texas-election-officials-rejected-one-out-of-eight-mail-ballots-cast-in-primary",
+          "title": "Texas election officials rejected one out of eight mail ballots cast in primary (CBS News)",
+          "date": "2022-04-06",
+          "quote": "Texas has among the strictest requirements in the nation for voting by mail."
+        }
+      ]
+    }
+  ],
+  "measure": "amendment-84",
+  "last_checked": "2026-10-16",
+  "research_notes": "Colorado-specific reasons for 2024 rejections were not found; the EAC national table (40.7% signature, 17.8% late) was not used because it is not Colorado data. The 2020 uncured-signature count (21,838) is the latest Colorado split I could fetch. EAC figures for Colorado, Texas and Georgia come from table rows in the EAVS PDF (verify against the PDF's own text layer). Georgia's May 2022 rate is 2.6% in WABE (Secretary of State data) but a Washington Post analysis quoted by the Election Law Blog (read in browser, not used in text) found about 1% as of two days after the primary, so Georgia figures depend on timing. Colorado Newsline, WABE and the Election Law Blog returned 403 to scripted fetches. Claude in Chrome was not connected, so I read them in the built-in browser pane, in my own tab (marked via browser). The AJC Georgia article was scrambled by its paywall and was dropped. Review: the Brennan Center description uses Votebeat's word 'nonpartisan'. The Mesa County case figures come from arrest affidavits as reported; the source's '12 + 3' does not add to its stated 16 ballots, which I left as reported."
+}

@@ -1,0 +1,331 @@
+{
+  "id": "health-coverage",
+  "plain": "Should government take more steps to make sure everyone has health insurance, even if taxpayers pay more? In practice that means federal premium tax credits, Medicaid and state help.",
+  "agree_means": "Supports keeping or expanding public help with coverage, such as restoring the enhanced ACA premium credits and protecting Medicaid, and accepts higher public spending.",
+  "disagree_means": "Prefers less public spending on coverage, such as limits on federal subsidies and Medicaid or more reliance on private markets, and accepts that fewer people may be covered.",
+  "now": [
+    {
+      "text": "About 5.9% of Coloradans had no health insurance in 2025, up from a record-low 4.6% in 2023. The Colorado Health Institute, which runs the survey, says that change is not statistically significant. Medicaid covered 21% of Coloradans, down from 30%.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2025/11/19/colorado-health-insurance-uninsured-rate-2/",
+          "title": "Rate of Coloradans without health insurance holds steady in 2025 (The Colorado Sun)",
+          "date": "2025-11-19",
+          "quote": "The latest edition of the Colorado Health Access Survey puts the state’s uninsured rate at 5.9%."
+        },
+        {
+          "url": "https://coloradosun.com/2025/11/19/colorado-health-insurance-uninsured-rate-2/",
+          "title": "Rate of Coloradans without health insurance holds steady in 2025 (The Colorado Sun)",
+          "date": "2025-11-19",
+          "quote": "said the change is not statistically significant, meaning that the data isn’t precise enough to distinguish the two."
+        },
+        {
+          "url": "https://coloradosun.com/2025/11/19/colorado-health-insurance-uninsured-rate-2/",
+          "title": "Rate of Coloradans without health insurance holds steady in 2025 (The Colorado Sun)",
+          "date": "2025-11-19",
+          "quote": "does show a decline in the percentage of Coloradans covered by Medicaid — to 21% compared with 30% in 2023."
+        }
+      ]
+    },
+    {
+      "text": "The enhanced federal premium tax credits, which lowered marketplace premiums, ended December 31, 2025. The U.S. House voted 230 to 196 in January 2026 to revive them for three years. In late September 2026, Colorado's insurance commissioner was still asking Congress to restore them.",
+      "sources": [
+        {
+          "url": "https://news.ballotpedia.org/2026/01/12/house-passes-three-year-extension-of-expanded-aca-subsidies/",
+          "title": "House passes three-year extension of expanded ACA subsidies (Ballotpedia News)",
+          "date": "2026-01-12",
+          "quote": "Seventeen Republicans joined Democrats to pass the measure 230–196."
+        },
+        {
+          "url": "https://news.ballotpedia.org/2026/01/12/house-passes-three-year-extension-of-expanded-aca-subsidies/",
+          "title": "House passes three-year extension of expanded ACA subsidies (Ballotpedia News)",
+          "date": "2026-01-12",
+          "quote": "The ePTC expired on Dec. 31, 2025, returning eligibility and premium contribution rules to their original ACA structure."
+        },
+        {
+          "url": "https://content.govdelivery.com/accounts/CODORA/bulletins/42c0779",
+          "title": "Division of Insurance Announces Final ACA Health Insurance Premium Increases for Plan Year 2027 (Colorado Division of Insurance)",
+          "date": "2026-09-22",
+          "quote": "Congress still needs to restore the subsidies that millions of Americans relied on to afford their health insurance"
+        }
+      ]
+    },
+    {
+      "text": "Medicaid (Health First Colorado) covered about 1.2 million people in October 2025. Starting January 2027, a federal law known as H.R. 1 makes 377,000 low-income adults show work, school or volunteering and renew every six months. The state expects about 175,000 of them to need to act.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2025/11/19/colorado-health-insurance-uninsured-rate-2/",
+          "title": "Rate of Coloradans without health insurance holds steady in 2025 (The Colorado Sun)",
+          "date": "2025-11-19",
+          "quote": "Enrollment has increased since then to about 1.2 million people as of October."
+        },
+        {
+          "url": "https://www.denver7.com/news/local-news/colorado-medicaid-recipients-will-face-new-work-requirements-and-renewal-changes-in-2027",
+          "title": "Colorado Medicaid recipients will face new work requirements and renewal changes in 2027 (Denver7)",
+          "date": "2026-09-01",
+          "quote": "In Colorado, that is 377,000 of the 1.1 Million Health First Colorado members"
+        },
+        {
+          "url": "https://www.denver7.com/news/local-news/colorado-medicaid-recipients-will-face-new-work-requirements-and-renewal-changes-in-2027",
+          "title": "Colorado Medicaid recipients will face new work requirements and renewal changes in 2027 (Denver7)",
+          "date": "2026-09-01",
+          "quote": "They will also need to renew their coverage every six months, instead of every year."
+        },
+        {
+          "url": "https://www.denver7.com/news/local-news/colorado-medicaid-recipients-will-face-new-work-requirements-and-renewal-changes-in-2027",
+          "title": "Colorado Medicaid recipients will face new work requirements and renewal changes in 2027 (Denver7)",
+          "date": "2026-09-01",
+          "quote": "Covered adults must complete 80 hours per month of work, school, or volunteering, or earn at least $580 a month from a job (or a mix of these)."
+        },
+        {
+          "url": "https://www.denver7.com/news/local-news/colorado-medicaid-recipients-will-face-new-work-requirements-and-renewal-changes-in-2027",
+          "title": "Colorado Medicaid recipients will face new work requirements and renewal changes in 2027 (Denver7)",
+          "date": "2026-09-01",
+          "quote": "the state anticipates that only about 175,000 people need to actually do something to keep their coverage."
+        }
+      ]
+    }
+  ],
+  "stakes": [
+    {
+      "area": "Your money",
+      "text": "The Division of Insurance said about 225,000 Coloradans saw 2026 premiums rise 101% on average, roughly double. A family of four earning about $128,000 lost all aid and faced about $14,000 more a year in the Denver area. For 2027 the average increase is 10%.",
+      "sources": [
+        {
+          "url": "https://doi.colorado.gov/news-releases-consumer-advisories/congressional-inaction-leads-to-an-average-doubling-of-health",
+          "title": "Congressional Inaction Leads to An Average Doubling of Health Insurance Costs for 225,000 Hardworking Coloradans (Colorado Division of Insurance)",
+          "date": "2025-10-27",
+          "quote": "will see a statewide approximate net average premium increase of 101%, meaning a doubling of their premium costs."
+        },
+        {
+          "url": "https://www.kunc.org/news/2025-10-28/health-insurance-premiums-for-225-000-coloradans-are-about-to-double",
+          "title": "Health insurance premiums for 225,000 Coloradans are about to double (KUNC, from CPR News)",
+          "date": "2025-10-28",
+          "quote": "A family of four with an annual income of about $128,000 will no longer qualify for any financial assistance if the tax credits are not extended."
+        },
+        {
+          "url": "https://www.kunc.org/news/2025-10-28/health-insurance-premiums-for-225-000-coloradans-are-about-to-double",
+          "title": "Health insurance premiums for 225,000 Coloradans are about to double (KUNC, from CPR News)",
+          "date": "2025-10-28",
+          "quote": "They can expect health insurance premiums to increase by about $14,000 a year for a standard “silver” plan if they live in the Denver metro area"
+        },
+        {
+          "url": "https://content.govdelivery.com/accounts/CODORA/bulletins/42c0779",
+          "title": "Division of Insurance Announces Final ACA Health Insurance Premium Increases for Plan Year 2027 (Colorado Division of Insurance)",
+          "date": "2026-09-22",
+          "quote": "Premiums in Colorado will increase, on average, 10% in the individual market"
+        }
+      ]
+    },
+    {
+      "area": "Health",
+      "text": "The state predicted 75,000 people would lose coverage. Enrollment through the state exchange dipped only 2%, to 277,228, but cancellations rose 83%. State aid called Colorado Premium Assistance cushioned the blow. More uninsured patients can strain clinics.",
+      "sources": [
+        {
+          "url": "https://doi.colorado.gov/news-releases-consumer-advisories/congressional-inaction-leads-to-an-average-doubling-of-health",
+          "title": "Congressional Inaction Leads to An Average Doubling of Health Insurance Costs for 225,000 Hardworking Coloradans (Colorado Division of Insurance)",
+          "date": "2025-10-27",
+          "quote": "The DOI estimates these premium increases will lead to approximately 75,000 Coloradans losing access to health coverage."
+        },
+        {
+          "url": "https://connectforhealthco.com/?p=71013",
+          "title": "Health Insurance Enrollment Through Connect for Health Colorado Dips Slightly for Plan Year 2026 (Connect for Health Colorado)",
+          "date": "2026-01-22",
+          "quote": "may also be driving an 83% increase in the number of people who are canceling their plans compared to this time last year"
+        },
+        {
+          "url": "https://connectforhealthco.com/?p=71013",
+          "title": "Health Insurance Enrollment Through Connect for Health Colorado Dips Slightly for Plan Year 2026 (Connect for Health Colorado)",
+          "date": "2026-01-22",
+          "quote": "Despite rising costs due to less federal financial assistance, 277,228 Coloradans enrolled in health insurance"
+        },
+        {
+          "url": "https://connectforhealthco.com/?p=71013",
+          "title": "Health Insurance Enrollment Through Connect for Health Colorado Dips Slightly for Plan Year 2026 (Connect for Health Colorado)",
+          "date": "2026-01-22",
+          "quote": "has helped reduce monthly costs for many Coloradans."
+        },
+        {
+          "url": "https://connectforhealthco.com/?p=71013",
+          "title": "Health Insurance Enrollment Through Connect for Health Colorado Dips Slightly for Plan Year 2026 (Connect for Health Colorado)",
+          "date": "2026-01-22",
+          "quote": "for plan year 2026 dipped 2%"
+        },
+        {
+          "url": "https://coloradosun.com/2025/11/19/colorado-health-insurance-uninsured-rate-2/",
+          "title": "Rate of Coloradans without health insurance holds steady in 2025 (The Colorado Sun)",
+          "date": "2025-11-19",
+          "quote": "Rising numbers of uninsured people showing up for medical care at clinics have also raised alarms and strained the health care safety net."
+        }
+      ]
+    },
+    {
+      "area": "Your money",
+      "text": "Taxpayers would pay for an extension. The Congressional Budget Office estimated that making the credits permanent would add $350 billion to deficits over 2026 to 2035 and insure 3.8 million more people. Colorado's backup plan let the state sell up to $100 million in tax credits to fund premium help.",
+      "sources": [
+        {
+          "url": "https://www.cbo.gov/publication/61734",
+          "title": "The Estimated Effects of Enacting Selected Health Coverage Policies on the Federal Budget and on the Number of People With Health Insurance (Congressional Budget Office)",
+          "date": "2025-09-18",
+          "quote": "increasing the deficit by $350 billion from 2026 to 2035 and the number of people with health insurance by 3.8 million in 2035",
+          "via": "browser"
+        },
+        {
+          "url": "https://leg.colorado.gov/bills/hb25b-1006",
+          "title": "HB25B-1006 bill summary (Colorado General Assembly)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "authorizes the state treasurer to sell insurance premium and corporate tax credits to generate up to $100 million"
+        }
+      ]
+    },
+    {
+      "area": "Public services",
+      "text": "Medicaid is driving this year's state budget increase. The Joint Budget Committee's April 2026 plan proposed $19.2 billion for the health care agency, with $5.75 billion from the General Fund. The agency said in 2025 that 377,000 adults could face mid-year coverage loss.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/04/06/colorado-legislators-propose-46-8-billion-budget-driven-by-medicaid-costs/",
+          "title": "Colorado legislators propose $46.8 billion budget, driven by Medicaid costs (Colorado Politics)",
+          "date": "2026-04-06",
+          "quote": "The proposed spending for the Department of Health Care Policy and Financing, which manages Medicaid, stands at $19.2 billion, with $5.75 billion in general fund support."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/04/06/colorado-legislators-propose-46-8-billion-budget-driven-by-medicaid-costs/",
+          "title": "Colorado legislators propose $46.8 billion budget, driven by Medicaid costs (Colorado Politics)",
+          "date": "2026-04-06",
+          "quote": "The increase is driven by Medicaid costs, which forced the Joint Budget Committee to make cuts elsewhere."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/04/06/colorado-legislators-propose-46-8-billion-budget-driven-by-medicaid-costs/",
+          "title": "Colorado legislators propose $46.8 billion budget, driven by Medicaid costs (Colorado Politics)",
+          "date": "2026-04-06",
+          "quote": "The single biggest cost driver is $1.5 billion more for Medicaid, including $351 million more in general fund dollars."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/images/07.30.25_exec_committee_h.r._1_presentation_-_hcpf.pdf",
+          "title": "H.R. 1 Provisions Impacting Colorado Medicaid (Colorado Department of Health Care Policy and Financing, presentation to legislative leaders)",
+          "date": "2025-07-30",
+          "quote": "377K CO adults could face mid-year coverage loss"
+        }
+      ]
+    },
+    {
+      "area": "The economy",
+      "text": "Rural hospitals may feel it most. The insurance commissioner warned of a hit where hospitals already struggle. The Colorado Hospital Association says nearly 70% of the state's hospitals had unsustainable margins in 2024.",
+      "sources": [
+        {
+          "url": "https://www.kunc.org/news/2025-10-28/health-insurance-premiums-for-225-000-coloradans-are-about-to-double",
+          "title": "Health insurance premiums for 225,000 Coloradans are about to double (KUNC, from CPR News)",
+          "date": "2025-10-28",
+          "quote": "It's going to hit really hard in the rural parts of the state where our hospitals already are struggling"
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/06/25/colorado-health-officials-say-federal-budget-adds-pressure-to-already-stressed-system/",
+          "title": "Colorado health officials say federal budget adds pressure to already stressed system (Colorado Politics)",
+          "date": "2026-06-25",
+          "quote": "In 2024, nearly 70% of Colorado’s hospitals reported operating with “unsustainable” margins, with expenses far outpacing revenue, according to the Colorado Hospital Association."
+        }
+      ]
+    }
+  ],
+  "case_for": [
+    {
+      "text": "Colorado Insurance Commissioner Michael Conway and other supporters say the credits keep care affordable. The Division of Insurance said an extension would have held the average increase for those 225,000 people to 16% instead of 101%.",
+      "sources": [
+        {
+          "url": "https://doi.colorado.gov/news-releases-consumer-advisories/congressional-inaction-leads-to-an-average-doubling-of-health",
+          "title": "Congressional Inaction Leads to An Average Doubling of Health Insurance Costs for 225,000 Hardworking Coloradans (Colorado Division of Insurance)",
+          "date": "2025-10-27",
+          "quote": "Instead of receiving a premium increase of 101%, the average premium increase for those 225,000 Coloradans would be 16%, and some customers would not pay a premium increase at all."
+        }
+      ]
+    },
+    {
+      "text": "Coverage supporters note that more uninsured patients strain clinics and hospitals, a worry state health officials have voiced since Medicaid disenrollments began.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2025/11/19/colorado-health-insurance-uninsured-rate-2/",
+          "title": "Rate of Coloradans without health insurance holds steady in 2025 (The Colorado Sun)",
+          "date": "2025-11-19",
+          "quote": "who had long worried how the Medicaid disenrollments would impact the Colorado health care system."
+        },
+        {
+          "url": "https://coloradosun.com/2025/11/19/colorado-health-insurance-uninsured-rate-2/",
+          "title": "Rate of Coloradans without health insurance holds steady in 2025 (The Colorado Sun)",
+          "date": "2025-11-19",
+          "quote": "Rising numbers of uninsured people showing up for medical care at clinics have also raised alarms and strained the health care safety net."
+        }
+      ]
+    }
+  ],
+  "case_against": [
+    {
+      "text": "House Speaker Mike Johnson, a Republican, called the tax credits \"subsidizing bad policy\" and said Republicans favor the private sector and free market. The other main objection is cost: the Congressional Budget Office estimated $350 billion over ten years for a permanent extension.",
+      "sources": [
+        {
+          "url": "https://www.kunc.org/news/2025-10-28/health-insurance-premiums-for-225-000-coloradans-are-about-to-double",
+          "title": "Health insurance premiums for 225,000 Coloradans are about to double (KUNC, from CPR News)",
+          "date": "2025-10-28",
+          "quote": "Tax credits are “subsidizing bad policy,” Republican House Speaker Mike Johnson told reporters on Monday"
+        },
+        {
+          "url": "https://www.kunc.org/news/2025-10-28/health-insurance-premiums-for-225-000-coloradans-are-about-to-double",
+          "title": "Health insurance premiums for 225,000 Coloradans are about to double (KUNC, from CPR News)",
+          "date": "2025-10-28",
+          "quote": "We believe in the private sector and free market and individual providers."
+        },
+        {
+          "url": "https://www.cbo.gov/publication/61734",
+          "title": "The Estimated Effects of Enacting Selected Health Coverage Policies on the Federal Budget and on the Number of People With Health Insurance (Congressional Budget Office)",
+          "date": "2025-09-18",
+          "quote": "increasing the deficit by $350 billion from 2026 to 2035 and the number of people with health insurance by 3.8 million in 2035",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "text": "The Paragon Health Institute, a free-market think tank, estimates about 6.2 million marketplace sign-ups in 2026 were improper. It says that could cost taxpayers up to $25 billion.",
+      "sources": [
+        {
+          "url": "https://paragoninstitute.org/private-health/the-persistent-obamacare-enrollment-fraud/",
+          "title": "The Persistent Obamacare Enrollment Fraud (Paragon Health Institute)",
+          "date": "2026-06-02",
+          "quote": "We estimate that approximately 6.2 million exchange sign-ups in 2026 were improper, representing roughly 27 percent of all ACA exchange sign-ups"
+        },
+        {
+          "url": "https://paragoninstitute.org/private-health/the-persistent-obamacare-enrollment-fraud/",
+          "title": "The Persistent Obamacare Enrollment Fraud (Paragon Health Institute)",
+          "date": "2026-06-02",
+          "quote": "We project taxpayers will fund up to $25 billion in improper subsidy payments in 2026"
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "Whether Congress will restore the credits is open. Senate negotiators have discussed a shorter extension with income caps and minimum premiums.",
+      "sources": [
+        {
+          "url": "https://news.ballotpedia.org/2026/01/12/house-passes-three-year-extension-of-expanded-aca-subsidies/",
+          "title": "House passes three-year extension of expanded ACA subsidies (Ballotpedia News)",
+          "date": "2026-01-12",
+          "quote": "Senate negotiators, however, have discussed alternative proposals that would include a shorter extension combined with changes such as income caps, minimum premium contributions, and additional program integrity measures."
+        }
+      ]
+    },
+    {
+      "text": "How many people lose Medicaid in 2027 is unclear. The state counts 377,000 adults under the new rules, but expects only about 175,000 to need to act.",
+      "sources": [
+        {
+          "url": "https://www.denver7.com/news/local-news/colorado-medicaid-recipients-will-face-new-work-requirements-and-renewal-changes-in-2027",
+          "title": "Colorado Medicaid recipients will face new work requirements and renewal changes in 2027 (Denver7)",
+          "date": "2026-09-01",
+          "quote": "the state anticipates that only about 175,000 people need to actually do something to keep their coverage."
+        }
+      ]
+    }
+  ],
+  "measure": null,
+  "last_checked": "2026-10-16",
+  "research_notes": "Claude in Chrome was not connected this session, so the one blocked page, the CBO report (cbo.gov/publication/61734, bot-protected), was read in the built-in Browser pane instead; its source carries via: browser. All other pages were fetched directly and every quote was checked against the fetched text. Double-check: (1) The 377,000 figure is the number of expansion adults subject to the new rules, not a projected loss; the state expects about 175,000 to need to act (Denver7, Sept 2026). No official Colorado estimate of how many will actually lose Medicaid was found. The 2025 HCPF slide (PDF) says 377K could face mid-year coverage loss. (2) Enrollment: the Colorado Sun gives about 1.2 million in Oct 2025; Denver7 says 1.1 million; text uses the Sun figure. (3) The Division of Insurance releases carry political framing (they blame Congressional Republicans); only factual sentences are quoted. The 75,000 coverage-loss figure is the Division's own projection; actual 2026 exchange enrollment fell only 2% (that is plan sign-ups, not total insured). (4) The $19.2 billion / $5.75 billion budget figures are the Joint Budget Committee's April 2026 proposal, not necessarily the final appropriation. (5) Paragon's improper-enrollment estimate is contested; a fetchable rebuttal (for example from KFF) was not found, so none is cited. (6) Whether Congress acted on the credits after the Sept 22, 2026 Division release was not checked; the web-search allowance ran out mid-run, so the last few topics were researched from direct page fetches only. (7) The Ballotpedia and KUNC pages are news summaries; the CBO cost figure is for a permanent extension enacted Sept 30, 2025."
+}

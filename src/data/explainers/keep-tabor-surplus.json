@@ -1,0 +1,297 @@
+{
+  "id": "keep-tabor-surplus",
+  "plain": "TABOR, a 1992 state constitutional limit, makes Colorado refund tax money collected above a cap. Proposition NN would let the state keep that extra money, up to a higher cap, for schools and children’s programs.",
+  "agree_means": "Agreeing means voting yes on Proposition NN. TABOR refunds would stop for at least two years and likely several more, and the money would go to K-12 schools and children’s programs.",
+  "disagree_means": "Disagreeing means voting no. Refunds continue under current law whenever revenue tops the cap, and the state balances its budget without this money.",
+  "now": [
+    {
+      "text": "The TABOR limit grows each year with inflation plus population. Revenue above the limit must be refunded, unless voters say the state may keep it.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "The limit is equal to the prior year’s limit, adjusted for inflation plus population growth."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "If the amount of revenue the state collects in any year is above the TABOR limit, the excess amount must be refunded to taxpayers."
+        }
+      ]
+    },
+    {
+      "text": "State economists expect revenue $483.0 million over the cap in 2026-27 and $674.1 million over in 2027-28. After a 2026 law, refunds would be $329.9 million, then $521.0 million. Nothing was owed for 2025-26.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/june-2026-forecast-for-posting-accessible_0.pdf",
+          "title": "Economic & Revenue Forecast June 2026 (Legislative Council Staff)",
+          "date": "2026-06-17",
+          "quote": "Total state revenue subject to TABOR is expected to exceed the Referendum C cap by $483.0 million; however, the TABOR refund obligation is expected to be $329.9 million, net of the adjustments in HB 26-1419."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/june-2026-forecast-for-posting-accessible_0.pdf",
+          "title": "Economic & Revenue Forecast June 2026 (Legislative Council Staff)",
+          "date": "2026-06-17",
+          "quote": "In FY 2025-26, state revenue subject to TABOR is projected to fall below the Referendum C cap by $424.9 million, and the state will not incur an obligation for TABOR refunds."
+        }
+      ]
+    },
+    {
+      "text": "Most state refund checks this spring were projected at $20 to $62 for single filers, down from $177 to $565 a year earlier.",
+      "sources": [
+        {
+          "url": "https://www.postindependent.com/news/colorado-tax-season-bigger-refunds",
+          "title": "Why some Coloradans are seeing bigger refunds on their 2025 taxes (Post Independent)",
+          "date": "2026-04-01",
+          "quote": "most refund checks falling between $20 and $62 for single filers, depending on income, according to projections from the Colorado Legislative Council Staff."
+        },
+        {
+          "url": "https://www.postindependent.com/news/colorado-tax-season-bigger-refunds",
+          "title": "Why some Coloradans are seeing bigger refunds on their 2025 taxes (Post Independent)",
+          "date": "2026-04-01",
+          "quote": "This is notably less compared to last year’s $177 to $565 range for single filers."
+        }
+      ]
+    },
+    {
+      "text": "Two 2025 studies put school underfunding at $3.5 to $4.1 billion a year. Voters rejected three earlier measures to raise money for schools and other things.",
+      "sources": [
+        {
+          "url": "https://www.chalkbeat.org/colorado/2026/10/01/what-colorado-voters-should-know-about-proposition-nn-voter-guide/",
+          "title": "2026 Colorado voter guide: What to know about Proposition NN (Chalkbeat)",
+          "date": "2026-10-01",
+          "quote": "Two studies released in 2025 showed Colorado needs $3.5 to $4.1 billion more each year to adequately fund schools."
+        },
+        {
+          "url": "https://www.chalkbeat.org/colorado/2026/10/01/what-colorado-voters-should-know-about-proposition-nn-voter-guide/",
+          "title": "2026 Colorado voter guide: What to know about Proposition NN (Chalkbeat)",
+          "date": "2026-10-01",
+          "quote": "Three previous ballot measures failed."
+        }
+      ]
+    }
+  ],
+  "stakes": [
+    {
+      "area": "Your money",
+      "text": "Refunds for 2027 and 2028 would drop to $0 for everyone. A single filer with $50,000 of adjusted gross income would lose $21 then $39. At $100,000 the loss is $28 then $68. At $500,000 it is $65 then $276. Joint filers lose more.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "$50,000 $21 $42 $0 $39 $58 $0"
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "$500,000 $65 $130 $0 $276 $352 $0"
+        },
+        {
+          "url": "https://www.postindependent.com/news/colorado-tabor-system-voters-increase-school-funding/",
+          "title": "Proposition NN puts Colorado’s TABOR system before voters again to increase school funding. Here’s what’s at stake. (Post Independent)",
+          "date": "2026-10-02",
+          "quote": "For a single filer making $100,000, that would translate to a refund reduction of $28 in 2027 and $68 in 2028, or a reduction of $56 in 2027 and $96 in 2028 for joint filers."
+        }
+      ]
+    },
+    {
+      "area": "Your money",
+      "text": "Later years are unknown. The Legislative Council says the loss could be nothing in some years and over $1,000 per taxpayer in others.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "The impact of Proposition NN on TABOR refunds will vary significantly across different years, such that it could have no impact on TABOR refunds in some years and reduce them by over $1,000 per taxpayer in other years."
+        }
+      ]
+    },
+    {
+      "area": "Public services",
+      "text": "K-12 schools would get $241.5 million in 2026-27 and $234.0 million in 2027-28, with the same for children’s programs. Teacher pay, class size and technical courses start near $110 million and might reach $1 to $2 billion a year by year ten. The general budget gets $153.1 million less in each of the first two years.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "In the first ten years, this revenue must be spent on K-12 education and programs that support children."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Proposition NN increases state funding for school districts by an estimated $241.5 million in budget year 2026-27 and $234.0 million in budget year 2027-28."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "The amount is expected to be about $110 million in the first year, $220 million in the second year, and may grow to between $1 billion and $2 billion per year by the end of ten years."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "$153.1 million that would be available for the general state budget under current law is instead deposited in the Children’s Account for budget years 2026-27 and 2027-28 only."
+        }
+      ]
+    },
+    {
+      "area": "How government works",
+      "text": "After ten years, leftover money could go to any purpose the legislature picks. Revenue is not expected to pass the new limit for five to ten years, so refunds would likely stay at zero. In a recession, NN changes nothing.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Any remaining money in the Children’s Account may be spent on any purpose as determined by the state legislature."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "is not expected to exceed the Proposition NN limit for at least the next five to ten years."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "In years when state revenue falls below the current TABOR limit, which may happen during a recession, Prop. NN has no ... impact on TABOR refunds"
+        }
+      ]
+    },
+    {
+      "area": "The economy",
+      "text": "The Common Sense Institute, a free-market think tank, models a small drag as households keep less: 46 to 2,227 fewer jobs, depending on how the new spending is used. It says more school money would not raise test scores.",
+      "sources": [
+        {
+          "url": "https://commonsenseinstituteus.org/research/the-economic-and-fiscal-impacts-of-proposition-nn/",
+          "title": "The Economic and Fiscal Impacts of Proposition NN (Common Sense Institute)",
+          "date": "2026-08-06",
+          "quote": "A total-employment loss between 46 and 2,227 jobs"
+        },
+        {
+          "url": "https://commonsenseinstituteus.org/research/the-economic-and-fiscal-impacts-of-proposition-nn/",
+          "title": "The Economic and Fiscal Impacts of Proposition NN (Common Sense Institute)",
+          "date": "2026-08-06",
+          "quote": "Between $12 million and $120 million of lost GDP"
+        },
+        {
+          "url": "https://commonsenseinstituteus.org/research/the-economic-and-fiscal-impacts-of-proposition-nn/",
+          "title": "The Economic and Fiscal Impacts of Proposition NN (Common Sense Institute)",
+          "date": "2026-08-06",
+          "quote": "Available data do not support the claim that boosting education funding would improve student achievement."
+        }
+      ]
+    }
+  ],
+  "case_for": [
+    {
+      "text": "Supporters say in the Blue Book that a state study found a $3.5 billion school shortfall, and NN would raise teacher pay and cut class sizes.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "A state study found that Colorado’s schools face a funding shortfall of $3.5 billion, or about $4,000 per pupil."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Proposition NN raises teacher pay, reduces class sizes, and improves career and technical education, benefitting every school district in the state."
+        }
+      ]
+    },
+    {
+      "text": "Sen. Jeff Bridges, a Democratic sponsor, says the state would otherwise cut billions, including K-12. The Colorado Education Association’s president says tax rates do not change.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/07/17/campaign-launched-to-reduce-tabor-refunds-by-1-billion-redirect-money-to-education/",
+          "title": "Campaign launched to redirect $1 billion in TABOR refunds to education (Colorado Politics)",
+          "date": "2026-07-17",
+          "quote": "Sen. Jeff Bridges, D-Greenwood Village, who chairs the legislature’s Joint Budget Committee and was a prime sponsor of the bill, earlier argued that, without it, the state would have had to cut billions of dollars from its budget, including K-12 education."
+        },
+        {
+          "url": "https://www.postindependent.com/news/colorado-tabor-system-voters-increase-school-funding/",
+          "title": "Proposition NN puts Colorado’s TABOR system before voters again to increase school funding. Here’s what’s at stake. (Post Independent)",
+          "date": "2026-10-02",
+          "quote": "we’re not changing any tax rates at all. Nobody will pay a dime more in their taxes than they are currently."
+        }
+      ]
+    }
+  ],
+  "case_against": [
+    {
+      "text": "Opponents say NN is a tax increase because families lose refunds. Advance Colorado, a conservative advocacy group, says refunds would be gone indefinitely, not just for ten years.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Proposition NN is essentially a tax increase, permanently eliminating or reducing TABOR refunds."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/07/17/campaign-launched-to-reduce-tabor-refunds-by-1-billion-redirect-money-to-education/",
+          "title": "Campaign launched to redirect $1 billion in TABOR refunds to education (Colorado Politics)",
+          "date": "2026-07-17",
+          "quote": "“Once voters authorize the state to retain excess revenue, those refunds are effectively eliminated indefinitely, not just during that initial ten-year window, due to the open-ended nature of the measure,”"
+        }
+      ]
+    },
+    {
+      "text": "They also call the post-ten-year rules a “blank check,” and say school funding is up 25 percent in five years while enrollment falls.",
+      "sources": [
+        {
+          "url": "https://www.postindependent.com/news/colorado-tabor-system-voters-increase-school-funding/",
+          "title": "Proposition NN puts Colorado’s TABOR system before voters again to increase school funding. Here’s what’s at stake. (Post Independent)",
+          "date": "2026-10-02",
+          "quote": "“I think a lot of people are missing that Proposition NN is a blank check to the legislature,” Burton Brown said."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Funding for Colorado schools has increased 25 percent over the last five years, while enrollment continues to decline."
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "The 10-year cost to taxpayers is disputed. An analysis requested by a Republican senator, based on an earlier version, said $7,381 per taxpayer. Sen. Bridges called it a best case with no recession. The final fiscal note stops at 2027-28.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/04/23/colorado-taxpayers-would-lose-thousands-in-tabor-refunds-under-democrats-proposed-ballot-measure/",
+          "title": "Colorado taxpayers would lose thousands in TABOR refunds under Democrats’ proposed ballot measure (Colorado Politics)",
+          "date": "2026-04-24",
+          "quote": "What that means, according to the analysis, is that every taxpayer would lose $7,381 in TABOR refunds between the 2026-27 and 2036-37 fiscal years."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "A forecast of state revenue subject to TABOR is not available beyond budget year 2027-28."
+        }
+      ]
+    },
+    {
+      "text": "The school money is paid only if enough revenue is retained, so a downturn could shrink it.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "These amounts are only paid if enough revenue is retained."
+        }
+      ]
+    }
+  ],
+  "measure": "proposition-nn",
+  "last_checked": "2026-10-16",
+  "research_notes": "No source in this file needed the browser. For a reviewer: (1) Older NN numbers circulated: Colorado Politics (July 17, 2026) quoted $136.1M for 2026-27 and $969.7M for 2027-28 from an earlier analysis, and an April 2026 analysis requested by Sen. Kirkmeyer said $7,381 per taxpayer over 10 years with about 24 percent to K-12, based on an earlier version of SB26-135 before it was amended. I used the final Blue Book and the June 2026 Legislative Council forecast ($329.9M and $521.0M) and flagged the older figures in unknowns. (2) Blue Book Table 1 refunds assume the standard deduction and are by tax year; the table-row quotes may not match the checker's PDF extraction. Per-year numbers come from that table; the Common Sense Institute page gives two-year single-filer totals ($60, $96, $341) that match the sums. (3) The CSI full PDF for NN returned 404; I quoted its web summary (Aug. 6, 2026). Its job loss range spans two scenarios (new state spending does or does not create public jobs). (4) Not used: Yes for Colorado Kids' claim of up to 50 percent more K-12 funding (campaign claim) and the 'slush fund' framing of the earlier bill."
+}

@@ -1,0 +1,306 @@
+{
+  "id": "abortion-legal",
+  "plain": "Should abortion be legal in all or most cases? In Colorado it is legal today with few limits, and the right is now in the state constitution.",
+  "agree_means": "Supports keeping abortion legal and widely available, as Colorado law and Amendment 79 do, and opposes new state or federal bans or limits.",
+  "disagree_means": "Supports bans or new limits on abortion. In Colorado, new limits would first require changing the state constitution.",
+  "now": [
+    {
+      "text": "Colorado has no limit on how late in pregnancy an abortion can happen. A 2022 state law protected the right. In 2024 voters approved Amendment 79, which put it in the state constitution and repealed a 1984 ban on public funding. A 2003 law still requires notice to a parent 48 hours before a minor's abortion.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2024/10/01/amendment-79-explained-colorado-abortion/",
+          "title": "Colorado Amendment 79 explained: Adding abortion access to constitution (The Colorado Sun)",
+          "date": "2024-10-01",
+          "quote": "Under current Colorado law, abortion is legal in the state at any time during a pregnancy. Amendment 79 wouldn’t affect that."
+        },
+        {
+          "url": "https://coloradosun.com/2024/10/01/amendment-79-explained-colorado-abortion/",
+          "title": "Colorado Amendment 79 explained: Adding abortion access to constitution (The Colorado Sun)",
+          "date": "2024-10-01",
+          "quote": "In 2022, the legislature passed a bill that was signed into law by the governor affirming that right."
+        },
+        {
+          "url": "https://leg.colorado.gov/bills/sb25-183",
+          "title": "SB25-183 Coverage for Pregnancy-Related Services, bill summary (Colorado General Assembly)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "During the 2024 general election, Colorado voters approved Amendment 79"
+        },
+        {
+          "url": "https://leg.colorado.gov/bills/sb25-183",
+          "title": "SB25-183 Coverage for Pregnancy-Related Services, bill summary (Colorado General Assembly)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "Added a state constitutional amendment recognizing the right to an abortion"
+        },
+        {
+          "url": "https://leg.colorado.gov/bills/sb25-183",
+          "title": "SB25-183 Coverage for Pregnancy-Related Services, bill summary (Colorado General Assembly)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "Repealed the state constitutional amendment prohibiting the use of public funds to pay for abortions"
+        },
+        {
+          "url": "https://coloradosun.com/2024/10/01/amendment-79-explained-colorado-abortion/",
+          "title": "Colorado Amendment 79 explained: Adding abortion access to constitution (The Colorado Sun)",
+          "date": "2024-10-01",
+          "quote": "a 2003 law that requires health care providers to notify a parent or guardian of a minor at least 48 hours before the child is scheduled to get an abortion."
+        }
+      ]
+    },
+    {
+      "text": "In 2023, about 4,200 patients came to Colorado from out of state, nearly 30% of about 14,400 abortions, according to provisional state data. About 2,800 came from Texas. The Guttmacher Institute, a research group that advocates for reproductive health and rights, found travel to Colorado fell in early 2025.",
+      "sources": [
+        {
+          "url": "https://www.cpr.org/2024/02/06/record-number-out-of-state-abortion-patients-colorado/",
+          "title": "Out-of-state patients keep coming to Colorado in record numbers as abortion remains a political fight in 2024 (CPR News)",
+          "date": "2024-02-06",
+          "quote": "In 2023, about 4,200 patients came to Colorado from out of state for the procedure.",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.cpr.org/2024/02/06/record-number-out-of-state-abortion-patients-colorado/",
+          "title": "Out-of-state patients keep coming to Colorado in record numbers as abortion remains a political fight in 2024 (CPR News)",
+          "date": "2024-02-06",
+          "quote": "About 2,800 patients came from Texas.",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.guttmacher.org/node/300728/printable/print",
+          "title": "States Without Total Abortion Bans See Declines in Clinician-Provided Abortions and Out-of-State Patients (Guttmacher Institute)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "Kansas and Colorado—other major destinations for out-of-state patients—also saw declines in out-of-state travel during this period."
+        },
+        {
+          "url": "https://www.cpr.org/2024/02/06/record-number-out-of-state-abortion-patients-colorado/",
+          "title": "Out-of-state patients keep coming to Colorado in record numbers as abortion remains a political fight in 2024 (CPR News)",
+          "date": "2024-02-06",
+          "quote": "the Guttmacher Institute, a research and policy group that advocates for sexual and reproductive health and rights.",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "text": "There is no national abortion law. Since the Supreme Court's 2022 Dobbs ruling, states set their own rules. A Pew survey published in March 2026 found 60% of U.S. adults say abortion should be legal in all or most cases. The FDA is reviewing the abortion pill mifepristone.",
+      "sources": [
+        {
+          "url": "https://www.pewresearch.org/politics/2026/03/12/majority-of-americans-continue-to-say-abortion-should-be-legal-in-all-or-most-cases/",
+          "title": "Majority of Americans continue to say abortion should be legal in all or most cases (Pew Research Center)",
+          "date": "2026-03-12",
+          "quote": "Now, with a patchwork of differing state laws in effect, perceptions of abortion access vary by where people live."
+        },
+        {
+          "url": "https://www.pewresearch.org/politics/2026/03/12/majority-of-americans-continue-to-say-abortion-should-be-legal-in-all-or-most-cases/",
+          "title": "Majority of Americans continue to say abortion should be legal in all or most cases (Pew Research Center)",
+          "date": "2026-03-12",
+          "quote": "A 60% majority of U.S. adults say abortion should be legal in all or most cases."
+        },
+        {
+          "url": "https://abcnews.com/Politics/wireStory/fda-review-abortion-pill-continue-year-137085064",
+          "title": "FDA says its review of abortion pill will continue into next year (Associated Press, via ABC News)",
+          "date": "2026-10-07",
+          "quote": "A report on the findings is expected “no later than March 2027,” after which the agency will decide whether to impose new restrictions or other changes on the drug's use."
+        }
+      ]
+    }
+  ],
+  "stakes": [
+    {
+      "area": "Rights and freedoms",
+      "text": "The Colorado Sun reported that Amendment 79 keeps the legislature from adopting abortion restrictions. Only removing it from the constitution would change that, a tall task in the Sun's words. Opponents said it limits future rules on later abortions and parental notice.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2024/10/01/amendment-79-explained-colorado-abortion/",
+          "title": "Colorado Amendment 79 explained: Adding abortion access to constitution (The Colorado Sun)",
+          "date": "2024-10-01",
+          "quote": "If passed, Amendment 79 would prevent the legislature from adopting any abortion restrictions. Only stripping Amendment 79 from the constitution, a tall task, would make that possible."
+        },
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/images/2023-2024_89vbb.pdf",
+          "title": "2024 Blue Book: Amendment 79, Constitutional Right to Abortion (Colorado Legislative Council Staff)",
+          "date": "2024-09-05",
+          "quote": "Colorado’s constitution limits the ability of lawmakers to pass policies preventing"
+        },
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/images/2023-2024_89vbb.pdf",
+          "title": "2024 Blue Book: Amendment 79, Constitutional Right to Abortion (Colorado Legislative Council Staff)",
+          "date": "2024-09-05",
+          "quote": "abortions later in pregnancies, establishing parental notification laws, or creating"
+        }
+      ]
+    },
+    {
+      "area": "Health",
+      "text": "Most abortions happen early. In 2023, 73% were at eight weeks or less and about 1% after 28 weeks. The two-drug pill regimen is the most common method nationwide, so a federal change to mifepristone rules could affect access in every state, including Colorado.",
+      "sources": [
+        {
+          "url": "https://www.cpr.org/2024/02/06/record-number-out-of-state-abortion-patients-colorado/",
+          "title": "Out-of-state patients keep coming to Colorado in record numbers as abortion remains a political fight in 2024 (CPR News)",
+          "date": "2024-02-06",
+          "quote": "According to the state’s data, 73 percent of all terminations of pregnancy took place at eight weeks of gestation or less.",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.cpr.org/2024/02/06/record-number-out-of-state-abortion-patients-colorado/",
+          "title": "Out-of-state patients keep coming to Colorado in record numbers as abortion remains a political fight in 2024 (CPR News)",
+          "date": "2024-02-06",
+          "quote": "A little over 100, about 1 percent of the total, occurred after 28 weeks.",
+          "via": "browser"
+        },
+        {
+          "url": "https://abcnews.com/Politics/wireStory/fda-review-abortion-pill-continue-year-137085064",
+          "title": "FDA says its review of abortion pill will continue into next year (Associated Press, via ABC News)",
+          "date": "2026-10-07",
+          "quote": "The two-drug regimen of mifepristone, combined with a second drug misoprostol, is the most common form of abortion in the U.S."
+        },
+        {
+          "url": "https://abcnews.com/Politics/wireStory/fda-review-abortion-pill-continue-year-137085064",
+          "title": "FDA says its review of abortion pill will continue into next year (Associated Press, via ABC News)",
+          "date": "2026-10-07",
+          "quote": "Abortion opponents have focused most of their efforts on a 2021 decision allowing doctors to prescribe the drug online and send it through the mail during COVID-19."
+        }
+      ]
+    },
+    {
+      "area": "Your money",
+      "text": "Amendment 79 let Medicaid cover abortion if lawmakers choose. In 2025 they did so for Medicaid and the Children's Basic Health Plan (CHP+), with $2.9 million from the General Fund. The 2024 Blue Book estimated no fiscal impact from the amendment itself.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2024/10/01/amendment-79-explained-colorado-abortion/",
+          "title": "Colorado Amendment 79 explained: Adding abortion access to constitution (The Colorado Sun)",
+          "date": "2024-10-01",
+          "quote": "Amendment 79 would let Medicaid cover abortions in Colorado."
+        },
+        {
+          "url": "https://leg.colorado.gov/bills/sb25-183",
+          "title": "SB25-183 Coverage for Pregnancy-Related Services, bill summary (Colorado General Assembly)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "The act requires the medical services board to include abortion care in the schedule of health-care services available for pregnant persons enrolled in the children's basic health plan."
+        },
+        {
+          "url": "https://leg.colorado.gov/bills/sb25-183",
+          "title": "SB25-183 Coverage for Pregnancy-Related Services, bill summary (Colorado General Assembly)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "$2,928,800 is appropriated to the department of health care policy and financing from the general fund for other medical services, including abortion care."
+        },
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/images/2023-2024_89vbb.pdf",
+          "title": "2024 Blue Book: Amendment 79, Constitutional Right to Abortion (Colorado Legislative Council Staff)",
+          "date": "2024-09-05",
+          "quote": "The measure will have no fiscal impact to state and local governments, as it places current"
+        }
+      ]
+    },
+    {
+      "area": "Public services",
+      "text": "A CU law professor told CPR in 2024 that strain on Colorado clinics would likely grow. A one-year federal ban on Medicaid payments to Planned Parenthood ended in July 2026. Colorado was among about 11 states that used state money to keep those clinics open.",
+      "sources": [
+        {
+          "url": "https://www.cpr.org/2024/02/06/record-number-out-of-state-abortion-patients-colorado/",
+          "title": "Out-of-state patients keep coming to Colorado in record numbers as abortion remains a political fight in 2024 (CPR News)",
+          "date": "2024-02-06",
+          "quote": "The strain on the clinics in Colorado I think is only going to increase because of the amount of need and the amount of financial need that goes on with that,",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.kff.org/quick-insights/the-sunsetting-of-the-federal-planned-parenthood-medicaid-ban-shifts-decisions-to-states/",
+          "title": "The Sunsetting of the Federal Planned Parenthood Medicaid Ban Shifts Decisions to States (KFF)",
+          "date": "2026-06-25",
+          "quote": "that used state-only dollars to keep Planned Parenthood and other affected providers operational for their Medicaid enrollees over the past year."
+        }
+      ]
+    }
+  ],
+  "case_for": [
+    {
+      "text": "Supporters of Amendment 79 told voters the constitution should protect abortion access whatever the political climate, and that policymakers should be free to fund the care residents need.",
+      "sources": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/images/2023-2024_89vbb.pdf",
+          "title": "2024 Blue Book: Amendment 79, Constitutional Right to Abortion (Colorado Legislative Council Staff)",
+          "date": "2024-09-05",
+          "quote": "Abortion is an essential component of women’s health care."
+        },
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/images/2023-2024_89vbb.pdf",
+          "title": "2024 Blue Book: Amendment 79, Constitutional Right to Abortion (Colorado Legislative Council Staff)",
+          "date": "2024-09-05",
+          "quote": "policymakers should have the option to fund the care they believe state residents need."
+        }
+      ]
+    },
+    {
+      "text": "Supporters point to public opinion: Pew found 60% of U.S. adults say abortion should be legal in all or most cases, though that is down from 63% in 2024.",
+      "sources": [
+        {
+          "url": "https://www.pewresearch.org/politics/2026/03/12/majority-of-americans-continue-to-say-abortion-should-be-legal-in-all-or-most-cases/",
+          "title": "Majority of Americans continue to say abortion should be legal in all or most cases (Pew Research Center)",
+          "date": "2026-03-12",
+          "quote": "Today, 60% say abortion should be legal in all or most cases, down from 63% in 2024"
+        }
+      ]
+    }
+  ],
+  "case_against": [
+    {
+      "text": "Opponents argue that many Coloradans object to abortion on personal, religious and moral grounds and that taxpayers should not be required to pay for it.",
+      "sources": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/images/2023-2024_89vbb.pdf",
+          "title": "2024 Blue Book: Amendment 79, Constitutional Right to Abortion (Colorado Legislative Council Staff)",
+          "date": "2024-09-05",
+          "quote": "Many Coloradans are opposed to abortion for personal, religious, and moral reasons."
+        },
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/images/2023-2024_89vbb.pdf",
+          "title": "2024 Blue Book: Amendment 79, Constitutional Right to Abortion (Colorado Legislative Council Staff)",
+          "date": "2024-09-05",
+          "quote": "Taxpayers should not be forced to pay for services to which they morally object."
+        }
+      ]
+    },
+    {
+      "text": "The Colorado Catholic Conference noted that some patients travel from states with fewer restrictions than others, which it says means they arrive later in pregnancy.",
+      "sources": [
+        {
+          "url": "https://www.cpr.org/2024/02/06/record-number-out-of-state-abortion-patients-colorado/",
+          "title": "Out-of-state patients keep coming to Colorado in record numbers as abortion remains a political fight in 2024 (CPR News)",
+          "date": "2024-02-06",
+          "quote": "She noted many patients are coming from states with more restrictive laws, but some are traveling from locations with less restrictive abortion laws, “which means they're coming here in later stages of pregnancy.”",
+          "via": "browser"
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "How many patients travel to Colorado now is unclear. The newest full-year state totals found are for 2023, and Guttmacher's 2025 figures cover only the first half of the year.",
+      "sources": [
+        {
+          "url": "https://www.guttmacher.org/node/300728/printable/print",
+          "title": "States Without Total Abortion Bans See Declines in Clinician-Provided Abortions and Out-of-State Patients (Guttmacher Institute)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "Importantly, these preliminary data do not yet provide a basis for full-year findings"
+        }
+      ]
+    },
+    {
+      "text": "What the FDA will do about mifepristone is unknown. It expects a safety study by mid-December and a report by March 2027, then will decide whether to add restrictions.",
+      "sources": [
+        {
+          "url": "https://abcnews.com/Politics/wireStory/fda-review-abortion-pill-continue-year-137085064",
+          "title": "FDA says its review of abortion pill will continue into next year (Associated Press, via ABC News)",
+          "date": "2026-10-07",
+          "quote": "The FDA said in its filing that it expects to complete a safety study of the pill by mid-December this year."
+        }
+      ]
+    }
+  ],
+  "measure": null,
+  "last_checked": "2026-10-16",
+  "research_notes": "Claude in Chrome was not connected, so the CPR News article (Cloudflare-blocked) was read in the built-in Browser pane; its source carries via: browser. Other pages were fetched directly. Double-check: (1) The newest Colorado out-of-state patient count found is for 2023 (provisional, CPR, Feb 2024). Final 2023 to 2025 state health department figures were not found; the Guttmacher page covers only the first half of 2025 and has no machine-readable date (date_basis accessed). (2) The Colorado Sun Amendment 79 explainer and the 2024 Blue Book were written before the vote, so they are used for what the amendment does, not for the result. The vote result (it passed) is supported by the SB25-183 bill summary; the percentage was not sourced and is not stated. (3) Blue Book 2024 quotes are single lines because that PDF has line numbers in the margin. (4) KFF dates the federal Planned Parenthood Medicaid ban expiry as July 3, 2026; other outlets say July 4; text says July 2026. (5) Pew's figure is national, not Colorado. No Colorado-specific poll was fetched. (6) No fetched source on federal bills such as the Women's Health Protection Act or a national ban; the federal discussion is limited to the FDA review and the Medicaid funding ban. (7) Neutrality: the Guttmacher Institute advocates for reproductive rights; the Catholic Conference and Colorado Right to Life oppose abortion; each is labeled or attributed."
+}

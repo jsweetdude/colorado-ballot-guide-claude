@@ -1,0 +1,220 @@
+{
+  "id": "plain-language-ballots",
+  "plain": "Should every ballot question, state and local, be written at an eighth-grade reading level or lower? The rule would go in the Colorado Constitution.",
+  "agree_means": "Agreeing writes an eighth-grade ceiling into the constitution. It also bars state laws from requiring citizen-initiative titles to carry wording that conflicts with plain language.",
+  "disagree_means": "Disagreeing keeps current law: titles must be in plain language, but no reading grade is set.",
+  "now": [
+    {
+      "text": "A state Title Board writes titles for citizen initiatives. The law says plain language, \"understandable by the widest possible audience,\" avoiding legal terms when possible. The legislature writes titles for measures it refers. A 2026 law, HB26-1320, adds an \"accessible language\" duty.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "The board must write titles in plain language, that are understandable by the widest possible audience, and that avoid legal, technical, or specialized terminology, when possible.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://leg.colorado.gov/bills/HB26-1320",
+          "title": "HB26-1320 Accessible Language Statutory Ballot Title Requirements (Colorado General Assembly)",
+          "date": "2026-10-16",
+          "quote": "The act adds a requirement that the title board write a ballot title using accessible language, which means plain language that is understood by the widest possible audience.",
+          "date_basis": "accessed"
+        }
+      ]
+    },
+    {
+      "text": "Other laws force set wording onto tax measures. A citizen initiative that cuts taxes must estimate the spending cuts and how they could hit the three largest areas of government spending. Income-tax initiatives must show effects by income bracket.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "For citizen initiatives that reduce tax collections, the title must include an estimate of potential state spending reductions and how reduced revenue might impact the three largest areas of government spending.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://news.ballotpedia.org/2026/07/23/signatures-submitted-for-colorado-initiative-requiring-ballot-questions-at-an-eighth-grade-reading-level-and-limiting-conflicting-language-requirements/",
+          "title": "Signatures submitted for Colorado initiative requiring ballot questions at an eighth-grade reading level (Ballotpedia News)",
+          "date": "2026-07-23",
+          "quote": "As of 2026, Colorado state law requires ballot titles to include fiscal impact summaries for initiatives that affect income taxes, specifying how the change would affect different income brackets."
+        }
+      ]
+    },
+    {
+      "text": "Colorado's titles are hard to read by formula. Ballotpedia's 2023 report put Colorado's state average at grade 35. Colorado Amendment 79 (2024) scored 32, the highest of any initiative that year. The formula counts sentence and word length, not how complex the idea is.",
+      "sources": [
+        {
+          "url": "https://news.ballotpedia.org/?p=33336",
+          "title": "Ballotpedia exclusive - our 2023 readability report on ballot measures (Ballotpedia News)",
+          "date": "2023-10-23",
+          "quote": "The average ballot title grade for all measures in a single state ranged from 12 in New York and Ohio to 35 in Colorado."
+        },
+        {
+          "url": "https://ballotpedia.org/Ballot_measure_readability_scores,_2024",
+          "title": "Ballot measure readability scores, 2024 (Ballotpedia)",
+          "date": "2026-10-16",
+          "quote": "The average title score for ballot initiatives was 15, ranging from a score of eight for Washington Initiative 2124 to 32 for Colorado Amendment 79.",
+          "date_basis": "accessed"
+        }
+      ]
+    }
+  ],
+  "stakes": [
+    {
+      "area": "Your money",
+      "text": "The tax wording rules are the main thing at risk. Amendment 85 bars state laws from adding wording that conflicts with plain language. Whether that cancels today's tax-effect rules depends on whether they can be said at an eighth-grade level.",
+      "sources": [
+        {
+          "url": "https://news.ballotpedia.org/2026/07/23/signatures-submitted-for-colorado-initiative-requiring-ballot-questions-at-an-eighth-grade-reading-level-and-limiting-conflicting-language-requirements/",
+          "title": "Signatures submitted for Colorado initiative requiring ballot questions at an eighth-grade reading level (Ballotpedia News)",
+          "date": "2026-07-23",
+          "quote": "Initiative 234 would not necessarily conflict with existing ballot title requirements, such as those established by Proposition GG, HB21-1321, and HB26-1320, provided that the required information could be presented in plain language at no higher than an eighth-grade reading level."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "Laws that add language to ballot titles could be prohibited, even if that language provides critical information for voters.",
+          "date_basis": "accessed"
+        }
+      ]
+    },
+    {
+      "area": "How government works",
+      "text": "The measure names no judge of reading level. The Legislative Council says it could bring more court challenges to initiative titles. Titles written by the legislature for referred measures would not be covered by the ban on required wording.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "The measure does not define plain language or designate who will determine if ballot titles meet the standard.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "The ballot titles for measures referred by the state legislature are not subject to this prohibition.",
+          "date_basis": "accessed"
+        }
+      ]
+    },
+    {
+      "area": "Elections",
+      "text": "The ballot wording says \"all state and local ballot questions,\" so city, county and school-district questions would also be covered. Local governments would have to meet the same standard.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "requiring all state and local ballot questions to be written in plain language and at no more than an 8th grade reading level",
+          "date_basis": "accessed"
+        }
+      ]
+    },
+    {
+      "area": "Public services",
+      "text": "State cost is small. The Legislative Council says the Title Board's workload may increase minimally while it sets its plain-language standards.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "The measure may minimally increase workload for the Title Board to update its standards for plain language and what constitutes an eighth-grade reading level",
+          "date_basis": "accessed"
+        }
+      ]
+    }
+  ],
+  "case_for": [
+    {
+      "text": "Supporters say a set grade level gives title writers a clear target, and the constitution protects titles from later legislatures adding wording.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "Providing a constitutional standard will help in crafting simple titles that voters may better understand when considering their vote",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "This measure ensures that no future legislature may add laws or change existing laws to create complicated or confusing initiative ballot titles.",
+          "date_basis": "accessed"
+        }
+      ]
+    },
+    {
+      "text": "Supporters say the problem is real. Sen. Adrienne Benavidez, a Denver Democrat who sponsored the 2026 law (a separate bill), said complex ballot wording is a barrier to voters.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/08/31/initiative-asks-colorado-voters-to-approve-8th-grade-reading-standard-for-ballot-measures/",
+          "title": "Initiative asks Colorado voters to approve 8th-grade reading standard for ballot measures (Colorado Politics)",
+          "date": "2026-08-31",
+          "quote": "The complex statutory language that appears on ballots is a substantial barrier to the average Coloradan voting on ballot measures"
+        }
+      ]
+    }
+  ],
+  "case_against": [
+    {
+      "text": "Opponents say the wording is vague and could knock out laws that tell voters what a tax change means for them. The Bell Policy Center, a progressive think tank, called it a \"wolf in sheep's clothing.\"",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "This measure puts vague and undefined language in the constitution, which could prevent the creation of laws to help voters better understand the effects of ballot measures.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://news.ballotpedia.org/2026/07/23/signatures-submitted-for-colorado-initiative-requiring-ballot-questions-at-an-eighth-grade-reading-level-and-limiting-conflicting-language-requirements/",
+          "title": "Signatures submitted for Colorado initiative requiring ballot questions at an eighth-grade reading level (Ballotpedia News)",
+          "date": "2026-07-23",
+          "quote": "it will actually make voters less informed by stripping out important provisions that alert voters to the impacts of tax changes on their pocketbooks and state and local budgets."
+        }
+      ]
+    },
+    {
+      "text": "Columnist Ari Armstrong, writing for the Independence Institute's Complete Colorado, agrees titles are often convoluted. He says the measure does not say which reading formula to use, which invites lawsuits.",
+      "sources": [
+        {
+          "url": "https://completecolorado.com/2026/09/01/initiative-234-defining-8th-grade-reading-level/",
+          "title": "Initiative 234: The trouble with defining 8th-grade reading level (Ari Armstrong, Complete Colorado)",
+          "date": "2026-09-01",
+          "quote": "Presumably, then, we’re looking at some established formula for reading levels. But Initiative 234 doesn’t say that, nor does it say which standard we should use."
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "Whether the amendment would cancel the tax-wording rules is disputed. Ballotpedia says it need not if the facts can be said plainly. The Bell Policy Center says it would strip them out.",
+      "sources": [
+        {
+          "url": "https://news.ballotpedia.org/2026/07/23/signatures-submitted-for-colorado-initiative-requiring-ballot-questions-at-an-eighth-grade-reading-level-and-limiting-conflicting-language-requirements/",
+          "title": "Signatures submitted for Colorado initiative requiring ballot questions at an eighth-grade reading level (Ballotpedia News)",
+          "date": "2026-07-23",
+          "quote": "To the extent that a statutory requirement interfered with those standards, Initiative 234 could make that requirement unenforceable."
+        }
+      ]
+    },
+    {
+      "text": "Reading-level formulas disagree, and a score does not measure how complex an idea is. The measure does not pick a formula.",
+      "sources": [
+        {
+          "url": "https://news.ballotpedia.org/?p=33336",
+          "title": "Ballotpedia exclusive - our 2023 readability report on ballot measures (Ballotpedia News)",
+          "date": "2023-10-23",
+          "quote": "Other factors, such as the complexity of an idea in a text, are not reflected in readability scores."
+        }
+      ]
+    }
+  ],
+  "measure": "amendment-85",
+  "last_checked": "2026-10-16",
+  "research_notes": "No page needed the browser. Ballot-title lengths (not used in text; counted by simple whitespace split of the Blue Book titles): Amendment 85 = 59 words, 84 = 83 words, 86 = 73 words, 87 = 194 words, all single sentences. Ballotpedia's 2024 Colorado state average was not extracted (table text); I used the prose lines. I did not run my own Flesch-Kincaid scores in the text. HB26-1320 and HB21-1321 pages are undated, so date_basis is accessed. I found no independent fiscal estimate beyond the Blue Book. The Complete Colorado column is opinion; Complete Colorado is published by the Independence Institute, a free-market think tank. The Bell Policy Center's quotes come via Ballotpedia, which says Bell 'presented arguments in favor of and against'; the 'wolf in sheep's clothing' line is Bell's argument against. The 2023 Ballotpedia item is a Ballotpedia News newsletter dated Oct. 23, 2023. A legal challenge to HB21-1321's wording was reported in a search result but I did not fetch that source and made no claim about it."
+}

@@ -1,0 +1,335 @@
+{
+  "id": "keep-tariffs",
+  "plain": "Should the federal government keep broad tariffs, which are taxes on goods imported into the United States? The rules changed several times in 2025 and 2026.",
+  "agree_means": "Supports keeping the broad import taxes the president has imposed since 2025, accepting higher prices on some goods in return for trade leverage, revenue and support for U.S. industry.",
+  "disagree_means": "Opposes broad tariffs and wants them ended or narrowed, accepting less trade leverage and less federal revenue in return for lower prices and less trade uncertainty.",
+  "now": [
+    {
+      "text": "Tariffs are taxes paid by importers. In February 2026 the Supreme Court ruled the president could not use an emergency-powers law to impose them. The administration turned to other laws. Since July, imports from 60 economies face a 10% or 12.5% tariff, with exceptions. Specific goods face separate national-security tariffs.",
+      "sources": [
+        {
+          "url": "https://www.everycrsreport.com/files/2026-10-08_R49481_ab4c7edd9ff7686b08fe8599738ceea629983ebf.html",
+          "title": "Active Presidential Tariff Actions in 2026: Fact Sheet (Congressional Research Service)",
+          "date": "2026-10-08",
+          "quote": "Following the Supreme Court's ruling on February 20, 2026, invalidating the Trump Administration's use of the International Emergency Economic Powers Act (IEEPA) to impose certain tariffs, President Trump has used a combination of other trade authorities to impose tariffs."
+        },
+        {
+          "url": "https://www.everycrsreport.com/files/2026-10-08_R49481_ab4c7edd9ff7686b08fe8599738ceea629983ebf.html",
+          "title": "Active Presidential Tariff Actions in 2026: Fact Sheet (Congressional Research Service)",
+          "date": "2026-10-08",
+          "quote": "On July 23, 2026, President Trump imposed tariff rates of 10% or 12.5% on 60 economies"
+        },
+        {
+          "url": "https://www.everycrsreport.com/files/2026-10-08_R49481_ab4c7edd9ff7686b08fe8599738ceea629983ebf.html",
+          "title": "Active Presidential Tariff Actions in 2026: Fact Sheet (Congressional Research Service)",
+          "date": "2026-10-08",
+          "quote": "BIS is also in the process of conducting other Section 232 investigations to determine whether to levy further duties on specific goods for national security purposes."
+        },
+        {
+          "url": "https://www.piie.com/blogs/realtime-economics/2026/who-pays-tariffs-insights-recent-research",
+          "title": "Who pays for tariffs? Insights from recent research (Peterson Institute for International Economics)",
+          "date": "2026-08-03",
+          "quote": "Another recent study finds that US importers bear the full burden of paying the tariffs."
+        }
+      ]
+    },
+    {
+      "text": "The Congressional Budget Office puts the average tariff rate at 10% now, versus 2% in 2024 and a high of 15% in late 2025.",
+      "sources": [
+        {
+          "url": "https://www.cbo.gov/publication/62704",
+          "title": "CBO's Updated Budgetary Projections of Tariffs as of July 31, 2026 (Congressional Budget Office)",
+          "date": "2026-08-20",
+          "quote": "We estimate that the effective tariff rate (ETR) is now 10 percent, 5 percentage points lower than our estimate for November 2025.",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.cbo.gov/publication/62704",
+          "title": "CBO's Updated Budgetary Projections of Tariffs as of July 31, 2026 (Congressional Budget Office)",
+          "date": "2026-08-20",
+          "quote": "We estimated that the ETR in 2024 was 2 percent and that it increased to 15 percent by November 2025.",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "text": "Courts have limited the tariffs. A federal trade court ruled in May 2026 that the 10% global tariff was also unlawful, but only for a few importers. The government appealed, and the tariff expired July 24. Refunds of about $166 billion in the invalidated tariffs began in May.",
+      "sources": [
+        {
+          "url": "https://www.skadden.com/insights/publications/2026/05/us-trade-court-strikes-down-section-122-tariffs",
+          "title": "US Trade Court Strikes Down Section 122 Tariffs, but Ruling's Fate Is Uncertain and Practical Impact Is Limited (Skadden)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "A divided three-judge panel at the U.S. Court of International Trade struck down the Trump administration’s Section 122 tariffs as exceeding the president’s authority, but limited its relief to three importer plaintiffs before it"
+        },
+        {
+          "url": "https://www.cbo.gov/publication/62704",
+          "title": "CBO's Updated Budgetary Projections of Tariffs as of July 31, 2026 (Congressional Budget Office)",
+          "date": "2026-08-20",
+          "quote": "The Administration terminated those tariffs shortly thereafter and began issuing refunds in May.",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.cbo.gov/publication/62704",
+          "title": "CBO's Updated Budgetary Projections of Tariffs as of July 31, 2026 (Congressional Budget Office)",
+          "date": "2026-08-20",
+          "quote": "Most of the $166 billion in revenue collected under IEEPA will be refunded in fiscal year 2026",
+          "via": "browser"
+        }
+      ]
+    }
+  ],
+  "stakes": [
+    {
+      "area": "Your money",
+      "text": "The Yale Budget Lab, a university research group, estimates tariffs raise consumer prices about 0.7% and cost households about $1,100 a year. Economists at the Peterson Institute, a think tank that generally favors free trade, say U.S. buyers bore about 90% of the 2025 tariff burden. Studies differ on how fully it reaches shelf prices.",
+      "sources": [
+        {
+          "url": "https://budgetlab.yale.edu/research/state-us-tariffs-april-8-2026",
+          "title": "The State of U.S. Tariffs (Yale Budget Lab)",
+          "date": "2026-08-24",
+          "quote": "We estimate the ultimate consumer price impact of current-law tariff policy to be about 0.7%."
+        },
+        {
+          "url": "https://budgetlab.yale.edu/research/state-us-tariffs-april-8-2026",
+          "title": "The State of U.S. Tariffs (Yale Budget Lab)",
+          "date": "2026-08-24",
+          "quote": "Estimated household costs due to tariffs total about $1,100 annually under current law."
+        },
+        {
+          "url": "https://www.piie.com/blogs/realtime-economics/2026/who-pays-tariffs-insights-recent-research",
+          "title": "Who pays for tariffs? Insights from recent research (Peterson Institute for International Economics)",
+          "date": "2026-08-03",
+          "quote": "US buyers of imports—US consumers and firms together—bore about 90 percent of the tariff burden in 2025."
+        },
+        {
+          "url": "https://www.piie.com/blogs/realtime-economics/2026/who-pays-tariffs-insights-recent-research",
+          "title": "Who pays for tariffs? Insights from recent research (Peterson Institute for International Economics)",
+          "date": "2026-08-03",
+          "quote": "finds that pass-through to consumer prices is complete about seven months after implementation"
+        },
+        {
+          "url": "https://www.piie.com/blogs/realtime-economics/2026/who-pays-tariffs-insights-recent-research",
+          "title": "Who pays for tariffs? Insights from recent research (Peterson Institute for International Economics)",
+          "date": "2026-08-03",
+          "quote": "with a cumulative effect on the consumer price index (CPI) of about 0.8 percentage points by early 2026"
+        }
+      ]
+    },
+    {
+      "area": "The economy",
+      "text": "Tariffs were meant to boost U.S. factories, but factory employment fell by 89,000 between April 2025 and February 2026. Economists say tariffs raise costs for manufacturers that use imported parts, and frequent changes make planning hard.",
+      "sources": [
+        {
+          "url": "https://www.hppr.org/npr-news/2026-04-02/have-trumps-tariffs-worked-this-is-where-things-stand-a-year-after-liberation-day",
+          "title": "Have Trump's tariffs worked? This is where things stand a year after 'Liberation Day' (NPR, via High Plains Public Radio)",
+          "date": "2026-04-02",
+          "quote": "Taxing imports was supposed to give a boost to U.S. manufacturers."
+        },
+        {
+          "url": "https://www.hppr.org/npr-news/2026-04-02/have-trumps-tariffs-worked-this-is-where-things-stand-a-year-after-liberation-day",
+          "title": "Have Trump's tariffs worked? This is where things stand a year after 'Liberation Day' (NPR, via High Plains Public Radio)",
+          "date": "2026-04-02",
+          "quote": "U.S. factories employed 89,000 fewer people in February than they did in April, when the worldwide tariffs took effect."
+        },
+        {
+          "url": "https://www.piie.com/blogs/realtime-economics/2026/who-pays-tariffs-insights-recent-research",
+          "title": "Who pays for tariffs? Insights from recent research (Peterson Institute for International Economics)",
+          "date": "2026-08-03",
+          "quote": "US firms are harmed by the tariffs through higher costs of intermediate inputs"
+        },
+        {
+          "url": "https://www.hppr.org/npr-news/2026-04-02/have-trumps-tariffs-worked-this-is-where-things-stand-a-year-after-liberation-day",
+          "title": "Have Trump's tariffs worked? This is where things stand a year after 'Liberation Day' (NPR, via High Plains Public Radio)",
+          "date": "2026-04-02",
+          "quote": "tariffs changed more than 50 times between Liberation Day and now"
+        }
+      ]
+    },
+    {
+      "area": "The economy",
+      "text": "Colorado sold a record $11.5 billion of goods abroad in 2025. Mexico ($1.7 billion) and Canada ($1.6 billion) were top markets. Early in 2025, total exports rose 10.5% even as exports to China fell 30%. The governor's budget office warned that further escalation could cost schools and health care up to $805 million in revenue by 2026-27.",
+      "sources": [
+        {
+          "url": "https://ustr.gov/countries-regions/united-states-trade-data/colorado",
+          "title": "Colorado: Exports and Foreign Investment (Office of the U.S. Trade Representative)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "In 2025, Colorado exported a record $11.5 billion of goods to the world."
+        },
+        {
+          "url": "https://ustr.gov/countries-regions/united-states-trade-data/colorado",
+          "title": "Colorado: Exports and Foreign Investment (Office of the U.S. Trade Representative)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "Colorado exported $1.7 billion in goods to Mexico in 2025, representing 15 percent of the state’s total goods exports."
+        },
+        {
+          "url": "https://coloradosun.com/2025/07/19/colorado-global-exports-imports-tariff/",
+          "title": "Colorado global exports are up amid tariff roller coaster (The Colorado Sun)",
+          "date": "2025-07-19",
+          "quote": "In the first five months this year, the value of all Colorado exports grew 10.5% to $4.84 billion, compared with the same period last year."
+        },
+        {
+          "url": "https://coloradosun.com/2025/07/19/colorado-global-exports-imports-tariff/",
+          "title": "Colorado global exports are up amid tariff roller coaster (The Colorado Sun)",
+          "date": "2025-07-19",
+          "quote": "Exports to China fell 30% while imports fell 15% in the first five months."
+        },
+        {
+          "url": "https://governorsoffice.colorado.gov/governor/news/governor-polis-releases-report-detailing-devastating-impacts-trumps-tariff-tax-colorado",
+          "title": "Governor Polis Releases Report Detailing Devastating Impacts of Trump’s Tariff Tax on Colorado Families and Businesses (Colorado Governor's Office)",
+          "date": "2025-09-04",
+          "quote": "The report warns that further tariff escalation could push the state into a recession and cost schools and health care as much as $805 million in revenue losses by FY26-27."
+        }
+      ]
+    },
+    {
+      "area": "The economy",
+      "text": "In a state survey, 80% of agriculture respondents expected negative effects. A Larimer County dairy farmer told Sen. John Hickenlooper, a Democrat, that corn and wheat prices were down because of tariffs.",
+      "sources": [
+        {
+          "url": "https://www.colorado.gov/governor/news/governor-polis-releases-new-report-detailing-how-trumps-tariff-taxes-are-squeezing-colorado",
+          "title": "Governor Polis Releases New Report Detailing How Trump’s Tariff Taxes Are Squeezing Colorado Businesses, Driving Economic Uncertainty, and Threatening Jobs (Colorado Governor's Office)",
+          "date": "2025-11-20",
+          "quote": "80% of agricultural respondents anticipate future negative impacts from tariffs, including pricing increases, sourcing difficulties, and delivery delays."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/01/21/colorado-farmers-warn-u-s-sen-john-hickenlooper-tariffs-and-research-cuts-endanger-agriculture/",
+          "title": "Colorado farmers warn U.S. Sen. John Hickenlooper tariffs and research cuts endanger agriculture (Colorado Politics)",
+          "date": "2026-01-21",
+          "quote": "On the export side, corn and wheat prices are down because of tariffs."
+        }
+      ]
+    },
+    {
+      "area": "How government works",
+      "text": "Tariffs raised $151 billion in the first five months of fiscal 2026, but about $166 billion must be refunded. The Congressional Budget Office now expects net customs revenue about $250 billion below its February projection. Yale estimates current tariffs would raise about $1.9 trillion over ten years.",
+      "sources": [
+        {
+          "url": "https://www.hppr.org/npr-news/2026-04-02/have-trumps-tariffs-worked-this-is-where-things-stand-a-year-after-liberation-day",
+          "title": "Have Trump's tariffs worked? This is where things stand a year after 'Liberation Day' (NPR, via High Plains Public Radio)",
+          "date": "2026-04-02",
+          "quote": "In the first five months of the fiscal year, the government raised $151 billion from tariffs — nearly four times as much as during the same period the previous year."
+        },
+        {
+          "url": "https://www.cbo.gov/publication/62704",
+          "title": "CBO's Updated Budgetary Projections of Tariffs as of July 31, 2026 (Congressional Budget Office)",
+          "date": "2026-08-20",
+          "quote": "we now project that net customs revenues for fiscal year 2026 will be about $250 billion lower than we projected they would be in our February 2026 budget projections.",
+          "via": "browser"
+        },
+        {
+          "url": "https://budgetlab.yale.edu/research/state-us-tariffs-april-8-2026",
+          "title": "The State of U.S. Tariffs (Yale Budget Lab)",
+          "date": "2026-08-24",
+          "quote": "Over the next ten years, we estimate that current-law tariffs will raise about $1.9 trillion."
+        }
+      ]
+    }
+  ],
+  "case_for": [
+    {
+      "text": "The administration says tariffs press other countries to change practices. The U.S. Trade Representative says 10 trading partners have agreed to ban forced-labor imports in trade agreements. President Trump promised tariffs would rebuild U.S. industry.",
+      "sources": [
+        {
+          "url": "https://www.ustr.gov/about/policy-offices/press-office/fact-sheets/2026/july/fact-sheet-ustr-section-301-action-response-failure-60-economies-ban-imports-produced-forced-labor",
+          "title": "Fact Sheet: USTR Section 301 Action in Response to the Failure of 60 Economies to Ban Imports Produced with Forced Labor (Office of the U.S. Trade Representative)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "To date, 10 trading partners have agreed to enact such a ban in their Agreements on Reciprocal Trade"
+        },
+        {
+          "url": "https://www.hppr.org/npr-news/2026-04-02/have-trumps-tariffs-worked-this-is-where-things-stand-a-year-after-liberation-day",
+          "title": "Have Trump's tariffs worked? This is where things stand a year after 'Liberation Day' (NPR, via High Plains Public Radio)",
+          "date": "2026-04-02",
+          "quote": "We will supercharge our domestic industrial base"
+        }
+      ]
+    },
+    {
+      "text": "Tariffs raise money. They brought in $151 billion in the first five months of fiscal 2026, nearly four times the year before, though about half must be refunded.",
+      "sources": [
+        {
+          "url": "https://www.hppr.org/npr-news/2026-04-02/have-trumps-tariffs-worked-this-is-where-things-stand-a-year-after-liberation-day",
+          "title": "Have Trump's tariffs worked? This is where things stand a year after 'Liberation Day' (NPR, via High Plains Public Radio)",
+          "date": "2026-04-02",
+          "quote": "Tariffs are generating tens of billions of dollars in revenue for the federal government."
+        }
+      ]
+    }
+  ],
+  "case_against": [
+    {
+      "text": "Economists Kimberly Clausing and Maurice Obstfeld of the Peterson Institute argue that U.S. households and businesses, not foreign countries, have borne most of the burden.",
+      "sources": [
+        {
+          "url": "https://www.piie.com/blogs/realtime-economics/2026/who-pays-tariffs-insights-recent-research",
+          "title": "Who pays for tariffs? Insights from recent research (Peterson Institute for International Economics)",
+          "date": "2026-08-03",
+          "quote": "US households and businesses have borne most of the burden of Trump's tariffs in practice."
+        }
+      ]
+    },
+    {
+      "text": "Erica York of the Tax Foundation, a tax-policy think tank, says the constant changes added an \"uncertainty tax\" that weighs on hiring and investment.",
+      "sources": [
+        {
+          "url": "https://www.hppr.org/npr-news/2026-04-02/have-trumps-tariffs-worked-this-is-where-things-stand-a-year-after-liberation-day",
+          "title": "Have Trump's tariffs worked? This is where things stand a year after 'Liberation Day' (NPR, via High Plains Public Radio)",
+          "date": "2026-04-02",
+          "quote": "On top of the significant tax increase the tariffs caused, they also had this added uncertainty tax on top of that."
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "Nobody knows the long-run effects. The Congressional Budget Office says there is little evidence from past episodes, and the administration changes policy often.",
+      "sources": [
+        {
+          "url": "https://www.cbo.gov/publication/62704",
+          "title": "CBO's Updated Budgetary Projections of Tariffs as of July 31, 2026 (Congressional Budget Office)",
+          "date": "2026-08-20",
+          "quote": "so there is little empirical evidence to guide our estimates of their long-term effects.",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.cbo.gov/publication/62704",
+          "title": "CBO's Updated Budgetary Projections of Tariffs as of July 31, 2026 (Congressional Budget Office)",
+          "date": "2026-08-20",
+          "quote": "Moreover, the Administration frequently changes tariff policies.",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "text": "Which tariffs survive in court is unsettled. The new tariffs rest on laws that require a government investigation first. The government appealed the May ruling, but that tariff has since expired.",
+      "sources": [
+        {
+          "url": "https://www.everycrsreport.com/files/2026-10-08_R49481_ab4c7edd9ff7686b08fe8599738ceea629983ebf.html",
+          "title": "Active Presidential Tariff Actions in 2026: Fact Sheet (Congressional Research Service)",
+          "date": "2026-10-08",
+          "quote": "Unlike IEEPA, both authorities require an investigation be completed before imposing additional duties."
+        },
+        {
+          "url": "https://www.skadden.com/insights/publications/2026/05/us-trade-court-strikes-down-section-122-tariffs",
+          "title": "US Trade Court Strikes Down Section 122 Tariffs, but Ruling's Fate Is Uncertain and Practical Impact Is Limited (Skadden)",
+          "date": "2026-10-16",
+          "date_basis": "accessed",
+          "quote": "The government has already appealed the decision to the U.S. Court of Appeals for the Federal Circuit."
+        },
+        {
+          "url": "https://www.cbo.gov/publication/62704",
+          "title": "CBO's Updated Budgetary Projections of Tariffs as of July 31, 2026 (Congressional Budget Office)",
+          "date": "2026-08-20",
+          "quote": "Those tariffs expired on July 24, 2026.",
+          "via": "browser"
+        }
+      ]
+    }
+  ],
+  "measure": null,
+  "last_checked": "2026-10-16",
+  "research_notes": "Claude in Chrome was not connected, so the bot-protected CBO tariff page (cbo.gov/publication/62704) was read in the built-in Browser pane; its source carries via: browser. Everything else was fetched directly. Double-check: (1) The Yale Budget Lab URL slug says april-8-2026 but the page is a living page now showing the Aug 24, 2026 update; its quotes may change when Yale updates it. (2) The USTR pages and the Skadden alert show no machine-readable date, so they use date_basis accessed. The CRS fact sheet is read through the everycrsreport.com mirror. (3) The Colorado governor's office pages are press releases from Gov. Polis (a Democrat) about state-agency reports; only the data sentences are quoted, and the $805 million figure is a conditional warning about escalation. The same report's claim that Colorado's effective tariff rate hit 21% was left out because it differs sharply from CBO's national estimate (15% peak) and the method was not checked. (4) The farmer quotes come from a forum hosted by Sen. John Hickenlooper (D). The Colorado Sun trade figures cover only the first five months of 2025; the full-year 2025 total comes from USTR. (5) Price-effect estimates differ by study (Yale 0.7% price level; PIIE cites studies from complete to incomplete pass-through). PIIE is a think tank that generally favors free trade. (6) A strong pro-tariff think-tank source was not obtained (American Compass was read in the browser but was a Feb 2025 excerpt, not used), so the case for tariffs rests on USTR and presidential statements and on revenue. (7) Not found: Colorado manufacturing job data, Colorado-specific refund amounts, or the Federal Circuit outcome on the Section 122 ruling."
+}

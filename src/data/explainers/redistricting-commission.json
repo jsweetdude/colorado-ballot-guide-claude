@@ -1,0 +1,269 @@
+{
+  "id": "redistricting-commission",
+  "plain": "Should Colorado's congressional map change only through its independent commission, even when other states redraw their maps between censuses?",
+  "agree_means": "Agreeing backs Amendment 86. A mid-decade map would need the commission's approval, three public hearings and Colorado Supreme Court approval, and could not be drawn to favor a party.",
+  "disagree_means": "Disagreeing adds no special rule for mid-decade changes. Colorado's map could still change through another constitutional amendment, which needs 55% of the vote.",
+  "now": [
+    {
+      "text": "Since 2018 a 12-member independent commission has drawn Colorado's congressional map once a decade. It has four Democrats, four Republicans and four unaffiliated members. A final map needs eight votes, including two unaffiliated, and Supreme Court approval. The current map dates from 2021; the next is due in 2031.",
+      "sources": [
+        {
+          "url": "https://ballotpedia.org/Colorado_Amendment_Y,_Independent_Commission_for_Congressional_Redistricting_Amendment_(2018)",
+          "title": "Colorado Amendment Y, Independent Commission for Congressional Redistricting Amendment (2018) (Ballotpedia)",
+          "date": "2026-10-16",
+          "quote": "The final 12-member commission will have 4 Democrats, 4 Republicans, and 4 unaffiliated members",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://ballotpedia.org/Colorado_Amendment_Y,_Independent_Commission_for_Congressional_Redistricting_Amendment_(2018)",
+          "title": "Colorado Amendment Y, Independent Commission for Congressional Redistricting Amendment (2018) (Ballotpedia)",
+          "date": "2026-10-16",
+          "quote": "The final map requires the approval of eight of the 12 members, including at least 2 members that are not affiliated with any political party. It also requires approval by the Colorado Supreme Court.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/10/02/redistricting-fight-colorado-amendment-86/",
+          "title": "Amendment 86: Redrawing political maps in 'off cycles' (Colorado Politics)",
+          "date": "2026-10-02",
+          "quote": "The current districts were approved in 2021 and the next regular redistricting is scheduled for 2031."
+        }
+      ]
+    },
+    {
+      "text": "Mid-decade redrawing was rare: before 2025 only two states had done it voluntarily since 1970. Since summer 2025, 10 have changed maps. Texas redrew to give Republicans a chance at five more seats. California voters then approved a map with five more Democratic-leaning seats.",
+      "sources": [
+        {
+          "url": "https://www.ncsl.org/redistricting-and-census/changing-the-maps-tracking-mid-decade-redistricting",
+          "title": "Changing the Maps: Tracking Mid-Decade Redistricting (National Conference of State Legislatures)",
+          "date": "2026-10-16",
+          "quote": "Since summer 2025, 10 states have changed their congressional maps: Alabama, California, Florida, Louisiana, Missouri, North Carolina, Ohio, Tennessee, Texas and Utah.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/06/29/colorado-supreme-court-redistricting-plans-for-2028-election-cannot-proceed-under-state-constitution/",
+          "title": "Colorado Supreme Court: Redistricting plans for 2028 election cannot proceed under state constitution (Colorado Politics)",
+          "date": "2026-06-29",
+          "quote": "Last year, the Texas legislature, at the urging of President Donald Trump, redrew its House districts in advance of the next census to give Republicans the ability to win five more districts over the existing map."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/06/29/colorado-supreme-court-redistricting-plans-for-2028-election-cannot-proceed-under-state-constitution/",
+          "title": "Colorado Supreme Court: Redistricting plans for 2028 election cannot proceed under state constitution (Colorado Politics)",
+          "date": "2026-06-29",
+          "quote": "Then California voters approved a ballot measure in November to create a map with five additional seats favoring Democrats."
+        },
+        {
+          "url": "https://ballotpedia.org/Redistricting_ahead_of_the_2026_elections",
+          "title": "Redistricting ahead of the 2026 elections (Ballotpedia)",
+          "date": "2026-10-16",
+          "quote": "Before 2025, only two states had conducted voluntary mid-decade redistricting since 1970.",
+          "date_basis": "accessed"
+        }
+      ]
+    },
+    {
+      "text": "Colorado nearly joined in. A Democratic-aligned group filed measures to pause the commission and adopt new maps for 2028 and 2030. Republican-backed rivals followed. The maps favored Democrats 7-1 or Republicans 5-3. The Colorado Supreme Court struck them all down on June 29 for covering more than one subject.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/06/29/colorado-supreme-court-redistricting-plans-for-2028-election-cannot-proceed-under-state-constitution/",
+          "title": "Colorado Supreme Court: Redistricting plans for 2028 election cannot proceed under state constitution (Colorado Politics)",
+          "date": "2026-06-29",
+          "quote": "adopt maps for the 2028 and 2030 elections — either favoring Democrats by 7-1 or favoring Republicans by 5-3."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/06/29/colorado-supreme-court-redistricting-plans-for-2028-election-cannot-proceed-under-state-constitution/",
+          "title": "Colorado Supreme Court: Redistricting plans for 2028 election cannot proceed under state constitution (Colorado Politics)",
+          "date": "2026-06-29",
+          "quote": "The Colorado Supreme Court blocked all attempts at redrawing congressional district boundaries for the 2028 election from reaching the ballot on Monday, concluding each of the proposed ballot measures violated the constitutional single-subject requirement."
+        },
+        {
+          "url": "https://www.hppr.org/hppr-news/2026-09-02/conservative-backed-redistricting-measure-makes-colorado-ballot",
+          "title": "Conservative-backed redistricting measure makes Colorado ballot (The Colorado Sun, republished by HPPR)",
+          "date": "2026-09-02",
+          "quote": "Now Advance Colorado’s proposal will be the only redistricting question voters will be asked on the Nov. 3 ballot."
+        },
+        {
+          "url": "https://www.hppr.org/hppr-news/2026-09-02/conservative-backed-redistricting-measure-makes-colorado-ballot",
+          "title": "Conservative-backed redistricting measure makes Colorado ballot (The Colorado Sun, republished by HPPR)",
+          "date": "2026-09-02",
+          "quote": "Because Colorado’s redistricting process is laid out in the state constitution, only a constitutional amendment can change it."
+        }
+      ]
+    }
+  ],
+  "stakes": [
+    {
+      "area": "Elections",
+      "text": "Colorado's eight seats split 4-4 under the commission's map. The 8th District is a toss-up; in 2024 it was won by about 2,500 votes. Its result could help decide which party controls the U.S. House.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2026/05/27/marine-veteran-evan-munsing-drops-out-of-eighth-congressional-district-race",
+          "title": "Evan Munsing drops out of Colorado 8th Congressional District race (The Colorado Sun)",
+          "date": "2026-05-27",
+          "quote": "Evans ousted the Democratic incumbent, Yadira Caraveo, in 2024 by about 2,500 votes, or less than a percentage point."
+        },
+        {
+          "url": "https://coloradosun.com/2026/05/27/marine-veteran-evan-munsing-drops-out-of-eighth-congressional-district-race",
+          "title": "Evan Munsing drops out of Colorado 8th Congressional District race (The Colorado Sun)",
+          "date": "2026-05-27",
+          "quote": "The toss-up district spans Denver’s northern suburbs along U.S. 85 to Greeley. The outcome of the 2026 race could determine which party controls the U.S. House."
+        },
+        {
+          "url": "https://www.kunc.org/politics/2026-06-29/colorado-supreme-court-delivers-blow-to-redistricting-effort",
+          "title": "Colorado Supreme Court delivers blow to redistricting effort (KUNC)",
+          "date": "2026-06-29",
+          "quote": "Currently Colorado’s congressional delegation is evenly split 4-4."
+        }
+      ]
+    },
+    {
+      "area": "Elections",
+      "text": "The failed Democratic plan would have made Democrats favorites in seven of eight seats, up from four, the Colorado Sun reported. The rival plan favored Republicans 5-3. Amendment 86 would bar off-cycle maps drawn to favor either party.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2026/06/29/colorado-supreme-court-rejects-democrat-redistricting-plan-initiative-240/",
+          "title": "Colorado Supreme Court rejects plan to give Democrats edge in Congress (The Colorado Sun)",
+          "date": "2026-06-29",
+          "quote": "Had voters approved the ballot measures in November, they would have put new maps in place for the elections in 2028 and 2030, making Democrats favored to win seven of Colorado’s eight congressional seats, up from the four they hold today."
+        }
+      ]
+    },
+    {
+      "area": "How government works",
+      "text": "Amendment 86 adds hurdles to any mid-decade change. It needs three public hearings, commission and Supreme Court approval, and no maps that favor a party or split communities of interest.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/10/02/redistricting-fight-colorado-amendment-86/",
+          "title": "Amendment 86: Redrawing political maps in 'off cycles' (Colorado Politics)",
+          "date": "2026-10-02",
+          "quote": "The commission would have to hold at least three public hearings before approving any off-cycle map, and the map would have to use population data from the most recent census or another permitted data source."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "The measure also prohibits off-cycle changes to congressional districts that intentionally favor a political party or unnecessarily divide communities of interest.",
+          "date_basis": "accessed"
+        }
+      ]
+    },
+    {
+      "area": "Public services",
+      "text": "Each time the commission must meet off-schedule, the Legislative Council estimates about $370,000 for staff, commissioners and lawyers. Courts would see a small added workload.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "The measure increases costs in the Legislative Department by about $370,000 in any year that the commission must convene and review changes to congressional maps outside of its usual redistricting schedule.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "The Judicial Department will also have a small workload increase to review any new maps.",
+          "date_basis": "accessed"
+        }
+      ]
+    }
+  ],
+  "case_for": [
+    {
+      "text": "Supporters say the measure keeps partisan politics out and honors the voters who overwhelmingly created the commission in 2018. They say politicians elsewhere have drawn maps with little public input.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "Requiring the commission to review districts, and not allowing districts to favor a single political party, keeps partisan politics out of the process.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "This affirms the voters’ intent in creating an independent commission, which was overwhelmingly approved in a 2018 statewide election.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "Across the nation, politicians have attempted to change districts in their favor with limited public input.",
+          "date_basis": "accessed"
+        }
+      ]
+    },
+    {
+      "text": "Advance Colorado, the conservative nonprofit behind it, says it applies only to changes made outside the normal cycle.",
+      "sources": [
+        {
+          "url": "https://www.hppr.org/hppr-news/2026-09-02/conservative-backed-redistricting-measure-makes-colorado-ballot",
+          "title": "Conservative-backed redistricting measure makes Colorado ballot (The Colorado Sun, republished by HPPR)",
+          "date": "2026-09-02",
+          "quote": "Advance Colorado says its proposal would only apply to changes in the congressional map done outside the normal redistricting cycle."
+        }
+      ]
+    }
+  ],
+  "case_against": [
+    {
+      "text": "Opponents say the measure blocks voters from responding if, for example, other states redraw. They say voters should always have the final word.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "this measure creates an unnecessary constitutional barrier",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet, Blue Book (Legislative Council)",
+          "date": "2026-10-16",
+          "quote": "Voters should always have the final word on whether Colorado’s congressional districts still reflect the state’s needs.",
+          "date_basis": "accessed"
+        }
+      ]
+    },
+    {
+      "text": "Mario Nicolais, an election lawyer working on the campaign against it, says backers want to keep a map that is \"as good as it gets for Republicans right now.\"",
+      "sources": [
+        {
+          "url": "https://www.hppr.org/hppr-news/2026-09-02/conservative-backed-redistricting-measure-makes-colorado-ballot",
+          "title": "Conservative-backed redistricting measure makes Colorado ballot (The Colorado Sun, republished by HPPR)",
+          "date": "2026-09-02",
+          "quote": "“They want to preserve the status quo because this map is as good as it gets for Republicans right now,” Nicolais said of the proposal."
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "Nicolais says it is unclear whether the amendment would also affect the regular redistricting after the 2030 census. Supporters say it applies only to off-cycle changes.",
+      "sources": [
+        {
+          "url": "https://www.hppr.org/hppr-news/2026-09-02/conservative-backed-redistricting-measure-makes-colorado-ballot",
+          "title": "Conservative-backed redistricting measure makes Colorado ballot (The Colorado Sun, republished by HPPR)",
+          "date": "2026-09-02",
+          "quote": "But Mario Nicolais, an election lawyer and Colorado Sun columnist who has been working on a campaign opposing the measure, said it’s not clear whether the change would impact regularly scheduled redistricting after a census."
+        }
+      ]
+    },
+    {
+      "text": "No one can say how other states' courts and legislatures will act, or whether another Colorado proposal would come back in 2028.",
+      "sources": [
+        {
+          "url": "https://www.ncsl.org/redistricting-and-census/changing-the-maps-tracking-mid-decade-redistricting",
+          "title": "Changing the Maps: Tracking Mid-Decade Redistricting (National Conference of State Legislatures)",
+          "date": "2026-10-16",
+          "quote": "Within the last year, however, states have undertaken mid-decade redistricting at rates not seen since the 1800s.",
+          "date_basis": "accessed"
+        }
+      ]
+    }
+  ],
+  "measure": "amendment-86",
+  "last_checked": "2026-10-16",
+  "research_notes": "No page needed the browser. No official seat-count projection for Texas or California was fetched beyond the Colorado Politics sentences (intent to win five more seats each); Ballotpedia's table of 'potential results' is in cell text I did not quote. The Colorado Sun article on Advance Colorado's measure was read through the HPPR republication (HPPR carried it; the Sun's own page was not fetched). Mario Nicolais is described in the article as a Colorado Sun columnist working on the opposing campaign; his statement is attributed as opinion. The Blue Book's pro/con paragraphs are quoted from the printed booklet. Colorado Politics calls the measure Initiative 256 in one story and 265 in another; the Blue Book/SoS use Initiative #256 (the measure file in src/data says #256). Ballotpedia's results table lists Amendment Y at 71.37% yes, but table cells were too short to quote, so the text says 'overwhelmingly' (Blue Book wording) instead of a number. CPR News blocked scripted fetches, but I used the KUNC copy of the CPR story, which was fetchable."
+}

@@ -22,7 +22,16 @@ test('the interview can be completed with the keyboard alone', async ({ page }) 
   await page.keyboard.press('Enter');
   await expect(page.locator('.iv-card[data-index="1"] .iv-statement')).toBeFocused();
 
-  // Second statement: answer with the keyboard, then go Back with the keyboard.
+  // Second statement: the first Tab stop is "More info". Enter opens it, Escape closes it and returns focus.
+  await page.keyboard.press('Tab');
+  const info = page.locator('[data-explainer="income-tax-cap"]');
+  await expect(info).toBeFocused();
+  await page.keyboard.press('Enter');
+  await expect(page.locator('#ex-income-tax-cap')).toHaveAttribute('open', '');
+  await page.keyboard.press('Escape');
+  await expect(page.locator('#ex-income-tax-cap')).not.toHaveAttribute('open', '');
+  await expect(info).toBeFocused();
+  // Then answer with the keyboard, and go Back with the keyboard.
   await page.keyboard.press('Tab');
   await page.keyboard.press('ArrowLeft');
   await page.keyboard.press('Enter');

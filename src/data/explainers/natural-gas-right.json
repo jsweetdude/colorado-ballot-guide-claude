@@ -1,0 +1,497 @@
+{
+  "id": "natural-gas-right",
+  "plain": "Amendment 82 would add to Colorado’s constitution a right to buy natural gas for cooking or heating, and a right for utilities to sell it. Buying and selling gas is already legal today.",
+  "agree_means": "Agreeing writes a right to buy and sell natural gas for homes and businesses into the constitution. That could limit state or local rules that restrict gas.",
+  "disagree_means": "Disagreeing keeps current law. Gas stays legal and for sale, and the state and cities keep their power to write or change gas rules.",
+  "now": [
+    {
+      "text": "About 7 in 10 Colorado households heat mainly with natural gas and about 1 in 4 with electricity. The Denver Gazette put the number of gas-heated households at 1.9 million.",
+      "sources": [
+        {
+          "url": "https://www.eia.gov/states/CO/analysis",
+          "title": "Colorado State Energy Profile analysis (U.S. Energy Information Administration)",
+          "date": "2026-10-16",
+          "quote": "The residential sector, where about 7 out of 10 Colorado households use natural gas as their primary home heating source, accounts for about 31% of the state's natural gas use.",
+          "date_basis": "accessed",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.eia.gov/states/CO/analysis",
+          "title": "Colorado State Energy Profile analysis (U.S. Energy Information Administration)",
+          "date": "2026-10-16",
+          "quote": "About one in four Colorado households use electricity as the main home heating source.",
+          "date_basis": "accessed",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2025/12/12/colorado-residents-face-high-energy-bills-after-regulators-turn-away-from-natural-gas-experts-say/",
+          "title": "Colorado residents face high energy bills after regulators turn away from natural gas, experts say (Denver Gazette via Colorado Politics)",
+          "date": "2025-12-12",
+          "quote": "Some 1.9 million Colorado households warm their homes each winter using gas."
+        }
+      ]
+    },
+    {
+      "text": "The Public Utilities Commission set a target for Xcel, Black Hills and Atmos to cut gas-system emissions 41 percent by 2035 from 2015 levels. Customers join through voluntary rebates, and plan costs are capped at 2.5 percent of annual gas bills.",
+      "sources": [
+        {
+          "url": "https://puc.colorado.gov/press-release/fact-sheet-2035-clean-heat-plan-target-rulemaking-proceeding-no-25r-0309g",
+          "title": "FACT SHEET: 2035 Clean Heat Plan Target Rulemaking (Colorado Public Utilities Commission)",
+          "date": "2025-12-15",
+          "quote": "Set a 41 percent reduction target for 2035 from the 2015 baseline",
+          "via": "browser"
+        },
+        {
+          "url": "https://puc.colorado.gov/press-release/fact-sheet-2035-clean-heat-plan-target-rulemaking-proceeding-no-25r-0309g",
+          "title": "FACT SHEET: 2035 Clean Heat Plan Target Rulemaking (Colorado Public Utilities Commission)",
+          "date": "2025-12-15",
+          "quote": "Applies to three investor-owned gas utilities: Atmos Energy, Black Hills Energy and Xcel Energy.",
+          "via": "browser"
+        },
+        {
+          "url": "https://puc.colorado.gov/press-release/fact-sheet-2035-clean-heat-plan-target-rulemaking-proceeding-no-25r-0309g",
+          "title": "FACT SHEET: 2035 Clean Heat Plan Target Rulemaking (Colorado Public Utilities Commission)",
+          "date": "2025-12-15",
+          "quote": "Customers may voluntarily participate in these plans by taking advantage of rebates and incentives to adopt electric heat pumps or complete energy efficiency upgrades in their homes and businesses.",
+          "via": "browser"
+        },
+        {
+          "url": "https://puc.colorado.gov/cleanheatplans",
+          "title": "Clean Heat Plans (Colorado Public Utilities Commission)",
+          "date": "2026-10-16",
+          "quote": "Specifically, the legislation set a cost cap of 2.5% of annual gas bills for all full-service customers.",
+          "date_basis": "accessed",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "text": "No elected body in Colorado has banned gas stoves or gas heaters in homes, the Denver Post reported. Some towns limit gas in new construction, and Crested Butte requires new homes to use electricity for heat.",
+      "sources": [
+        {
+          "url": "https://www.governing.com/policy/colorado-voters-will-decide-whether-natural-gas-is-a-constitutional-right",
+          "title": "Colorado Voters Will Decide Whether Natural Gas Is a Constitutional Right (The Denver Post, via Governing)",
+          "date": "2026-10-12",
+          "quote": "So far, no elected body in Colorado has banned gas stoves or natural gas heaters in homes. Both are sold in stores across Colorado."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+          "date": "2026-09-10",
+          "quote": "Several municipalities in Colorado have restricted the installation of natural gas appliances in new construction or certain renovation projects."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+          "date": "2026-09-10",
+          "quote": "requiring that new residential buildings use electricity for heating, hot water heaters, and other appliances."
+        }
+      ]
+    },
+    {
+      "text": "The amendment is two sentences long and has no exception for public safety or local codes. A University of Denver law professor says a constitutional right would outrank state law, agency rules and local control.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+          "date": "2026-09-10",
+          "quote": "(1) Consumers have the right to purchase natural gas for cooking or heating in homes or businesses throughout the state."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+          "date": "2026-09-10",
+          "quote": "(2) Distributors and utilities have the right to sell natural gas for homes or businesses."
+        },
+        {
+          "url": "https://insideclimatenews.org/news/13072026/colorado-right-to-natural-gas-amendment/",
+          "title": "Colorado Voters Will Decide Whether a ‘Right to Natural Gas’ is Added to the State Constitution (Inside Climate News)",
+          "date": "2026-07-13",
+          "quote": "Colorado’s ballot measure is also unique in its breadth: the language contains no caveats, explanations or provisions for public safety.",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.denver7.com/news/local-news/amendment-82-would-give-coloradans-a-constitutional-right-to-natural-gas",
+          "title": "Amendment 82 would give Coloradans a constitutional right to natural gas (Denver7)",
+          "date": "2026-10-16",
+          "quote": "Once something's in the Constitution, then it basically trumps state statutes, any state agency regulations, any local government control,",
+          "date_basis": "accessed"
+        }
+      ]
+    }
+  ],
+  "stakes": [
+    {
+      "area": "The environment",
+      "text": "Natural gas burned in homes, businesses and industry made up about 23 percent of Colorado’s greenhouse gases in 2020, Legislative Council staff estimated. A state count put homes and businesses alone near 8 percent in 2015. State agencies say the 41 percent target would avoid 45.5 million metric tons over ten years.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/images/lcs/house_bill_21-1238_greenhouse_gas_report.pdf",
+          "title": "HB 21-1238 Greenhouse Gas Emissions Report (Legislative Council Staff)",
+          "date": "2021-04-07",
+          "quote": "natural gas used by residential, commercial, and industrial users (i.e., the building fuel use sector) emitted around 28 million metric tons of carbon dioxide equivalent"
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/images/lcs/house_bill_21-1238_greenhouse_gas_report.pdf",
+          "title": "HB 21-1238 Greenhouse Gas Emissions Report (Legislative Council Staff)",
+          "date": "2021-04-07",
+          "quote": "or 23 percent of statewide GHG emissions"
+        },
+        {
+          "url": "https://coloradonewsline.com/2021/03/04/proposal-to-ban-local-limits-on-natural-gas-killed-in-colorado-house-committee/",
+          "title": "Proposal to ban local limits on natural gas killed in Colorado House committee (Colorado Newsline)",
+          "date": "2021-03-04",
+          "quote": "accounted for roughly 10 million tons of carbon emissions in 2015, about 8% of total emissions, according to state data.",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.canarymedia.com/articles/utilities/colorado-mandates-ambitious-emissions-cuts-gas-utilities",
+          "title": "Colorado mandates ambitious emissions cuts for its gas utilities (Canary Media)",
+          "date": "2025-12-02",
+          "quote": "they’ll avoid an estimated 45.5 million metric tons of greenhouse gases over the next decade, according to an analysis by the Colorado Energy Office and the Colorado Department of Public Health and Environment."
+        }
+      ]
+    },
+    {
+      "area": "Health",
+      "text": "Gas stoves release pollutants such as benzene, the Denver Post reported. One review attributes about 10 percent of Colorado childhood asthma to them. The dean of the Colorado School of Public Health calls cause and effect uncertain and says vent hoods help. State agencies say the clean-heat target would prevent 58 early deaths by 2035.",
+      "sources": [
+        {
+          "url": "https://www.governing.com/policy/colorado-voters-will-decide-whether-natural-gas-is-a-constitutional-right",
+          "title": "Colorado Voters Will Decide Whether Natural Gas Is a Constitutional Right (The Denver Post, via Governing)",
+          "date": "2026-10-12",
+          "quote": "Research has shown that gas stoves release benzene, methane and other pollutants that can cause respiratory diseases."
+        },
+        {
+          "url": "https://news.cuanschutz.edu/news-stories/should-you-extinguish-your-gas-stove",
+          "title": "Should you extinguish your gas stove? (CU Anschutz Medical Campus)",
+          "date": "2023-01-18",
+          "quote": "In Colorado – based on American housing survey data of gas stove prevalence in homes – the authors say the figure is around 10% of childhood asthma is attributable to gas stoves."
+        },
+        {
+          "url": "https://news.cuanschutz.edu/news-stories/should-you-extinguish-your-gas-stove",
+          "title": "Should you extinguish your gas stove? (CU Anschutz Medical Campus)",
+          "date": "2023-01-18",
+          "quote": "I think that there is still uncertainty about whether the emissions from gas stoves directly cause asthma."
+        },
+        {
+          "url": "https://news.cuanschutz.edu/news-stories/should-you-extinguish-your-gas-stove",
+          "title": "Should you extinguish your gas stove? (CU Anschutz Medical Campus)",
+          "date": "2023-01-18",
+          "quote": "Ventilating the stove during use should get rid of much of the NO2, which is just a good practice in general."
+        },
+        {
+          "url": "https://www.canarymedia.com/articles/utilities/colorado-mandates-ambitious-emissions-cuts-gas-utilities",
+          "title": "Colorado mandates ambitious emissions cuts for its gas utilities (Canary Media)",
+          "date": "2025-12-02",
+          "quote": "State officials predicted this would mean 58 averted premature deaths between now and 2035, nearly $1 billion in economic benefits, and $5.1 billion in avoided costs of climate change."
+        }
+      ]
+    },
+    {
+      "area": "Your money",
+      "text": "The gas industry's trade group says electricity costs 4.3 times as much as gas per unit of energy in Colorado, and that a new gas-heated home could save $614 to $1,065 a year compared with a heat pump. A federal lab found heat pumps cut bills for homes now heated by electricity, oil or propane. Supporters of Amendment 82 say switching would cost a household $1,100 a year; this guide found no study behind that figure.",
+      "sources": [
+        {
+          "url": "https://www.aga.org/wp-content/uploads/2026/09/Colorado-Residential-Energy-Cost-Analysis-8.18.26.pdf",
+          "title": "Residential Energy Cost Analysis for Greater Colorado Region (American Gas Association, a gas industry trade group)",
+          "date": "2026-10-16",
+          "quote": "Electricity costs 4.3 times as much as natural gas on an energy-equivalent basis in Colorado.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://www.aga.org/wp-content/uploads/2026/09/Colorado-Residential-Energy-Cost-Analysis-8.18.26.pdf",
+          "title": "Residential Energy Cost Analysis for Greater Colorado Region (American Gas Association, a gas industry trade group)",
+          "date": "2026-10-16",
+          "quote": "could save between $614 and $1,065 per year compared with an all-electric, air-source heat pump",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://www.nlr.gov/news/detail/press/2024/benefits-of-heat-pumps-detailed-in-new-nrel-report",
+          "title": "Benefits of Heat Pumps Detailed in New NREL Report (National Laboratory of the Rockies)",
+          "date": "2024-02-12",
+          "quote": "The big difference between energy savings and energy cost savings is because natural gas prices are much lower than electricity prices on a Btu basis in many parts of the country.",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.nlr.gov/news/detail/press/2024/benefits-of-heat-pumps-detailed-in-new-nrel-report",
+          "title": "Benefits of Heat Pumps Detailed in New NREL Report (National Laboratory of the Rockies)",
+          "date": "2024-02-12",
+          "quote": "For the 49 million homes that use electricity, fuel oil, or propane for heat and have air conditioning, 92% to 100% of homes would see energy bill savings",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.denver7.com/news/local-news/amendment-82-would-give-coloradans-a-constitutional-right-to-natural-gas",
+          "title": "Amendment 82 would give Coloradans a constitutional right to natural gas (Denver7)",
+          "date": "2026-10-16",
+          "quote": "\"It would cost the average Colorado household $1,100 a year to heat their home with electricity instead of natural gas,\" Pfeiffer said.",
+          "date_basis": "accessed"
+        }
+      ]
+    },
+    {
+      "area": "Your money",
+      "text": "Switching has upfront costs. State rebates cover up to $8,000 for a cold-climate heat pump, but the single-family program has closed and federal credits ended after 2025. Xcel’s approved plan commits $176 million a year and, Xcel projects, saves customers $100 million a year. A 2023 law ordered plans to end line-extension allowances that shift new-hookup costs to other customers. A clean-energy group warns remaining gas customers could face higher costs.",
+      "sources": [
+        {
+          "url": "https://energyoffice.colorado.gov/home-energy-rebates",
+          "title": "Colorado Home Energy Rebate Program (Colorado Energy Office)",
+          "date": "2026-10-16",
+          "quote": "Cold climate heat pump for space heating and cooling $8,000",
+          "date_basis": "accessed",
+          "via": "browser"
+        },
+        {
+          "url": "https://energyoffice.colorado.gov/home-energy-rebates",
+          "title": "Colorado Home Energy Rebate Program (Colorado Energy Office)",
+          "date": "2026-10-16",
+          "quote": "The HEAR Single-Family Program for Region 1 and Region 2 is closed.",
+          "date_basis": "accessed",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.canarymedia.com/articles/utilities/colorado-mandates-ambitious-emissions-cuts-gas-utilities",
+          "title": "Colorado mandates ambitious emissions cuts for its gas utilities (Canary Media)",
+          "date": "2025-12-02",
+          "quote": "even as the federal government eliminates home-electrification incentives after Dec. 31."
+        },
+        {
+          "url": "https://puc.colorado.gov/cleanheatplans",
+          "title": "Clean Heat Plans (Colorado Public Utilities Commission)",
+          "date": "2026-10-16",
+          "quote": "The plan commits $176 million per year to PSCo’s goal of a 30% reduction in emissions from its natural gas local distribution company business below current levels by 2030",
+          "date_basis": "accessed",
+          "via": "browser"
+        },
+        {
+          "url": "https://puc.colorado.gov/cleanheatplans",
+          "title": "Clean Heat Plans (Colorado Public Utilities Commission)",
+          "date": "2026-10-16",
+          "quote": "PSCo projects the CHP will save customers $100 million annually on average through 2030.",
+          "date_basis": "accessed",
+          "via": "browser"
+        },
+        {
+          "url": "https://drive.google.com/uc?export=download&id=1ltnNkUsGx_7ZgpAR1LeFzLczQu7DRbZR",
+          "title": "Colorado Greenhouse Gas Pollution Reduction Roadmap 2.0 (Colorado Energy Office, February 2024)",
+          "date": "2024-02-01",
+          "quote": "By December 2023, all gas utilities regulated by the PUC (Xcel, Black Hills, CNG, and Atmos) were required to submit plans to eliminate Line Extension Allowances."
+        },
+        {
+          "url": "https://drive.google.com/uc?export=download&id=1ltnNkUsGx_7ZgpAR1LeFzLczQu7DRbZR",
+          "title": "Colorado Greenhouse Gas Pollution Reduction Roadmap 2.0 (Colorado Energy Office, February 2024)",
+          "date": "2024-02-01",
+          "quote": "Together, these steps represent significant progress toward reducing the financial incentive to construct new homes dependent upon natural gas at the expense of other utility customers."
+        },
+        {
+          "url": "https://www.canarymedia.com/articles/utilities/colorado-mandates-ambitious-emissions-cuts-gas-utilities",
+          "title": "Colorado mandates ambitious emissions cuts for its gas utilities (Canary Media)",
+          "date": "2025-12-02",
+          "quote": "If utilities are not scaling these [electrification] programs, the customers left on the gas systems are ultimately going to face higher costs,"
+        }
+      ]
+    },
+    {
+      "area": "The economy",
+      "text": "Colorado had 160,000 energy workers in 2025, including 31,900 in fuels and 41,000 in energy efficiency. The state estimates its climate plan would add 95,000 jobs by 2050. Atmos told regulators even the lower 2030 target would cost $55 million a year.",
+      "sources": [
+        {
+          "url": "https://www.energy.gov/documents/2026-useer-state-reports",
+          "title": "2026 U.S. Energy & Employment Report: State Reports, Colorado (U.S. Department of Energy)",
+          "date": "2026-10-16",
+          "quote": "Of these energy workers, 31,900 were employed in Fuels; 23,600 in Electric Power Generation (EPG); 31,500 in Transmission, Distribution, and Storage (TDS); 41,000 in Energy Efficiency (EE)",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://drive.google.com/uc?export=download&id=1ltnNkUsGx_7ZgpAR1LeFzLczQu7DRbZR",
+          "title": "Colorado Greenhouse Gas Pollution Reduction Roadmap 2.0 (Colorado Energy Office, February 2024)",
+          "date": "2024-02-01",
+          "quote": "These actions will also create more than 95,000 new jobs between now and 2050."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2025/12/12/colorado-residents-face-high-energy-bills-after-regulators-turn-away-from-natural-gas-experts-say/",
+          "title": "Colorado residents face high energy bills after regulators turn away from natural gas, experts say (Denver Gazette via Colorado Politics)",
+          "date": "2025-12-12",
+          "quote": "Even meeting the lower target by 2030, the company said, would require average annual costs of $55 million."
+        }
+      ]
+    },
+    {
+      "area": "Public services",
+      "text": "Colorado saw few service interruptions in the February 2021 storm, though regulators said Xcel bought gas at extravagant prices. All Colorado utilities peak in summer, and Xcel does not expect a winter peak until about 2041. The gas trade group says heat pumps lose efficiency in deep cold.",
+      "sources": [
+        {
+          "url": "https://www.cpr.org/2022/12/21/colorado-weather-cold-snap-energy-utilities/",
+          "title": "Colorado energy utilities say this time, they’re ready for the sub-zero cold snap (CPR News)",
+          "date": "2022-12-21",
+          "quote": "There were few service interruptions for Coloradans during the winter storm on Valentine’s Day weekend in 2021, unlike in Texas, where system failures led to millions of people losing power and hundreds of deaths.",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.cpr.org/2022/12/21/colorado-weather-cold-snap-energy-utilities/",
+          "title": "Colorado energy utilities say this time, they’re ready for the sub-zero cold snap (CPR News)",
+          "date": "2022-12-21",
+          "quote": "acted prudently during the weekend but did not take enough precautions to avoid having to buy natural gas at extravagant prices.",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.swenergy.org/grid-impacts-of-building-electrification/",
+          "title": "Grid Impacts of Building Electrification (Southwest Energy Efficiency Project, a clean-energy advocacy group)",
+          "date": "2026-10-16",
+          "quote": "Currently, all Colorado utilities have the highest peak demands during summer months, due to cooling loads.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://www.swenergy.org/grid-impacts-of-building-electrification/",
+          "title": "Grid Impacts of Building Electrification (Southwest Energy Efficiency Project, a clean-energy advocacy group)",
+          "date": "2026-10-16",
+          "quote": "Xcel’s system will not become winter peaking until about 2041.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://www.aga.org/wp-content/uploads/2026/09/Colorado-Residential-Energy-Cost-Analysis-8.18.26.pdf",
+          "title": "Residential Energy Cost Analysis for Greater Colorado Region (American Gas Association, a gas industry trade group)",
+          "date": "2026-10-16",
+          "quote": "air-source heat pumps for space heating tend to lose efficiency and capacity during very cold periods, necessitating backup electric resistance heat.",
+          "date_basis": "accessed"
+        }
+      ]
+    }
+  ],
+  "case_for": [
+    {
+      "text": "The Blue Book’s argument for: gas is affordable, widely available and reliable in very cold weather. The amendment would protect access from state or local interference.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+          "date": "2026-09-10",
+          "quote": "Natural gas is an affordable and widely available energy source that reliably heats homes and businesses, including during periods of extreme cold."
+        }
+      ]
+    },
+    {
+      "text": "Advance Colorado, the conservative group behind the measure, says it does not expect a gas ban but says regulation would wear gas use down over time.",
+      "sources": [
+        {
+          "url": "https://www.governing.com/policy/colorado-voters-will-decide-whether-natural-gas-is-a-constitutional-right",
+          "title": "Colorado Voters Will Decide Whether Natural Gas Is a Constitutional Right (The Denver Post, via Governing)",
+          "date": "2026-10-12",
+          "quote": "Advance Colorado does not expect any governmental body to outright ban natural gas, but said its use would be slowly eroded through regulations and rules passed by the Public Utilities Commission and the state legislature."
+        }
+      ]
+    },
+    {
+      "text": "Kit Pfeiffer, president of a supporting committee, the Energy Freedom Alliance of the Rockies, says the Clean Heat Plan would eventually push residents to replace gas appliances. He says most cannot afford the cost.",
+      "sources": [
+        {
+          "url": "https://www.denver7.com/news/local-news/amendment-82-would-give-coloradans-a-constitutional-right-to-natural-gas",
+          "title": "Amendment 82 would give Coloradans a constitutional right to natural gas (Denver7)",
+          "date": "2026-10-16",
+          "quote": "Pfeiffer said he is concerned that Colorado's Clean Heat Plan would eventually force residents to replace gas appliances with electric ones — a cost he said most Coloradans cannot afford.",
+          "date_basis": "accessed"
+        }
+      ]
+    }
+  ],
+  "case_against": [
+    {
+      "text": "The Blue Book’s argument against: gas contributes to climate change and air pollution, and a constitutional right limits efforts to cut emissions and improve air quality.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+          "date": "2026-09-10",
+          "quote": "Using natural gas contributes to climate change through emitting greenhouse gases, leads to air pollution, and should not be protected in the state constitution."
+        }
+      ]
+    },
+    {
+      "text": "The Colorado Municipal League, which speaks for nearly 270 cities and towns, opposes the measure because it would undermine local control over energy-efficient building codes.",
+      "sources": [
+        {
+          "url": "https://www.governing.com/policy/colorado-voters-will-decide-whether-natural-gas-is-a-constitutional-right",
+          "title": "Colorado Voters Will Decide Whether Natural Gas Is a Constitutional Right (The Denver Post, via Governing)",
+          "date": "2026-10-12",
+          "quote": "In early October, the Colorado Municipal League, which represents nearly 270 cities and towns, announced its opposition to Amendment 82, arguing that it would undermine local discretion to adopt and enforce energy-efficient building codes."
+        }
+      ]
+    },
+    {
+      "text": "An Adams County commissioner says gas is already legal and the amendment could leave ratepayers paying for pipelines they did not ask for. A law professor says it would put a special interest in the constitution.",
+      "sources": [
+        {
+          "url": "https://www.governing.com/policy/colorado-voters-will-decide-whether-natural-gas-is-a-constitutional-right",
+          "title": "Colorado Voters Will Decide Whether Natural Gas Is a Constitutional Right (The Denver Post, via Governing)",
+          "date": "2026-10-12",
+          "quote": "Emma Pinter, an Adams County commissioner, said in a news release from Vote No on 82 that buying and selling natural gas is already legal in Colorado."
+        },
+        {
+          "url": "https://www.governing.com/policy/colorado-voters-will-decide-whether-natural-gas-is-a-constitutional-right",
+          "title": "Colorado Voters Will Decide Whether Natural Gas Is a Constitutional Right (The Denver Post, via Governing)",
+          "date": "2026-10-12",
+          "quote": "“It’s just crazy for every special interest to have a little nook in the constitution,” DuVivier said."
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "How courts would read it. The text does not say whether the state could still regulate gas for safety or climate. The Blue Book says only that it “may limit” state and local rules.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book), Legislative Council",
+          "date": "2026-09-10",
+          "quote": "it may limit the ability for state or local governments to enforce existing or future regulations related to natural gas."
+        },
+        {
+          "url": "https://insideclimatenews.org/news/13072026/colorado-right-to-natural-gas-amendment/",
+          "title": "Colorado Voters Will Decide Whether a ‘Right to Natural Gas’ is Added to the State Constitution (Inside Climate News)",
+          "date": "2026-07-13",
+          "quote": "The broad language of the measure—only 60 words in total—makes it difficult to predict how state agencies would implement it if it passes",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "text": "What the 41 percent target would require. State agencies testified that 600,000 customers would need to fully electrify, and more if households switch only partway. But the PUC set no cap on recovered methane, another way to meet the target.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2025/12/12/colorado-residents-face-high-energy-bills-after-regulators-turn-away-from-natural-gas-experts-say/",
+          "title": "Colorado residents face high energy bills after regulators turn away from natural gas, experts say (Denver Gazette via Colorado Politics)",
+          "date": "2025-12-12",
+          "quote": "Achieving the higher target, they testified, is questionable “in a setting where the uptake rate is low” and where 600,000 customers would have to fully electrify"
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2025/12/12/colorado-residents-face-high-energy-bills-after-regulators-turn-away-from-natural-gas-experts-say/",
+          "title": "Colorado residents face high energy bills after regulators turn away from natural gas, experts say (Denver Gazette via Colorado Politics)",
+          "date": "2025-12-12",
+          "quote": "If the trend of partial instead of full electrification continues, the required number of customers adopting electrification to reach the 41% target would likely be much higher than 600,000,"
+        },
+        {
+          "url": "https://puc.colorado.gov/press-release/fact-sheet-2035-clean-heat-plan-target-rulemaking-proceeding-no-25r-0309g",
+          "title": "FACT SHEET: 2035 Clean Heat Plan Target Rulemaking (Colorado Public Utilities Commission)",
+          "date": "2025-12-15",
+          "quote": "Did not set a limit for the amount of recovered methane that may be used to achieve the targets",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "text": "How the grid would hold up if many homes switched to electric heat. Studies summarized by a clean-energy group call the impact manageable. The gas trade group points to weaker heat pump performance in deep cold.",
+      "sources": [
+        {
+          "url": "https://www.swenergy.org/grid-impacts-of-building-electrification/",
+          "title": "Grid Impacts of Building Electrification (Southwest Energy Efficiency Project, a clean-energy advocacy group)",
+          "date": "2026-10-16",
+          "quote": "Overall, the studies indicate that the grid impacts of building electrification are quite manageable.",
+          "date_basis": "accessed"
+        }
+      ]
+    }
+  ],
+  "measure": "amendment-82",
+  "last_checked": "2026-10-16",
+  "research_notes": "Method: Claude in Chrome was not connected, so pages that blocked plain fetches or only render in JavaScript were read in the built-in browser in my own tab. Browser reads (marked via: browser): EIA Colorado state analysis (eia.gov/states/CO/analysis), Inside Climate News (Jul 2026), CPR News (Dec 2022 cold snap) and the original Colorado Newsline article (the syndicated copy sits behind a Cloudflare check) were read in the browser because plain fetches failed; their quotes were copied from the rendered page. Colorado state sites (puc.colorado.gov, energyoffice.colorado.gov) and the National Laboratory of the Rockies press release return 403 to clients without a browser user agent, so I also confirmed each of those quotes in the browser and marked them via: browser. All other pages were fetched directly and every quote was checked against the fetched text (whitespace-normalized). The shared web-search budget ran out mid-task, so some gaps below could not be closed. Length: about 850 words of text, above the 300-500 target, because the request asked for depth on this statement. Not found: (1) The 2025 CDPHE greenhouse gas inventory (Jan 2026) sector shares: the documents sit in a JavaScript viewer I could not read, so the emissions figures are older and defined differently: 23 percent is 2020, Legislative Council staff, gas burned in homes, businesses AND industry; 8 percent is 2015, homes and businesses only (Colorado Newsline, 2021). (2) Any figure for the share of outdoor air pollution (NOx, ozone) from burning gas in buildings, and a CDPHE source on the 2026 furnace and water heater NOx limits. (3) A Colorado installed price for heat pumps from a non-seller source (EnergySage and contractor pages were excluded as sellers). (4) A count of gas-utility jobs: the federal USEER figure for Fuels covers all fuels. (5) Any study behind the campaign claim of $1,100 a year; it is reported as a supporter claim only. Double-check: (a) Denver code: Colorado Politics (Feb 2025) says Denver banned gas furnaces and water heaters in new commercial and multifamily buildings, while the Denver Post (Oct 2026) says gas appliances are not prohibited in Denver. I stayed with the Blue Book and Denver Post wording and did not state Denver's rules. (b) The 600,000-customer figure is the Colorado Energy Office and CDPHE testimony as reported by the Denver Gazette; the PUC fact sheet says recovered methane and other options also count, so electrification is not the only route. (c) The gas trade group (AGA) cost analysis covers new single-family homes and is an industry document; the NREL release is national. (d) The Blue Book fiscal note and the 2026 Legislative Council fiscal statement say local governments with gas-limiting codes may need to change them. (e) EIA's 2020 household survey (RECS) shows Colorado with 2.26 million homes, 83 percent using gas for some purpose and 10 percent all-electric. I did not quote it because PDF table rows extract unreliably. (f) Where a page has no publication date the date is the access date with date_basis accessed. (g) The Blue Book argument for and against are a single paragraph each; the Blue Book is quoted for them as required. (h) The Inside Climate News article has at least one error (it says the PUC set the 41 percent rule in 2022; the PUC decision is Dec 1, 2025), so I used it only for the legal expert's comments, the no-caveats observation and not for its other claims. Editor, 2026-10-16: the bill comparison is now attributed to the American Gas Association in the sentence itself, and the campaign's $1,100 figure is marked as unsupported by any study found."
+}

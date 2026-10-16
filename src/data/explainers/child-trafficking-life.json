@@ -1,0 +1,227 @@
+{
+  "id": "child-trafficking-life",
+  "plain": "Proposition 133 would make life in prison without parole the required sentence for child sex trafficking. It would also add buying sex with a minor to what counts as child sex trafficking.",
+  "agree_means": "Yes makes life without parole mandatory for anyone convicted of child sex trafficking, buyers and sellers alike, and takes away the judge's choice of sentence.",
+  "disagree_means": "No keeps the current sentence of 8 to 48 years in prison plus a mandatory parole period, set by a judge within that range.",
+  "now": [
+    {
+      "text": "Child sex trafficking is now a class 2 felony. The sentence is 8 to 48 years in prison plus five years of mandatory parole.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "keeps the existing felony criminal penalties for child sex trafficking with a sentencing range of 8 to 48 years ... in prison plus a mandatory parole period."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/10/02/trafficking-minors-penalties-colorado-proposition-133/",
+          "title": "Proposition 133: Penalties for human trafficking of minors (Colorado Politics)",
+          "date": "2026-10-02",
+          "quote": "The measure would increase the penalty for child sex trafficking from the current sentencing range for a Class 2 felony to life in prison without parole"
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "8 to 48 years in prison and mandatory 5 years parole"
+        }
+      ]
+    },
+    {
+      "text": "Few cases reach court each year. State records show 21, 46 and 21 court cases of minor sex trafficking in 2022, 2023 and 2024. Of all trafficking cases ending in those years, 4, 12 and 6 ended in a trafficking conviction. Most of the rest ended in a conviction on another charge. The Common Sense Institute, a free-market think tank, reports 48 trafficking victims under 18 in 2025.",
+      "sources": [
+        {
+          "url": "https://dcj.colorado.gov/sites/g/files/lrnvjt1441/files/documents/2025%20CHTC%20Annual%20Report_SECTION%202%20-%20Data%20Collection.pdf",
+          "title": "2025 Colorado Human Trafficking Council Annual Report, Section 2: Data Collection (Colorado Division of Criminal Justice)",
+          "date": "2025-12-19",
+          "quote": "Sex Trafficking - Minor 21 46 21"
+        },
+        {
+          "url": "https://dcj.colorado.gov/sites/g/files/lrnvjt1441/files/documents/2025%20CHTC%20Annual%20Report_SECTION%202%20-%20Data%20Collection.pdf",
+          "title": "2025 Colorado Human Trafficking Council Annual Report, Section 2: Data Collection (Colorado Division of Criminal Justice)",
+          "date": "2025-12-19",
+          "quote": "As seen in Figure 28, cases are often not convicted of human trafficking.",
+          "via": "chart read by the editor"
+        },
+        {
+          "url": "https://commonsenseinstituteus.org/colorado/research/crime-and-public-safety/human-trafficking-in-colorado-2025-update/",
+          "title": "Human Trafficking in Colorado: 2025 Update (Common Sense Institute, a free-market think tank)",
+          "date": "2026-02-09",
+          "quote": "There were 48 human trafficking victims in 2025 under the age of 18."
+        }
+      ]
+    },
+    {
+      "text": "Prop 133 would raise the crime to a class 1 felony with life in prison without parole. It would remove judicial discretion and add trading anything of value to buy or sell sex with a minor to the crime.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Proposition 133 increases the penalty for child sex trafficking to life in prison without the possibility of parole, and removes judicial discretion in sentencing."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "It also adds exchanging anything of value to buy or sell sexual activity to the list of acts included in child sex trafficking."
+        }
+      ]
+    }
+  ],
+  "stakes": [
+    {
+      "area": "Your money",
+      "text": "State costs would start in about 14 years, at $180,000 in 2041-42 and growing for several years. The Legislative Council says medical costs will grow separately as prisoners age. No funding source is named.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Costs for the measure are estimated to begin in about 14 years. Initial costs are estimated at $180,000 in budget year 2041-42, and grow by that amount for several years thereafter."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Notably, costs for medical care will grow separately as offenders age in prison."
+        }
+      ]
+    },
+    {
+      "area": "Safety",
+      "text": "Deterrence research: the National Institute of Justice says the certainty of being caught deters crime far more than the severity of punishment. Raising severity does little.",
+      "sources": [
+        {
+          "url": "https://nij.ojp.gov/topics/articles/five-things-about-deterrence",
+          "title": "Five Things About Deterrence (National Institute of Justice)",
+          "date": "2016-06-05",
+          "quote": "The certainty of being caught is a vastly more powerful deterrent than the punishment."
+        },
+        {
+          "url": "https://nij.ojp.gov/topics/articles/five-things-about-deterrence",
+          "title": "Five Things About Deterrence (National Institute of Justice)",
+          "date": "2016-06-05",
+          "quote": "Increasing the severity of punishment does little to deter crime."
+        }
+      ]
+    },
+    {
+      "area": "Rights and freedoms",
+      "text": "Judges could not weigh a case's facts. Current law gives defenses to people charged who are themselves trafficking victims. Opponents warn victims coerced into recruiting others could face the measure's penalty.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Current law provides legal defenses and protections for individuals charged with this crime who are victims of sex trafficking."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/10/02/trafficking-minors-penalties-colorado-proposition-133/",
+          "title": "Proposition 133: Penalties for human trafficking of minors (Colorado Politics)",
+          "date": "2026-10-02",
+          "quote": "Critics add that mandatory life sentences may create unintended consequences for trafficking victims who were coerced or manipulated into recruiting or trafficking other minors."
+        }
+      ]
+    },
+    {
+      "area": "How government works",
+      "text": "The Legislature considered the same idea in HB26-1082, and a House committee killed it on Feb 10, 2026. Research on federal mandatory minimums found prosecutors often use their discretion to avoid overly severe results, so outcomes varied.",
+      "sources": [
+        {
+          "url": "https://leg.colorado.gov/committee_meeting_hearing_summary/28990",
+          "title": "Committee summary for HB26-1082, House Judiciary Committee, Feb 10, 2026 (Colorado General Assembly)",
+          "date": "2026-02-10",
+          "quote": "The bill modifies the crime of human trafficking of a minor for sexual servitude and makes it a class 1 felony."
+        },
+        {
+          "url": "https://leg.colorado.gov/committee_meeting_hearing_summary/28990",
+          "title": "Committee summary for HB26-1082, House Judiciary Committee, Feb 10, 2026 (Colorado General Assembly)",
+          "date": "2026-02-10",
+          "quote": "HB26-1082 - Postponed Indefinitely"
+        },
+        {
+          "url": "https://www.ussc.gov/sites/default/files/pdf/news/congressional-testimony-and-reports/mandatory-minimum-penalties/20111031-rtc-pdf/Executive_Summary.pdf",
+          "title": "Report to the Congress: Mandatory Minimum Penalties in the Federal Criminal Justice System, Executive Summary (U.S. Sentencing Commission)",
+          "date": "2011-10-31",
+          "quote": "In part, these differences may have developed to avoid the overly severe consequences that result from certain mandatory minimum penalties applying in individual cases."
+        }
+      ]
+    }
+  ],
+  "case_for": [
+    {
+      "text": "Supporters, including Protect Kids Colorado, say child sex trafficking is among the most serious crimes. They say people who buy or sell children for sex should spend their lives in prison, and that tougher penalties could deter traffickers.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/10/02/trafficking-minors-penalties-colorado-proposition-133/",
+          "title": "Proposition 133: Penalties for human trafficking of minors (Colorado Politics)",
+          "date": "2026-10-02",
+          "quote": "Supporters, including Protect Kids Colorado, argue that child sex trafficking is among the most serious crimes and that those who buy or sell children for sex should spend the rest of their lives in prison."
+        }
+      ]
+    },
+    {
+      "text": "The Blue Book's argument for the measure adds that the punishment is clear and definite and ensures offenders cannot hurt more children.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "The punishment outlined in the measure is clear, definite, and ensures that offenders cannot hurt more children."
+        }
+      ]
+    }
+  ],
+  "case_against": [
+    {
+      "text": "Opponents, including the Colorado Coalition Against Sexual Assault, say judges should keep the power to weigh each case's circumstances.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/10/02/trafficking-minors-penalties-colorado-proposition-133/",
+          "title": "Proposition 133: Penalties for human trafficking of minors (Colorado Politics)",
+          "date": "2026-10-02",
+          "quote": "Opponents, including the Colorado Coalition Against Sexual Assault, argue that sentencing decisions should remain in judges’ hands, who can consider the specific circumstances of each case."
+        }
+      ]
+    },
+    {
+      "text": "Opponents say fear of a life sentence could make victims less likely to report or cooperate with police.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Due to the fear of a life sentence, victims may be less likely to report these crimes or cooperate with police."
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "How prosecutors would charge and plea cases under a mandatory life term is unknown. State data show many trafficking-charged cases already end in convictions on other charges.",
+      "sources": [
+        {
+          "url": "https://dcj.colorado.gov/sites/g/files/lrnvjt1441/files/documents/2025%20CHTC%20Annual%20Report_SECTION%202%20-%20Data%20Collection.pdf",
+          "title": "2025 Colorado Human Trafficking Council Annual Report, Section 2: Data Collection (Colorado Division of Criminal Justice)",
+          "date": "2025-12-19",
+          "quote": "As seen in Figure 28, cases are often not convicted of human trafficking."
+        }
+      ]
+    },
+    {
+      "text": "The cost estimate uses today's conviction numbers. Costs would be higher if more people are convicted. Whether life terms deter anyone is unknown.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "This cost estimate reflects current sentencing data and values for state-run prison beds; actual costs will likely be higher in the future due to inflation, and if more individuals are convicted of child sex trafficking than under current law."
+        }
+      ]
+    }
+  ],
+  "measure": "proposition-133",
+  "last_checked": "2026-10-16",
+  "research_notes": "Claude in Chrome was not connected; no page for this file needed the browser. The court-case counts (21, 46, 21 minor sex trafficking cases; 25, 28, 13 concluded cases of all trafficking types with 4, 12, 6 trafficking convictions) were read from bar charts (Figures 20 and 28) on PDF pages 22 and 29 (report pages 38 and 45) of the Colorado Human Trafficking Council's 2025 report; the charts are images, so the quotes only confirm the figure text, not the numbers. A reviewer should open those two pages. 'Convicted Other' in Figure 28 is read as conviction on another charge, per the report's next sentence about ancillary charges. Those counts are filings in the state court system for all trafficking types (adult, labor, minor) and may not equal prosecutions per year of the specific offense this measure changes; I found no count limited to the offense under C.R.S. 18-3-504. The U.S. Sentencing Commission finding is about federal mandatory minimums in 2011, not Colorado or sex offenses. The NIJ brief is general deterrence research. The HB26-1082 committee summary says 'Postponed Indefinitely' (Feb 10, 2026); I did not read the written testimony. I found no district attorney position on Prop 133 and no source on plea bargaining under mandatory life terms in Colorado. Web search budget ran out mid-session. Editor, 2026-10-16: the minor sex-trafficking counts (21, 46, 21) are quoted from the data row under Figure 20; the disposition counts (4, 12, 6 trafficking convictions; 19, 13, 6 convicted on other charges; 2, 3, 1 dismissed) were read from the Figure 28 chart image on page 45 of the section PDF, which covers all trafficking cases, not only minors."
+}

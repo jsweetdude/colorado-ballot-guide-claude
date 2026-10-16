@@ -1,0 +1,271 @@
+{
+  "id": "challenge-federal-policies",
+  "plain": "Should Colorado's state government keep going to court to challenge the federal administration's policies?",
+  "agree_means": "Agreeing backs the attorney general's lawsuits and pledges to continue them, including the cost and the chance of losing some cases.",
+  "disagree_means": "Disagreeing means calling the lawsuits political or wasteful, or choosing to work with the administration instead of suing it.",
+  "now": [
+    {
+      "text": "Attorney General Phil Weiser's office says it has filed or joined 82 lawsuits against the administration since January 2025. He filed 11 during Trump's first term. Weiser joined other states on every case in a Colorado Sun review.",
+      "sources": [
+        {
+          "url": "https://www.denvergazette.com/2026/09/14/green-card-applications-colorado-lawsuit-trump-rule/",
+          "title": "Colorado AG Phil Weiser files 82nd lawsuit against Trump administration over public charge rule (Denver Gazette)",
+          "date": "2026-09-14",
+          "quote": "It is the 82nd lawsuit filed by his office against the Trump administration."
+        },
+        {
+          "url": "https://coloradosun.com/2025/08/04/colorado-attorney-general-phil-weiser-lawsuits-trump/",
+          "title": "Colorado attorney general lawsuits against Trump tracker (The Colorado Sun)",
+          "date": "2026-06-17",
+          "quote": "The 66 cases Weiser has brought so far eclipse the 11 he filed against Trump during the Republican’s first presidency."
+        },
+        {
+          "url": "https://coloradosun.com/2025/08/04/colorado-attorney-general-phil-weiser-lawsuits-trump/",
+          "title": "Colorado attorney general lawsuits against Trump tracker (The Colorado Sun)",
+          "date": "2026-06-17",
+          "quote": "Weiser, a Democrat running for governor in 2026, joined other state attorneys general or governors on all of the cases."
+        }
+      ]
+    },
+    {
+      "text": "Outcomes are mixed and unfinished. Of 66 cases by June 2026, courts had at least temporarily blocked the policy in 36 and left it in place in eight. Another 22 were pending. Decisions face appeals.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2025/08/04/colorado-attorney-general-phil-weiser-lawsuits-trump/",
+          "title": "Colorado attorney general lawsuits against Trump tracker (The Colorado Sun)",
+          "date": "2026-06-17",
+          "quote": "courts have partially or fully blocked Trump administration policies from taking effect, at least temporarily, in 36 cases, left the policies in place for now in eight cases, and are still considering 22 cases."
+        },
+        {
+          "url": "https://coloradosun.com/2025/08/04/colorado-attorney-general-phil-weiser-lawsuits-trump/",
+          "title": "Colorado attorney general lawsuits against Trump tracker (The Colorado Sun)",
+          "date": "2026-06-17",
+          "quote": "The decisions face appeals and are largely preliminary."
+        }
+      ]
+    },
+    {
+      "text": "The suits cover birthright citizenship, immigration-status checks for federal aid, data demands on taxpayers and SNAP recipients, canceled grants, and a mail-ballot rule. The newest challenges a public-charge immigration rule.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2025/08/04/colorado-attorney-general-phil-weiser-lawsuits-trump/",
+          "title": "Colorado attorney general lawsuits against Trump tracker (The Colorado Sun)",
+          "date": "2026-06-17",
+          "quote": "Weiser sued to block Trump’s attempt to end birthright citizenship, which guarantees that people born in the U.S. are citizens, regardless of whether their parents are in the country legally."
+        },
+        {
+          "url": "https://coloradosun.com/2025/08/04/colorado-attorney-general-phil-weiser-lawsuits-trump/",
+          "title": "Colorado attorney general lawsuits against Trump tracker (The Colorado Sun)",
+          "date": "2026-06-17",
+          "quote": "Weiser sued to block Elon Musk and the Department of Government Efficiency, known as DOGE, from accessing private taxpayer data."
+        }
+      ]
+    }
+  ],
+  "stakes": [
+    {
+      "area": "Your money",
+      "text": "Colorado's 2025-26 budget counts on $14 billion in federal funds, $7.8 billion of it for Medicaid. The governor's office says litigation has saved more than $868 million in funds since Dec. 5.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2025/06/17/colorado-tracks-federal-funds-at-risk-of-cuts-by-trump-administration-c847bc80-501b-47a8-827c-b35371314d0c",
+          "title": "Colorado tracks federal funds at risk of cuts by Trump administration (Colorado Politics)",
+          "date": "2025-06-17",
+          "quote": "The 2025-26 state budget shows that Colorado anticipates $14 billion in federal funds, with $7.8 billion allocated to cover Medicaid costs."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/01/10/frozen-funds-vetoes-and-lawsuits-why-colorado-says-its-in-trumps-crosshairs/",
+          "title": "Frozen funds, vetoes and lawsuits: Why Colorado says it's in Trump's crosshairs (Colorado Politics)",
+          "date": "2026-01-10",
+          "quote": "According to the governor’s office, since Dec. 5, Colorado has fought the federal government to save more than $868 million in funds."
+        }
+      ]
+    },
+    {
+      "area": "Your money",
+      "text": "The suits cost Colorado more than $600,000 in 2025, and lawmakers allowed more than $1 million to be spent. Weiser says the cost is worth it. No 2026 cost figure was found.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/01/10/frozen-funds-vetoes-and-lawsuits-why-colorado-says-its-in-trumps-crosshairs/",
+          "title": "Frozen funds, vetoes and lawsuits: Why Colorado says it's in Trump's crosshairs (Colorado Politics)",
+          "date": "2026-01-10",
+          "quote": "The scores of lawsuit he has filed this time around have so far cost Colorado more than $600,000 in 2025."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/01/10/frozen-funds-vetoes-and-lawsuits-why-colorado-says-its-in-trumps-crosshairs/",
+          "title": "Frozen funds, vetoes and lawsuits: Why Colorado says it's in Trump's crosshairs (Colorado Politics)",
+          "date": "2026-01-10",
+          "quote": "In 2025, the Democratic-led Colorado legislature backed Weiser’s litigation campaign, giving Polis administration the authority to spend more than $1 million to fund legal battles against the Trump administration."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/01/10/frozen-funds-vetoes-and-lawsuits-why-colorado-says-its-in-trumps-crosshairs/",
+          "title": "Frozen funds, vetoes and lawsuits: Why Colorado says it's in Trump's crosshairs (Colorado Politics)",
+          "date": "2026-01-10",
+          "quote": "Weiser maintained that the cost is worth it, since the lawsuits are meant to recoup billions in federal dollars earmarked for projects throughout Colorado."
+        }
+      ]
+    },
+    {
+      "area": "The economy",
+      "text": "A February 2026 suit challenges the cancellation of $8 billion in energy and infrastructure awards. More than $600 million of that was for Colorado projects.",
+      "sources": [
+        {
+          "url": "https://www.kkco11news.com/2026/02/19/colorado-challenges-trump-administrations-600m-energy-funding-cuts",
+          "title": "Colorado challenges Trump administration’s $600M energy funding cuts (KKCO 11 News)",
+          "date": "2026-02-19",
+          "quote": "cancel $8 billion in energy and infrastructure funding nationwide, including more than $600 million in Colorado projects."
+        }
+      ]
+    },
+    {
+      "area": "Rights and freedoms",
+      "text": "The public-charge rule lets officers weigh more benefits when deciding green-card cases. The Department of Homeland Security estimates about 950,000 people nationwide could drop out of or avoid public benefits.",
+      "sources": [
+        {
+          "url": "https://www.denvergazette.com/2026/09/14/green-card-applications-colorado-lawsuit-trump-rule/",
+          "title": "Colorado AG Phil Weiser files 82nd lawsuit against Trump administration over public charge rule (Denver Gazette)",
+          "date": "2026-09-14",
+          "quote": "The Department of Homeland Security, which announced the change in July, estimated that roughly 950,000 people could disenroll from or avoid public benefits as a result."
+        }
+      ]
+    },
+    {
+      "area": "Elections",
+      "text": "Colorado joined 24 states and Washington, D.C., in suing over Postal Service rules that could limit who gets a mail ballot. The Supreme Court left a freeze on those rules in place for 2026.",
+      "sources": [
+        {
+          "url": "https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260914SCOTUS.html",
+          "title": "Victory for Voters: Supreme Court Determines Postal Service May Not Enact Changes ahead of 2026 General Election (Colorado Secretary of State)",
+          "date": "2026-09-14",
+          "quote": "On August 26, Colorado joined 24 states and the District of Columbia in suing the United States Postal Service to stop the Postal Service from limiting who can receive a mail ballot."
+        },
+        {
+          "url": "https://www.votebeat.org/national/2026/09/15/trump-mail-voting-executive-order-supreme-court-decision-2026-election/",
+          "title": "Supreme Court blocks Trump's proposed mail ballot restrictions for 2026 election (Votebeat)",
+          "date": "2026-09-15",
+          "quote": "In a brief, unsigned ruling, the court kept in place a lower court’s freeze on the restrictions."
+        }
+      ]
+    }
+  ],
+  "case_for": [
+    {
+      "text": "Weiser says he sues only when the federal government breaks the law in a way that harms Colorado. He says Congress had already set aside the money at issue.",
+      "sources": [
+        {
+          "url": "https://www.yahoo.com/news/attorney-general-defends-filing-dozens-120228651.html",
+          "title": "Attorney general defends filing dozens of cases against Trump administration (KDVR via Yahoo News)",
+          "date": "2025-04-08",
+          "quote": "In every single one of these cases, I ask, 'Did the federal government just violate the law in a way that harms Colorado?' And every time the answer is yes and yes"
+        },
+        {
+          "url": "https://www.yahoo.com/news/attorney-general-defends-filing-dozens-120228651.html",
+          "title": "Attorney general defends filing dozens of cases against Trump administration (KDVR via Yahoo News)",
+          "date": "2025-04-08",
+          "quote": "All of these funds are mandated by Congress. The president does not have the right to say, 'I'm not spending those funds.'"
+        }
+      ]
+    },
+    {
+      "text": "Colorado Politics reported that many suits succeeded in lower courts and restored funds, though the litigation is far from over.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/01/10/frozen-funds-vetoes-and-lawsuits-why-colorado-says-its-in-trumps-crosshairs/",
+          "title": "Frozen funds, vetoes and lawsuits: Why Colorado says it's in Trump's crosshairs (Colorado Politics)",
+          "date": "2026-01-10",
+          "quote": "Many of those lawsuits have succeeded at the lower court levels and resulted in restoring funds, though the litigation is far from over."
+        }
+      ]
+    }
+  ],
+  "case_against": [
+    {
+      "text": "Michael Allen, the Republican nominee for attorney general, says he would keep \"legitimate\" cases but drop those where \"the law is not on our side, or it appears that the lawsuit was more politically motivated.\"",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2026/10/06/michael-allen-jena-griswold-colorado-attorney-general-election-voter-guide/",
+          "title": "Michael Allen and Jena Griswold on the issues in the attorney general race (The Colorado Sun)",
+          "date": "2026-10-06",
+          "quote": "He said he would continue to pursue “legitimate” cases, but would drop ones where “the law is not on our side, or it appears that the lawsuit was more politically motivated.”"
+        }
+      ]
+    },
+    {
+      "text": "Rep. Jeff Crank, a Colorado Springs Republican, opposed moving Space Command to Alabama but called the state's lawsuit over it \"constitutionally laughable.\" He says the money would do more recruiting aerospace companies.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2026/10/07/jeff-crank-jessica-killin-issue-guide-colorado/",
+          "title": "Jeff Crank and Jessica Killin on the issues in the 5th Congressional District (The Colorado Sun)",
+          "date": "2026-10-07",
+          "quote": "Crank called the lawsuit “constitutionally laughable” and said the state should use its money for more productive endeavors such as working to entice aerospace companies to move to the state."
+        }
+      ]
+    },
+    {
+      "text": "Critics say cost and politics deserve scrutiny. George Brauchler, a district attorney and Gazette columnist, wrote that lawsuit announcements sped up as Weiser competed for attention in the governor's race. Axios said the lawsuits delivered substantial results and boosted his profile.",
+      "sources": [
+        {
+          "url": "https://gazette.com/?p=1435567",
+          "title": "SCOTUS: 3, Weiser: 0 — Colorado: embarrassed (George Brauchler, The Gazette)",
+          "date": "2025-11-20",
+          "quote": "The AG’s lawsuit announcements have picked up significant pace as he battles with his political opponent for earned media in the race for governor"
+        },
+        {
+          "url": "https://www.axios.com/local/denver/2026/01/09/colorado-phil-weiser-lawsuit-trump-50",
+          "title": "Colorado AG hits Trump with 50th lawsuit (Axios Denver)",
+          "date": "2026-01-09",
+          "quote": "delivering substantial results and boosting his profile as he runs for governor",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "text": "Republican nominee Victor Marx says he wants to build relationships with the White House. The administration says its funding actions fight waste and fraud.",
+      "sources": [
+        {
+          "url": "https://www.cbsnews.com/colorado/news/weiser-marx-in-race-to-succeed-polis-as-colorado-governor/",
+          "title": "Weiser, Marx in race to succeed Polis as Colorado governor (CBS Colorado)",
+          "date": "2026-10-14",
+          "quote": "He says he wants to build relationships with the White House."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2025/06/17/colorado-tracks-federal-funds-at-risk-of-cuts-by-trump-administration-c847bc80-501b-47a8-827c-b35371314d0c",
+          "title": "Colorado tracks federal funds at risk of cuts by Trump administration (Colorado Politics)",
+          "date": "2025-06-17",
+          "quote": "The Trump administration has been pushing to reduce what it described as a federal government that is too bloated, with too much money being lost to waste and fraud."
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "Who wins the attorney general race shapes what happens next, though less than it might seem. Allen says he would likely continue \"a big chunk\" of the current cases.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2026/10/06/michael-allen-jena-griswold-colorado-attorney-general-election-voter-guide/",
+          "title": "Michael Allen and Jena Griswold on the issues in the attorney general race (The Colorado Sun)",
+          "date": "2026-10-06",
+          "quote": "I would guess that there’s a big chunk of those that we would continue and maybe some that we wouldn’t continue"
+        }
+      ]
+    },
+    {
+      "text": "Most rulings are preliminary and on appeal, so how much money Colorado keeps is not settled. Whether Colorado is singled out is disputed.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/01/10/frozen-funds-vetoes-and-lawsuits-why-colorado-says-its-in-trumps-crosshairs/",
+          "title": "Frozen funds, vetoes and lawsuits: Why Colorado says it's in Trump's crosshairs (Colorado Politics)",
+          "date": "2026-01-10",
+          "quote": "But whether Colorado is being singled out — and why — depends largely on who is asked."
+        }
+      ]
+    },
+    {
+      "text": "A fuller cost for 2026 and the total of federal money actually recovered were not found.",
+      "sources": []
+    }
+  ],
+  "measure": null,
+  "last_checked": "2026-10-16",
+  "research_notes": "Browser use: Claude in Chrome was not connected, so Axios Denver (403 to scripts) was read in the built-in browser pane in my own tab (marked via browser). Lawsuit count: 82 per the Denver Gazette (Sept. 14, 2026) and CBS Colorado (Oct. 14, 2026), both citing the attorney general's office; the Colorado Sun tracker (updated June 17, 2026) has 66 and is the source for outcomes (36 blocked / 8 left in place / 22 pending), which are now stale for the 16 cases filed since. The Sun counts cases Weiser 'brought', all joined with other states; a rival campaign (Michael Bennet's, in the primary) said Weiser led only 2 of them; I did not fetch that statement. Money figures ($868 million, $282 million) come from the governor's office via Colorado Politics and are the state's own claims. The Brauchler column is opinion; I quoted only the sentence about announcement timing and avoided its other language. Axios Denver was read in the built-in browser pane; only the first paragraphs were visible (paywall). Marx's quote comes from CBS Colorado's voter guide; I did not find his statements about the lawsuits themselves. Searches were cut off by a shared search limit before I could look for a Republican-leaning source criticizing the lawsuits as wasteful, so case_against leans on opinion and campaign context. Weiser and Marx are the nominees for governor, which is context for every claim about motives. Editor, 2026-10-16: added Allen and Crank from the Colorado Sun issue guides to give the opposing case a policy argument, not only a timing complaint."
+}

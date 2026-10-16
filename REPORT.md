@@ -229,6 +229,22 @@ One direction reversal (Victor Marx on health coverage: 2 against 4, resolved to
 
 In all: 30 codes changed to a different 1 to 5 value, 16 positions retyped as inferred (10 of them with no value change), 21 positions removed (325 to 304), one quote extended to carry its question. Coverage after: 23 candidates over the bar for a full interview, 36 with some positions below it, 15 with none, exactly as before; no candidate crossed the bar in either direction, and the five unranked House races stay unranked (item 66). The largest drops were Greg Lopez (14 to 10), Victor Marx (15 to 13) and Melat Kiros (11 to 9); Kiros and Christy Peterson now sit exactly at the bar in CD1. Seven quotes are flagged for the next source pass because the answer's question lives only in the note, or the quote starts mid-sentence (Escarcega and Wright on the combined NN and 87 question, Baisley on H.R. 1 and on deportation, Marx on Amendment 83, Crow's "I'm a hard no", Kiros on the budget law).
 
+## More info explainers, October 16, 2026
+
+Every interview statement now has a "More info" button under it. It opens a panel that says what the question means in everyday words, what agreeing and disagreeing amount to, where things stand today, what is at stake by area (your money, the economy, the environment, public services, health, safety, rights, elections, how government works), each side's strongest case, and what is still uncertain. Every line carries a numbered link to its source. The idea came from the Codex build's button; ours goes further because John found that one explained what a measure does but not what it would mean for his bills or the environment.
+
+| Check | Result |
+|---|---|
+| Explainers | 25 of 25 statements |
+| Supporting quotes found on their pages by script | 733 |
+| Quotes not found | 0 |
+| Quotes from pages read in a browser (sites that block scripts) | 69 |
+| Browser and accessibility tests | 41 pass, including the dialog open at 1280px and 360px |
+
+How it was made: five research agents gathered sources from one written brief (`research/explainers-brief-2026-10-16.md`), and the main session edited every file for accuracy and tone. The tone is blunt and factual, never a recommendation (DECISIONS.md items 77 to 82). The explainers are background only and change no match, position or measure lean.
+
+Known gaps, each stated inside the explainer it affects: Colorado's building-emissions share comes from 2015 and 2020 estimates because the 2025 state inventory sits in a viewer scripts cannot read; the gas-versus-electric bill comparison rests on the gas industry's trade group plus national lab work, and says so; no independent jobs estimate was found for Proposition 137; the latest out-of-state abortion count is 2023; deportation figures come from a live federal-data dashboard that will change.
+
 ## Phases and time
 
 Times are Mountain Daylight Time on October 14, 2026, from the session's own log and the commit history. Research ran in parallel with the build, so phases overlap.

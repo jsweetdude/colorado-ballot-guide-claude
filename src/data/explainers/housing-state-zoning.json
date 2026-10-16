@@ -1,0 +1,320 @@
+{
+  "id": "housing-state-zoning",
+  "plain": "This asks whether the state should be able to override local zoning to allow more housing. Colorado did so in 2024 with laws on backyard homes, housing near transit, parking and who can share a home.",
+  "agree_means": "Agreeing supports state laws that override local zoning to allow more housing, like Colorado’s 2024 laws on backyard homes, density near transit and occupancy limits.",
+  "disagree_means": "Disagreeing leaves zoning decisions to cities and counties and opposes the 2024 state laws.",
+  "now": [
+    {
+      "text": "The 2024 laws require many cities to allow backyard homes (ADUs), more homes near transit, and end limits on unrelated roommates. Thirty-two local governments must zone for more housing near transit by December 31, 2027.",
+      "sources": [
+        {
+          "url": "https://dlg.colorado.gov/accessory-dwelling-units",
+          "title": "Accessory Dwelling Units, HB24-1152 (Colorado Department of Local Affairs)",
+          "date": "2026-10-16",
+          "quote": "Generally, by June 30, 2025, Subject Jurisdictions must allow one Accessory Dwelling Unit (ADU) where Single-Unit Detached Dwellings are allowed in addition to other requirements and standards.",
+          "date_basis": "accessed",
+          "via": "browser"
+        },
+        {
+          "url": "https://dlg.colorado.gov/transit-oriented-communities",
+          "title": "Transit-Oriented Communities, HB24-1313 (Colorado Department of Local Affairs)",
+          "date": "2026-10-16",
+          "quote": "the following 32 jurisdictions are Transit-Oriented Communities based on the criteria listed above",
+          "date_basis": "accessed",
+          "via": "browser"
+        },
+        {
+          "url": "https://dlg.colorado.gov/transit-oriented-communities",
+          "title": "Transit-Oriented Communities, HB24-1313 (Colorado Department of Local Affairs)",
+          "date": "2026-10-16",
+          "quote": "December 31, 2027 State law requires meeting the Housing Opportunity Goal by this date, DOLA gives notice of any non-compliance",
+          "date_basis": "accessed",
+          "via": "browser"
+        },
+        {
+          "url": "https://coloradosun.com/2024/05/08/colorado-land-use-bills-legislature-2024/",
+          "title": "The six major Colorado land-use bills passed by Democrats in the legislature and aimed at housing affordability (The Colorado Sun)",
+          "date": "2024-05-08",
+          "quote": "But starting July 1, local governments will no longer be able to impose those rules under House Bill 1007, which was signed into law in April by the governor."
+        }
+      ]
+    },
+    {
+      "text": "Local rules are restrictive. A statewide study found zoning bans most duplexes, townhouses and apartments across Colorado. The National Zoning Atlas says Colorado has the fifth highest home prices and third highest rent in the nation.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2025/07/01/national-zoning-atlas-study-colorado-land-use-apartments-townhomes-lot-sizes-parking/",
+          "title": "Nearly 70% of Colorado land zoned for housing prohibits the most affordable types of homes, study finds (The Colorado Sun)",
+          "date": "2025-07-01",
+          "quote": "Local zoning codes in Colorado overwhelmingly prohibit duplexes, townhouses, condominiums and apartment units, as well as single-family homes on small lots, effectively outlawing the types of housing that real estate experts say are most affordable to build."
+        },
+        {
+          "url": "https://coloradosun.com/2025/07/01/national-zoning-atlas-study-colorado-land-use-apartments-townhomes-lot-sizes-parking/",
+          "title": "Nearly 70% of Colorado land zoned for housing prohibits the most affordable types of homes, study finds (The Colorado Sun)",
+          "date": "2025-07-01",
+          "quote": "Colorado has the fifth highest home prices and third highest rent in the country, according to a Zoning Atlas analysis of American Community Survey data."
+        }
+      ]
+    },
+    {
+      "text": "Some residents are pushing back. Lakewood voters repealed new zoning in April 2026, and Littleton voters wrote single-family zoning into its charter in 2025. Lawmakers dropped small-lot bills in 2026.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2026/04/08/lakewood-housing-voters-strike-down-pro-density-zoning/",
+          "title": "Lakewood voters strike down pro-density zoning as repeal campaign dominates (The Colorado Sun, via Denverite)",
+          "date": "2026-04-08",
+          "quote": "Lakewood voters decisively repealed the city’s new zoning laws on Tuesday night, striking down a change that would have allowed more duplexes, triplexes and other multi-unit housing across the city’s suburban neighborhoods."
+        },
+        {
+          "url": "https://coloradosun.com/2025/11/04/littleton-ballot-question-3a-results/",
+          "title": "Littleton Ballot Question 3A: Voters approve new restrictions on homebuilding (The Colorado Sun)",
+          "date": "2025-11-04",
+          "quote": "Littleton voters Tuesday night approved a ballot measure enshrining single-family zoning in the city’s charter, effectively blocking local officials from allowing denser forms of housing across most of the southern Denver suburb."
+        },
+        {
+          "url": "https://coloradosun.com/2026/05/05/colorado-lawmakers-abandon-smaller-lots-housing-hb-1114-hb-1308/",
+          "title": "Colorado state lawmakers abandon efforts to legalize smaller lots for single-family homes (The Colorado Sun)",
+          "date": "2026-05-05",
+          "quote": "Colorado Democrats abandoned a pair of bills aimed at legalizing homebuilding on smaller lots, delivering a rare win to critics of the state’s steady push for more housing."
+        }
+      ]
+    }
+  ],
+  "stakes": [
+    {
+      "area": "Your money",
+      "text": "Prices are easing but still high. The median Colorado home sold for $540,000 in September 2026, down 1.6 percent in a year. Only 4 percent of Colorado occupations pay enough to buy a home in their town. Average Denver rent fell 3.4 percent to $1,758, which is credited to new apartments.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2026/10/14/housing-affordability-median-prices-colorado/",
+          "title": "Housing is slightly more affordable in Colorado, a report shows (The Colorado Sun)",
+          "date": "2026-10-14",
+          "quote": "Overall median sales prices statewide dropped to $540,000 last month, down 1.6% from a year ago."
+        },
+        {
+          "url": "https://coloradosun.com/2026/10/14/housing-affordability-median-prices-colorado/",
+          "title": "Housing is slightly more affordable in Colorado, a report shows (The Colorado Sun)",
+          "date": "2026-10-14",
+          "quote": "Those jobs are part of the 4% of Colorado occupations that can afford a house in their town, down from 13% in 2020, according to NHC’s analysis."
+        },
+        {
+          "url": "https://coloradosun.com/2026/04/25/denver-renters-market-average-rents/",
+          "title": "Metro Denver is still in a renter’s market (The Colorado Sun)",
+          "date": "2026-04-25",
+          "quote": "Average rents also dropped 3.4% from a year ago to $1,758, and were barely up $4 since December."
+        },
+        {
+          "url": "https://coloradosun.com/2026/04/25/denver-renters-market-average-rents/",
+          "title": "Metro Denver is still in a renter’s market (The Colorado Sun)",
+          "date": "2026-04-25",
+          "quote": "The plunge is credited to the rental market trying to absorb tens of thousands of new apartments that have been built in the past five years."
+        }
+      ]
+    },
+    {
+      "area": "Your money",
+      "text": "Supporters say loosening zoning lowers costs, and a Pew study found Minneapolis rents grew more slowly after reforms. But the Colorado Sun reported it is hard to say how much housing the 2024 laws will produce.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2024/05/08/colorado-land-use-bills-legislature-2024/",
+          "title": "The six major Colorado land-use bills passed by Democrats in the legislature and aimed at housing affordability (The Colorado Sun)",
+          "date": "2024-05-08",
+          "quote": "A Pew Charitable Trusts study found that apartment construction boomed and rents grew more slowly in Minneapolis than in the rest of Minnesota after the city adopted a series of land use reforms, including increasing how much housing could be built along transit corridors."
+        },
+        {
+          "url": "https://coloradosun.com/2024/05/08/colorado-land-use-bills-legislature-2024/",
+          "title": "The six major Colorado land-use bills passed by Democrats in the legislature and aimed at housing affordability (The Colorado Sun)",
+          "date": "2024-05-08",
+          "quote": "It’s difficult to say how much housing the measure would actually produce."
+        }
+      ]
+    },
+    {
+      "area": "The economy",
+      "text": "Zoning is one of many costs. A United Way report found building materials were a challenge for 97 percent of housing professionals surveyed and labor for 91 percent. It expects a shortage of 45,000 construction workers by 2027.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2025/07/15/colorado-housing-affordability-crisis-united-way-report/",
+          "title": "Colorado’s housing crisis won’t be fixed by zoning alone (The Colorado Sun)",
+          "date": "2025-07-15",
+          "quote": "Building material costs were labeled a challenge by 97% of those surveyed; 91% pointed to the cost and supply of labor."
+        },
+        {
+          "url": "https://coloradosun.com/2025/07/15/colorado-housing-affordability-crisis-united-way-report/",
+          "title": "Colorado’s housing crisis won’t be fixed by zoning alone (The Colorado Sun)",
+          "date": "2025-07-15",
+          "quote": "the state’s shortage of construction workers, which the report expects to grow to 45,000 by 2027."
+        }
+      ]
+    },
+    {
+      "area": "The environment",
+      "text": "The state’s climate plan says housing type and location affect pollution. Townhouses and apartments use less energy than detached homes, and homes near transit shorten trips. They say outward growth adds driving, uses more water and open land, and raises wildfire risk.",
+      "sources": [
+        {
+          "url": "https://drive.google.com/uc?export=download&id=1ltnNkUsGx_7ZgpAR1LeFzLczQu7DRbZR",
+          "title": "Colorado Greenhouse Gas Pollution Reduction Roadmap 2.0 (Colorado Energy Office, February 2024)",
+          "date": "2024-02-01",
+          "quote": "Housing types such as townhouses and apartments use less energy than single unit detached homes because they are typically smaller, and shared walls reduce losses from heating and cooling."
+        },
+        {
+          "url": "https://drive.google.com/uc?export=download&id=1ltnNkUsGx_7ZgpAR1LeFzLczQu7DRbZR",
+          "title": "Colorado Greenhouse Gas Pollution Reduction Roadmap 2.0 (Colorado Energy Office, February 2024)",
+          "date": "2024-02-01",
+          "quote": "Housing near transit and daily needs reduces trip lengths and makes it more likely that residents will choose to walk, bike, or take transit instead of drive."
+        },
+        {
+          "url": "https://drive.google.com/uc?export=download&id=1ltnNkUsGx_7ZgpAR1LeFzLczQu7DRbZR",
+          "title": "Colorado Greenhouse Gas Pollution Reduction Roadmap 2.0 (Colorado Energy Office, February 2024)",
+          "date": "2024-02-01",
+          "quote": "which not only leads to more driving and air pollution emissions, but also consumes open space and agricultural land, uses more of our scarce water resources, and often puts more residents at greater risk of wildfires."
+        }
+      ]
+    },
+    {
+      "area": "Public services",
+      "text": "City officials say they need the power to limit density to prevent traffic congestion and protect limited water. The state offered about $35 million over four years to cities that comply, and the governor ordered grants steered away from those that do not.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2026/05/05/colorado-lawmakers-abandon-smaller-lots-housing-hb-1114-hb-1308/",
+          "title": "Colorado state lawmakers abandon efforts to legalize smaller lots for single-family homes (The Colorado Sun)",
+          "date": "2026-05-05",
+          "quote": "The effort encountered fierce resistance from city officials across the state, who said they need the ability to limit housing density to prevent traffic congestion and protect limited water resources."
+        },
+        {
+          "url": "https://coloradosun.com/2024/05/08/colorado-land-use-bills-legislature-2024/",
+          "title": "The six major Colorado land-use bills passed by Democrats in the legislature and aimed at housing affordability (The Colorado Sun)",
+          "date": "2024-05-08",
+          "quote": "The measure, a key piece of Polis’ housing agenda, includes $35 million in financial incentives over four years for communities that comply"
+        },
+        {
+          "url": "https://coloradosun.com/2025/11/04/littleton-ballot-question-3a-results/",
+          "title": "Littleton Ballot Question 3A: Voters approve new restrictions on homebuilding (The Colorado Sun)",
+          "date": "2025-11-04",
+          "quote": "This year Gov. Jared Polis also signed an executive order attempting to steer state grant dollars away from communities that don’t comply with the state’s housing rules."
+        }
+      ]
+    },
+    {
+      "area": "How government works",
+      "text": "The laws shift decisions from local councils and voters to the state. Opponents of the 2024 transit bill, some of them Democrats, called it usurping local control. Cities got the penalties removed, and the Colorado Municipal League said it could live with the final bills.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2024/05/08/colorado-land-use-bills-legislature-2024/",
+          "title": "The six major Colorado land-use bills passed by Democrats in the legislature and aimed at housing affordability (The Colorado Sun)",
+          "date": "2024-05-08",
+          "quote": "The governor hasn’t yet signed the bill, which was panned by Republicans and some Democrats as usurping local control."
+        },
+        {
+          "url": "https://coloradosun.com/2024/05/08/colorado-land-use-bills-legislature-2024/",
+          "title": "The six major Colorado land-use bills passed by Democrats in the legislature and aimed at housing affordability (The Colorado Sun)",
+          "date": "2024-05-08",
+          "quote": "We are pleased that the punitive measures in all of the bills were largely eliminated,"
+        }
+      ]
+    }
+  ],
+  "case_for": [
+    {
+      "text": "Sen. Faith Winter, a Broomfield Democrat and sponsor, says Coloradans are begging for more housing and the best place for density is near transit.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2024/05/08/colorado-land-use-bills-legislature-2024/",
+          "title": "The six major Colorado land-use bills passed by Democrats in the legislature and aimed at housing affordability (The Colorado Sun)",
+          "date": "2024-05-08",
+          "quote": "Coloradans are begging for more housing,"
+        },
+        {
+          "url": "https://coloradosun.com/2024/05/08/colorado-land-use-bills-legislature-2024/",
+          "title": "The six major Colorado land-use bills passed by Democrats in the legislature and aimed at housing affordability (The Colorado Sun)",
+          "date": "2024-05-08",
+          "quote": "there is no better place to build housing and increase density than near transit."
+        }
+      ]
+    },
+    {
+      "text": "Sen. Matt Ball, a Denver Democrat, says when every town restricts growth, costs keep rising.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2026/05/05/colorado-lawmakers-abandon-smaller-lots-housing-hb-1114-hb-1308/",
+          "title": "Colorado state lawmakers abandon efforts to legalize smaller lots for single-family homes (The Colorado Sun)",
+          "date": "2026-05-05",
+          "quote": "The truth is that when every locality has rules that restrict growth, the net impact of that is that costs just go up and up and up,"
+        }
+      ]
+    },
+    {
+      "text": "Sara Bronin, head of the National Zoning Atlas, says zoning in Colorado, as in other states, makes housing more expensive.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2025/07/01/national-zoning-atlas-study-colorado-land-use-apartments-townhomes-lot-sizes-parking/",
+          "title": "Nearly 70% of Colorado land zoned for housing prohibits the most affordable types of homes, study finds (The Colorado Sun)",
+          "date": "2025-07-01",
+          "quote": "Colorado is, sadly, typical of states across the country, which use zoning to thwart the production of housing, and — whether intentionally or not — use zoning to make housing more expensive,"
+        }
+      ]
+    }
+  ],
+  "case_against": [
+    {
+      "text": "House Minority Leader Jarvis Caldwell, a Republican, says people moved to their suburbs for larger lots and should be able to design their areas.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2026/05/05/colorado-lawmakers-abandon-smaller-lots-housing-hb-1114-hb-1308/",
+          "title": "Colorado state lawmakers abandon efforts to legalize smaller lots for single-family homes (The Colorado Sun)",
+          "date": "2026-05-05",
+          "quote": "Let them design their areas the way they want to."
+        }
+      ]
+    },
+    {
+      "text": "Karen Gordey, who led Lakewood’s repeal, says state action overrides voters.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2026/05/05/colorado-lawmakers-abandon-smaller-lots-housing-hb-1114-hb-1308/",
+          "title": "Colorado state lawmakers abandon efforts to legalize smaller lots for single-family homes (The Colorado Sun)",
+          "date": "2026-05-05",
+          "quote": "This is the state stepping in to override voters when it does not like the result,"
+        }
+      ]
+    },
+    {
+      "text": "Cities and neighborhood groups say one-size-fits-all rules ignore local traffic, water and character.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2026/05/05/colorado-lawmakers-abandon-smaller-lots-housing-hb-1114-hb-1308/",
+          "title": "Colorado state lawmakers abandon efforts to legalize smaller lots for single-family homes (The Colorado Sun)",
+          "date": "2026-05-05",
+          "quote": "The effort encountered fierce resistance from city officials across the state, who said they need the ability to limit housing density to prevent traffic congestion and protect limited water resources."
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "How much housing the 2024 laws will add. Cities must only allow denser housing, and builders must choose to build it. The transit-zoning deadline is December 2027.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2024/05/08/colorado-land-use-bills-legislature-2024/",
+          "title": "The six major Colorado land-use bills passed by Democrats in the legislature and aimed at housing affordability (The Colorado Sun)",
+          "date": "2024-05-08",
+          "quote": "Cities don’t have to develop multifamily housing themselves — they would just have to change their zoning laws to allow higher density, letting developers build more units."
+        }
+      ]
+    },
+    {
+      "text": "Whether local resistance will stall compliance. Littleton’s charter change puts it out of line with state law, and the governor has ordered state grants steered away from noncompliant towns.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2025/11/04/littleton-ballot-question-3a-results/",
+          "title": "Littleton Ballot Question 3A: Voters approve new restrictions on homebuilding (The Colorado Sun)",
+          "date": "2025-11-04",
+          "quote": "The amendment puts the city out of compliance with state law, rolling back a local ordinance allowing accessory dwelling units, or granny flats, in single-family neighborhoods."
+        }
+      ]
+    }
+  ],
+  "measure": null,
+  "last_checked": "2026-10-16",
+  "research_notes": "Method: the Colorado Department of Local Affairs pages return 403 to clients without a browser user agent, so I confirmed those quotes in the browser (marked via: browser). All other pages were fetched directly and every quote was checked against the fetched text. The Colorado legislature's own bill pages returned an error to automated fetches, so the 2024 laws are described from the Colorado Department of Local Affairs pages (ADU law HB24-1152, transit law HB24-1313) and the Colorado Sun's May 2024 summary (HB24-1007 on unrelated occupants was signed April 2024; HB24-1304 on parking was not used). The Sun's description of a 40-units-per-acre standard was left out because the state agency describes the final transit law as a formula-based goal. The shared web-search budget ran out mid-task. Not found: any measured effect of the 2024 laws on rents or prices, or a count of backyard homes permitted since the law took effect. The Sun credits falling Denver rents to a wave of new apartments, not to the 2024 laws. No home-rule legal analysis was found. Double-check: the Sun's 2024 article was written before the governor signed every bill, so details of HB24-1313 and HB24-1152 come from DOLA's current pages where possible. The $35 million incentive figure is from that 2024 article. The National Zoning Atlas figures were updated by the researchers in Sept 2025 for lot sizes (not used here). The Roadmap 2.0 environmental points are a state agency plan. Dates marked accessed have no publication date."
+}

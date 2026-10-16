@@ -1,0 +1,263 @@
+{
+  "id": "immigration-notify-ice",
+  "plain": "Amendment 81 would add a rule to Colorado's Constitution. Officials would have to notify federal immigration authorities after charging certain people whose legal status they cannot confirm. Those people are anyone charged with a violent crime, or with any crime if they have a prior felony.",
+  "agree_means": "Yes requires officers, jail staff and prosecutors to try to check legal status. They must notify the federal Department of Homeland Security within 72 hours of charging. It needs 55% of the vote.",
+  "disagree_means": "No keeps current law: agencies may help with federal criminal cases but not civil immigration enforcement, and counties set their own notification practices.",
+  "now": [
+    {
+      "text": "Colorado limits local help with civil immigration enforcement. A 2019 law bars detention based only on a civil immigration detainer. A 2025 law bars delaying a jail release for an immigration operation. Employees who break the sharing rules can be fined up to $50,000.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Colorado law currently permits state and local law enforcement to cooperate in the enforcement of federal criminal law, but limits state and local participation in civil immigration enforcement."
+        },
+        {
+          "url": "https://leg.colorado.gov/bills/hb19-1124",
+          "title": "HB19-1124 Protect CO Residents From Federal Gov Overreach (Colorado General Assembly)",
+          "date": "2019-05-28",
+          "quote": "The act prohibits a law enforcement officer from arresting or detaining an individual solely on the basis of a civil immigration detainer."
+        },
+        {
+          "url": "https://leg.colorado.gov/bills/sb25-276",
+          "title": "SB25-276 Protect Civil Rights Immigration Status (Colorado General Assembly)",
+          "date": "2025-05-23",
+          "quote": "The act prohibits the jail custodian from delaying a defendant's release for the purpose of an immigration enforcement operation."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Employees who violate these prohibitions may be subject to a fine of up to $50,000."
+        }
+      ]
+    },
+    {
+      "text": "No law requires police or jails to tell federal authorities when they charge someone. Practice varies: Jefferson and Douglas sheriffs notify ICE of every foreign-born booking, and Denver gave ICE advance notice of a release 84 times in 2024.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "However, neither federal nor state law require law enforcement agencies to notify federal immigration authorities when unlawfully present individuals are charged with crimes."
+        },
+        {
+          "url": "https://koaa.com/news/politics/scripps-news-denver-investigates-how-colorado-law-enforcement-agencies-respond-to-ice-detainers",
+          "title": "Denver7 Investigates: How CO law enforcement agencies respond to ICE detainers (KOAA)",
+          "date": "2025-01-21",
+          "quote": "In both Jefferson and Douglas counties, the sheriff's offices notify ICE any time a foreign-born inmate is booked into the jail."
+        },
+        {
+          "url": "https://koaa.com/news/politics/scripps-news-denver-investigates-how-colorado-law-enforcement-agencies-respond-to-ice-detainers",
+          "title": "Denver7 Investigates: How CO law enforcement agencies respond to ICE detainers (KOAA)",
+          "date": "2025-01-21",
+          "quote": "In 2024, DSD notified ICE 84 times ahead of an inmate's release."
+        }
+      ]
+    }
+  ],
+  "stakes": [
+    {
+      "area": "Safety",
+      "text": "Research is split on whether cooperating with ICE changes crime reporting. A 2024 study of the Secure Communities program found Hispanic victims reported fewer crimes. A 2021 analysis by the Center for Immigration Studies, which favors lower immigration, found immigrants report as often as the native-born.",
+      "sources": [
+        {
+          "url": "https://conference.nber.org/conf_papers/f197023/f197023.pdf",
+          "title": "Immigration Enforcement and Public Safety (NBER conference paper by Gonçalves, Jácome and Weisburst)",
+          "date": "2024-01-26",
+          "quote": "we find that the program reduced the likelihood that Hispanic victims reported crimes to police and increased the victimization of Hispanics."
+        },
+        {
+          "url": "https://cis.org/Report/Are-Immigrants-Less-Willing-Report-Crime",
+          "title": "Are Immigrants Less Willing to Report Crime? (Center for Immigration Studies)",
+          "date": "2021-10-14",
+          "quote": "immigrant victimizations are just as likely, and in some cases more likely, to be reported to police than crimes against the native-born.",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "area": "Rights and freedoms",
+      "text": "Notice comes at charging, not conviction, and with a prior felony even a traffic charge counts. Opponents say legal residents or people later cleared could face immigration action if they cannot prove status within 72 hours. Denver DA John Walsh says any charge against someone with a record would trigger a call to ICE. He says only proof of citizenship, such as a passport, would stop it.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "who are charged with any type of crime—including traffic violations, petty offenses, misdemeanors, and felonies."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "In all cases, the measure applies once the individual is formally charged with a crime, not at the time of arrest, and before any legal process has determined whether they are guilty or innocent."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "People who are legally present or who are found to not have committed any crime could be swept up in immigration enforcement actions if they are unable to prove their status in the measure’s strict 72-hour timeframe."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/09/12/immigration-reporting-measure-fuels-debate-over-colorados-role-with-ice/",
+          "title": "Immigration reporting measure fuels debate over Colorado’s role with ICE (Colorado Politics)",
+          "date": "2026-09-12",
+          "quote": "it would require law enforcement to contact ICE every time they charge someone who has a prior criminal record, unless that person happened to have proof of citizenship with them in the form of a birth certificate or passport, according to Denver District Attorney John Walsh."
+        }
+      ]
+    },
+    {
+      "area": "Public services",
+      "text": "State cost is small: $50,000 for Revenue and $10,000 for Natural Resources in 2026-27, from the General Fund. Most added workload falls on district attorney offices.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "the Department of Revenue requires $50,000 to access federal databases and make programming changes, and the Department of Natural Resources requires $10,000 to update computer systems."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Because this determination happens after charges are filed, most of the workload will fall on district attorney offices."
+        }
+      ]
+    },
+    {
+      "area": "How government works",
+      "text": "The rule would sit in the Constitution. Local policies now differ: Denver bars federal immigration authorities from city property such as courthouses, while El Paso County requires officers to notify them. In March 2026 a federal judge dismissed a Justice Department suit over Colorado's and Denver's laws.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Amendment 81 proposes amending the Colorado Constitution to:"
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "For example, the City and County of Denver expanded upon state law by prohibiting federal immigration authorities from accessing city-controlled property like courthouses."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Conversely, El Paso County requires officers to notify federal immigration authorities if they suspect that an individual in their custody does not have legal status."
+        },
+        {
+          "url": "https://wtop.com/national/2026/03/judge-throws-out-us-justice-department-lawsuit-challenging-sanctuary-laws-in-colorado-denver/",
+          "title": "Judge throws out US Justice Department lawsuit challenging sanctuary laws in Colorado, Denver (Associated Press via WTOP)",
+          "date": "2026-03-31",
+          "quote": "Colorado and Denver have the right to refuse to expend their resources to implement a federal regulatory program."
+        }
+      ]
+    }
+  ],
+  "case_for": [
+    {
+      "text": "Supporters, led by Advance Colorado, say state law now blocks officers from reporting violent offenders and repeat felons. They cite a possible $50,000 fine and say Amendment 81 removes that risk.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/09/12/immigration-reporting-measure-fuels-debate-over-colorados-role-with-ice/",
+          "title": "Immigration reporting measure fuels debate over Colorado’s role with ICE (Colorado Politics)",
+          "date": "2026-09-12",
+          "quote": "this gives Colorado law enforcement the ability to report violent criminals or repeat felons if they are here illegally without facing a $50,000 fine from the state."
+        }
+      ]
+    },
+    {
+      "text": "Supporters also say one statewide rule would replace a patchwork of local policies and help remove people who may be a public-safety threat.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "The measure creates a new uniform statewide standard for cooperation with federal immigration authorities."
+        }
+      ]
+    }
+  ],
+  "case_against": [
+    {
+      "text": "Opponents say a charge is an allegation, not guilt, and deportation should not follow before a fair trial. ACLU Colorado argues the measure violates the Constitution's due process clause.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Criminal charges are allegations, not findings of guilt, and individuals should not face potentially life-altering immigration consequences, including deportation, before receiving a fair trial."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/09/12/immigration-reporting-measure-fuels-debate-over-colorados-role-with-ice/",
+          "title": "Immigration reporting measure fuels debate over Colorado’s role with ICE (Colorado Politics)",
+          "date": "2026-09-12",
+          "quote": "Mendoza argued that Proposition 81 violates the Due Process Clause of the U.S. Constitution"
+        }
+      ]
+    },
+    {
+      "text": "Opponents, including several district attorneys, say it would erode trust. Denver DA Walsh says officers can now tell victims and witnesses they do not take part in federal civil immigration enforcement. They could not under Amendment 81.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/09/12/immigration-reporting-measure-fuels-debate-over-colorados-role-with-ice/",
+          "title": "Immigration reporting measure fuels debate over Colorado’s role with ICE (Colorado Politics)",
+          "date": "2026-09-12",
+          "quote": "Today, state and local law enforcement in this state can truthfully tell the victims and witnesses to a crime that we do not participate in federal civil immigration enforcement"
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "This breakdown in trust may deter some individuals from reporting crimes, cooperating with investigations, or seeking assistance for fear of subjecting themselves or members of their community to immigration enforcement."
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "No one tracks how many people Amendment 81 would affect. Agencies do not publish counts of unlawfully present people charged with violent crimes or after a prior felony.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "State and local authorities do not currently track or publish data on how many unlawfully present individuals are charged with crimes of violence or are charged with any crime after a prior felony conviction."
+        }
+      ]
+    },
+    {
+      "text": "Whether current law really bars officers from reporting is disputed. Advance Colorado says it does. Some sheriffs already tell ICE about bookings and releases.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/09/12/immigration-reporting-measure-fuels-debate-over-colorados-role-with-ice/",
+          "title": "Immigration reporting measure fuels debate over Colorado’s role with ICE (Colorado Politics)",
+          "date": "2026-09-12",
+          "quote": "state law now bars law enforcement from proactively reporting violent offenders or repeat felons to the U.S. Department of Homeland Security."
+        },
+        {
+          "url": "https://koaa.com/news/politics/scripps-news-denver-investigates-how-colorado-law-enforcement-agencies-respond-to-ice-detainers",
+          "title": "Denver7 Investigates: How CO law enforcement agencies respond to ICE detainers (KOAA)",
+          "date": "2025-01-21",
+          "quote": "However, spokespersons for the departments said they will notify ICE when the inmates are being released."
+        }
+      ]
+    },
+    {
+      "text": "Opponents say the measure does not define \"reasonable effort\" or \"lawful presence,\" leaving officers to decide how to check status.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "By failing to define key terms such as “reasonable effort” or “lawful presence,” enforcement is left up to the discretion of individual officers"
+        }
+      ]
+    }
+  ],
+  "measure": "amendment-81",
+  "last_checked": "2026-10-16",
+  "research_notes": "Claude in Chrome was not connected, so I used the built-in Browser pane (own tab) for the Center for Immigration Studies report (curl returned 403); its quote was checked against the rendered page text afterward (matched). The NBER paper studies the Secure Communities program, not notification at charging, so it is an analogy, not a test of Amendment 81. The CIS report uses 2017-2019 national survey data. I found no Colorado-specific data on crime reporting or on how many people would be notified. I did not verify a '2023 law' (none appeared in any source read); the laws cited are HB19-1124 and SB25-276. The $50,000 fine in the Blue Book applies to sharing certain nonpublic personal information; Advance Colorado's claim that it covers reporting charges is theirs and is disputed by sheriff practice, so I framed it as disputed. Colorado Politics calls the measure 'Proposition 81' in places. Jail-cost figures beyond the fiscal note were not found. Web search budget ran out mid-session."
+}

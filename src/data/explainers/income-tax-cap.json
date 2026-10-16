@@ -1,0 +1,232 @@
+{
+  "id": "income-tax-cap",
+  "plain": "Proposition 136 would write Colorado’s current 4.4 percent income tax rate into state law as a maximum, starting in 2027. It does not change anyone’s rate today.",
+  "agree_means": "Agreeing means voting for Proposition 136. Rates stay at 4.4 percent for everyone, and the higher rates on top earners in Amendment 87 would be blocked or put in legal doubt.",
+  "disagree_means": "Disagreeing means voting against Proposition 136. The rate stays 4.4 percent for now, but no cap is added to state law, and higher rates for some taxpayers stay possible.",
+  "now": [
+    {
+      "text": "Colorado’s flat rate is 4.4 percent. A married couple with $130,000 of income may have about $100,000 taxable and owe $4,400. Voters set the 4.4 percent rate in 2022.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "A married couple earning $130,000 in income per year may have about $100,000 in taxable income and owe $4,400 in taxes annually."
+        },
+        {
+          "url": "https://commonsenseinstituteus.org/wp-content/uploads/2026/08/CSI-Report-CO-Initiative-232.pdf",
+          "title": "Colorado Initiative 232: Income Tax Rate Cap (Common Sense Institute)",
+          "date": "2026-08-03",
+          "quote": "In 2022, voters approved Proposition 121, bringing the rate down to its current level of 4.4%."
+        }
+      ]
+    },
+    {
+      "text": "The Colorado Constitution already requires voter approval of any income tax rate increase. Proposition 136 does not change that process. The legislature or a citizen initiative could still lower the rate.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "The Colorado Constitution already requires that any tax rate increases be approved by voters."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "The state legislature or a citizen initiative may reduce the state income tax rate."
+        }
+      ]
+    },
+    {
+      "text": "Advance Colorado, a conservative advocacy group, put it on the ballot as an answer to Amendment 87, the graduated income tax. Both need only a simple majority.",
+      "sources": [
+        {
+          "url": "https://www.postindependent.com/news/rival-ballot-coloradans-tax-lower-incomes-less-higher-earners-more/",
+          "title": "Rival ballot initiatives ask Coloradans: Tax lower incomes less and higher earners more — or maintain the status quo? (Post Independent)",
+          "date": "2026-10-03",
+          "quote": "Proposition 136, led by the conservative think tank Advance Colorado, would cap the state’s flat tax rate, which applies to all Coloradans, regardless of income, at its current rate of 4.4%."
+        },
+        {
+          "url": "https://www.postindependent.com/news/rival-ballot-coloradans-tax-lower-incomes-less-higher-earners-more/",
+          "title": "Rival ballot initiatives ask Coloradans: Tax lower incomes less and higher earners more — or maintain the status quo? (Post Independent)",
+          "date": "2026-10-03",
+          "quote": "Advance Colorado Executive Vice President Kristi Burton Brown described Prop 136 as a “countermeasure to the progressive income tax” proposed by Amendment 87."
+        },
+        {
+          "url": "https://www.postindependent.com/news/rival-ballot-coloradans-tax-lower-incomes-less-higher-earners-more/",
+          "title": "Rival ballot initiatives ask Coloradans: Tax lower incomes less and higher earners more — or maintain the status quo? (Post Independent)",
+          "date": "2026-10-03",
+          "quote": "Both Amendment 87 and Prop 136 measures require a simple majority to pass."
+        }
+      ]
+    }
+  ],
+  "stakes": [
+    {
+      "area": "Your money",
+      "text": "By itself, Proposition 136 changes no one’s tax bill. The Blue Book finds no fiscal impact. Its effect is indirect. If both measures pass, a court may decide whether the cut of up to $325 in Amendment 87 survives.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "This results in no change to state or local government revenue or spending."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "For individuals and businesses with taxable incomes of less than $500,000, the measure decreases the amount of income taxes owed, up to a maximum reduction of $325 per taxpayer."
+        }
+      ]
+    },
+    {
+      "area": "Public services",
+      "text": "If 136 beats Amendment 87, the state would not collect the roughly $2 billion a year that measure would send to schools, health care and child care. Advance Colorado says the budget problems come from overspending.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "By replacing the state flat income tax with a graduated income tax, the measure increases revenue from income taxes by an estimated $958.4 million in budget year 2026-27, $1.972 billion in budget year 2027-28"
+        },
+        {
+          "url": "https://www.postindependent.com/news/rival-ballot-coloradans-tax-lower-incomes-less-higher-earners-more/",
+          "title": "Rival ballot initiatives ask Coloradans: Tax lower incomes less and higher earners more — or maintain the status quo? (Post Independent)",
+          "date": "2026-10-03",
+          "quote": "She said the state legislature’s budget issues are the result of overspending on “unsustainable programs.”"
+        }
+      ]
+    },
+    {
+      "area": "The economy",
+      "text": "The Tax Foundation, a market-oriented think tank, says 4.4 percent keeps Colorado competitive with neighbors that have cut rates. Amendment 87’s backers say rates are not the main reason people move.",
+      "sources": [
+        {
+          "url": "https://taxfoundation.org/blog/colorado-income-tax-amendment-87-proposition-136/",
+          "title": "Colorado Income Tax | Amendment 87 & Proposition 136 (Tax Foundation)",
+          "date": "2026-10-02",
+          "quote": "At a 4.4 percent rate, Colorado is competitive with regional peers, many of which have cut income tax rates in recent years."
+        },
+        {
+          "url": "https://www.governing.com/finance/colorado-voters-weigh-a-tax-transformation",
+          "title": "Colorado Voters Weigh a Tax Transformation (Governing)",
+          "date": "2026-09-28",
+          "quote": "If income tax was a big motivator, more people would already be departing for neighboring income-tax-free Wyoming, she says."
+        }
+      ]
+    },
+    {
+      "area": "How government works",
+      "text": "Proposition 136 is an ordinary law, not a constitutional change. Voters or the legislature could change it later. Its main effect is on this year’s contest with Amendment 87.",
+      "sources": [
+        {
+          "url": "https://taxfoundation.org/blog/colorado-income-tax-amendment-87-proposition-136/",
+          "title": "Colorado Income Tax | Amendment 87 & Proposition 136 (Tax Foundation)",
+          "date": "2026-10-02",
+          "quote": "Voters could later repeal it with another simple-majority vote, and the legislature can amend statutes, so it imposes no new restriction on the legislature’s ability to raise income tax rates beyond the political constraint of adopting something contrary to a prior vote of the people."
+        }
+      ]
+    }
+  ],
+  "case_for": [
+    {
+      "text": "Supporters say in the Blue Book that voters “overwhelmingly approved” 4.4 percent in 2022, it is fair, and it keeps Colorado’s rate among the lowest.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "The current rate, overwhelmingly approved by voters in 2022, is fair and keeps Colorado’s tax rate among the lowest in the country."
+        }
+      ]
+    },
+    {
+      "text": "Advance Colorado says the measure raises or lowers no one’s taxes. It says Coloradans already pay enough and the rate should stay put.",
+      "sources": [
+        {
+          "url": "https://www.postindependent.com/news/rival-ballot-coloradans-tax-lower-incomes-less-higher-earners-more/",
+          "title": "Rival ballot initiatives ask Coloradans: Tax lower incomes less and higher earners more — or maintain the status quo? (Post Independent)",
+          "date": "2026-10-03",
+          "quote": "“Is this increasing taxes or is it lowering them? Well, it’s doing neither,” Brown said of Prop 136."
+        },
+        {
+          "url": "https://www.postindependent.com/news/rival-ballot-coloradans-tax-lower-incomes-less-higher-earners-more/",
+          "title": "Rival ballot initiatives ask Coloradans: Tax lower incomes less and higher earners more — or maintain the status quo? (Post Independent)",
+          "date": "2026-10-03",
+          "quote": "Everyone’s paying enough, and we should keep the income tax rate as it is."
+        }
+      ]
+    }
+  ],
+  "case_against": [
+    {
+      "text": "Opponents say in the Blue Book that it is meant to put Amendment 87 in legal jeopardy and would do nothing after 2026, since raising rates already needs a vote.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "This initiative is designed to put Amendment 87 into legal jeopardy, causing confusion and a potentially costly legal battle to resolve."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "After the 2026 election, Proposition 136 has no effect, since raising tax rates already requires voter approval and any future approval would override this measure."
+        }
+      ]
+    },
+    {
+      "text": "Amendment 87’s backers, including the Bell Policy Center, say a flat rate is unfair because teachers and nurses pay the same rate as millionaires.",
+      "sources": [
+        {
+          "url": "https://www.postindependent.com/news/rival-ballot-coloradans-tax-lower-incomes-less-higher-earners-more/",
+          "title": "Rival ballot initiatives ask Coloradans: Tax lower incomes less and higher earners more — or maintain the status quo? (Post Independent)",
+          "date": "2026-10-03",
+          "quote": "Protect Colorado’s Future argues that the state’s existing flat tax rate is unfair because “nurses, teachers, working families and small businesses pay the exact same income tax rate as millionaires and giant corporations.”"
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "If both measures pass, the outcome is unclear. Advance Colorado says Amendment 87’s lower brackets would still take effect with the top rate capped, which would cut state revenue. Amendment 87’s backers say it could be all or nothing. A court may decide.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "However, if both measures are approved by voters, the exact outcome is unclear."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/08/05/tiered-or-capped-battle-over-colorados-income-taxes-might-come-down-to-one-number/",
+          "title": "What happens if voters pass Colorado’s two competing income tax measures? (Colorado Politics)",
+          "date": "2026-08-05",
+          "quote": "He told Colorado Politics that, if both pass, the competing measure’s increased rates above 4.4% would not happen but that the lower rates would go into effect, since there’s no conflict between the two initiatives on this specific issue."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/08/05/tiered-or-capped-battle-over-colorados-income-taxes-might-come-down-to-one-number/",
+          "title": "What happens if voters pass Colorado’s two competing income tax measures? (Colorado Politics)",
+          "date": "2026-08-05",
+          "quote": "He said if the court decided in favor of Initiative No. 232, none of the changes in Initiative No. 195 would go into effect — not the tax hikes nor the tax cuts."
+        }
+      ]
+    },
+    {
+      "text": "A lawsuit over Amendment 87’s petition signatures was pending in October. If it succeeds, Proposition 136 would face no rival.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/10/08/panel-discusses-tax-overhaul-measures-colorado-voters-face-in-november-4/",
+          "title": "Panel discusses tax measures facing Colorado voters (Colorado Politics)",
+          "date": "2026-10-08",
+          "quote": "Goodland also told the audience that Amendment 87 faces a legal challenge over the validity of the petition signatures used to qualify the measure for the ballot."
+        }
+      ]
+    }
+  ],
+  "measure": "proposition-136",
+  "last_checked": "2026-10-16",
+  "research_notes": "No source in this file needed the browser. For a reviewer: (1) What happens if both Amendment 87 and Proposition 136 pass is untested. The Blue Book says unclear; Advance Colorado and the Common Sense Institute say 87's lower brackets would survive under a capped top rate; the Bell Policy Center's Chris deGruy Kennedy says it could be all or nothing. I kept this in unknowns and kept agree/disagree wording neutral. (2) 'Conservative think tank' for Advance Colorado is Post Independent's label. (3) The Blue Book says Proposition 136 alone has no fiscal impact; the roughly $2 billion item describes Amendment 87's revenue and applies only if 136 beats 87. (4) The 2022 rate vote comes from a Common Sense Institute report on the cap (free-market think tank); the Blue Book argument calls it 'overwhelmingly approved'. (5) The 55 percent vs simple-majority fight over Amendment 87's wording was left out for length."
+}

@@ -1,0 +1,257 @@
+{
+  "id": "fentanyl-penalties",
+  "plain": "Proposition 132 would make any possession of fentanyl a felony. It would also require 8 to 32 years in prison for making, selling or sharing any amount.",
+  "agree_means": "Yes makes possessing any amount a felony and requires 8 to 32 years for distributing any amount. It also ends some options to reduce penalties, such as \"Good Samaritan\" reductions in distribution cases.",
+  "disagree_means": "No keeps current law: possessing under 1 gram stays a misdemeanor, prison for distribution depends on the amount, and judges keep options to reduce penalties.",
+  "now": [
+    {
+      "text": "Since a 2022 law, possessing more than 1 gram of a fentanyl mixture is a felony; under 1 gram it is a misdemeanor. The most serious distribution crimes already carry a mandatory 8 to 32 years. Weight counts the whole mixture, not pure fentanyl.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/10/08/panel-debates-effects-increased-fentanyl-penalties-will-have-on-state-4/",
+          "title": "DU Panel Debates Colorado Fentanyl Penalties Measure (Colorado Politics)",
+          "date": "2026-10-08",
+          "quote": "In 2022, legislators, under public pressure following several high-profile overdose deaths, passed a law making it a felony to possess more than 1 gram of any substance containing fentanyl, carfentanil, benzimidazole opiate or analogs of those substances."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/10/08/panel-debates-effects-increased-fentanyl-penalties-will-have-on-state-4/",
+          "title": "DU Panel Debates Colorado Fentanyl Penalties Measure (Colorado Politics)",
+          "date": "2026-10-08",
+          "quote": "Under 1 gram, possession of those substances is a misdemeanor."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "The most serious fentanyl-related drug crimes mandate a minimum prison sentence of 8 years up to a maximum of 32 years."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "A “substance” includes the total weight of any mixture containing fentanyl rather than the amount of fentanyl itself."
+        }
+      ]
+    },
+    {
+      "text": "Fentanyl is the leading cause of drug overdose deaths in Colorado. Synthetic opioid deaths peaked at 1,213 in 2023 and dipped. The state health agency, citing CDC provisional data, says they rose again from 852 to 1,005 in the year to October 2025. National fentanyl deaths fell.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Fentanyl has become the leading cause of drug overdose deaths in both Colorado and the United States"
+        },
+        {
+          "url": "https://www.denvergazette.com/?p=543626",
+          "title": "Overdose deaths from opioids dip in America — but not in Colorado, study says (Denver Gazette)",
+          "date": "2026-03-16",
+          "quote": "Synthetic opioid overdose deaths had been increasing in Colorado in 2018 through November 2023, mirroring the national trend and peaking at 1,213 that year, the report said."
+        },
+        {
+          "url": "https://www.denvergazette.com/?p=543626",
+          "title": "Overdose deaths from opioids dip in America — but not in Colorado, study says (Denver Gazette)",
+          "date": "2026-03-16",
+          "quote": "The 2025 also showed that 1,005 deaths resulted from ingesting synthetic opioids, fentanyl being the primary drug, according to the state agency. In 2024, the number was 852."
+        },
+        {
+          "url": "https://www.denver7.com/news/local-news/breaking-down-prop-132-ahead-of-election-day",
+          "title": "Breaking down Prop 132 ahead of Election Day (Denver7)",
+          "date": "2026-09-26",
+          "quote": "During the same time period, the CDC reported fentanyl overdose deaths dropped by a little more than 22%."
+        }
+      ]
+    },
+    {
+      "text": "Prop 132 would make any possession a felony, reducible to a misdemeanor after court-ordered treatment if under 1 gram. It would require 8 to 32 years for distributing any amount. Judges could not weigh whether the person believed the substance had no fentanyl.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "The measure also makes possession of any amount of fentanyl a felony. However, if a person possesses less than one gram and successfully completes court-ordered drug rehabilitation treatment, the felony charge may be reduced to a misdemeanor."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "For those convicted of distributing any amount of fentanyl, the measure requires a prison sentence of between 8 and 32 years."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Finally, judges may not consider mitigating factors, such as whether an offender reasonably believed the substance did not contain fentanyl."
+        }
+      ]
+    }
+  ],
+  "stakes": [
+    {
+      "area": "Your money",
+      "text": "The Legislative Council estimates added state costs of $0.9 million in year one and $8.9 million in year two. Costs reach $68.2 million by year five, from the General Fund. The state may need more prison space. Corrections costs average $56,972 per inmate a year.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "By year five, total state spending is estimated to increase by $68.2 million."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "In addition, due to the estimated increase in the future prison population, the state may need to construct or contract for additional prison space."
+        },
+        {
+          "url": "https://commonsenseinstituteus.org/?p=11587",
+          "title": "Proposition 132: Increasing Opioid Penalties (Common Sense Institute, a free-market think tank)",
+          "date": "2026-08-25",
+          "quote": "The Colorado Department of Corrections reports an average annual cost of $56,972 per incarcerated person, although the marginal cost of additional incarcerations may differ from this statewide average."
+        }
+      ]
+    },
+    {
+      "area": "Safety",
+      "text": "Research doubts that longer sentences deter drug crime. The National Institute of Justice says long sentences do little to deter. A Pew analysis of 2014 state data found no link between drug imprisonment rates and drug use, overdose deaths or drug arrests. Prison does keep offenders off the street.",
+      "sources": [
+        {
+          "url": "https://nij.ojp.gov/topics/articles/five-things-about-deterrence",
+          "title": "Five Things About Deterrence (National Institute of Justice)",
+          "date": "2016-06-05",
+          "quote": "Prison is an important option for incapacitating and punishing those who commit crimes, but the data show long prison sentences do little to deter people from committing future crimes."
+        },
+        {
+          "url": "https://www.pew.org/en/research-and-analysis/issue-briefs/2018/03/more-imprisonment-does-not-reduce-state-drug-problems",
+          "title": "More Imprisonment Does Not Reduce State Drug Problems (The Pew Charitable Trusts)",
+          "date": "2018-03-08",
+          "quote": "The analysis found no statistically significant relationship between state drug imprisonment rates and three indicators of state drug problems: self-reported drug use, drug overdose deaths, and drug arrests.",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "area": "Health",
+      "text": "The measure ends reduced penalties in \"Good Samaritan\" cases involving distribution, which opponents say could keep people from calling 911 during an overdose. It adds no new treatment money, opponents say.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "It eliminates the possibility for reduced penalties in “Good Samaritan” cases involving distribution."
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/10/08/panel-debates-effects-increased-fentanyl-penalties-will-have-on-state-4/",
+          "title": "DU Panel Debates Colorado Fentanyl Penalties Measure (Colorado Politics)",
+          "date": "2026-10-08",
+          "quote": "Giddings argued Proposition 132 does not provide new money for addiction treatment and could make treatment harder to access"
+        }
+      ]
+    },
+    {
+      "area": "Rights and freedoms",
+      "text": "Opponents say someone who unknowingly shares a drug containing fentanyl could face the same mandatory term, even without a sale.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/10/08/panel-debates-effects-increased-fentanyl-penalties-will-have-on-state-4/",
+          "title": "DU Panel Debates Colorado Fentanyl Penalties Measure (Colorado Politics)",
+          "date": "2026-10-08",
+          "quote": "Giddings said a person who unknowingly possesses fentanyl or shares a drug containing fentanyl could potentially face the same mandatory sentencing structure even without a traditional drug-dealing transaction."
+        }
+      ]
+    }
+  ],
+  "case_for": [
+    {
+      "text": "Supporters say fentanyl's potency justifies stronger penalties and that mandatory sentences keep dealers off the street.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Mandated prison sentences for drug dealers are likely to enhance public safety by keeping them off the street, as well as provide victims and their families with a greater sense of justice."
+        }
+      ]
+    },
+    {
+      "text": "Advance Colorado, the backer, says current law falls short because 2 milligrams, about 15 grains of table salt, can kill. DA George Brauchler says people who sell or recklessly spread pills should face prison.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/10/08/panel-debates-effects-increased-fentanyl-penalties-will-have-on-state-4/",
+          "title": "DU Panel Debates Colorado Fentanyl Penalties Measure (Colorado Politics)",
+          "date": "2026-10-08",
+          "quote": "Supporters, including Advance Colorado, have argued that current laws do not go far enough, given just 2 milligrams of fentanyl — about 15 grains of table salt — can kill."
+        },
+        {
+          "url": "https://www.denver7.com/news/local-news/breaking-down-prop-132-ahead-of-election-day",
+          "title": "Breaking down Prop 132 ahead of Election Day (Denver7)",
+          "date": "2026-09-26",
+          "quote": "If you're going to go out there and peddle this poison or be reckless about the pills you put into the public stream without knowing whether it has fentanyl in it or not, oh yeah, you're signing up for potential prison"
+        }
+      ]
+    }
+  ],
+  "case_against": [
+    {
+      "text": "Opponents say it is unlikely to reduce fentanyl use, crime or overdose deaths, and would shift money from treatment and other services to prisons.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Proposition 132 is unlikely to reduce fentanyl use, lower crime rates, or prevent overdose deaths."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "longer prison sentences are expensive and would shift resources away from underfunded treatment programs, education, and other public services and toward an already overcrowded and understaffed prison system."
+        }
+      ]
+    },
+    {
+      "text": "Kyle Giddings of the Colorado Criminal Justice Coalition agrees there is a fentanyl crisis. He says the measure is the opposite of what science and data say works.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/10/08/panel-debates-effects-increased-fentanyl-penalties-will-have-on-state-4/",
+          "title": "DU Panel Debates Colorado Fentanyl Penalties Measure (Colorado Politics)",
+          "date": "2026-10-08",
+          "quote": "But what is being proposed in Proposition 132 is the complete opposite of what science and data say works."
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "Forecasts are contested. Opponents cite a projected 41% rise in overdose deaths in five years. Supporter George Brauchler says the study says only \"could\" and rests on a model that over-predicted before.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/09/27/colorado-cannot-afford-to-do-nothing-on-fentanyl-george-brauchler/",
+          "title": "Colorado cannot afford to do nothing on fentanyl | George Brauchler (Colorado Politics)",
+          "date": "2026-09-27",
+          "quote": "The “do nothing” campaign proclaims Proposition 132 is “projected to increase overdose deaths by 41% in five years” and then cites a claimed study as support."
+        }
+      ]
+    },
+    {
+      "text": "Why Colorado's deaths rose while national deaths fell is unclear. Authors at the Common Sense Institute, a free-market think tank, surmised that Colorado's \"not as strict\" drug laws played a part. The state health agency says such trends are rarely due to one factor.",
+      "sources": [
+        {
+          "url": "https://www.denvergazette.com/?p=543626",
+          "title": "Overdose deaths from opioids dip in America — but not in Colorado, study says (Denver Gazette)",
+          "date": "2026-03-16",
+          "quote": "The study’s authors surmised that several factors contributed to the upward trend and pointed to Colorado’s “not as strict” drug laws."
+        },
+        {
+          "url": "https://www.denvergazette.com/?p=543626",
+          "title": "Overdose deaths from opioids dip in America — but not in Colorado, study says (Denver Gazette)",
+          "date": "2026-03-16",
+          "quote": "It is difficult to narrow down the reasons for increasing trend and they are “rarely attributable to a single factor,” Bishop said"
+        }
+      ]
+    }
+  ],
+  "measure": "proposition-132",
+  "last_checked": "2026-10-16",
+  "research_notes": "Claude in Chrome was not connected, so I used the built-in Browser pane (own tab). Read in the browser: the Pew Charitable Trusts 2018 brief (curl 403; its quote was checked against the rendered page text, and the page redirected from pewtrusts.org to pew.org). Overdose numbers: the Denver Gazette (March 16, 2026) reports CDC provisional counts supplied by a CDPHE spokesperson; I found no finalized CDPHE 2025 statewide figure. I also checked CDC's provisional data feed myself (not cited): the 12-month total reached about 1,847 by May 2026, so the upward trend has continued; a reviewer may want a citable page for that. Denver7 cites CDPHE for 'almost 30%' more fentanyl deaths in 2024-2025; I used only its CDC national comparison. The 41% projection is from a supporter's op-ed describing the opponents' claim; I could not find the opponents' own study. NIJ and Pew research is national and not specific to fentanyl or to mandatory minimums as such. Giddings' claim of 'nearly 1,000 additional people to prison within five years' (Colorado Politics, Oct 8) was not used because it is an advocate's estimate. The Common Sense Institute is labeled as a free-market think tank. Web search budget ran out mid-session."
+}

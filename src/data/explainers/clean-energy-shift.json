@@ -1,0 +1,327 @@
+{
+  "id": "clean-energy-shift",
+  "plain": "This asks whether government should speed up Colorado’s move from oil, gas and coal to wind, solar and other renewable power. Tools include targets, mandates, tax credits and limits on drilling.",
+  "agree_means": "Agreeing backs faster clean-energy targets, mandates and incentives, or limits on new drilling.",
+  "disagree_means": "Disagreeing backs more oil, gas and coal production, or opposes clean-energy mandates and credits.",
+  "now": [
+    {
+      "text": "Colorado law sets a goal to cut greenhouse gas pollution 26 percent by 2025, 50 percent by 2030 and 100 percent by 2050, from 2005 levels. As of fall 2023, state planners projected the state would reach more than 80 percent of the 2030 goal without new rules.",
+      "sources": [
+        {
+          "url": "https://energyoffice.colorado.gov/ghg-pollution-reduction-roadmap",
+          "title": "Greenhouse Gas Pollution Reduction Roadmap (Colorado Energy Office)",
+          "date": "2026-10-16",
+          "quote": "Our goal is to reduce greenhouse gas pollution in Colorado 26% by 2025, 50% by 2030, and 100% by 2050 compared to our 2005 levels.",
+          "date_basis": "accessed",
+          "via": "browser"
+        },
+        {
+          "url": "https://cdphe.colorado.gov/apcd/greenhouse-gas-inventory",
+          "title": "Colorado Greenhouse Gas Inventory (Colorado Department of Public Health and Environment)",
+          "date": "2026-10-16",
+          "quote": "It established a net-zero target for 2050 and added interim targets every five years.",
+          "date_basis": "accessed",
+          "via": "browser"
+        },
+        {
+          "url": "https://energyoffice.colorado.gov/ghg-pollution-reduction-roadmap",
+          "title": "Greenhouse Gas Pollution Reduction Roadmap (Colorado Energy Office)",
+          "date": "2026-10-16",
+          "quote": "Colorado is projected to be more than 80% of the way to meeting its statutory goal of a 50% emissions reduction in 2030 from 2005 levels.",
+          "date_basis": "accessed",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "text": "In 2024, gas and wind each supplied 29 percent of Colorado’s electricity and coal 27 percent, down from 60 percent in 2014. Renewables reached a record 43 percent. Colorado is also the fourth-largest oil-producing state.",
+      "sources": [
+        {
+          "url": "https://www.eia.gov/states/CO/analysis",
+          "title": "Colorado State Energy Profile analysis (U.S. Energy Information Administration)",
+          "date": "2026-10-16",
+          "quote": "In 2024, natural gas-fired power plants and wind energy each accounted for 29% of Colorado's total electricity net generation, with both surpassing coal-fired generation for the first time.",
+          "date_basis": "accessed",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.eia.gov/states/CO/analysis",
+          "title": "Colorado State Energy Profile analysis (U.S. Energy Information Administration)",
+          "date": "2026-10-16",
+          "quote": "Coal-fired power plants accounted for 27% of state generation in 2024, down from 60% in 2014.",
+          "date_basis": "accessed",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.eia.gov/states/CO/analysis",
+          "title": "Colorado State Energy Profile analysis (U.S. Energy Information Administration)",
+          "date": "2026-10-16",
+          "quote": "In 2024, renewable sources of energy accounted for 43% of Colorado's total in-state electricity net generation, a record high.",
+          "date_basis": "accessed",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.eia.gov/states/CO/analysis",
+          "title": "Colorado State Energy Profile analysis (U.S. Energy Information Administration)",
+          "date": "2026-10-16",
+          "quote": "Colorado is the fourth-largest oil-producing state and accounts for about 4% of U.S. total crude oil output.",
+          "date_basis": "accessed",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "text": "Federal tax credits are ending. The credit for home solar and similar equipment covers only property installed through 2025. Wind and solar plants lose their federal credits if placed in service after 2027, unless construction began by July 4, 2026.",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/credits-deductions/residential-clean-energy-credit",
+          "title": "Residential Clean Energy Credit (Internal Revenue Service)",
+          "date": "2026-10-16",
+          "quote": "The credit is not available for any property placed in service after December 31, 2025.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-drop/n-25-42.pdf",
+          "title": "Notice 2025-42: Beginning of Construction Requirements for Wind and Solar Facilities (Internal Revenue Service)",
+          "date": "2026-10-16",
+          "quote": "in the case of an applicable wind facility or applicable solar facility that is placed in service after December 31, 2027",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-drop/n-25-42.pdf",
+          "title": "Notice 2025-42: Beginning of Construction Requirements for Wind and Solar Facilities (Internal Revenue Service)",
+          "date": "2026-10-16",
+          "quote": "The credit termination date applies to applicable wind and solar facilities the construction of which begins after July 4, 2026",
+          "date_basis": "accessed"
+        }
+      ]
+    },
+    {
+      "text": "Drilling on federal land in Colorado is expanding. The Bureau of Land Management plans six auctions offering more than 400,000 Colorado acres for oil and gas through December 2026. A 2025 federal law requires quarterly lease sales.",
+      "sources": [
+        {
+          "url": "https://coloradosun.com/2026/09/08/blm-oil-gas-lease-sales-colorado/",
+          "title": "Colorado faces a federal oil and gas leasing fire sale (The Colorado Sun)",
+          "date": "2026-09-08",
+          "quote": "In all, from the December 2025 auction, including the Bakers Peak leases, to the planned December 2026 sale, BLM is slated to offer more than 400,000 acres of land in Colorado for oil and gas drilling across six auctions."
+        },
+        {
+          "url": "https://coloradosun.com/2026/09/08/blm-oil-gas-lease-sales-colorado/",
+          "title": "Colorado faces a federal oil and gas leasing fire sale (The Colorado Sun)",
+          "date": "2026-09-08",
+          "quote": "The act requires Colorado and eight other oil producing states from Oklahoma to Alaska to hold quarterly oil and gas lease sales."
+        }
+      ]
+    }
+  ],
+  "stakes": [
+    {
+      "area": "Your money",
+      "text": "Colorado households paid an average 15.85 cents per kilowatt-hour in 2025, up about 6 percent from 2024 and below the national average. Federal data show 17.00 cents in July 2026 versus 15.99 a year earlier. In December 2025, Xcel asked for a 9.93 percent increase.",
+      "sources": [
+        {
+          "url": "https://i2i.org/fast-facts-about-colorados-electricity-sector-in-2025/",
+          "title": "Fast Facts About Colorado’s Electricity Sector in 2025 (Independence Institute, a free-market think tank, summarizing EIA data)",
+          "date": "2026-10-16",
+          "quote": "In 2025, the average residential price of electricity delivered to Colorado customers was 15.85 cents per kilowatt hour, up about six percent from 14.92 cents per kWh paid in 2024.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://i2i.org/fast-facts-about-colorados-electricity-sector-in-2025/",
+          "title": "Fast Facts About Colorado’s Electricity Sector in 2025 (Independence Institute, a free-market think tank, summarizing EIA data)",
+          "date": "2026-10-16",
+          "quote": "Colorado’s residential rates were lower than the national average of 17.3 cents per kWh.",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",
+          "title": "Electric Power Monthly, Table 5.6.A: Average Price of Electricity by State (U.S. Energy Information Administration)",
+          "date": "2026-10-16",
+          "quote": "Colorado 17.00 15.99 13.81 13.25 9.54 9.53 10.22 10.03 14.20 13.45",
+          "date_basis": "accessed",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2025/12/12/colorado-residents-face-high-energy-bills-after-regulators-turn-away-from-natural-gas-experts-say/",
+          "title": "Colorado residents face high energy bills after regulators turn away from natural gas, experts say (Denver Gazette via Colorado Politics)",
+          "date": "2025-12-12",
+          "quote": "This week, Xcel notified that it had submitted a proposal to the PUC for a 9.93% increase to take effect next summer."
+        }
+      ]
+    },
+    {
+      "area": "Your money",
+      "text": "The Common Sense Institute, a conservative-leaning think tank, estimates clean-energy rules add $32 to $38 a month per household by 2035. The Colorado Energy Office says wind and solar are the lowest-cost way to meet demand and would cut emissions 97 percent even with no mandate.",
+      "sources": [
+        {
+          "url": "https://www.denvergazette.com/2025/02/03/colorado-could-see-big-hikes-in-electricity-rates-new-report-shows-287bc378-e283-11ef-b30b-0f3e6d02076d/",
+          "title": "Colorado could see big hikes in electricity rates, new report shows (Denver Gazette)",
+          "date": "2025-02-03",
+          "quote": "By 2035, the institute said, electricity rates are projected to cost the average Colorado household an additional $32-to-$38 per month, caused by the new requirements for power generation."
+        },
+        {
+          "url": "https://www.denvergazette.com/2025/02/03/colorado-could-see-big-hikes-in-electricity-rates-new-report-shows-287bc378-e283-11ef-b30b-0f3e6d02076d/",
+          "title": "Colorado could see big hikes in electricity rates, new report shows (Denver Gazette)",
+          "date": "2025-02-03",
+          "quote": "With no emissions reduction requirement or policy, the study found that the lowest cost path to meeting demand would lower emissions by 97%, largely due to the low cost of wind and solar energy."
+        }
+      ]
+    },
+    {
+      "area": "The economy",
+      "text": "Colorado had 160,000 energy workers in 2025, including 31,900 in fuels, 23,600 in power generation and 41,000 in energy efficiency. The state projects 95,000 new jobs by 2050 from its climate actions. The Common Sense Institute projects the rules would cost more than 25,000 jobs.",
+      "sources": [
+        {
+          "url": "https://www.energy.gov/documents/2026-useer-state-reports",
+          "title": "2026 U.S. Energy & Employment Report: State Reports, Colorado (U.S. Department of Energy)",
+          "date": "2026-10-16",
+          "quote": "Of these energy workers, 31,900 were employed in Fuels; 23,600 in Electric Power Generation (EPG); 31,500 in Transmission, Distribution, and Storage (TDS); 41,000 in Energy Efficiency (EE)",
+          "date_basis": "accessed"
+        },
+        {
+          "url": "https://drive.google.com/uc?export=download&id=1ltnNkUsGx_7ZgpAR1LeFzLczQu7DRbZR",
+          "title": "Colorado Greenhouse Gas Pollution Reduction Roadmap 2.0 (Colorado Energy Office, February 2024)",
+          "date": "2024-02-01",
+          "quote": "These actions will also create more than 95,000 new jobs between now and 2050."
+        },
+        {
+          "url": "https://www.denvergazette.com/2025/02/03/colorado-could-see-big-hikes-in-electricity-rates-new-report-shows-287bc378-e283-11ef-b30b-0f3e6d02076d/",
+          "title": "Colorado could see big hikes in electricity rates, new report shows (Denver Gazette)",
+          "date": "2025-02-03",
+          "quote": "Institute officials believe these increased costs will slow our economy by $2.6 billion in GDP and cost Colorado more than 25,000 jobs."
+        }
+      ]
+    },
+    {
+      "area": "The environment",
+      "text": "The state says its 2024 plan would cut emissions from 146.8 million metric tons in 2005 to 76.8 million by 2030. It says that would reach the 2030 target in 2031 or 2032. Coal’s share of Colorado power fell from 60 to 27 percent in a decade.",
+      "sources": [
+        {
+          "url": "https://drive.google.com/uc?export=download&id=1ltnNkUsGx_7ZgpAR1LeFzLczQu7DRbZR",
+          "title": "Colorado Greenhouse Gas Pollution Reduction Roadmap 2.0 (Colorado Energy Office, February 2024)",
+          "date": "2024-02-01",
+          "quote": "we estimate they will reduce economy-wide emissions from the 2005 baseline of 146.8 MMT to 76.8 MMT by 2030, achieving 100% of the 2030 target between 2031 and 2032."
+        },
+        {
+          "url": "https://www.eia.gov/states/CO/analysis",
+          "title": "Colorado State Energy Profile analysis (U.S. Energy Information Administration)",
+          "date": "2026-10-16",
+          "quote": "Coal-fired power plants accounted for 27% of state generation in 2024, down from 60% in 2014.",
+          "date_basis": "accessed",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "area": "Health",
+      "text": "State analysts estimate the actions in the state’s climate plan would avoid about 500 deaths and 10,000 asthma attacks through 2050 by cutting pollution beyond greenhouse gases.",
+      "sources": [
+        {
+          "url": "https://drive.google.com/uc?export=download&id=1ltnNkUsGx_7ZgpAR1LeFzLczQu7DRbZR",
+          "title": "Colorado Greenhouse Gas Pollution Reduction Roadmap 2.0 (Colorado Energy Office, February 2024)",
+          "date": "2024-02-01",
+          "quote": "resulting in an estimated 500 avoided deaths between now and 2050 and more than 10,000 avoided asthma attacks over the same period."
+        }
+      ]
+    },
+    {
+      "area": "Public services",
+      "text": "Reliability is a live concern as coal closes. Comanche Unit 2, due to close in 2025, is staying online after newer Unit 3 had reliability problems. About 2,500 megawatts of Colorado coal capacity is scheduled to retire by 2029.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2025/12/12/colorado-residents-face-high-energy-bills-after-regulators-turn-away-from-natural-gas-experts-say/",
+          "title": "Colorado residents face high energy bills after regulators turn away from natural gas, experts say (Denver Gazette via Colorado Politics)",
+          "date": "2025-12-12",
+          "quote": "The plant’s older Unit 2 generator, which had been scheduled to close this year, is being kept online after the newer, more efficient Unit 3 showed reliability issues, jeopardizing the stability of the grid."
+        },
+        {
+          "url": "https://www.eia.gov/states/CO/analysis",
+          "title": "Colorado State Energy Profile analysis (U.S. Energy Information Administration)",
+          "date": "2026-10-16",
+          "quote": "By 2029, about 2,500 megawatts of coal-fired generating capacity in Colorado is scheduled to retire.",
+          "date_basis": "accessed",
+          "via": "browser"
+        }
+      ]
+    }
+  ],
+  "case_for": [
+    {
+      "text": "A Colorado Energy Office spokesperson says the free market is supplying renewables because they are the most affordable way to meet growing demand.",
+      "sources": [
+        {
+          "url": "https://www.denvergazette.com/2025/02/03/colorado-could-see-big-hikes-in-electricity-rates-new-report-shows-287bc378-e283-11ef-b30b-0f3e6d02076d/",
+          "title": "Colorado could see big hikes in electricity rates, new report shows (Denver Gazette)",
+          "date": "2025-02-03",
+          "quote": "The free market is supplying renewable energy because it’s the most affordable solution to meet growing electricity demand."
+        }
+      ]
+    },
+    {
+      "text": "The state’s climate plan says cutting fossil fuel use also cuts other pollution, avoiding about 500 deaths and 10,000 asthma attacks through 2050, and adds jobs.",
+      "sources": [
+        {
+          "url": "https://drive.google.com/uc?export=download&id=1ltnNkUsGx_7ZgpAR1LeFzLczQu7DRbZR",
+          "title": "Colorado Greenhouse Gas Pollution Reduction Roadmap 2.0 (Colorado Energy Office, February 2024)",
+          "date": "2024-02-01",
+          "quote": "resulting in an estimated 500 avoided deaths between now and 2050 and more than 10,000 avoided asthma attacks over the same period."
+        }
+      ]
+    }
+  ],
+  "case_against": [
+    {
+      "text": "The Common Sense Institute says state mandates push electricity prices to grow at more than three times the rate of inflation.",
+      "sources": [
+        {
+          "url": "https://www.denvergazette.com/2025/02/03/colorado-could-see-big-hikes-in-electricity-rates-new-report-shows-287bc378-e283-11ef-b30b-0f3e6d02076d/",
+          "title": "Colorado could see big hikes in electricity rates, new report shows (Denver Gazette)",
+          "date": "2025-02-03",
+          "quote": "Driven by state policy mandates to reduce greenhouse gas emissions, electricity prices are projected to grow at more than three times the rate of inflation and nearly 13 times the growth rate from 2010 to 2020,"
+        }
+      ]
+    },
+    {
+      "text": "Report author Tricia Curtis says wind and solar cost estimates leave out two costs: their unpredictable output and new transmission lines.",
+      "sources": [
+        {
+          "url": "https://www.denvergazette.com/2025/02/03/colorado-could-see-big-hikes-in-electricity-rates-new-report-shows-287bc378-e283-11ef-b30b-0f3e6d02076d/",
+          "title": "Colorado could see big hikes in electricity rates, new report shows (Denver Gazette)",
+          "date": "2025-02-03",
+          "quote": "the numbers usually cited by renewable energy supporters touting the low cost of renewables like wind and solar do not take into account the cost of the intermittent, unpredictable nature of wind and solar energy"
+        }
+      ]
+    },
+    {
+      "text": "Coal communities worry about jobs. Action Colorado, a nonprofit serving counties near Pueblo, says residents there already fear job losses as the Comanche coal plant faces closure.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2025/12/12/colorado-residents-face-high-energy-bills-after-regulators-turn-away-from-natural-gas-experts-say/",
+          "title": "Colorado residents face high energy bills after regulators turn away from natural gas, experts say (Denver Gazette via Colorado Politics)",
+          "date": "2025-12-12",
+          "quote": "Sara Blackhurst with Action Colorado noted that her organization serves counties around Pueblo, whose residents are already worried about potential job loss as its Comanche coal-fired power plant faces a scheduled closure."
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "How much the shift will cost. Estimates conflict. The Common Sense Institute projects higher bills. Xcel says residential electric bills grew 1.8 percent a year from 2014 to 2023, below inflation, with wind and solar helping.",
+      "sources": [
+        {
+          "url": "https://www.denvergazette.com/2025/02/03/colorado-could-see-big-hikes-in-electricity-rates-new-report-shows-287bc378-e283-11ef-b30b-0f3e6d02076d/",
+          "title": "Colorado could see big hikes in electricity rates, new report shows (Denver Gazette)",
+          "date": "2025-02-03",
+          "quote": "From 2014 to 2023, we kept residential electric bill growth to 1.8% per year, and natural gas bill growth to 1.1% per year, both below the rate of inflation."
+        }
+      ]
+    },
+    {
+      "text": "How the end of federal credits will change costs and project plans in Colorado. No Colorado-specific estimate was found.",
+      "sources": []
+    }
+  ],
+  "measure": null,
+  "last_checked": "2026-10-16",
+  "research_notes": "Method: Claude in Chrome was not connected, so pages were read in the built-in browser in my own tab (via: browser): the EIA Colorado state analysis, EIA Electric Power Monthly Table 5.6.A (the July 2026 Colorado row, a table row copied from the rendered page), and the Colorado Energy Office and CDPHE pages, which return 403 to clients without a browser user agent (each quote confirmed in the browser). Everything else was fetched directly and every quote was checked against the fetched text. The shared web-search budget ran out mid-task. Not found: the Common Sense Institute report itself (its PDF link was dead); its figures come from the Denver Gazette's Feb 2025 report and are labeled as a conservative-leaning think tank's estimates. The 2025 electricity price comes from an Independence Institute summary of EIA data (a free-market think tank); I did not read EIA's own annual table. No 2025 state emissions inventory figures (CDPHE documents are in a JavaScript viewer). No Colorado-specific estimate of what the end of federal credits means. Oil and gas jobs and severance tax revenue not found separately (USEER Fuels covers all fuels). Double-check: the 'more than 80 percent of the 2030 goal' projection dates from fall 2023 and may be out of date. The Xcel 9.93 percent request is from Dec 2025; I did not check its outcome. EIA's profile text on the state renewable standard (30 percent) looks out of date, so I left it out. The $32-$38 a month figure is the Common Sense Institute's reading of a Colorado Energy Office report, and the Energy Office disputes it. Dates marked accessed have no publication date."
+}

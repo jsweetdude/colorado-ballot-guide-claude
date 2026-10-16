@@ -40,17 +40,22 @@ export async function pageText(url) {
   if (cache.has(url)) return cache.get(url);
   let text = null;
   try {
-    const r = await fetch(url, { headers: { 'User-Agent': UA, Accept: 'text/html,application/xhtml+xml,application/pdf;q=0.9,*/*;q=0.8', 'Accept-Language': 'en-US,en;q=0.9' }, redirect: 'follow', signal: AbortSignal.timeout(30000) });
+    // Google Drive answers scripts with a virus-scan page for large files; ask for the file itself.
+    const drive = /^https:\/\/drive\.google\.com\/uc\?(?:.*&)?id=([\w-]+)/.exec(url);
+    const fetchUrl = drive ? `https://drive.usercontent.google.com/download?id=${drive[1]}&export=download&confirm=t` : url;
+    const r = await fetch(fetchUrl, { headers: { 'User-Agent': UA, Accept: 'text/html,application/xhtml+xml,application/pdf;q=0.9,*/*;q=0.8', 'Accept-Language': 'en-US,en;q=0.9' }, redirect: 'follow', signal: AbortSignal.timeout(30000) });
     // Some sites answer scripts with an empty 202 or a bot-check page; that is unreachable, not a missing quote.
     if (r.ok && r.status !== 202) {
       const type = r.headers.get('content-type') ?? '';
-      if (type.includes('pdf') || /\.pdf($|\?)/i.test(url)) {
+      const body = Buffer.from(await r.arrayBuffer());
+      // A PDF by label, by file name, or by its first bytes (file hosts often send no PDF label).
+      if (type.includes('pdf') || /\.pdf($|\?)/i.test(url) || body.subarray(0, 5).toString('latin1') === '%PDF-') {
         const f = join(tmp, `${cache.size}.pdf`);
-        writeFileSync(f, Buffer.from(await r.arrayBuffer()));
+        writeFileSync(f, body);
         text = execFileSync('pdftotext', ['-layout', f, '-'], { maxBuffer: 64 * 1024 * 1024 }).toString();
       } else {
         // Keep script text: some guides ship their Q&A as a JSON blob the page renders.
-        const html = (await r.text())
+        const html = body.toString('utf8')
           .replace(/\\u([0-9a-f]{4})/gi, (_, h) => String.fromCharCode(parseInt(h, 16)))
           .replace(/\\[nrt]/g, ' ')
           .replace(/\\(["'\/])/g, '$1');

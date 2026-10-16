@@ -1,0 +1,280 @@
+{
+  "id": "minor-gender-surgery-ban",
+  "plain": "Proposition 135 would ban surgery on anyone under 18 meant to change sex characteristics in response to the minor's sense of sex or gender. It would also bar government money and insurance from paying for it.",
+  "agree_means": "Yes bans these surgeries for minors and stops Medicaid, government funds and private insurance from paying for them. Non-surgical care, such as counseling, is not restricted.",
+  "disagree_means": "No keeps current Colorado law, which allows these surgeries for minors and lets public and private insurance pay for them.",
+  "now": [
+    {
+      "text": "Prop 135 bans surgery on minors to alter biological sex characteristics in response to a minor's perception of sex or gender. It lists no procedures; the ban depends on the reason for surgery. Circumcision and treatment of medically verifiable disorders of sex development are allowed.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "The measure does not list specific surgical procedures that are prohibited; instead, the prohibition is based on the reason that a surgery is performed on a minor."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Proposition 135 allows male circumcision and treatments for medically verifiable disorders of sex development or acquired physical or chemical abnormalities."
+        }
+      ]
+    },
+    {
+      "text": "This surgery is rare for minors. A Harvard study of 2019 insurance claims found about 2.1 per 100,000 youths ages 15 to 17 had one, and none at 12 or younger. Colorado's three large children's surgical providers say they do not perform it on transgender patients under 18.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "for every 100,000 youths aged 15 to 17, an estimated 2.1 youths who identified as transgender or gender diverse had at least one gender-affirming surgery."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Researchers found no cases of gender-affirming surgeries being performed on youths aged 12 and younger."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "report that they do not perform gender- or sex-based surgeries on transgender patients under 18 years of age."
+        }
+      ]
+    },
+    {
+      "text": "Colorado law protects access. A 2025 law bars health plans from denying or limiting medically necessary gender-affirming care. Denver Health stopped youth surgeries in early 2025.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "A “no” vote on Proposition 135 maintains Colorado law, which protects access to surgery altering minors’ ... biological sex characteristics and allows public and ... private health insurance programs to pay for these"
+        },
+        {
+          "url": "https://leg.colorado.gov/bills/hb25-1309",
+          "title": "HB25-1309 Protect Access to Gender-Affirming Health Care (Colorado General Assembly)",
+          "date": "2025-05-23",
+          "quote": "prohibits a health benefit plan from denying or limiting medically necessary gender-affirming health care, as determined and prescribed by a physical or behavioral health-care provider."
+        },
+        {
+          "url": "https://www.newsfromthestates.com/article/ballot-measure-ban-youth-gender-affirming-surgeries-could-disrupt-other-forms-healthcare",
+          "title": "Ballot measure to ban youth gender-affirming surgeries could disrupt other forms of healthcare (Colorado Newsline via News From The States)",
+          "date": "2026-10-02",
+          "quote": "Denver Health, which does not take positions on ballot measures, stopped offering gender-affirming surgeries for youth in early 2025.",
+          "via": "browser"
+        }
+      ]
+    }
+  ],
+  "stakes": [
+    {
+      "area": "Health",
+      "text": "Major medical groups are cautious about surgery for minors but differ on a legal ban. The plastic surgeons' society says wait until 19. The AMA says generally defer to adulthood. The AAP says families and doctors, not politicians, should decide.",
+      "sources": [
+        {
+          "url": "https://news.wttw.com/2026/02/05/plastic-surgeons-group-calls-delaying-gender-affirming-surgery-until-age-19",
+          "title": "Plastic Surgeons Group Calls for Delaying Gender-Affirming Surgery Until Age 19 (Associated Press via WTTW)",
+          "date": "2026-02-05",
+          "quote": "The nation’s largest professional organization for plastic surgeons recommended that gender-affirming surgeries be delayed until patients turn 19",
+          "via": "browser"
+        },
+        {
+          "url": "https://news.wttw.com/2026/02/05/plastic-surgeons-group-calls-delaying-gender-affirming-surgery-until-age-19",
+          "title": "Plastic Surgeons Group Calls for Delaying Gender-Affirming Surgery Until Age 19 (Associated Press via WTTW)",
+          "date": "2026-02-05",
+          "quote": "In the absence of clear evidence, the AMA agrees with ASPS that surgical interventions in minors should be generally deferred to adulthood.",
+          "via": "browser"
+        },
+        {
+          "url": "https://news.wttw.com/2026/02/05/plastic-surgeons-group-calls-delaying-gender-affirming-surgery-until-age-19",
+          "title": "Plastic Surgeons Group Calls for Delaying Gender-Affirming Surgery Until Age 19 (Associated Press via WTTW)",
+          "date": "2026-02-05",
+          "quote": "The AAP continues to hold to the principle that patients, their families, and their physicians — not politicians — should be the ones to make decisions together about what care is best for them.",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "area": "Health",
+      "text": "The ban could reach beyond gender transition. The Blue Book says it may limit other surgeries, including for non-transgender minors. Colorado Newsline reports a Harvard study found 97% of teen breast reductions were for cisgender boys.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "The measure may also limit other surgeries for minors, including non-transgender minors, if the treatment is interpreted as being in response to the minor’s sex or gender perception."
+        },
+        {
+          "url": "https://www.newsfromthestates.com/article/ballot-measure-ban-youth-gender-affirming-surgeries-could-disrupt-other-forms-healthcare",
+          "title": "Ballot measure to ban youth gender-affirming surgeries could disrupt other forms of healthcare (Colorado Newsline via News From The States)",
+          "date": "2026-10-02",
+          "quote": "For example, it found that 97% of breast reduction procedures performed on teenagers were for cisgender boys.",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "area": "Your money",
+      "text": "The Legislative Council expects little change in state costs. A federal rule starting Oct. 13, 2026 separately bars federal Medicaid and CHIP payment for these procedures for minors unless a court blocks it. States may pay with state-only funds.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "Overall, any savings are expected to be minimal."
+        },
+        {
+          "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16508/medicaid-program-prohibition-on-federal-medicaid-and-childrens-health-insurance-program-funding-for",
+          "title": "Medicaid Program; Prohibition on Federal Medicaid and Children's Health Insurance Program Funding for Sex-Rejecting Procedures Furnished to Children (Federal Register)",
+          "date": "2026-08-13",
+          "quote": "This final rule requires that a State Medicaid plan must provide that the Medicaid agency will not make payment under the plan for sex-rejecting procedures for children under 18"
+        },
+        {
+          "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16508/medicaid-program-prohibition-on-federal-medicaid-and-childrens-health-insurance-program-funding-for",
+          "title": "Medicaid Program; Prohibition on Federal Medicaid and Children's Health Insurance Program Funding for Sex-Rejecting Procedures Furnished to Children (Federal Register)",
+          "date": "2026-08-13",
+          "quote": "This regulation does not prohibit States from covering sex-rejecting procedures using State-only funds outside of the Federally-matched Medicaid or CHIP program"
+        },
+        {
+          "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16508/medicaid-program-prohibition-on-federal-medicaid-and-childrens-health-insurance-program-funding-for",
+          "title": "Medicaid Program; Prohibition on Federal Medicaid and Children's Health Insurance Program Funding for Sex-Rejecting Procedures Furnished to Children (Federal Register)",
+          "date": "2026-08-13",
+          "quote": "will not be implemented, made effective, or enforced in contravention of any court orders"
+        }
+      ]
+    },
+    {
+      "area": "How government works",
+      "text": "Related care is already in court. In May 2026 Colorado's Supreme Court ruled 5-2 for families seeking hormones and puberty blockers from Children's Hospital Colorado. Prop 135 covers surgery only.",
+      "sources": [
+        {
+          "url": "https://www.cpr.org/2026/05/18/colorado-supreme-court-trans-youth-gender-affirming-care/",
+          "title": "Colorado Supreme Court rules in favor of families seeking gender-affirming care, orders Children's Hospital Colorado to resume it (CPR News)",
+          "date": "2026-05-18",
+          "quote": "The lawsuit was filed by several transgender patients and their families earlier this year after Children’s Hospital Colorado stopped writing new prescriptions for hormones and puberty blockers to transgender youth.",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.cpr.org/2026/05/18/colorado-supreme-court-trans-youth-gender-affirming-care/",
+          "title": "Colorado Supreme Court rules in favor of families seeking gender-affirming care, orders Children's Hospital Colorado to resume it (CPR News)",
+          "date": "2026-05-18",
+          "quote": "The decision sends the case back to a lower court and recommends an injunction to require the hospital to resume the care.",
+          "via": "browser"
+        }
+      ]
+    }
+  ],
+  "case_for": [
+    {
+      "text": "Supporters, led by Protect Kids Colorado, say minors should not make irreversible choices and should wait until 18. The Blue Book argument adds that more long-term data is needed.",
+      "sources": [
+        {
+          "url": "https://www.coloradopolitics.com/2026/10/02/gender-surgeries-minors-proposition-135-colorado/",
+          "title": "Proposition 135 | Gender-transition procedures and minors (Colorado Politics)",
+          "date": "2026-10-02",
+          "quote": "For something this serious and permanent, let’s wait until age 18."
+        },
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "More long-term data is needed to determine whether gender-affirming surgery is a necessary treatment option prior to adulthood."
+        }
+      ]
+    },
+    {
+      "text": "Supporters point to weak evidence. The plastic surgeons' society found \"insufficient evidence\" that benefits outweigh risks for minors. A federal review, cited in the new Medicaid rule, found very weak evidence of benefit.",
+      "sources": [
+        {
+          "url": "https://news.wttw.com/2026/02/05/plastic-surgeons-group-calls-delaying-gender-affirming-surgery-until-age-19",
+          "title": "Plastic Surgeons Group Calls for Delaying Gender-Affirming Surgery Until Age 19 (Associated Press via WTTW)",
+          "date": "2026-02-05",
+          "quote": "it found “insufficient evidence” that the benefits of chest, genital and facial surgeries on minors experiencing gender dysphoria outweigh the risks.",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16508/medicaid-program-prohibition-on-federal-medicaid-and-childrens-health-insurance-program-funding-for",
+          "title": "Medicaid Program; Prohibition on Federal Medicaid and Children's Health Insurance Program Funding for Sex-Rejecting Procedures Furnished to Children (Federal Register)",
+          "date": "2026-08-13",
+          "quote": "and finds extremely weak evidence of benefit."
+        }
+      ]
+    }
+  ],
+  "case_against": [
+    {
+      "text": "Opponents, including LGBTQ advocacy groups, say the ban delays care that doctors recommend even when parents and doctors agree.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "The measure delays medically recommended care, even when parents, patients, and medical providers all agree the care is necessary."
+        },
+        {
+          "url": "https://www.newsfromthestates.com/article/ballot-measure-ban-youth-gender-affirming-surgeries-could-disrupt-other-forms-healthcare",
+          "title": "Ballot measure to ban youth gender-affirming surgeries could disrupt other forms of healthcare (Colorado Newsline via News From The States)",
+          "date": "2026-10-02",
+          "quote": "Families Not Politics, which opposes Proposition 135, is led by LGBTQ+ advocacy organizations including One Colorado, Rocky Mountain Equality, the Transgender Law Center and Inside Out Youth Services",
+          "via": "browser"
+        }
+      ]
+    },
+    {
+      "text": "The Colorado Medical Society, the state's largest physician group, opposes it. Its board president says the issue is government interfering with doctors' judgment, not gender-affirming care itself.",
+      "sources": [
+        {
+          "url": "https://www.newsfromthestates.com/article/ballot-measure-ban-youth-gender-affirming-surgeries-could-disrupt-other-forms-healthcare",
+          "title": "Ballot measure to ban youth gender-affirming surgeries could disrupt other forms of healthcare (Colorado Newsline via News From The States)",
+          "date": "2026-10-02",
+          "quote": "The Colorado Medical Society’s board voted to oppose Proposition 135 because it would interfere with the independent clinical decisions physicians make based on the needs of each patient, according to board president Dr. Sean Pauzauskie.",
+          "via": "browser"
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "No one knows how many Colorado minors have these surgeries. The national figure comes from 2019 claims data, and some commenters told Legislative Council it is out of date.",
+      "sources": [
+        {
+          "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+          "title": "2026 Colorado State Ballot Information Booklet (Blue Book) (Colorado Legislative Council Staff)",
+          "date": "2026-09-10",
+          "quote": "It is unknown how many minors receive gender- and sex-based surgeries that would be prohibited under the measure."
+        },
+        {
+          "url": "https://www.leg.colorado.gov/ballots/prohibit-surgery-on-minors-in-response-to-perception-of-sex-or-gender-2/files/final-draft-packet",
+          "title": "Final draft packet: Proposition 135 (Colorado Legislative Council Staff)",
+          "date": "2026-10-16",
+          "quote": "Using the Harvard study from 2019 is way out of date for this rapidly changing medical practice.",
+          "date_basis": "accessed"
+        }
+      ]
+    },
+    {
+      "text": "How the \"perception of sex or gender\" wording would work is unclear, providers say. A December 2025 federal proposal would also bar hospitals that take Medicare or Medicaid from these procedures for children; its final form is unknown.",
+      "sources": [
+        {
+          "url": "https://www.newsfromthestates.com/article/ballot-measure-ban-youth-gender-affirming-surgeries-could-disrupt-other-forms-healthcare",
+          "title": "Ballot measure to ban youth gender-affirming surgeries could disrupt other forms of healthcare (Colorado Newsline via News From The States)",
+          "date": "2026-10-02",
+          "quote": "Jax Gonzalez, political director at One Colorado, said providers are afraid the measure would make the provision of care too complex for them to know what is permitted.",
+          "via": "browser"
+        },
+        {
+          "url": "https://www.federalregister.gov/documents/2025/12/19/2025-23465/medicare-and-medicaid-programs-hospital-condition-of-participation-prohibiting-sex-rejecting",
+          "title": "Medicare and Medicaid Programs; Hospital Condition of Participation: Prohibiting Sex-Rejecting Procedures for Children (Federal Register)",
+          "date": "2025-12-19",
+          "quote": "The revisions to the requirements would prohibit hospitals from performing sex-rejecting procedures on children."
+        }
+      ]
+    }
+  ],
+  "measure": "proposition-135",
+  "last_checked": "2026-10-16",
+  "research_notes": "Claude in Chrome was not connected, so I used the built-in Browser pane (my own tab) for pages that blocked curl (403/Cloudflare); sources marked via browser: AP/WTTW, CPR News, Colorado Newsline via newsfromthestates.com. I checked each of their quotes against the rendered page text in the browser afterward (all matched). The Legislative Council packet quote is a public comment by a private citizen (Kevin Lundberg), not an LCS finding; undated, so accessed date used. Federal Register: the Aug 13, 2026 Medicaid/CHIP final rule is effective Oct 13, 2026 but says it will not be enforced against court orders; the hospital rule is only a Dec 2025 proposal in the Federal Register search I ran, no final rule seen. The Colorado Supreme Court case concerns hormones and puberty blockers, not surgery; reviewer should keep that distinction. No Colorado-specific count of minors' surgeries exists in anything I read. Web search budget ran out mid-session, so I did not gather a source on how many states ban youth gender care. The Colorado Supreme Court ruling and the Children's Hospital case are about hormones and puberty blockers, not surgery."
+}
