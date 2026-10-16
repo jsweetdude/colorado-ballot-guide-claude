@@ -1,4 +1,6 @@
 ---
+// Landing page. Layout adapted from the sibling Codex build (headline with the
+// two dates beside it, above the fold), with this guide's own content.
 import Base from '../layouts/Base.astro';
 import { SITE, DATES, LINKS } from '../lib/site';
 import statements from '../data/statements.json';
@@ -7,30 +9,74 @@ import racesData from '../data/races.json';
 const measureCount = 14;
 const tierA = racesData.races.filter((r) => r.tier === 'A');
 const houseCount = tierA.filter((r) => r.id.startsWith('us-house')).length;
+const CALENDAR = 'https://www.coloradosos.gov/pubs/elections/calendars/2026ElectionCalendar.pdf#page=12';
+const arrow = '<svg aria-hidden="true" viewBox="0 0 20 20" width="18" height="18"><path d="M4 10h11m-4.5-4.5L15 10l-4.5 4.5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>';
 ---
-<Base title={SITE.name} nav="home">
-  <section class="page-head" aria-labelledby="h1">
-    <p class="eyebrow">Colorado general election · November 3, 2026</p>
-    <h1 id="h1">Colorado Ballot Guide</h1>
-    <p class="lede">A free, nonpartisan guide for the ballot you are holding now. Answer a short interview, then see each race and measure explained, with every candidate's position linked to its source.</p>
-    <div class="pc-btn-row">
-      <a class="pc-btn pc-btn--primary pc-btn-lg" href="/ballot/">Start</a>
-      <a class="pc-btn pc-btn-lg" href="/races/">Browse races without the interview</a>
+<Base title={SITE.name} nav="home" wide>
+  <section class="landing-hero" aria-labelledby="h1">
+    <div class="hero-copy">
+      <p class="eyebrow">Colorado general election · November 3, 2026</p>
+      <h1 id="h1">A little clarity<br /> for a long ballot.</h1>
+      <p class="hero-lead">Make sense of Colorado's November 2026 election.</p>
+      <p class="hero-description">Answer {statements.length} short statements about the issues. See how each candidate's votes, bills and public statements line up with your answers, and what each of the {measureCount} statewide measures would change. Every claim links to its source.</p>
+      <div class="hero-actions">
+        <a class="pc-btn pc-btn--primary hero-cta" href="/ballot/" id="hero-start"><span>Start with your ballot</span> <Fragment set:html={arrow} /></a>
+        <span class="small muted" id="hero-hint">{statements.length} statements · Skip any · Go at your own pace</span>
+      </div>
+      <p class="hero-secondary">
+        <a href="/races/" id="hero-browse"><span>Or browse every race without the interview</span> <Fragment set:html={arrow} /></a>
+      </p>
+      <p class="privacy-line small muted">
+        <svg aria-hidden="true" viewBox="0 0 20 20" width="16" height="16"><rect x="4.5" y="9" width="11" height="8" rx="1.6" fill="none" stroke="currentColor" stroke-width="1.5" /><path d="M7 9V6.5a3 3 0 0 1 6 0V9" fill="none" stroke="currentColor" stroke-width="1.5" /></svg>
+        Your answers stay on your device. Free. No ads. No voting recommendations.
+      </p>
+    </div>
+
+    <aside class="pc-card election-sheet" aria-labelledby="sheet-h">
+      <div class="sheet-head">
+        <h2 id="sheet-h">Your November ballot</h2>
+        <span class="small muted">Colorado · General election</span>
+      </div>
+      <div class="deadline">
+        <span class="pc-badge pc-badge--due"><time datetime={DATES.electionDay.iso}>Nov 3</time></span>
+        <div>
+          <strong>Election Day</strong>
+          <p>Ballots must be <em>received</em> by 7 p.m. Mountain Time. Postmarks do not count.</p>
+        </div>
+      </div>
+      <div class="deadline">
+        <span class="pc-badge pc-badge--due"><time datetime={DATES.registerBy.iso}>Oct 26</time></span>
+        <div>
+          <strong>Plan ahead for mail</strong>
+          <p>Last day to register or update your address and still get a ballot in the mail. County clerks also suggest mailing your ballot back by this date.</p>
+        </div>
+      </div>
+      <p class="sheet-note small">After October 26, use an official drop box or vote center. You can still register and vote in person through Election Day.</p>
+      <ul class="sheet-links small">
+        <li><a href={LINKS.govote}>GoVoteColorado.gov: registration, your sample ballot and voting locations</a></li>
+        <li><a href={CALENDAR}>Secretary of State's 2026 election calendar</a></li>
+        <li><a href="https://www.larimer.gov/election">Larimer County Clerk: 2026 election dates</a></li>
+      </ul>
+    </aside>
+  </section>
+
+  <section class="landing-band" aria-labelledby="how-h">
+    <div>
+      <h2 id="how-h">From questions<br /> to understanding.</h2>
+      <p class="muted">Three steps. Skip anything you like.</p>
+    </div>
+    <div>
+      <ol class="landing-steps">
+        <li><span class="step-number" aria-hidden="true">1</span><div><h3>Find your races</h3><p>Look up your address, pick your districts by hand, or skip it and see the statewide races. Your official sample ballot is always the final word.</p></div></li>
+        <li><span class="step-number" aria-hidden="true">2</span><div><h3>Answer {statements.length} statements</h3><p>Taxes, energy, immigration, abortion, guns, elections and more. Say how much you agree and how much each matters. Every statement has a "More info" panel on what it means and what is at stake.</p></div></li>
+        <li><span class="step-number" aria-hidden="true">3</span><div><h3>See how the candidates line up</h3><p>Each candidate's sourced record is compared with your answers, with a confidence level and the number of questions it rests on. Each measure shows which way your own answers lean, in the official Blue Book's words.</p></div></li>
+      </ol>
+      <p class="small muted">Covers the U.S. Senate, governor, attorney general, secretary of state, treasurer, all {houseCount} U.S. House districts, the {measureCount} statewide measures, CU regents and the State Board of Education.</p>
     </div>
   </section>
 
-  <section class="pc-card" aria-labelledby="how-h">
-    <h2 id="how-h">How it works</h2>
-    <ol class="steps">
-      <li><span>You answer {statements.length} plain-language statements about taxes, immigration, abortion, guns, energy, elections and more, and say how much each one matters to you.</span></li>
-      <li><span>The guide compares your answers with each candidate's recorded votes, bills and public statements, and shows how closely each one lines up, with a confidence level and the number of questions it is based on.</span></li>
-      <li><span>It explains all {measureCount} statewide measures in the official Blue Book's words and shows which way your own answers lean on each.</span></li>
-    </ol>
-    <p class="small muted">Covers the U.S. Senate, governor, attorney general, secretary of state, treasurer, all {houseCount} U.S. House districts, the {measureCount} statewide measures, CU regents and the State Board of Education. Add your address to see your districts, or skip it and see the statewide races.</p>
-  </section>
-
-  <section class="pc-card" aria-labelledby="not-h">
-    <h2 id="not-h">What it does not do</h2>
+  <section class="landing-band" aria-labelledby="not-h">
+    <h2 id="not-h">What it does not do.</h2>
     <ul class="not-list">
       <li><strong>It does not store your answers.</strong> They stay in this browser on this device. Nothing is sent anywhere except the street address, if you choose to look it up, and that is not saved or logged.</li>
       <li><strong>It does not recommend anyone.</strong> It shows how your answers line up with what each candidate has said and done. The choice is yours, and many voters weigh things no quiz can measure.</li>
@@ -38,23 +84,8 @@ const houseCount = tierA.filter((r) => r.id.startsWith('us-house')).length;
     </ul>
   </section>
 
-  <section class="stack" aria-labelledby="dates-h">
-    <h2 id="dates-h">Two dates</h2>
-    <div class="dates">
-      <div class="date-card">
-        <span class="date-when"><time datetime={DATES.registerBy.iso}>{DATES.registerBy.label}</time></span>
-        <p>Last day to register or update your address and still get a ballot in the mail. You can still register after this, through Election Day, but you will need to vote in person at a vote center. Also the last day county clerks recommend mailing your ballot back; after that, use a drop box or vote center. Postmarks do not count.</p>
-      </div>
-      <div class="date-card">
-        <span class="date-when"><time datetime={DATES.electionDay.iso}>{DATES.electionDay.label}</time></span>
-        <p>Election Day. Ballots must be <em>received</em> by 7 p.m. Drop boxes and vote centers are open until then, and you can register and vote in person the same day.</p>
-      </div>
-    </div>
-    <p class="small muted">Dates from the <a href="https://www.larimer.gov/election">Larimer County Clerk's 2026 election page</a> and the Colorado Secretary of State. Check your own county clerk for drop box locations.</p>
-  </section>
-
-  <section class="pc-card" aria-labelledby="official-h">
-    <h2 id="official-h">Official sources</h2>
+  <section class="landing-band" aria-labelledby="official-h">
+    <h2 id="official-h">Official sources.</h2>
     <ul class="stack-sm">
       <li><a href={LINKS.govote}>GoVoteColorado.gov</a>: register, update your address, check your registration and see your official sample ballot.</li>
       <li><a href={LINKS.bluebook}>The 2026 Blue Book</a>: the legislature's nonpartisan analysis of every statewide measure, mailed to every voter household.</li>
@@ -62,3 +93,23 @@ const houseCount = tierA.filter((r) => r.id.startsWith('us-house')).length;
     </ul>
   </section>
 </Base>
+
+<script>
+  // Returning visitors pick up where they left off.
+  import { loadAnswers } from '../lib/store';
+  const answered = Object.values(loadAnswers()).filter((a) => a && a.value != null).length;
+  if (answered > 0) {
+    const start = document.querySelector<HTMLAnchorElement>('#hero-start');
+    const browse = document.querySelector<HTMLAnchorElement>('#hero-browse');
+    const hint = document.getElementById('hero-hint');
+    if (start) {
+      start.href = '/interview/';
+      start.querySelector('span')!.textContent = 'Continue the interview';
+    }
+    if (browse) {
+      browse.href = '/results/';
+      browse.querySelector('span')!.textContent = 'Or see your results so far';
+    }
+    if (hint) hint.textContent = `${answered} answered so far · saved in this browser`;
+  }
+</script>

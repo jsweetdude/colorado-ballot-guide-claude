@@ -41,7 +41,7 @@ const links = [
   <body class="pc">
     <a class="skip-link" href="#main">Skip to main content</a>
     <header class="site-header">
-      <div class="wrap header-row">
+      <div class:list={['wrap', 'header-row', { 'wrap--wide': wide }]}>
         <a class="brand" href="/" aria-current={nav === 'home' ? 'page' : undefined}>
           <svg width="22" height="22" viewBox="0 0 22 22" aria-hidden="true" focusable="false"><rect x="2.5" y="4.5" width="17" height="13" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M6 9.5h10M6 13h6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
           <span>{SITE.name}</span>
@@ -59,7 +59,7 @@ const links = [
       <slot />
     </main>
     <footer class="site-footer">
-      <div class="wrap footer-grid">
+      <div class:list={['wrap', 'footer-grid', { 'wrap--wide': wide }]}>
         <p>Built by John Sweet as a personal project. No money was spent. Not affiliated with any campaign, party or organization.</p>
         <p>Candidate and measure data last checked {DATA_LAST_CHECKED_LABEL}. <a href={SITE.issues}>Report an error</a>. Code MIT, data CC BY 4.0.</p>
         <p>Official information: <a href="https://www.govotecolorado.gov/">GoVoteColorado.gov</a> · <a href="https://leg.colorado.gov/bluebook">2026 Blue Book</a></p>
