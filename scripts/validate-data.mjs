@@ -2,7 +2,8 @@
 // Runs before every build (npm "prebuild"); any error fails the build.
 import { readFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
-import { candidateSchema, measureSchema, racesSchema, statementSchema } from './schema.mjs';
+import { existsSync } from 'node:fs';
+import { candidateSchema, explainerSchema, measureSchema, racesSchema, statementSchema } from './schema.mjs';
 
 const root = new URL('../src/data/', import.meta.url).pathname;
 const errors = [];
@@ -57,6 +58,25 @@ for (const s of statements)
       else console.warn(`warning: ${s.id} links to ${link.id}, which has no file yet`);
     }
 
+// Explainers: optional per statement, but each must match a statement and its tied measure.
+let explainers = 0;
+if (existsSync(join(root, 'explainers')))
+  for (const f of readdirSync(join(root, 'explainers')).filter((x) => x.endsWith('.json'))) {
+    const file = `explainers/${f}`;
+    const e = load(file);
+    if (!e) continue;
+    check(explainerSchema, e, file);
+    explainers++;
+    if (`${e.id}.json` !== f) fail(file, `id ${e.id} does not match file name`);
+    const st = statements.find((s) => s.id === e.id);
+    if (!st) fail(file, 'no statement with this id');
+    else {
+      const tied = st.measures.map((m) => m.id);
+      if (e.measure && !tied.includes(e.measure)) fail(file, `measure ${e.measure} is not tied to this statement`);
+      if (!e.measure && tied.length) fail(file, `statement is tied to ${tied.join(', ')} but measure is null`);
+    }
+  }
+
 const candidateFiles = readdirSync(join(root, 'candidates')).filter((f) => f.endsWith('.json'));
 const seen = new Set();
 let positions = 0;
@@ -91,5 +111,5 @@ if (errors.length) {
   process.exit(1);
 }
 console.log(
-  `Data OK: ${statements.length} statements, ${races.races.length} races, ${candidateFiles.length} candidates, ${positions} sourced positions, ${measureFiles.length} measures.`,
+  `Data OK: ${statements.length} statements, ${races.races.length} races, ${candidateFiles.length} candidates, ${positions} sourced positions, ${measureFiles.length} measures, ${explainers} explainers.`,
 );

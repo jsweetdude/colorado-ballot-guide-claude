@@ -1,7 +1,7 @@
 // Fetches every URL cited in the data and reports the ones that fail.
 // Sites that block automated requests (403, 429) are reported separately; they
 // usually work in a browser.
-import { readFileSync, readdirSync } from 'node:fs';
+import { existsSync, readFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
 
 const data = new URL('../src/data/', import.meta.url).pathname;
@@ -10,8 +10,8 @@ const urls = new Map();
 const add = (u, where) => {
   if (typeof u === 'string' && /^https?:\/\//.test(u)) urls.set(u, [...(urls.get(u) ?? []), where]);
 };
-for (const dir of ['candidates', 'measures'])
-  for (const f of readdirSync(join(data, dir)).filter((x) => x.endsWith('.json'))) {
+for (const dir of ['candidates', 'measures', 'explainers'])
+  for (const f of existsSync(join(data, dir)) ? readdirSync(join(data, dir)).filter((x) => x.endsWith('.json')) : []) {
     const walk = (v) => {
       if (Array.isArray(v)) v.forEach(walk);
       else if (v && typeof v === 'object') Object.entries(v).forEach(([k, x]) => (/url|website/.test(k) ? add(x, `${dir}/${f}`) : walk(x)));

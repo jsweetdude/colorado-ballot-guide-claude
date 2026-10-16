@@ -197,3 +197,23 @@ noscript .pc-callout { margin-block: 8px; }
 @media print {
   .site-header nav, .skip-link, .iv-nav, .no-print { display: none !important; }
 }
+
+/* "More info" explainers on the interview */
+.iv-info { margin-top: -4px; }
+.iv-info-btn { display: inline-flex; align-items: center; gap: 6px; padding-inline: 10px; }
+wa-dialog.explainer { --width: min(46rem, calc(100vw - 32px)); }
+wa-dialog.explainer::part(title) { font-size: 20px; font-weight: 600; color: var(--pc-heading, var(--pc-ink)); }
+.explainer-body { display: grid; gap: 22px; line-height: 1.55; }
+.explainer-body h3 { font-size: 17px; margin: 0 0 6px; color: var(--pc-heading, var(--pc-ink)); }
+.explainer-body h4 { font-size: 15px; margin: 12px 0 4px; font-weight: 600; }
+.explainer-body p { margin: 0; }
+.explainer-plain { font-size: 17px; }
+.explainer-pair { display: grid; gap: 16px; }
+@media (min-width: 640px) { .explainer-pair { grid-template-columns: 1fr 1fr; } }
+.explainer-pair > section { padding: 12px 14px; border: 1px solid var(--pc-border); border-radius: 10px; background: var(--pc-fill, transparent); }
+.explainer-list { margin: 0; padding-left: 1.1em; display: grid; gap: 8px; }
+.stake + .stake { margin-top: 4px; }
+.refs { white-space: nowrap; }
+.ref { font-size: 0.82em; text-decoration: none; padding: 0 1px; }
+.ref:hover, .ref:focus-visible { text-decoration: underline; }
+.explainer-sources ol { margin: 0 0 8px; padding-left: 1.5em; display: grid; gap: 4px; font-size: var(--pc-fs-small, 14px); overflow-wrap: anywhere; }

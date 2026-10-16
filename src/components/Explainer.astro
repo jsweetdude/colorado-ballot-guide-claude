@@ -1,0 +1,117 @@
+---
+// The "More info" panel for one interview statement: what the question means,
+// where things stand, what is at stake by area, each side's case, what is
+// uncertain, and numbered links to every source. Rendered as a wa-dialog that
+// the interview page opens from a button under the statement.
+import { measureLabel } from '../lib/labels';
+import { formatDate } from '../lib/site';
+
+interface Src { url: string; title: string; date: string | null; date_basis?: string; quote: string; via?: string }
+interface Item { text: string; sources: Src[]; area?: string }
+interface Explainer {
+  id: string;
+  plain: string;
+  agree_means: string;
+  disagree_means: string;
+  now: Item[];
+  stakes: (Item & { area: string })[];
+  case_for: Item[];
+  case_against: Item[];
+  unknowns: Item[];
+  measure: string | null;
+  last_checked: string;
+}
+interface Props { e: Explainer; topic: string }
+const { e, topic } = Astro.props;
+
+// Number sources in the order a reader meets them.
+const order: Src[] = [];
+const num = (s: Src) => {
+  let i = order.findIndex((x) => x.url === s.url);
+  if (i < 0) {
+    order.push(s);
+    i = order.length - 1;
+  }
+  return i + 1;
+};
+[...e.now, ...e.stakes, ...e.case_for, ...e.case_against, ...e.unknowns].forEach((it) => it.sources.forEach(num));
+const areas = [...new Set(e.stakes.map((s) => s.area))];
+const when = (s: Src) => {
+  if (!s.date) return '';
+  if (s.date_basis === 'year') return s.date.slice(0, 4);
+  if (s.date_basis === 'accessed') return `undated, read ${formatDate(s.date)}`;
+  return formatDate(s.date);
+};
+const refs = (it: Item) => [...new Set(it.sources.map(num))];
+const title = `${topic}${e.measure ? ` · ${measureLabel(e.measure)}` : ''}`;
+const forHead = e.measure ? 'Supporters say' : 'The case for';
+const againstHead = e.measure ? 'Opponents say' : 'The case against';
+---
+<wa-dialog id={`ex-${e.id}`} class="explainer" label={`More about: ${title}`} light-dismiss>
+  <div class="explainer-body">
+    <p class="explainer-plain">{e.plain}</p>
+
+    <div class="explainer-pair">
+      <section><h3>If you agree</h3><p>{e.agree_means}</p></section>
+      <section><h3>If you disagree</h3><p>{e.disagree_means}</p></section>
+    </div>
+
+    <section>
+      <h3>Where things stand</h3>
+      <ul class="explainer-list">
+        {e.now.map((it) => <li>{it.text} <span class="refs">{refs(it).map((n) => <a class="ref" href={order[n - 1].url} target="_blank" rel="noopener noreferrer" aria-label={`Source ${n}: ${order[n - 1].title} (opens in a new tab)`}>[{n}]</a>)}</span></li>)}
+      </ul>
+    </section>
+
+    <section>
+      <h3>What's at stake</h3>
+      {areas.map((a) => (
+        <div class="stake">
+          <h4>{a}</h4>
+          <ul class="explainer-list">
+            {e.stakes.filter((s) => s.area === a).map((it) => <li>{it.text} <span class="refs">{refs(it).map((n) => <a class="ref" href={order[n - 1].url} target="_blank" rel="noopener noreferrer" aria-label={`Source ${n}: ${order[n - 1].title} (opens in a new tab)`}>[{n}]</a>)}</span></li>)}
+          </ul>
+        </div>
+      ))}
+    </section>
+
+    <div class="explainer-pair">
+      <section>
+        <h3>{forHead}</h3>
+        <ul class="explainer-list">
+          {e.case_for.map((it) => <li>{it.text} <span class="refs">{refs(it).map((n) => <a class="ref" href={order[n - 1].url} target="_blank" rel="noopener noreferrer" aria-label={`Source ${n}: ${order[n - 1].title} (opens in a new tab)`}>[{n}]</a>)}</span></li>)}
+        </ul>
+      </section>
+      <section>
+        <h3>{againstHead}</h3>
+        <ul class="explainer-list">
+          {e.case_against.map((it) => <li>{it.text} <span class="refs">{refs(it).map((n) => <a class="ref" href={order[n - 1].url} target="_blank" rel="noopener noreferrer" aria-label={`Source ${n}: ${order[n - 1].title} (opens in a new tab)`}>[{n}]</a>)}</span></li>)}
+        </ul>
+      </section>
+    </div>
+
+    {e.unknowns.length > 0 && (
+      <section>
+        <h3>Still uncertain</h3>
+        <ul class="explainer-list explainer-list--unknowns">
+          {e.unknowns.map((it) => <li>{it.text} {it.sources.length > 0 && <span class="refs">{refs(it).map((n) => <a class="ref" href={order[n - 1].url} target="_blank" rel="noopener noreferrer" aria-label={`Source ${n}: ${order[n - 1].title} (opens in a new tab)`}>[{n}]</a>)}</span>}</li>)}
+        </ul>
+      </section>
+    )}
+
+    {e.measure && (
+      <p><a href={`/measures/${e.measure}/`} target="_blank" rel="noopener">Read the full Blue Book analysis of {measureLabel(e.measure)}<span class="visually-hidden"> (opens in a new tab)</span></a></p>
+    )}
+
+    <section class="explainer-sources">
+      <h3>Sources</h3>
+      <ol>
+        {order.map((s) => (
+          <li><a href={s.url} target="_blank" rel="noopener noreferrer">{s.title}<span class="visually-hidden"> (opens in a new tab)</span></a>{when(s) && <span class="muted"> · {when(s)}</span>}</li>
+        ))}
+      </ol>
+      <p class="small muted">Every line above links to the page it comes from. Checked {formatDate(e.last_checked)}. This is background, not a recommendation: agreeing and disagreeing are both reasonable answers.</p>
+    </section>
+  </div>
+  <button slot="footer" class="pc-btn pc-btn--primary" type="button" data-dialog="close">Back to the question</button>
+</wa-dialog>

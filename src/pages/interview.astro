@@ -2,6 +2,11 @@
 import Base from '../layouts/Base.astro';
 import statements from '../data/statements.json';
 import { AXIS_LABEL, LIKERT_LABEL, measureLabel } from '../lib/labels';
+import Explainer from '../components/Explainer.astro';
+
+// "More info" explainers, one per statement where written (src/data/explainers/<id>.json).
+const explainerModules = import.meta.glob<any>('../data/explainers/*.json', { eager: true, import: 'default' });
+const explainers = new Map(Object.values(explainerModules).map((e) => [e.id, e]));
 
 const total = statements.length;
 const likert = [1, 2, 3, 4, 5];
@@ -40,6 +45,14 @@ const importance = [
           </div>
           <fieldset class="plain stack">
             <legend><h2 class="iv-statement" id={`st-${s.id}`} tabindex="-1"><span class="visually-hidden">Statement {i + 1} of {total}: </span>{s.text}</h2></legend>
+            {explainers.has(s.id) && (
+              <div class="iv-info">
+                <button type="button" class="pc-btn pc-btn--ghost iv-info-btn" data-explainer={s.id} aria-haspopup="dialog">
+                  <svg aria-hidden="true" viewBox="0 0 20 20" width="18" height="18"><circle cx="10" cy="10" r="8.25" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M10 9v5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><circle cx="10" cy="6.2" r="1" fill="currentColor"/></svg>
+                  More info<span class="visually-hidden"> about this statement: what it means and what is at stake</span>
+                </button>
+              </div>
+            )}
             <div class="likert">
               {likert.map((v) => (
                 <label class="likert-opt">
@@ -78,10 +91,12 @@ const importance = [
       </div>
       <p class="small"><button type="button" class="pc-btn pc-btn--ghost" id="iv-reset">Start over and clear my answers</button></p>
     </form>
+    {statements.filter((s) => explainers.has(s.id)).map((s) => <Explainer e={explainers.get(s.id)} topic={s.topic} />)}
   </div>
 </Base>
 
 <script>
+  import '@awesome.me/webawesome/dist/components/dialog/dialog.js';
   import statements from '../data/statements.json';
   import { LIKERT_LABEL, IMPORTANCE_LABEL } from '../lib/labels';
   import { loadAnswers, saveAnswers, saveStep, clearAnswers } from '../lib/store';
@@ -219,6 +234,14 @@ const importance = [
     form.reset();
     go(0);
   });
+
+  // "More info" buttons open that statement's explainer dialog; the dialog returns focus to the button on close.
+  document.querySelectorAll<HTMLButtonElement>('[data-explainer]').forEach((b) =>
+    b.addEventListener('click', () => {
+      const d = document.getElementById(`ex-${b.dataset.explainer}`) as (HTMLElement & { open: boolean }) | null;
+      if (d) d.open = true;
+    }),
+  );
 
   const initial = fromHash();
   if (initial != null) show(initial, false);

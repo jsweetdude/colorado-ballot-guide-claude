@@ -163,3 +163,45 @@ export const measureSchema = z
     research_notes: z.string().optional(),
   })
   .strict();
+
+// "More info" explainers for interview statements (src/data/explainers/<id>.json).
+// Every sourced item links to a fetched page with a verbatim supporting quote,
+// which scripts/verify-explainers.mjs re-checks.
+export const EXPLAINER_AREAS = [
+  'Your money',
+  'The economy',
+  'The environment',
+  'Public services',
+  'Health',
+  'Safety',
+  'Rights and freedoms',
+  'Elections',
+  'How government works',
+];
+const explainerSource = z
+  .object({
+    url,
+    title: z.string().min(1),
+    date: date.nullable(),
+    date_basis: z.enum(['exact', 'month', 'year', 'accessed']).optional(),
+    quote: z.string().min(15).max(600),
+    via: z.string().optional(),
+  })
+  .strict();
+const explainerItem = z.object({ text: z.string().min(10), sources: z.array(explainerSource).min(1) }).strict();
+export const explainerSchema = z
+  .object({
+    id: z.string().regex(/^[a-z0-9-]+$/),
+    plain: z.string().min(10),
+    agree_means: z.string().min(10),
+    disagree_means: z.string().min(10),
+    now: z.array(explainerItem).min(1),
+    stakes: z.array(explainerItem.extend({ area: z.enum(EXPLAINER_AREAS) }).strict()).min(2),
+    case_for: z.array(explainerItem).min(1),
+    case_against: z.array(explainerItem).min(1),
+    unknowns: z.array(z.object({ text: z.string().min(10), sources: z.array(explainerSource) }).strict()),
+    measure: z.string().nullable(),
+    last_checked: date,
+    research_notes: z.string().optional(),
+  })
+  .strict();
