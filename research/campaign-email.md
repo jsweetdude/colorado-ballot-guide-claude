@@ -8,7 +8,7 @@ Written 2026-10-16 for John to send himself. One message per campaign; the addre
 
 Hello,
 
-I run the Colorado Ballot Guide (https://colorado-ballot-guide-claude.vercel.app), a free, nonpartisan voter guide for the November 3 general election. It shows voters how closely each candidate's sourced positions line up with their own answers to 25 statements, and it links every position to a public source.
+I run the Colorado Ballot Guide (https://colorado-ballot-guide.vercel.app), a free, nonpartisan voter guide for the November 3 general election. It shows voters how closely each candidate's sourced positions line up with their own answers to 25 statements, and it links every position to a public source.
 
 Right now the guide knows more about candidates with voting records than about everyone else, which is not fair to challengers. I would like to publish your campaign's own answers so voters see your positions in your words.
 

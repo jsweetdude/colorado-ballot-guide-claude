@@ -1,6 +1,6 @@
 # Report: Colorado Ballot Guide
 
-**Production URL: https://colorado-ballot-guide-claude.vercel.app**
+**Production URL: https://colorado-ballot-guide.vercel.app**
 
 Built and shipped in one session on October 14, 2026 (Mountain time), and extended in a gap-fill session on October 15 and 16 (see "Gap fill" below), from the brief in `brief/BUILD-BRIEF.md` (the `brief/` folder is kept out of the repository; see DECISIONS.md item 2). Repository: `jsweetdude/colorado-ballot-guide-claude`, branch `main`. Every judgment call is in `DECISIONS.md`.
 

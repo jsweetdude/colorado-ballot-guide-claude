@@ -2,7 +2,7 @@
 
 A free, nonpartisan web app for Colorado's November 3, 2026 general election. A visitor answers 25 statements about economic, social and governance questions; the app explains their ballot race by race and measure by measure, shows how closely each candidate's sourced positions line up with their answers (with a confidence level and "based on N of M questions"), and links every claim to its source.
 
-Live: https://colorado-ballot-guide-claude.vercel.app
+Live: https://colorado-ballot-guide.vercel.app
 
 Built by John Sweet as a personal project. No money was spent. Not affiliated with any campaign, party or organization.
 
