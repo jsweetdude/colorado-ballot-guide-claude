@@ -208,6 +208,7 @@ const payload = JSON.stringify({ ...data, senateUp: geo.state_senate_on_ballot_2
           </tr>`;
         }
         html += `</tbody></table></div>`;
+        html += `<p class="small muted confidence-note">Confidence is how much evidence the match percentage rests on, not how good the match is. A low match can have high confidence. <a href="/about/#confidence">How confidence works</a>.</p>`;
         if (unranked.length) {
           html += `<div class="unranked"><h4>Not enough known to rank</h4>
             <p class="small muted">These candidates have a sourced position on fewer than a third of the questions you answered.</p>
